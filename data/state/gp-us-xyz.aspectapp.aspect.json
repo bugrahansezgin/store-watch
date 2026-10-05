@@ -6,12 +6,12 @@
  "developer": "Arch Platforms, Inc",
  "url": "https://play.google.com/store/apps/details?id=xyz.aspectapp.aspect&gl=us",
  "icon": "https://play-lh.googleusercontent.com/_7WzBmOaaoJmOzSJS-KAmDknjH5kS2c-BpUjaItgPYPRj5RF7IzQwLPYYDLbH1Dez_MqqkL5xZRFLez2y4am=w512",
- "version": "1.116",
+ "version": "1.117",
  "releaseNotes": "",
- "versionDate": "2026-09-30T11:00:36+00:00",
+ "versionDate": "2026-10-05T10:06:26+00:00",
  "price": "Free · IAP $1.99 - $99.99 per item",
  "rating": 4.21,
- "ratingCount": 19626,
+ "ratingCount": 19642,
  "installs": "500,000+",
  "genre": "Social",
  "descriptionHash": "a764e6fb85e3",
@@ -35,6 +35,6 @@
  ],
  "ipadScreenshots": [],
  "screenshotSource": "play",
- "lastChecked": "2026-10-05T07:35:15+00:00",
+ "lastChecked": "2026-10-05T12:15:32+00:00",
  "trackedSince": "2026-09-30T07:14:09+00:00"
 }

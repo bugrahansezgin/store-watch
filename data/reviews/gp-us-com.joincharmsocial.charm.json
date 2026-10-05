@@ -1,39 +1,50 @@
 {
  "stats": {
-  "total": 21,
+  "total": 22,
   "avg": 4.05,
   "dist": {
    "1": 3,
    "2": 1,
    "3": 1,
-   "4": 3,
+   "4": 4,
    "5": 13
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 1,
+   "avg": 4.0,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
-    "4": 0,
+    "4": 1,
     "5": 0
    }
   },
   "d30": {
-   "count": 13,
+   "count": 14,
    "avg": 4.0,
    "dist": {
     "1": 2,
     "2": 0,
     "3": 1,
-    "4": 3,
+    "4": 4,
     "5": 7
    }
   },
-  "updatedAt": "2026-10-05T07:35:55+00:00"
+  "updatedAt": "2026-10-05T12:15:52+00:00"
  },
  "reviews": [
+  {
+   "id": "f1743333-7b45-40e2-89da-4acc0fc0fba6",
+   "rating": 4,
+   "title": "",
+   "body": "maybe more chat unlimited even not a paid member same with posts .",
+   "author": "Steph",
+   "version": "0.2.2610010",
+   "date": "2026-10-04T07:52:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "97a9e89d-4c90-44d2-8c2b-042a0087c140",
    "rating": 5,

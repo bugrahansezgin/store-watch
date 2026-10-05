@@ -1,39 +1,61 @@
 {
  "stats": {
-  "total": 535,
+  "total": 537,
   "avg": 3.2,
   "dist": {
    "1": 135,
    "2": 70,
    "3": 80,
    "4": 54,
-   "5": 196
+   "5": 198
   },
   "d7": {
    "count": 29,
-   "avg": 3.45,
+   "avg": 3.66,
    "dist": {
     "1": 7,
-    "2": 4,
+    "2": 2,
     "3": 1,
     "4": 3,
-    "5": 14
+    "5": 16
    }
   },
   "d30": {
-   "count": 149,
-   "avg": 3.31,
+   "count": 151,
+   "avg": 3.33,
    "dist": {
     "1": 33,
     "2": 22,
     "3": 20,
     "4": 14,
-    "5": 60
+    "5": 62
    }
   },
-  "updatedAt": "2026-10-05T07:35:55+00:00"
+  "updatedAt": "2026-10-05T12:15:52+00:00"
  },
  "reviews": [
+  {
+   "id": "4a9d682a-716a-4364-8240-105ce63080f3",
+   "rating": 5,
+   "title": "",
+   "body": "five star it cool",
+   "author": "jotham wenas",
+   "version": "1.116",
+   "date": "2026-10-04T10:35:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "87558bd8-09c8-4d09-90e5-cdb4e6d566d0",
+   "rating": 5,
+   "title": "",
+   "body": "it's weird talking to ai generated stuff but i guess It fills up some of our delulu sides, right?",
+   "author": "Evelyn Vazquez",
+   "version": "1.116",
+   "date": "2026-10-04T09:18:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "b8ba9c8c-aceb-4b85-92c8-e8719852ae76",
    "rating": 5,

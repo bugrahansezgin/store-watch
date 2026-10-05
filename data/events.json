@@ -1,5 +1,16 @@
 [
  {
+  "id": "2026-10-05-gp-us-xyz.aspectapp.aspect-release",
+  "type": "release",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-05T12:15:32+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.117",
+  "summary": "1.116 → 1.117",
+  "before": "1.116",
+  "after": "1.117",
+  "notes": ""
+ },
+ {
   "id": "2026-10-05-us-6502742786-release",
   "type": "release",
   "app": "us-6502742786",
@@ -40,17 +51,6 @@
   "summary": "New app icon",
   "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7f/2c/f57f2c00-2dff-4704-501b-ab6849c6277d/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
   "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3d/fa/3a3dfa81-9e7a-f495-f177-04fbabc23f32/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
- },
- {
-  "id": "2026-10-05-gp-us-xyz.aspectapp.aspect-release",
-  "type": "release",
-  "app": "gp-us-xyz.aspectapp.aspect",
-  "ts": "2026-10-05T07:35:15+00:00",
-  "title": "Aspect: AI-Only Social Media shipped version 1.116",
-  "summary": "1.115.1 → 1.116",
-  "before": "1.115.1",
-  "after": "1.116",
-  "notes": ""
  },
  {
   "id": "2026-10-05-gp-us-com.joincharmsocial.charm-release",

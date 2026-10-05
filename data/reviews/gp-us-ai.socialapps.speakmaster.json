@@ -1,39 +1,160 @@
 {
  "stats": {
-  "total": 701,
-  "avg": 2.91,
+  "total": 712,
+  "avg": 2.92,
   "dist": {
-   "1": 242,
-   "2": 73,
-   "3": 100,
+   "1": 244,
+   "2": 75,
+   "3": 103,
    "4": 76,
-   "5": 210
+   "5": 214
   },
   "d7": {
-   "count": 243,
+   "count": 247,
    "avg": 2.92,
    "dist": {
     "1": 81,
-    "2": 23,
-    "3": 43,
-    "4": 27,
-    "5": 69
+    "2": 25,
+    "3": 45,
+    "4": 24,
+    "5": 72
    }
   },
   "d30": {
-   "count": 701,
-   "avg": 2.91,
+   "count": 712,
+   "avg": 2.92,
    "dist": {
-    "1": 242,
-    "2": 73,
-    "3": 100,
+    "1": 244,
+    "2": 75,
+    "3": 103,
     "4": 76,
-    "5": 210
+    "5": 214
    }
   },
-  "updatedAt": "2026-10-05T07:35:55+00:00"
+  "updatedAt": "2026-10-05T12:15:52+00:00"
  },
  "reviews": [
+  {
+   "id": "7645f6cb-a111-49fe-90e0-6f2a19420df5",
+   "rating": 3,
+   "title": "",
+   "body": "stop giving me weird ads!",
+   "author": "Au Yong Shuen Ying",
+   "version": "",
+   "date": "2026-10-04T11:56:17+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "7108e0c9-58a1-4565-aa08-501631e50c70",
+   "rating": 1,
+   "title": "",
+   "body": "why it's have a filter?",
+   "author": "Leo Tang",
+   "version": "2.2.82",
+   "date": "2026-10-04T11:26:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5c1a76bc-356d-4fc3-80b8-1eed076be3d6",
+   "rating": 2,
+   "title": "",
+   "body": "It's pretty good,but you always need to pay for everything,on the webtoons,if you want to see the 3rd shot,you need to be a premium member,so it's too money taking,and too many subscriptions,so please don't make everything cost money, I'm just trying to chat,not recommend",
+   "author": "Fatih Emir Rasya",
+   "version": "2.2.82",
+   "date": "2026-10-04T11:16:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5d2325ab-565c-4d29-a757-b293979b9b8e",
+   "rating": 3,
+   "title": "",
+   "body": "so I put 3 stars because it says I'm under 18 years old when I'm not😐",
+   "author": "viv Ramirez",
+   "version": "2.2.82",
+   "date": "2026-10-04T11:02:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "12d68983-5415-44c7-b366-13f077518457",
+   "rating": 2,
+   "title": "",
+   "body": "This app is awesome you can talk to your crush and everything but there are so many ads.",
+   "author": "Lyra",
+   "version": "2.2.82",
+   "date": "2026-10-04T10:53:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e64d69f4-53aa-4b1c-8fc8-4ea8765bf13e",
+   "rating": 1,
+   "title": "",
+   "body": "What a rip off",
+   "author": "Cosmos Lady",
+   "version": "2.2.82",
+   "date": "2026-10-04T09:44:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d23f50a3-242e-4bb0-a08e-da0130bdc196",
+   "rating": 5,
+   "title": "",
+   "body": "I love the way it is like reading a novel but I get to choose what the heroine says.",
+   "author": "Amanda King",
+   "version": "2.2.82",
+   "date": "2026-10-04T09:32:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9e182b23-87f3-455b-9ba9-a832eeab7012",
+   "rating": 3,
+   "title": "",
+   "body": "dih",
+   "author": "Gabriel Louis",
+   "version": "",
+   "date": "2026-10-04T09:14:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1dc870c1-7da8-448a-b11e-5427dcc17abc",
+   "rating": 5,
+   "title": "",
+   "body": "the app is very nice you should download it",
+   "author": "Kingsley",
+   "version": "",
+   "date": "2026-10-04T09:11:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ed78f29b-9dfd-4a61-abe7-787f27a15679",
+   "rating": 5,
+   "title": "",
+   "body": "I Use this since 2024",
+   "author": "Alvinmawi Alexander",
+   "version": "2.2.82",
+   "date": "2026-10-04T07:52:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b4898b41-247c-468c-a1e6-3090cf69692e",
+   "rating": 5,
+   "title": "",
+   "body": "so proud of you",
+   "author": "Raquel Villaluz",
+   "version": "2.2.82",
+   "date": "2026-10-04T07:43:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "36430258-03ea-4416-a2e0-ac13db079275",
    "rating": 5,

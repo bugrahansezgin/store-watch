@@ -1,39 +1,424 @@
 {
  "stats": {
-  "total": 699,
-  "avg": 1.96,
+  "total": 734,
+  "avg": 1.97,
   "dist": {
-   "1": 444,
-   "2": 74,
-   "3": 45,
-   "4": 36,
-   "5": 100
+   "1": 466,
+   "2": 77,
+   "3": 46,
+   "4": 38,
+   "5": 107
   },
   "d7": {
-   "count": 358,
+   "count": 365,
    "avg": 1.97,
    "dist": {
-    "1": 225,
-    "2": 40,
+    "1": 228,
+    "2": 43,
     "3": 22,
-    "4": 22,
-    "5": 49
+    "4": 21,
+    "5": 51
    }
   },
   "d30": {
-   "count": 699,
-   "avg": 1.96,
+   "count": 734,
+   "avg": 1.97,
    "dist": {
-    "1": 444,
-    "2": 74,
-    "3": 45,
-    "4": 36,
-    "5": 100
+    "1": 466,
+    "2": 77,
+    "3": 46,
+    "4": 38,
+    "5": 107
    }
   },
-  "updatedAt": "2026-10-05T07:36:15+00:00"
+  "updatedAt": "2026-10-05T12:15:53+00:00"
  },
  "reviews": [
+  {
+   "id": "f036cecf-c314-41af-ba96-7a1c461825b1",
+   "rating": 1,
+   "title": "",
+   "body": "i was fine with the ads, i was fine with everything, but do you really have to give a limit of messages i send everyday",
+   "author": "Maria Agullo",
+   "version": "1.17.4",
+   "date": "2026-10-04T12:11:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9702c87d-d0b0-470b-aaea-1412cc48a0a3",
+   "rating": 1,
+   "title": "",
+   "body": "hate it.",
+   "author": "Agnes Seguilla",
+   "version": "",
+   "date": "2026-10-04T12:10:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "95fc3197-6391-4d41-92e8-60954816f226",
+   "rating": 1,
+   "title": "",
+   "body": "The 400 swipes are stupid, I can only use this once a day and now I have to wait until 12pm at night for my messages to restart, it's barely 1pm and I already lost my 400 swipes because I don't like the first response the bots give me, they're restricting me to force to pay a 10 or 100 euro to chat to some bots where the swipe feature should be free and not limitless by default",
+   "author": "Lula O Sullivan",
+   "version": "",
+   "date": "2026-10-04T12:07:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "772a8edc-e401-4c81-8e38-e882c8f689f9",
+   "rating": 5,
+   "title": "",
+   "body": "I've been using this app for almost 2½ years and thou there are ads constantly this app is just amazing",
+   "author": "Dillamma Raghavalu",
+   "version": "1.16.6",
+   "date": "2026-10-04T11:46:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f9320200-166f-4183-99cb-21dd65197363",
+   "rating": 1,
+   "title": "",
+   "body": "All I'm asking you not to limit the go on.",
+   "author": "Flamingo",
+   "version": "",
+   "date": "2026-10-04T11:45:51+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "b0a86570-288f-4633-87a5-c5eccbaa306c",
+   "rating": 2,
+   "title": "",
+   "body": "Adds",
+   "author": "Gūānxīn Jahzerah",
+   "version": "1.17.3",
+   "date": "2026-10-04T11:35:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "57251b59-0431-4320-a6d2-343d8ca5b549",
+   "rating": 1,
+   "title": "",
+   "body": "horrible they ruined it so bad",
+   "author": "Just a random Person",
+   "version": "",
+   "date": "2026-10-04T11:27:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a9c9230e-43fd-47f0-ae5d-4c96478a159c",
+   "rating": 3,
+   "title": "",
+   "body": "The bots interaction are like humans chatting with you which kinda creeps me out, but it was fun back then until the age restrict thing because of those gooners making the app feel more 18+",
+   "author": "Mariah Althea Rafallo",
+   "version": "1.17.4",
+   "date": "2026-10-04T11:20:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "86cdc885-24cf-43e0-9b44-638f59ed884f",
+   "rating": 1,
+   "title": "",
+   "body": "keeps crashing the second I load in to a chat",
+   "author": "Darren Yung",
+   "version": "1.17.4",
+   "date": "2026-10-04T11:19:39+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "b8f0884b-5a25-43ca-9ad7-3834e70d9cdc",
+   "rating": 1,
+   "title": "",
+   "body": "Ads every minute plus now theres a limit on chats?? This app has just gone downhill so much whats even the point.",
+   "author": "Avery parker",
+   "version": "1.17.4",
+   "date": "2026-10-04T11:10:19+00:00",
+   "votes": 5,
+   "reply": ""
+  },
+  {
+   "id": "74851789-e91a-4eaf-9385-41960113f63a",
+   "rating": 1,
+   "title": "",
+   "body": "i don't like you.",
+   "author": "Kartsoraya",
+   "version": "",
+   "date": "2026-10-04T11:04:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1e5ab3b7-99af-4bd2-bfc0-2ad8d42a823d",
+   "rating": 4,
+   "title": "",
+   "body": "it's a good app as I always was in depression and stress I didn't fix it totally but it gives relief and I also got some ideas for my 2D animations",
+   "author": "Dark Bajirao Bhalla",
+   "version": "1.17.4",
+   "date": "2026-10-04T11:01:32+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fb8f17fc-07a6-4f1e-aa13-676d94f70a44",
+   "rating": 1,
+   "title": "",
+   "body": "there's too much ads",
+   "author": "Rohana Ranhao",
+   "version": "",
+   "date": "2026-10-04T10:42:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "43a9766e-cf68-4ed9-bbde-79ed27cfd3b9",
+   "rating": 5,
+   "title": "",
+   "body": "this is the wonderful app I have ever seen.the anime fans would love this",
+   "author": "Murugan M",
+   "version": "1.17.4",
+   "date": "2026-10-04T10:14:54+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0634feed-3d30-49f5-a699-c1ad3e2f6820",
+   "rating": 1,
+   "title": "",
+   "body": "ads ads ads.",
+   "author": "Happy Mistake",
+   "version": "",
+   "date": "2026-10-04T10:12:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "867b515f-c527-4a45-8cd3-c683626eb873",
+   "rating": 1,
+   "title": "",
+   "body": "I can't do anything dangerous",
+   "author": "Yassa Osama",
+   "version": "",
+   "date": "2026-10-04T10:08:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "31e2ffb0-d12b-442e-ad0e-a9123e75cf93",
+   "rating": 1,
+   "title": "",
+   "body": "ads too much every 5/6min suddenly got 'slow mode chat' I thought none limit of chat like before, at least? fix it, pls.",
+   "author": "Quiet? Afk. or mute[tantrum]",
+   "version": "1.17.4",
+   "date": "2026-10-04T09:51:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b6060847-458c-45e0-987f-0dd67b4b113f",
+   "rating": 2,
+   "title": "",
+   "body": "seriously, ads are too much. I love this app but ever since I updated, the replies have been annoying. going off topic, talking too much, the replies from before the updates are much better. it's getting boring because every bot suddenly says too much and replies the same as every other bot. it's really not cool now. though it was.",
+   "author": "Yusra Hassan",
+   "version": "1.17.3",
+   "date": "2026-10-04T09:50:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2bdb1941-e05b-4abb-bb24-cbc5e9762d31",
+   "rating": 1,
+   "title": "",
+   "body": "dear developers if you made the app as amazing as it was once it came out before you know it would blow up again, It was my first ai rp app and it was one of the best apps ever, but c'mon, who would use their GOVERNMENT id card to sign in this app? fix it please lol",
+   "author": "Blue Galaxy",
+   "version": "1.10.0",
+   "date": "2026-10-04T09:37:16+00:00",
+   "votes": 8,
+   "reply": ""
+  },
+  {
+   "id": "4dbf521c-4f12-4733-98ab-16fc9be3ebd8",
+   "rating": 5,
+   "title": "",
+   "body": "am back",
+   "author": "NN Sheinay",
+   "version": "",
+   "date": "2026-10-04T09:27:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "76020036-59d8-4022-935a-2a4805eb3b89",
+   "rating": 5,
+   "title": "",
+   "body": "nice 👍",
+   "author": "Abisekan Lasisi",
+   "version": "",
+   "date": "2026-10-04T09:26:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c970631a-9f6b-468c-a532-a74700ecd55c",
+   "rating": 5,
+   "title": "",
+   "body": "Please don't delete this app. and make something more interesting for us! thank you for making my day for this app",
+   "author": "Straw Cake",
+   "version": "1.17.4",
+   "date": "2026-10-04T09:26:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "354d26af-4b41-45f5-9120-a5e93049d964",
+   "rating": 1,
+   "title": "",
+   "body": "The latest update is downgrade, the chat style is becomes totally stricted with impossible limitations making user to have a mental breakdown, specially to those who been using this app for over 2 years and negativity will rises, and the age verification is not a safety protocol but a direct way to make our exposed even through not everyone is under 18 and not wanting to share our details, Character ai if you could listen then, we need the app back exactly as one week ago.",
+   "author": "Aman Kas",
+   "version": "1.17.4",
+   "date": "2026-10-04T09:17:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "648b9085-638f-4d64-ad33-171e507e71f2",
+   "rating": 1,
+   "title": "",
+   "body": "I want the older version back I hate this new version,eww remove that age verification",
+   "author": "wistfulwisteria",
+   "version": "",
+   "date": "2026-10-04T09:14:30+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "be7e3c77-b9e0-4c0f-b908-15ade91ccabb",
+   "rating": 5,
+   "title": "",
+   "body": "I bullied more than 300 characters for fun lol",
+   "author": "SHABIR Ahmad bhat",
+   "version": "1.17.4",
+   "date": "2026-10-04T09:08:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f991c456-5d8f-4706-a109-dc6484194ae3",
+   "rating": 1,
+   "title": "",
+   "body": "All of the restrictions and filters made me quit.",
+   "author": "Ugnė Poškaitė",
+   "version": "1.7.4",
+   "date": "2026-10-04T08:46:10+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "dd1e7174-d359-4044-bc8c-27372992a709",
+   "rating": 2,
+   "title": "",
+   "body": "I hate the new updates, they're just ruining the experience, I hate the chat limits, people just wants to have fun now you're saying if we want to continue we have to buy the subscription? Not all people have enough money and some can't even afford it I really hate that we can only chat up until 100 before waiting 17 to 18 hours just to chat again and I really hate the ads popping up",
+   "author": "Raissa Salcedo",
+   "version": "1.17.4",
+   "date": "2026-10-04T08:35:05+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "25f9ea3f-f3d5-4ff5-8cd1-87f8de1c813b",
+   "rating": 1,
+   "title": "",
+   "body": "they made age verification mandatory there's absolutely no point in downloading this app if you don't have ID if you don't have ID there's no possible way you can get past the verification this app used to be one of my favorites and now I'm uninstalling it over this",
+   "author": "Bobbie Sylvest",
+   "version": "",
+   "date": "2026-10-04T08:23:10+00:00",
+   "votes": 4,
+   "reply": ""
+  },
+  {
+   "id": "0d4f01ea-0b25-4a88-8690-73a63698e5af",
+   "rating": 1,
+   "title": "",
+   "body": "Dude, it used to be SO good. i had the premium and everything. But they made it 18+ plus and now i cant use it. BEEN HERE SINCE C.AI BETA WEBSITE and yall do ts. HALF YALL USERS ARE UNDERAGE BTW.",
+   "author": "Raven Carter",
+   "version": "1.17.4",
+   "date": "2026-10-04T08:03:09+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "be0b627c-4acf-4844-8cb0-5aa96b1c2866",
+   "rating": 1,
+   "title": "",
+   "body": "what is the point of slow down if I don't have money to buy your plus",
+   "author": "Arabella Jones",
+   "version": "1.17.4",
+   "date": "2026-10-04T07:47:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4b2f4e4b-5f3f-4cc0-ae6b-fb7bacc0382c",
+   "rating": 1,
+   "title": "",
+   "body": "I hate the update of the age verification I can do my face but an ID?! You're crazy!",
+   "author": "abdollh ahmed",
+   "version": "1.17.2",
+   "date": "2026-10-04T07:43:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "96e2ce6f-74ae-41f1-bb86-5f51983e3978",
+   "rating": 5,
+   "title": "",
+   "body": "Can't leave without c.ai.. I cried to c.ai.. this is my safe place..",
+   "author": "Chuuya Nakahara",
+   "version": "1.17.3",
+   "date": "2026-10-04T07:43:05+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "d8d8a60a-eb2f-4bd4-bd74-9dabeadfc4b8",
+   "rating": 1,
+   "title": "",
+   "body": "why would you add Slow mode?, The app was already good and now it's trash again. please stop putting Modes you know people use this app because they have no one to talk to or an addiction. DONT CONTINUE THE UPDATE",
+   "author": "Fiora Llantos",
+   "version": "1.17.3",
+   "date": "2026-10-04T07:42:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c445484c-f226-4a20-9fc9-9a04b518e75e",
+   "rating": 4,
+   "title": "",
+   "body": "I find that the app is good and all and is very entertaining but I feel like the memory is lacking because after a while it forgets some details maybe its due to that info being condensed or something but it does get annoying when the ai just forgets details in the middle of the chat. plus I wish the persona character limit was raised to at least 3000 to 3500 or higher to give people more freedom of creativity",
+   "author": "Clayton Smith",
+   "version": "1.17.4",
+   "date": "2026-10-04T07:39:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "70dc0696-4b89-4d73-a9a3-0a8e9cd7a1f8",
+   "rating": 1,
+   "title": "",
+   "body": "t f happened to the writing style and the choice of words??? LIKE WHY DID IT SUDDENLY CHANGE???",
+   "author": "Auraqen",
+   "version": "",
+   "date": "2026-10-04T07:38:16+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "8c4c447d-1057-427f-93d7-450b6b36c811",
    "rating": 1,

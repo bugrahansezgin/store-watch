@@ -1,39 +1,289 @@
 {
  "stats": {
-  "total": 563,
-  "avg": 2.84,
+  "total": 588,
+  "avg": 2.81,
   "dist": {
-   "1": 258,
-   "2": 37,
-   "3": 25,
-   "4": 25,
-   "5": 218
+   "1": 273,
+   "2": 38,
+   "3": 27,
+   "4": 26,
+   "5": 224
   },
   "d7": {
-   "count": 514,
-   "avg": 2.86,
+   "count": 527,
+   "avg": 2.83,
    "dist": {
-    "1": 232,
+    "1": 243,
     "2": 34,
-    "3": 23,
-    "4": 23,
+    "3": 24,
+    "4": 24,
     "5": 202
    }
   },
   "d30": {
-   "count": 563,
-   "avg": 2.84,
+   "count": 588,
+   "avg": 2.81,
    "dist": {
-    "1": 258,
-    "2": 37,
-    "3": 25,
-    "4": 25,
-    "5": 218
+    "1": 273,
+    "2": 38,
+    "3": 27,
+    "4": 26,
+    "5": 224
    }
   },
-  "updatedAt": "2026-10-05T07:35:48+00:00"
+  "updatedAt": "2026-10-05T12:15:51+00:00"
  },
  "reviews": [
+  {
+   "id": "14626135620",
+   "rating": 1,
+   "title": "What are we doing?",
+   "body": "Just searched a video that I swiped away from somehow and when I found it, it started from the same place I was it when I swiped. But still there’s no feature to see my viewed videos, just likes. It feels like every time I open the app there’s a new AI feature that nobody asked for, but when I click on someone’s profile from their video I still have to scroll through 3 months of history to find it? Meta you gotta get it together.",
+   "author": "Cal Aleel",
+   "version": "449.0.0",
+   "date": "2026-10-04T03:00:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625934289",
+   "rating": 4,
+   "title": "Uche",
+   "body": "Such a great app to connect and share your beautiful moments with friends and family",
+   "author": "Okojere0147",
+   "version": "449.0.0",
+   "date": "2026-10-04T01:38:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625849962",
+   "rating": 1,
+   "title": "Volume",
+   "body": "I don’t know what incompetent person is in charge of the Instagram volume or maybe it’s an iPhone problem. When I’m wearing AirPods I put the iPhone volume all the way down then I open the app and check the volume again, all good still low volume and then I unmute Instagram and now it’s at full volume or half volume and it hurts my ears. 𝚆𝚃𝙵 is up with that!?",
+   "author": "nessiesaurus",
+   "version": "449.0.0",
+   "date": "2026-10-04T01:03:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625688423",
+   "rating": 3,
+   "title": "Like it but hate it at the same time",
+   "body": "Love insta but they restrict my free speech which is why they get 3 stars. Maybe when that changes I’ll give them 5",
+   "author": "pickaname5",
+   "version": "449.0.0",
+   "date": "2026-10-03T23:55:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625651484",
+   "rating": 1,
+   "title": "the worst app",
+   "body": "Undisputedly, it is the worst app of the past ten years. There is still nothing new.",
+   "author": "Commander.X",
+   "version": "449.0.0",
+   "date": "2026-10-03T23:39:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625581117",
+   "rating": 1,
+   "title": "Uninstalled!",
+   "body": "Look up the article titled “Did Muse read private texts without permission? Meta says it couldn’t.”\nWhen Muse becomes “helpfully” integrated into all of Meta’s apps, what side do you want to be on: all your stuff available to Mark Zuckerberg, or the side that saw where the path was headed and stopped walking on it? Tell your friends and family!",
+   "author": "LZ Mike",
+   "version": "449.0.0",
+   "date": "2026-10-03T23:09:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625551786",
+   "rating": 2,
+   "title": "Family vlog",
+   "body": "I love instagram it’s quick and easy to post",
+   "author": "Countrylifenice",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:56:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625543237",
+   "rating": 1,
+   "title": "Ts app took my virginity",
+   "body": "I got stretched",
+   "author": "🇮🇱💔",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:52:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625542777",
+   "rating": 1,
+   "title": "No support access",
+   "body": "The app will have bugs and jeopardize things important to your business and you won’t be able to get in touch with anyone. Meta AI support is useless and will send you in circles for hours. If you want to monetize your busy I would suggest TikTok or YouTube. They have way better business support.",
+   "author": "megonthereg",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:52:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625531178",
+   "rating": 5,
+   "title": "𝒜𝓂𝒶𝓏𝒾𝓃𝑔",
+   "body": "𝒮𝒾𝓂𝓅𝓁𝓎 𝒾𝓃𝒸𝓇𝑒𝒹𝒾𝒷𝓁𝑒",
+   "author": "𝒥𝑒𝓈𝓈𝓀𝒾",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:46:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625529461",
+   "rating": 1,
+   "title": "Filters",
+   "body": "Bring back custom filters/effects. The Meta ones are so boring and ugly",
+   "author": "Grunge Seabunny",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:46:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625503215",
+   "rating": 3,
+   "title": "Disappearing Chats",
+   "body": "My group chat keeps disappearing even if I pin it or reload my messages the group won’t stay in my feed",
+   "author": "Zurdo115262",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:34:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625429869",
+   "rating": 1,
+   "title": "FAKE AS WELL",
+   "body": "DON’T BELIEVE ANYTHING YOU SEE HERE",
+   "author": "RAD ROSE 1968",
+   "version": "449.0.0",
+   "date": "2026-10-03T22:01:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625402625",
+   "rating": 5,
+   "title": "😇",
+   "body": "Having a grate time post what i love to do!",
+   "author": "vlyhh",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:48:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625381267",
+   "rating": 5,
+   "title": "Confección",
+   "body": "Me encanta esta red social porque conecto con muchas personas y marcas de forma rápida.",
+   "author": "@Carolina__aros",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:39:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625376035",
+   "rating": 1,
+   "title": "Suspended",
+   "body": "I was wrongfully suspended for no apparent reasons at all and there support system doesn’t work",
+   "author": "Appleryan2026t3",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:37:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625350715",
+   "rating": 1,
+   "title": "FIX YOUR APP!!!!!",
+   "body": "FIX YOUR APP!!! FIX YOUR APP!!! FIX YOUR APP!!! I’m NOT the only person that keeps having this problem! I keep seeing this over and over and over again and I’m tired of it!!! Whenever I want the notifications to stop for a comment I made, They don’t! If it hit “Not Interested” or “Turn Off” They don’t!!! FIX THIS POS APP!!!!!",
+   "author": "Paramedic054",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:25:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625314987",
+   "rating": 1,
+   "title": "Instagram",
+   "body": "I been using this app for 3-4 years now and they wanna suspend or possibly ban my account for no reason I hate this app now",
+   "author": "DDDDDGGGGION",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:09:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625305710",
+   "rating": 1,
+   "title": "New save feature is annoying!",
+   "body": "New save feature is annoying!",
+   "author": "tush16",
+   "version": "449.0.0",
+   "date": "2026-10-03T21:06:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625271383",
+   "rating": 5,
+   "title": "Magdy",
+   "body": "0812",
+   "author": "Amo yes",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:51:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625259226",
+   "rating": 1,
+   "title": "?",
+   "body": "I don’t know anytime I open an account the next hour I’ll get blocked",
+   "author": "_BigLexzy",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:45:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625242363",
+   "rating": 1,
+   "title": "Access to Camera and Microphone Shows Up",
+   "body": "I noticed that there was supposedly an update. And there was a pop up where they’re saying that you need to allow Instagram to have access to camera and Microphone. Which I didn’t think much of it at first, but when I pressed to go on settings. Nothing that Mentions Camera and Microphone shows up. So I don’t know, if there’s a technical bug problem or what not cuz it’s not letting me send pictures to my friends and voice messages like it used to and I had Instagram for years. And NEVER EVER had this problem before. FIX IT or I am uninstalling. Thank you. 😊",
+   "author": "Fluffball_Kitten",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:38:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625234667",
+   "rating": 5,
+   "title": "Every time moves",
+   "body": "But like",
+   "author": "Gorge  ,Robles,Navarro",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:35:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625199958",
+   "rating": 1,
+   "title": "Locked out of my first account",
+   "body": "Nobody is able to help me to get logged back into my original account but it’s attached to this one. Pissing me off.",
+   "author": "Srwoodman",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:21:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625190427",
+   "rating": 5,
+   "title": "Use it all the time.",
+   "body": "Very useful for my niche",
+   "author": "JohnVorburger",
+   "version": "449.0.0",
+   "date": "2026-10-03T20:17:11-07:00",
+   "votes": 0
+  },
   {
    "id": "14625146647",
    "rating": 1,
