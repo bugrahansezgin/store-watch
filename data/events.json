@@ -1,5 +1,252 @@
 [
  {
+  "id": "2026-10-05-us-6502742786-release",
+  "type": "release",
+  "app": "us-6502742786",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.116",
+  "summary": "1.115 → 1.116",
+  "before": "1.115",
+  "after": "1.116",
+  "notes": "bug fixes"
+ },
+ {
+  "id": "2026-10-05-us-6502742786-icon",
+  "type": "icon",
+  "app": "us-6502742786",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Aspect: AI-Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/ef/59/36ef5980-b1b1-4fb4-b6e1-4f9fee6207ab/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/90/12/b8901296-acde-09d9-d39d-cfaffca62aa8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-05-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Instagram shipped version 449.0.0",
+  "summary": "448.0.0 → 449.0.0",
+  "before": "448.0.0",
+  "after": "449.0.0",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-10-05-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/7f/2c/f57f2c00-2dff-4704-501b-ab6849c6277d/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3d/fa/3a3dfa81-9e7a-f495-f177-04fbabc23f32/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-05-gp-us-xyz.aspectapp.aspect-release",
+  "type": "release",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.116",
+  "summary": "1.115.1 → 1.116",
+  "before": "1.115.1",
+  "after": "1.116",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-05-gp-us-com.joincharmsocial.charm-release",
+  "type": "release",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610010",
+  "summary": "0.2.2609260 → 0.2.2610010",
+  "before": "0.2.2609260",
+  "after": "0.2.2610010",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-05-gp-us-ai.socialapps.speakmaster-screenshots",
+  "type": "screenshots",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "PolyBuzz: Chat with AI Friends changed its screenshots",
+  "summary": "3 replaced, 10 reordered · 18 → 18 total",
+  "device": "iPhone",
+  "before": [
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/0KUoVWtethVLPzb00FlwNpusf63fjoLN1fQb1UZuAVS5YmMGbyIfNJ6QFtAjlGuoGkB1g7fsU4o8eQJwHdopMA=w392",
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/0KUoVWtethVLPzb00FlwNpusf63fjoLN1fQb1UZuAVS5YmMGbyIfNJ6QFtAjlGuoGkB1g7fsU4o8eQJwHdopMA=w392",
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/0KUoVWtethVLPzb00FlwNpusf63fjoLN1fQb1UZuAVS5YmMGbyIfNJ6QFtAjlGuoGkB1g7fsU4o8eQJwHdopMA=w392"
+  ],
+  "after": [
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/TTpcVw88sLfc2UkqqRWfbml5pfulDC3sbtSom1xiFVA2XkPEZgtI_vPWlTpnFVBIM86jNFUMTOoeuR0HvdCuyA=w392",
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/TTpcVw88sLfc2UkqqRWfbml5pfulDC3sbtSom1xiFVA2XkPEZgtI_vPWlTpnFVBIM86jNFUMTOoeuR0HvdCuyA=w392",
+   "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC=w392",
+   "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A=w392",
+   "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5=w392",
+   "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA=w392",
+   "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x=w392",
+   "https://play-lh.googleusercontent.com/TTpcVw88sLfc2UkqqRWfbml5pfulDC3sbtSom1xiFVA2XkPEZgtI_vPWlTpnFVBIM86jNFUMTOoeuR0HvdCuyA=w392"
+  ],
+  "diff": {
+   "added": [
+    5,
+    11,
+    17
+   ],
+   "removed": [
+    5,
+    11,
+    17
+   ],
+   "replaced": [
+    5,
+    11,
+    17
+   ],
+   "moved": [
+    {
+     "key": "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC",
+     "from": 0,
+     "to": 6
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A",
+     "from": 1,
+     "to": 7
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5",
+     "from": 2,
+     "to": 8
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA",
+     "from": 3,
+     "to": 9
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x",
+     "from": 4,
+     "to": 10
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/u-vTKTeb53pIofIRlvf878DLeTxDiZ4ZqvNtFGM4iagOs_9bWrCE4ff6Tu-epLCETGbNlXCXlu2X_F2ivLVC",
+     "from": 0,
+     "to": 12
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/qUg0j8cKcLbVAod37iS45HvJrLvJSjZDgNL2Fo7_uORbjdk-Ilo5O0ve6dBnkw1sLqnMCI6KJNjbTNXH12Ft6A",
+     "from": 1,
+     "to": 13
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/c4NvOdPvzUNrXmThsXyfFtUqTRVMY5PMtdsBlL9FF-WSh3so5BYiJ0Kw8V2ofl1i-d1lOrhU5DKh2o3drPq5",
+     "from": 2,
+     "to": 14
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/WoMS4uD0PGnAYb5Nc9K3RmVqUZgIlUEA-TlXmMJcfWAueXv18vEfYmXlJN9bJS2PXoxgTWVsZnhbDjJXkCXSEA",
+     "from": 3,
+     "to": 15
+    },
+    {
+     "key": "https://play-lh.googleusercontent.com/pbwFy5W1vItfUhGPb7b8XrrViCW8BlYCkxpfKMEp1qhMhVXyiPDAlvxo1ytSI7qzGu12jRCJPSxHsgKzeq-x",
+     "from": 4,
+     "to": 16
+    }
+   ],
+   "countBefore": 18,
+   "countAfter": 18
+  }
+ },
+ {
+  "id": "2026-10-05-gp-us-ai.socialapps.speakmaster-description",
+  "type": "description",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "PolyBuzz: Chat with AI Friends updated its description",
+  "summary": "Store description text changed",
+  "before": "Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.\r\n\r\nCharacter creation - Character creation now open to everyone! Ignite your imagination and bring any character to life here, whether they exist in reality or flourish in the realm of imagination! Unleash your creativity and craft a character that can be kept entirely private or shared for everyone to engage with. But the excitement doesn't end there - immerse yourself in a vibrant community where you can also interact with characters crafted by others! Join the adventure and let your characters come alive in this thrilling experience!\r\n\r\nEasy & Free Conversations - Discover a world of Characters and start your personal dialogues anytime. Chat as you wish and explore endless story possibilities, allcompletely free.\r\n \r\nImmerse yourself in endless conversations - Unlike traditional chatbots, which can quickly become repetitive and boring, our AI chatbots use cutting - edge technology to generate responses that feel natural and engaging. All you need to do is to enjoy the free talk.\r\n \r\nNever run out of new things to explore - Our app is perfect for anyone who loves to chat, learn, and explore. Whether you're a history buff, a fan of pop culture, or just looking for a fun way to pass the time, our AI chatbots will provide you with endless entertainment and engagement. And with our constantly growing selection of characters, you'll never run out of new personalities to chat with.\r\n \r\nOur app provides users with the ultimate immersive conversational experience. With authentic voices and character thinking, our chatbots will make you feel like you're talking to a real person. You'll never run out of things to say, and there are no language barriers to hold you back. So why not download our app today and start exploring the world of endless conversations all for free?\r\n\r\nTerms of Use:  https://app.polybuzz.ai/static/hy/speakmaster/termsofUse/index.html?darkmode=1&darkStyle=1\r\nPrivacy Policy:  https://app.polybuzz.ai/static/hy/speakmaster/privacyPolicy/index.html?darkmode=1&darkStyle=1\r\nPlease send your feedback to support@mail.polybuzz.ai",
+  "after": "Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. \r\n\r\nCharacter creation - Character creation now open to everyone! Ignite your imagination and bring any character to life here, whether they exist in reality or flourish in the realm of imagination! Unleash your creativity and craft a character that can be kept entirely private or shared for everyone to engage with. But the excitement doesn't end there - immerse yourself in a vibrant community where you can also interact with characters crafted by others! Join the adventure and let your characters come alive in this thrilling experience!\r\n\r\nEasy & Free Conversations - Discover a world of Characters and start your personal dialogues anytime. Chat as you wish and explore endless story possibilities, allcompletely free.\r\n \r\nImmerse yourself in endless conversations - Unlike traditional chatbots, which can quickly become repetitive and boring, our AI chatbots use cutting - edge technology to generate responses that feel natural and engaging. All you need to do is to enjoy the free talk.\r\n \r\nNever run out of new things to explore - Our app is perfect for anyone who loves to chat, learn, and explore. Whether you're a history buff, a fan of pop culture, or just looking for a fun way to pass the time, our AI chatbots will provide you with endless entertainment and engagement. And with our constantly growing selection of characters, you'll never run out of new personalities to chat with.\r\n \r\nOur app provides users with the ultimate immersive conversational experience. With authentic voices and character thinking, our chatbots will make you feel like you're talking to a real person. You'll never run out of things to say, and there are no language barriers to hold you back. So why not download our app today and start exploring the world of endless conversations all for free?\r\n\r\nTerms of Use:  https://app.polybuzz.ai/static/hy/speakmaster/termsofUse/index.html?darkmode=1&darkStyle=1\r\nPrivacy Policy:  https://app.polybuzz.ai/static/hy/speakmaster/privacyPolicy/index.html?darkmode=1&darkStyle=1\r\nPlease send your feedback to support@mail.polybuzz.ai"
+ },
+ {
+  "id": "2026-10-05-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.425",
+  "summary": "0.4.418 → 0.4.425",
+  "before": "0.4.418",
+  "after": "0.4.425",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-05-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Chai: Chat AI Platform dropped to 2.98 stars",
+  "summary": "-0.07 from 3.05",
+  "before": 3.05,
+  "after": 2.98
+ },
+ {
+  "id": "2026-10-05-us-1671705818-release",
+  "type": "release",
+  "app": "us-1671705818",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Character AI: Chat, Talk, Text shipped version 1.17.4",
+  "summary": "1.17.3 → 1.17.4",
+  "before": "1.17.3",
+  "after": "1.17.4",
+  "notes": "Bug fixes and other improvements"
+ },
+ {
+  "id": "2026-10-05-us-1671705818-icon",
+  "type": "icon",
+  "app": "us-1671705818",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Character AI: Chat, Talk, Text changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/b9/93/ffb99398-7e14-5ff1-3782-6192f6cb7db6/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/e6/a6/b2e6a6a8-cd3e-5f09-c19a-da0186b7ead7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-05-gp-us-ai.character.app-release",
+  "type": "release",
+  "app": "gp-us-ai.character.app",
+  "ts": "2026-10-05T07:35:15+00:00",
+  "title": "Character AI: Chat, Talk, Text shipped version 1.17.4",
+  "summary": "1.17.3 → 1.17.4",
+  "before": "1.17.3",
+  "after": "1.17.4",
+  "notes": ""
+ },
+ {
   "id": "2026-09-30-us-1534165497-tracking",
   "type": "tracking",
   "app": "us-1534165497",

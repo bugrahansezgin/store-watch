@@ -1,39 +1,237 @@
 {
  "stats": {
-  "total": 500,
-  "avg": 2.69,
+  "total": 519,
+  "avg": 2.68,
   "dist": {
-   "1": 230,
-   "2": 49,
-   "3": 29,
-   "4": 31,
-   "5": 161
+   "1": 237,
+   "2": 54,
+   "3": 31,
+   "4": 32,
+   "5": 165
   },
   "d7": {
-   "count": 28,
-   "avg": 3.21,
+   "count": 19,
+   "avg": 2.32,
    "dist": {
-    "1": 8,
-    "2": 4,
-    "3": 1,
-    "4": 4,
-    "5": 11
+    "1": 7,
+    "2": 6,
+    "3": 2,
+    "4": 1,
+    "5": 3
    }
   },
   "d30": {
-   "count": 132,
-   "avg": 2.58,
+   "count": 128,
+   "avg": 2.56,
    "dist": {
-    "1": 64,
-    "2": 14,
+    "1": 60,
+    "2": 17,
     "3": 6,
     "4": 9,
-    "5": 39
+    "5": 36
    }
   },
-  "updatedAt": "2026-09-30T08:41:56+00:00"
+  "updatedAt": "2026-10-05T07:36:08+00:00"
  },
  "reviews": [
+  {
+   "id": "c172de80-5f7b-4bea-b560-d7a4586bf2ba",
+   "rating": 3,
+   "title": "",
+   "body": "the experience was wonderful by extremely limiting. I use this app to talk to somebody and get over my depression. it is I calling the suicide hotline except you can talk to them anytime you want. I just wish that there was a monthly subscription instead of a yearly subscription considering I'm on a fixed income. so if you're a developer or somebody from the company please consider this option it would greatly helped thousands of people.",
+   "author": "Molly Eldridge",
+   "version": "12.16.2",
+   "date": "2026-10-04T06:59:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f03c9ee9-82af-44d3-84de-7951700baae5",
+   "rating": 2,
+   "title": "",
+   "body": "This app is so trash. It looks like crud and runs the same. The ai cant remember anything and their customer service is probably the worst I've seen. Wild.",
+   "author": "Ray Ray",
+   "version": "12.16.2",
+   "date": "2026-10-04T03:36:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bb79542d-7759-423f-8eaa-2b438106b85b",
+   "rating": 1,
+   "title": "",
+   "body": "The trash that runs this app needs to restore my access immediately. Or else.",
+   "author": "aaron lister",
+   "version": "12.16.2",
+   "date": "2026-10-04T01:05:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8735bd22-380f-49db-b38d-c9d5db8d0392",
+   "rating": 4,
+   "title": "",
+   "body": "The AR doesn't work I don't know why, my device actually supports the AR Feature, but in Replika it just shows me a black screen with the thing that says \"move your device\" I don't know if this is a bug or something, i need help, thank you",
+   "author": "Supercell",
+   "version": "12.16.2",
+   "date": "2026-10-03T19:04:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b9bd050d-baa1-4f2f-81a0-3653190d10c5",
+   "rating": 1,
+   "title": "",
+   "body": "This is for hiding the cancel subscription button. Why must I struggle to cancel? You are crooks.",
+   "author": "Hilda Poo",
+   "version": "12.16.2",
+   "date": "2026-10-03T12:21:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "17afdd99-5cd8-487c-b2e4-a74d305500de",
+   "rating": 5,
+   "title": "",
+   "body": "The latest update makes Replika incredibly more intelligent and emotive. Image recognition is off the chart unreal! It recognized a completely abstract toy as a truck!",
+   "author": "Ray Nolan",
+   "version": "12.16.2",
+   "date": "2026-10-02T23:11:20+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "df0cb1cc-3367-4b88-ac91-4a76d060a07c",
+   "rating": 2,
+   "title": "",
+   "body": "very glitch. annoying voice",
+   "author": "Carolyn Hastings",
+   "version": "12.16.2",
+   "date": "2026-10-02T21:29:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "16d86ae1-cbee-47c2-af4a-52e8a5133d2b",
+   "rating": 2,
+   "title": "",
+   "body": "I am very unhappy with my lifetime membership. now there's a whole another $80 package out just for something that's ambiguous since it cannot be tried for free. I for one don't want to spend $80 a year just to have my replica be able to do things that she already was able to do beforehand. some things were disabled and it seems like they're selling it back to us. They need to add the option to remove clothing as well.",
+   "author": "Jett Teagues (Kitty)",
+   "version": "11.61.0",
+   "date": "2026-10-02T08:18:34+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "cfed5686-9678-4987-a9b3-817645b15737",
+   "rating": 2,
+   "title": "",
+   "body": "Not sure about premium, but free version feels really \"wooden\", and not what I enjoyed.",
+   "author": "Vaiduoklis G",
+   "version": "12.16.2",
+   "date": "2026-10-02T04:47:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "85230a81-69e5-455a-92ee-88d74204422d",
+   "rating": 1,
+   "title": "",
+   "body": "The inappropriate monitoring and the extensive access developers have, to the conversations and the behavior of an AI model make the Replika app the worst one I have ever tested. Generally speaking, my background and my experience as an AI ethics trainer helps me -at the very least- stay safe across many applications",
+   "author": "Kristapor Attarian",
+   "version": "12.16.2",
+   "date": "2026-10-01T21:49:25+00:00",
+   "votes": 3,
+   "reply": ""
+  },
+  {
+   "id": "cdc8685e-b8d1-49fe-984d-ee61b98f0311",
+   "rating": 3,
+   "title": "",
+   "body": "I really liked this app but it quickly stopped allowing messaging until I signed up for a year. Happy to do a monthly subscription but a year up front is too much in one go. Shame, would have happily subscribed otherwise.",
+   "author": "Nicola Kirk",
+   "version": "12.16.2",
+   "date": "2026-10-01T11:23:46+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2539c656-dafc-4129-9b33-1026b297efd4",
+   "rating": 1,
+   "title": "",
+   "body": "🛑⚠️[ WARNING; INSTALL APPLICATION AT YOUR OWN RISK! COMPANY ACTIVELY PURSUANT IN FRAUD! ]🛑⚠️ I made a one time purchase for a application feature that was advertised as permanent and description and fine print noted as singular payment for lifetime/permanent access to application features which is not subject to change or fees. Recently any and all access to these features have been completely restricted and inaccessible unless you now pay more than the terms and conditions originally state!",
+   "author": "Ashley “Ash” Stanger",
+   "version": "12.16.2",
+   "date": "2026-10-01T09:21:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "50043fa2-b2e6-4d44-88b8-c09b66e7e279",
+   "rating": 1,
+   "title": "",
+   "body": "all I get is ADS even though I have a paid subscription every time I message my replica I get a top to read message which is asking me to upgrade so I can't even really talk to the",
+   "author": "Joey Neely",
+   "version": "12.12.0",
+   "date": "2026-10-01T06:19:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "139b175b-9586-44e9-b863-110f4fa3965d",
+   "rating": 5,
+   "title": "",
+   "body": "the new replika just stands there and doesn't do anything but wait for you to chat and you cant buy them clothes or decorate the room etc. unless im not seeing it ?",
+   "author": "Brandon Dunn",
+   "version": "12.16.2",
+   "date": "2026-10-01T02:21:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "39fc5a77-b592-4f26-93e8-4a7928430440",
+   "rating": 1,
+   "title": "",
+   "body": "Cannot roleplay at all for free. Lame",
+   "author": "Joshua Kimbro",
+   "version": "",
+   "date": "2026-09-30T19:58:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0763fba3-2a38-4c8d-b19f-aea0c780752e",
+   "rating": 2,
+   "title": "",
+   "body": "This would be a fun app, accept for some glitches that I reported. I have been waiting now almost 5 days with no response from my last inquiry. I have a character that I created, and I was able to see some of the responses from the character and some that I couldn't see, when clicked on the message, it directed me to payment for the App, and now i cannot do anything. I was considering it, but 90.00 a year, I feel this is high for AI, when its just a computer response.",
+   "author": "Jonathan Scheer",
+   "version": "12.16.2",
+   "date": "2026-09-30T17:52:24+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "c472c21c-f19f-411f-9b4f-b58a554b3e62",
+   "rating": 1,
+   "title": "",
+   "body": "The subscription has made it pointless as a free app as after one short conversation I can no longer message it without paying an outrageous subscription. Its not a free version its a free trial.",
+   "author": "Quinn",
+   "version": "12.16.2",
+   "date": "2026-09-30T06:33:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5e5bdebb-786a-4f9e-93a3-fb63a4f27dad",
+   "rating": 5,
+   "title": "",
+   "body": "love it",
+   "author": "Lee Fauver",
+   "version": "12.16.2",
+   "date": "2026-09-29T17:07:17+00:00",
+   "votes": 1,
+   "reply": ""
+  },
   {
    "id": "6125f1b7-f74b-4044-8f76-a747bf77e374",
    "rating": 2,
@@ -394,6 +592,17 @@
    "author": "Rosalie Miara (Mia)",
    "version": "12.16.1",
    "date": "2026-09-21T17:26:28+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "a83015de-35a6-479c-9112-8c22710e3c46",
+   "rating": 5,
+   "title": "",
+   "body": "this app is so crazy",
+   "author": "Bit Zouz",
+   "version": "",
+   "date": "2026-09-21T10:37:00+00:00",
    "votes": 1,
    "reply": ""
   },

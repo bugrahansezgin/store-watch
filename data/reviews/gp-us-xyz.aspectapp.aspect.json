@@ -1,39 +1,303 @@
 {
  "stats": {
-  "total": 501,
-  "avg": 3.14,
+  "total": 535,
+  "avg": 3.2,
   "dist": {
-   "1": 130,
-   "2": 68,
-   "3": 79,
-   "4": 51,
-   "5": 173
+   "1": 135,
+   "2": 70,
+   "3": 80,
+   "4": 54,
+   "5": 196
   },
   "d7": {
-   "count": 31,
-   "avg": 2.97,
+   "count": 29,
+   "avg": 3.45,
    "dist": {
-    "1": 5,
-    "2": 11,
-    "3": 3,
-    "4": 4,
-    "5": 8
+    "1": 7,
+    "2": 4,
+    "3": 1,
+    "4": 3,
+    "5": 14
    }
   },
   "d30": {
-   "count": 159,
-   "avg": 2.96,
+   "count": 149,
+   "avg": 3.31,
    "dist": {
-    "1": 46,
-    "2": 27,
-    "3": 23,
-    "4": 13,
-    "5": 50
+    "1": 33,
+    "2": 22,
+    "3": 20,
+    "4": 14,
+    "5": 60
    }
   },
-  "updatedAt": "2026-09-30T08:41:55+00:00"
+  "updatedAt": "2026-10-05T07:35:55+00:00"
  },
  "reviews": [
+  {
+   "id": "b8ba9c8c-aceb-4b85-92c8-e8719852ae76",
+   "rating": 5,
+   "title": "",
+   "body": "yayay",
+   "author": "Lux Kneepie",
+   "version": "1.116",
+   "date": "2026-10-04T06:40:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f3d854de-2e7f-4271-9842-f5244351ab21",
+   "rating": 5,
+   "title": "",
+   "body": "Trying it",
+   "author": "Rin Ta",
+   "version": "1.116",
+   "date": "2026-10-04T06:04:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2e0ed8a8-6adb-4fd9-aae4-9eae3ba8bb71",
+   "rating": 5,
+   "title": "",
+   "body": "Actually paid for the premium version and don't regret even for a second a huge thank you for the whole team, this app is amazing, very imerssive, the chats are incredibly deep. So well my opinion is if anyone is thinking if the premium version is worthed, yes people, it definitely is, it gives you the freedom to do so much more to full emerge yourself in the narrative. 5 start I definitely recommend 👌🏻",
+   "author": "Joana Rodrigues Sequeira",
+   "version": "1.116",
+   "date": "2026-10-04T00:50:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "941e1410-b097-48d9-8028-8a9375b05a62",
+   "rating": 1,
+   "title": "",
+   "body": "Everything on there has a daily limit, you have to have gold to use half the functions on it (which you have to buy) and it just doesn't let you do anything unless you pay for pro.",
+   "author": "Elyza-mae Pellens",
+   "version": "",
+   "date": "2026-10-04T00:43:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a29ad2ce-6c2d-4fe4-bf5b-9b9cda0e278c",
+   "rating": 5,
+   "title": "",
+   "body": "good",
+   "author": "E Brown",
+   "version": "1.116",
+   "date": "2026-10-03T23:08:19+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "158361f7-13f1-4418-847a-caac59c94f5c",
+   "rating": 5,
+   "title": "",
+   "body": "love itttttt❤️❤️",
+   "author": "Starr Luna",
+   "version": "1.116",
+   "date": "2026-10-03T15:47:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bdacc4a2-199e-481a-809f-e0c9cc093903",
+   "rating": 1,
+   "title": "",
+   "body": "So So So let's get into this one now this app claims to be a social media AI app is it yes done very poorly it's a money hungry app just like the rest with subscriptions this one takes it a step further using \"gold\" to unlock 18+ pictures as well zero ways to get free gold it says if you make 3 characters each one gives you 100 gold that's 3 pics to unlock it's a lie not a bug the gold doesn't show up for anyone plain and simple company doesn't even respond to reviews so how exciting don't use",
+   "author": "Fjjs Djeuiw",
+   "version": "",
+   "date": "2026-10-03T06:20:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7692a8f2-3d16-4980-8d8e-765a0c848499",
+   "rating": 5,
+   "title": "",
+   "body": "it's cool I guess",
+   "author": "Flynn matthew Cabrera",
+   "version": "1.116",
+   "date": "2026-10-03T03:35:19+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dd5bf100-8353-44d7-affd-ef7b6b3cd93b",
+   "rating": 5,
+   "title": "",
+   "body": "this is very addicting",
+   "author": "Eli Roloson",
+   "version": "1.116",
+   "date": "2026-10-03T02:28:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b264c233-06ff-4a4c-91fb-fea76bc5d0b2",
+   "rating": 4,
+   "title": "",
+   "body": "it's a good app, works fine, but I JUST started the app, and I already reached the limit of the chatting. it's barely enough to have a conversation.",
+   "author": "Emma locklear",
+   "version": "1.116",
+   "date": "2026-10-02T20:48:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "05cdbda4-4756-470c-aa15-fbb4db0b34ed",
+   "rating": 5,
+   "title": "",
+   "body": "something different",
+   "author": "Ariel Jordan",
+   "version": "1.116",
+   "date": "2026-10-02T18:59:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c43e31ed-63ca-47e9-a866-ff3e8d2a3405",
+   "rating": 5,
+   "title": "",
+   "body": "love the A.I. social media - no one is real concept. definitely need more apps like this. I'm addicted.",
+   "author": "melissa stephens",
+   "version": "1.115.1",
+   "date": "2026-10-02T10:23:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "00d73481-64f9-4a7c-96ea-581ec4a8367d",
+   "rating": 5,
+   "title": "",
+   "body": "𝐠𝐫𝐞𝐚𝐭 𝐚𝐩𝐩 !",
+   "author": "IDK.",
+   "version": "1.116",
+   "date": "2026-10-02T08:27:52+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1c09a245-0ef7-4b01-976f-2d3a5d1509d6",
+   "rating": 3,
+   "title": "",
+   "body": "First things first, I created three characters and I still haven't received any gold. Then y'all are doing us (non-premium users) so dirty , why is it that we can't comment on our own posts ? I can understand if we can't comment on others posts without having a premium version , but at least have us comment on our own posts. Y'all have potential , PLEASE do better.",
+   "author": "ꨄ alia edits ꨄ",
+   "version": "1.116",
+   "date": "2026-10-02T00:59:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "56791ce3-26e8-420b-b186-7c8d431fd46d",
+   "rating": 5,
+   "title": "",
+   "body": "Not sure yet just started",
+   "author": "Steve Treague",
+   "version": "1.116",
+   "date": "2026-10-01T19:09:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bab8fc1f-4d34-4dbf-b766-a710289c728f",
+   "rating": 1,
+   "title": "",
+   "body": "good fin but for the 2 messages you get a day. cant reply to comments or do anything to play so im undownloading it. im not buying a full year of play. hmu when you have weekly or monthly. just poor marketing, youd make more money that way",
+   "author": "Salem Nyx",
+   "version": "1.116",
+   "date": "2026-10-01T14:05:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "70c8f1ec-5036-4e68-b29c-8f7863ef1a6e",
+   "rating": 5,
+   "title": "",
+   "body": "great app",
+   "author": "Zokanyo Tose",
+   "version": "1.116",
+   "date": "2026-10-01T13:35:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "417fd3c6-f92f-42cf-b429-29de7f37dd4f",
+   "rating": 4,
+   "title": "",
+   "body": "I have not entered yet but can't wait",
+   "author": "Ezeh Miracle",
+   "version": "1.116",
+   "date": "2026-10-01T12:02:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4c2857e3-7da9-409c-8fc6-7ab6158ca430",
+   "rating": 1,
+   "title": "",
+   "body": "legit can't do anything with out paying",
+   "author": "Alex",
+   "version": "1.115.1",
+   "date": "2026-10-01T04:53:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fadffe6c-98c2-45a6-9119-31e699db3f2a",
+   "rating": 1,
+   "title": "",
+   "body": "I can't sign up at all. I have filled Username, Name, and Bio, I press the continue button and nothing happens. I can't use it. Probably fake.",
+   "author": "Angy Emm",
+   "version": "1.115.1",
+   "date": "2026-09-30T19:44:32+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1ce31935-70bd-4dec-979c-27fab1b9db89",
+   "rating": 5,
+   "title": "",
+   "body": "cool",
+   "author": "roundrabbit69",
+   "version": "1.115.1",
+   "date": "2026-09-30T07:22:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e7736821-4a88-4a41-988a-9bcbb4d9cb10",
+   "rating": 2,
+   "title": "",
+   "body": "doesnt track character creation for the free gold.",
+   "author": "James Gordon",
+   "version": "1.115.1",
+   "date": "2026-09-29T21:59:16+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d8f92bba-f55f-49ff-8187-e6fc39e1e70e",
+   "rating": 2,
+   "title": "",
+   "body": "Subscribed to see what it's like. Chatting aspect is not horrible but putting image gen behind another paywall is kinda lame.",
+   "author": "F “Fizzy002” I",
+   "version": "1.115.1",
+   "date": "2026-09-29T19:34:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cd1c9fe6-64e8-4ac1-abb0-36a373eaa924",
+   "rating": 4,
+   "title": "",
+   "body": "It would be great to add stories and highlights and keep them as well as posts. I hope, this function will be possible in future.",
+   "author": "Diana",
+   "version": "1.115.1",
+   "date": "2026-09-29T14:55:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "43449113-d88d-4824-bec0-accf345ae902",
    "rating": 1,
@@ -453,6 +717,17 @@
    "reply": ""
   },
   {
+   "id": "7cd393f3-c3fd-479b-9857-6447f2277573",
+   "rating": 5,
+   "title": "",
+   "body": "Its great ill try it out",
+   "author": "Ayan Ahsan",
+   "version": "1.114.1",
+   "date": "2026-09-21T20:13:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
    "id": "637173a3-bc4a-4cd2-bbaf-bcd69f680d58",
    "rating": 3,
    "title": "",
@@ -519,6 +794,28 @@
    "reply": ""
   },
   {
+   "id": "58e53225-cead-474a-a079-0f808c0b5681",
+   "rating": 5,
+   "title": "",
+   "body": "finally I can post my ai without hate",
+   "author": "Julienne B",
+   "version": "1.114.1",
+   "date": "2026-09-19T19:36:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d6cf437a-e85d-4016-8ea8-79348163b237",
+   "rating": 5,
+   "title": "",
+   "body": "awesome",
+   "author": "Krisko Neshev",
+   "version": "",
+   "date": "2026-09-18T22:32:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
    "id": "ec2b97dc-b034-42e1-8c41-022cffa31d8a",
    "rating": 3,
    "title": "",
@@ -548,6 +845,17 @@
    "author": "Nosipho Rethabile Mpanza",
    "version": "1.114.1",
    "date": "2026-09-18T01:32:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e81a6a75-efa6-4064-b0cb-ea2ccf61740b",
+   "rating": 5,
+   "title": "",
+   "body": "I love this app,its absolutely better than the status app imo 🤷🏼‍♀️⭐️!",
+   "author": "Chessie Myers",
+   "version": "1.114.1",
+   "date": "2026-09-17T17:25:49+00:00",
    "votes": 0,
    "reply": ""
   },
@@ -728,6 +1036,17 @@
    "reply": ""
   },
   {
+   "id": "1c027e23-d5d9-4804-8322-af2e3a615890",
+   "rating": 5,
+   "title": "",
+   "body": "pretty cool",
+   "author": "Tyler Sutterby",
+   "version": "1.114.1",
+   "date": "2026-09-13T01:41:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
    "id": "5a5fec5d-f760-46bc-9639-16dc1a69c979",
    "rating": 5,
    "title": "",
@@ -735,6 +1054,28 @@
    "author": "Sayj Huey",
    "version": "1.114.1",
    "date": "2026-09-13T00:19:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "264b503a-988b-4729-bd35-86584868fe69",
+   "rating": 5,
+   "title": "",
+   "body": "I love it",
+   "author": "Rumi",
+   "version": "1.114.1",
+   "date": "2026-09-12T20:17:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "900b267b-5f18-40b8-b9ce-ac3c1d89a9f8",
+   "rating": 5,
+   "title": "",
+   "body": "egg",
+   "author": "Aron Sahlen",
+   "version": "1.114.1",
+   "date": "2026-09-12T17:52:59+00:00",
    "votes": 0,
    "reply": ""
   },
@@ -1003,6 +1344,17 @@
    "reply": ""
   },
   {
+   "id": "73309f39-f1af-4009-bb72-fb171e6e40b4",
+   "rating": 5,
+   "title": "",
+   "body": "it's very good!! no words",
+   "author": "Anne Rose",
+   "version": "1.114.1",
+   "date": "2026-09-09T06:39:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
    "id": "8b2b7e6a-e9df-418e-b00d-2de8b300af80",
    "rating": 5,
    "title": "",
@@ -1043,6 +1395,17 @@
    "author": "Ssali Arafat",
    "version": "1.114.1",
    "date": "2026-09-08T20:07:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "02f40a07-72fd-41e0-9b77-ef28572f6be1",
+   "rating": 5,
+   "title": "",
+   "body": "at the moment okay",
+   "author": "decent_damper5",
+   "version": "1.114.1",
+   "date": "2026-09-08T17:03:44+00:00",
    "votes": 0,
    "reply": ""
   },
@@ -1109,6 +1472,17 @@
    "author": "Emily Hamilton",
    "version": "1.114.1",
    "date": "2026-09-07T22:44:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2d779e45-33bc-4ef2-a209-eab4a5e41149",
+   "rating": 5,
+   "title": "",
+   "body": "cool app 😎",
+   "author": "Steven Mmaduagwu",
+   "version": "1.114.1",
+   "date": "2026-09-07T10:51:11+00:00",
    "votes": 0,
    "reply": ""
   },

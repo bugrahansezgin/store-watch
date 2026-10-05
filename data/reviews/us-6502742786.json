@@ -1,39 +1,69 @@
 {
  "stats": {
-  "total": 500,
-  "avg": 2.8,
+  "total": 503,
+  "avg": 2.81,
   "dist": {
    "1": 146,
    "2": 75,
    "3": 105,
-   "4": 82,
-   "5": 92
+   "4": 83,
+   "5": 94
   },
   "d7": {
    "count": 3,
-   "avg": 2.33,
+   "avg": 4.67,
    "dist": {
-    "1": 2,
+    "1": 0,
     "2": 0,
     "3": 0,
-    "4": 0,
-    "5": 1
+    "4": 1,
+    "5": 2
    }
   },
   "d30": {
-   "count": 35,
-   "avg": 2.46,
+   "count": 21,
+   "avg": 2.43,
    "dist": {
-    "1": 17,
+    "1": 10,
     "2": 1,
-    "3": 8,
-    "4": 2,
-    "5": 7
+    "3": 4,
+    "4": 3,
+    "5": 3
    }
   },
-  "updatedAt": "2026-09-30T08:41:53+00:00"
+  "updatedAt": "2026-10-05T07:35:34+00:00"
  },
  "reviews": [
+  {
+   "id": "14624926691",
+   "rating": 5,
+   "title": "Ai",
+   "body": "It’s weird but it is really fun knowing that real people aren’t who i see on here",
+   "author": "Ellie1234ELL",
+   "version": "1.116",
+   "date": "2026-10-03T18:32:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14624501123",
+   "rating": 4,
+   "title": "Cool app",
+   "body": "Its a good app personally I like it but I wish we had more chat time because it like you only can text for small bit of time and the pay to unlock everything is ehh it should be monthly",
+   "author": "Bigbootyjudth",
+   "version": "1.116",
+   "date": "2026-10-03T15:40:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14622575469",
+   "rating": 5,
+   "title": "Cool",
+   "body": "This app seems so cool",
+   "author": "maddieeeeeeeeehclhckhv",
+   "version": "1.116",
+   "date": "2026-10-03T05:21:56-07:00",
+   "votes": 0
+  },
   {
    "id": "14596464209",
    "rating": 1,

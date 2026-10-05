@@ -1,9 +1,18 @@
 {
  "versions": {
+  "1.116": {
+   "summary": "Maintenance release (bug fixes / performance).",
+   "trivial": true,
+   "ts": "2026-10-05T07:36:15+00:00",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "fixed": []
+  },
   "1.115.1": {
    "summary": "Maintenance release (bug fixes / performance).",
    "trivial": true,
-   "ts": "2026-09-30T08:41:57+00:00",
+   "ts": "2026-10-05T07:36:15+00:00",
    "added": [],
    "changed": [],
    "removed": [],
@@ -11,8 +20,11 @@
   }
  },
  "cadence": {
-  "text": "unknown"
+  "text": "2 releases in the last 90 days, typically every 6 days",
+  "last90": 2,
+  "medianDays": 6,
+  "lastRelease": "2026-09-30T11:00:36+00:00"
  },
  "lastError": null,
- "lastRun": "2026-09-30T08:41:57+00:00"
+ "lastRun": "2026-10-05T07:36:15+00:00"
 }

@@ -1,9 +1,18 @@
 {
  "versions": {
+  "0.2.2610010": {
+   "summary": "Maintenance release (bug fixes / performance).",
+   "trivial": true,
+   "ts": "2026-10-05T07:36:15+00:00",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "fixed": []
+  },
   "0.2.2609260": {
    "summary": "Maintenance release (bug fixes / performance).",
    "trivial": true,
-   "ts": "2026-09-30T08:41:57+00:00",
+   "ts": "2026-10-05T07:36:15+00:00",
    "added": [],
    "changed": [],
    "removed": [],
@@ -11,8 +20,11 @@
   }
  },
  "cadence": {
-  "text": "unknown"
+  "text": "2 releases in the last 90 days, typically every 5 days",
+  "last90": 2,
+  "medianDays": 5,
+  "lastRelease": "2026-10-02T03:07:38+00:00"
  },
  "lastError": null,
- "lastRun": "2026-09-30T08:41:57+00:00"
+ "lastRun": "2026-10-05T07:36:15+00:00"
 }
