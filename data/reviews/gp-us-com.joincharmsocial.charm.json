@@ -1,39 +1,50 @@
 {
  "stats": {
-  "total": 22,
-  "avg": 4.05,
+  "total": 23,
+  "avg": 3.96,
   "dist": {
    "1": 3,
-   "2": 1,
+   "2": 2,
    "3": 1,
    "4": 4,
    "5": 13
   },
   "d7": {
    "count": 1,
-   "avg": 4.0,
+   "avg": 2.0,
    "dist": {
     "1": 0,
-    "2": 0,
+    "2": 1,
     "3": 0,
-    "4": 1,
+    "4": 0,
     "5": 0
    }
   },
   "d30": {
-   "count": 14,
-   "avg": 4.0,
+   "count": 10,
+   "avg": 4.1,
    "dist": {
-    "1": 2,
-    "2": 0,
-    "3": 1,
-    "4": 4,
-    "5": 7
+    "1": 1,
+    "2": 1,
+    "3": 0,
+    "4": 2,
+    "5": 6
    }
   },
-  "updatedAt": "2026-10-05T12:15:52+00:00"
+  "updatedAt": "2026-10-12T08:25:25+00:00"
  },
  "reviews": [
+  {
+   "id": "04843e6d-1682-4804-bd15-d087628f1c7b",
+   "rating": 2,
+   "title": "",
+   "body": "it's really laggy, I chatted with the bot today but they won't reply, so great. I wasted 5 chats",
+   "author": "Crystal",
+   "version": "0.2.2610060",
+   "date": "2026-10-09T16:14:21+00:00",
+   "votes": 0,
+   "reply": "Hi Crystal, I'm so sorry you ran into this! We had some issues that caused chat reply bugs, but it was fixed after 15 minutes. If you email me, I'd be happy to credit your account to offset the lost chats! hello@joincharmsocial.com"
+  },
   {
    "id": "f1743333-7b45-40e2-89da-4acc0fc0fba6",
    "rating": 4,

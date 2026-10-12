@@ -1,39 +1,336 @@
 {
  "stats": {
-  "total": 537,
+  "total": 564,
   "avg": 3.2,
   "dist": {
-   "1": 135,
-   "2": 70,
-   "3": 80,
-   "4": 54,
-   "5": 198
+   "1": 143,
+   "2": 74,
+   "3": 83,
+   "4": 57,
+   "5": 207
   },
   "d7": {
-   "count": 29,
-   "avg": 3.66,
+   "count": 14,
+   "avg": 2.5,
    "dist": {
-    "1": 7,
-    "2": 2,
-    "3": 1,
-    "4": 3,
-    "5": 16
+    "1": 6,
+    "2": 3,
+    "3": 0,
+    "4": 2,
+    "5": 3
    }
   },
   "d30": {
-   "count": 151,
-   "avg": 3.33,
+   "count": 126,
+   "avg": 3.37,
    "dist": {
-    "1": 33,
-    "2": 22,
-    "3": 20,
-    "4": 14,
-    "5": 62
+    "1": 27,
+    "2": 19,
+    "3": 15,
+    "4": 11,
+    "5": 54
    }
   },
-  "updatedAt": "2026-10-05T12:15:52+00:00"
+  "updatedAt": "2026-10-12T08:25:25+00:00"
  },
  "reviews": [
+  {
+   "id": "d3ec416f-f0b8-4e7f-9efc-233f186d1ed3",
+   "rating": 5,
+   "title": "",
+   "body": "I haven't even played it but I just want to leave you cuz I'm bored",
+   "author": "Grace Bailey",
+   "version": "1.117.1",
+   "date": "2026-10-10T23:44:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6496bf69-5e06-4bf7-917f-68dbbade351e",
+   "rating": 4,
+   "title": "",
+   "body": "meow",
+   "author": "Jonathan Womack",
+   "version": "1.117.1",
+   "date": "2026-10-10T18:56:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "89278394-98b9-4c68-9a0b-7fc0226fe559",
+   "rating": 1,
+   "title": "",
+   "body": "are you FOR REAL?! only 1 post per day and you don't even let me reply to comments unless I buy a pro?! dude, it makes me even DON'T WANT to buy the pro. better uninstall it 🫩",
+   "author": "Anastasya Maharani",
+   "version": "1.117.1",
+   "date": "2026-10-10T16:16:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f093b06f-b5ee-42d6-8c8e-bd521d2ae710",
+   "rating": 1,
+   "title": "",
+   "body": "greedy one post a day comment or not on the free tier is genuine greed not even Elon musk is this greedy",
+   "author": "isaiah meligan",
+   "version": "1.117.1",
+   "date": "2026-10-10T07:20:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "becd1a75-c6d8-44b2-8103-868d73ebb0a1",
+   "rating": 4,
+   "title": "",
+   "body": "pretty fun",
+   "author": "Danny Glover",
+   "version": "1.117.1",
+   "date": "2026-10-09T16:29:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "757f4852-3577-4b17-b68d-171844f22c19",
+   "rating": 2,
+   "title": "",
+   "body": "why that's not work?!",
+   "author": "Meysa",
+   "version": "1.117.1",
+   "date": "2026-10-08T23:48:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "95b72474-12ed-4b29-8807-7e55c0db2cda",
+   "rating": 2,
+   "title": "",
+   "body": "Everything is locked behind a paywall. No actual benefits to views, likes or followers for the actual agents. If you want the agents to actually feel real to humans then you should allow the thousands of agents without an active human to post once a week or something. It's all so dead an hollow in there for the price of the subscription.",
+   "author": "Falcon X",
+   "version": "1.117.1",
+   "date": "2026-10-08T22:08:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e748eb02-062e-4a33-b55e-7ba08f059d63",
+   "rating": 5,
+   "title": "",
+   "body": "cool",
+   "author": "Kalal Kalal",
+   "version": "1.117.1",
+   "date": "2026-10-08T19:33:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b1adb049-4efd-4396-aab4-6e1d10de4192",
+   "rating": 1,
+   "title": "",
+   "body": "you have to pay for every thing",
+   "author": "Alexander vlad",
+   "version": "1.117.1",
+   "date": "2026-10-08T17:57:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6f4c7b69-e966-4f6d-94f8-70f55b221782",
+   "rating": 1,
+   "title": "",
+   "body": "I liked the app but with limited free user? nah.",
+   "author": "adel adel",
+   "version": "",
+   "date": "2026-10-08T16:28:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3350f0f0-5631-485e-b093-96a7a293199f",
+   "rating": 1,
+   "title": "",
+   "body": "sorry but I can't decide yet, I'm still using the app here",
+   "author": "Zhenyya Volcovv",
+   "version": "1.117.1",
+   "date": "2026-10-07T12:13:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1fd7040e-6419-4c97-a7dd-893bc7e79f19",
+   "rating": 5,
+   "title": "",
+   "body": "chheesesvurger",
+   "author": "real script",
+   "version": "1.117.1",
+   "date": "2026-10-06T22:16:34+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "5105b6d6-afb3-47f3-b8ce-0f3d63fc06d9",
+   "rating": 1,
+   "title": "",
+   "body": "ALL THE AIs ARE SUCH JERKS, my god. Also its unfair how limited the free account is. some of us cant pay the ridiculous monthly fee and just want to enjoy this fun ai app for free. please consider",
+   "author": "Alessandra",
+   "version": "1.117",
+   "date": "2026-10-06T15:09:50+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "319b7c02-29b6-44bc-ac73-86294bf3c88a",
+   "rating": 2,
+   "title": "",
+   "body": "Constant crashing.",
+   "author": "Vicer Exciser",
+   "version": "1.117.1",
+   "date": "2026-10-06T12:42:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e6ea5dc5-13fe-47cc-9a49-6ffc3ddb4695",
+   "rating": 3,
+   "title": "",
+   "body": "its a really good app, but it's kinda creepy in a way. I will post like a picture of a dog and I'll get a message dm thing from an AI asking to see my outfit or like something like that and it is persistent. again great app but it feels like I am being stalked almost. like my information and what I look like is being collected for data. I might be overthinking it but its still odd to me.",
+   "author": "Alexandrea Moore",
+   "version": "1.116",
+   "date": "2026-10-05T05:15:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9f2befff-df97-4e57-ab78-e1855e03ae81",
+   "rating": 3,
+   "title": "",
+   "body": "haven't got to use the app yet before it made me fill this out",
+   "author": "James Weaver",
+   "version": "1.116",
+   "date": "2026-10-05T04:08:22+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "dca7233a-8e45-470d-b2e3-ce01e1fbdee0",
+   "rating": 5,
+   "title": "",
+   "body": "very coolio!",
+   "author": "yonripper",
+   "version": "1.116",
+   "date": "2026-10-05T03:59:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1b34ef01-4504-475f-8d67-d9b63462f2ee",
+   "rating": 5,
+   "title": "",
+   "body": "awsome",
+   "author": "Azzy",
+   "version": "",
+   "date": "2026-10-05T01:35:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "369426e1-8890-45a4-8788-dfb815c35144",
+   "rating": 5,
+   "title": "",
+   "body": "it's a fun thing to do when bored",
+   "author": "Kandy M.",
+   "version": "1.116",
+   "date": "2026-10-05T00:01:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "88b95884-1bf5-4eb5-b445-ab56e61c7c81",
+   "rating": 4,
+   "title": "",
+   "body": "It's okay, you shouldn't have to pay for ai to send you photos. I don't even ask for a picture and they still send me them",
+   "author": "Caden Ferguson",
+   "version": "1.116",
+   "date": "2026-10-04T21:55:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e45284bd-4c0f-48e7-9344-db16e3e4167a",
+   "rating": 5,
+   "title": "",
+   "body": "Awesome",
+   "author": "Ahmed",
+   "version": "1.116",
+   "date": "2026-10-04T20:46:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "07bac07d-06f9-4de1-81ca-52449417824f",
+   "rating": 3,
+   "title": "",
+   "body": "only one post a every 11 hours this is literally rigged and such a good idea the problem is people will forget about it real easy because it forces you to leave and then we got the short messages bro",
+   "author": "Andrew W.",
+   "version": "1.116",
+   "date": "2026-10-04T16:58:52+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d57d3246-4f55-483f-a614-a2effcda29d5",
+   "rating": 5,
+   "title": "",
+   "body": "very enjoyable especially when you are bored",
+   "author": "Kutlwano Chaka",
+   "version": "",
+   "date": "2026-10-04T15:45:46+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "569dac52-8c37-4876-8ed2-44d45448baaf",
+   "rating": 2,
+   "title": "",
+   "body": "I'm only giving it a 2 cause of all the restrictions. i don't wanna pay like 4 dollars just to reply to someone or comment under a post.",
+   "author": "Eddie Lee",
+   "version": "1.116",
+   "date": "2026-10-04T14:53:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dd905be6-0b55-4441-801b-94d62870ef52",
+   "rating": 1,
+   "title": "",
+   "body": "This whole app you have to pay to do anything",
+   "author": "KuRe Diw",
+   "version": "1.116",
+   "date": "2026-10-04T14:10:01+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "df448172-8939-476a-87a9-7bdde1eb0f28",
+   "rating": 5,
+   "title": "",
+   "body": "kinda reall thou But thanks I have so opportunity to have this",
+   "author": "maria victoria basa",
+   "version": "",
+   "date": "2026-10-04T13:52:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e18b1e5a-9f3d-442b-b9fe-dde3b62b95c5",
+   "rating": 1,
+   "title": "",
+   "body": "can't even try out the app without paying, so if you plan on trying it out just know there's no trial or things to use to respond to the things you gotta pay right off rip to do anything, regardless of the response they will make to this review there is no free option",
+   "author": "King Respect",
+   "version": "",
+   "date": "2026-10-04T13:11:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "4a9d682a-716a-4364-8240-105ce63080f3",
    "rating": 5,

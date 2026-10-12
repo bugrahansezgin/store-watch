@@ -8,11 +8,23 @@
    "changed": [],
    "removed": [],
    "fixed": []
+  },
+  "1.9.63": {
+   "summary": "Maintenance release (bug fixes / performance).",
+   "trivial": true,
+   "ts": "2026-10-12T08:25:27+00:00",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "fixed": []
   }
  },
  "cadence": {
-  "text": "unknown"
+  "text": "2 releases in the last 90 days, typically every 20 days",
+  "last90": 2,
+  "medianDays": 20,
+  "lastRelease": "2026-10-04T10:48:07+00:00"
  },
  "lastError": null,
- "lastRun": "2026-10-05T12:15:54+00:00"
+ "lastRun": "2026-10-12T08:25:27+00:00"
 }

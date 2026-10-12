@@ -17,14 +17,23 @@
    "changed": [],
    "removed": [],
    "fixed": []
+  },
+  "0.2.2610080": {
+   "summary": "Maintenance release (bug fixes / performance).",
+   "trivial": true,
+   "ts": "2026-10-12T08:25:27+00:00",
+   "added": [],
+   "changed": [],
+   "removed": [],
+   "fixed": []
   }
  },
  "cadence": {
-  "text": "2 releases in the last 90 days, typically every 5 days",
-  "last90": 2,
-  "medianDays": 5,
-  "lastRelease": "2026-10-02T03:07:38+00:00"
+  "text": "3 releases in the last 90 days, typically every 7 days",
+  "last90": 3,
+  "medianDays": 7,
+  "lastRelease": "2026-10-09T03:32:54+00:00"
  },
  "lastError": null,
- "lastRun": "2026-10-05T12:15:54+00:00"
+ "lastRun": "2026-10-12T08:25:27+00:00"
 }

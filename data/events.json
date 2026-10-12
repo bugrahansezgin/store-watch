@@ -1,5 +1,175 @@
 [
  {
+  "id": "2026-10-12-us-6502742786-release",
+  "type": "release",
+  "app": "us-6502742786",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.117",
+  "summary": "1.116 → 1.117",
+  "before": "1.116",
+  "after": "1.117",
+  "notes": "bug fixes"
+ },
+ {
+  "id": "2026-10-12-us-6502742786-icon",
+  "type": "icon",
+  "app": "us-6502742786",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Aspect: AI-Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/90/12/b8901296-acde-09d9-d39d-cfaffca62aa8/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/45/b4/4145b44e-9676-8599-f0c3-21c68559f0e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-12-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Instagram shipped version 450.1.0",
+  "summary": "449.0.0 → 450.1.0",
+  "before": "449.0.0",
+  "after": "450.1.0",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-10-12-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3a/3d/fa/3a3dfa81-9e7a-f495-f177-04fbabc23f32/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/17/93/30179310-7a32-f8b3-5b31-a01addf6c367/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-12-us-6753083338-release",
+  "type": "release",
+  "app": "us-6753083338",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610080",
+  "summary": "0.2.2609260 → 0.2.2610080",
+  "before": "0.2.2609260",
+  "after": "0.2.2610080",
+  "notes": "This update includes bug fixes and improvements to your AI world experience!\n\nHave a question or feedback? Reach out anytime at hello@joincharmsocial.com"
+ },
+ {
+  "id": "2026-10-12-us-6753083338-icon",
+  "type": "icon",
+  "app": "us-6753083338",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Charm: AI Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/fd/82/ddfd82a6-38f3-4cf3-0e11-f32dce5fd3c5/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/3b/8c/373b8c24-ad71-561d-0c8d-f85728a88535/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-12-gp-us-link.socialai.app-release",
+  "type": "release",
+  "app": "gp-us-link.socialai.app",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "status - sims but social media shipped version 1.9.63",
+  "summary": "1.9.61 → 1.9.63",
+  "before": "1.9.61",
+  "after": "1.9.63",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-12-gp-us-com.instagram.android-release",
+  "type": "release",
+  "app": "gp-us-com.instagram.android",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Instagram shipped an update",
+  "summary": "Updated 2026-10-05",
+  "before": "2026-09-28",
+  "after": "2026-10-05",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-12-gp-us-xyz.aspectapp.aspect-release",
+  "type": "release",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.117.1",
+  "summary": "1.117 → 1.117.1",
+  "before": "1.117",
+  "after": "1.117.1",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-12-gp-us-com.joincharmsocial.charm-release",
+  "type": "release",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610080",
+  "summary": "0.2.2610010 → 0.2.2610080",
+  "before": "0.2.2610010",
+  "after": "0.2.2610080",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-12-us-1158555867-release",
+  "type": "release",
+  "app": "us-1158555867",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Replika - AI Companion Chat shipped version 12.4.0",
+  "summary": "12.3.5 → 12.4.0",
+  "before": "12.3.5",
+  "after": "12.4.0",
+  "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth."
+ },
+ {
+  "id": "2026-10-12-us-1158555867-icon",
+  "type": "icon",
+  "app": "us-1158555867",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Replika - AI Companion Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/f7/7b/aef77b59-14a7-b923-5506-c59a1104076f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/44/70/98447082-59d0-819b-e74b-954f847497b7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-12-us-1544750895-release",
+  "type": "release",
+  "app": "us-1544750895",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "CHAI: Social AI Platform- Chat shipped version 2.198",
+  "summary": "2.195 → 2.198",
+  "before": "2.195",
+  "after": "2.198",
+  "notes": "Bug fixes & improvements"
+ },
+ {
+  "id": "2026-10-12-us-1544750895-icon",
+  "type": "icon",
+  "app": "us-1544750895",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "CHAI: Social AI Platform- Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d0/04/81d00438-aa2d-9573-9795-ea5dea302685/AppIcon-dark-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5e/91/7a5e91d6-68fc-470a-fce4-5cdc55c1551d/AppIcon-dark-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-12-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.428",
+  "summary": "0.4.425 → 0.4.428",
+  "before": "0.4.425",
+  "after": "0.4.428",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-12-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-12T08:25:06+00:00",
+  "title": "Chai: Chat AI Platform dropped to 2.43 stars",
+  "summary": "-0.54 from 2.97",
+  "before": 2.97,
+  "after": 2.43
+ },
+ {
   "id": "2026-10-05-gp-us-xyz.aspectapp.aspect-release",
   "type": "release",
   "app": "gp-us-xyz.aspectapp.aspect",

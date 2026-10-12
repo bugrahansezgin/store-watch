@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "12.4.0",
+   "date": "2026-10-05T08:17:48Z",
+   "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth.",
+   "source": "tracked"
+  },
+  {
    "version": "12.3.5",
    "date": "2026-07-24T18:19:00+00:00",
    "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth.",
