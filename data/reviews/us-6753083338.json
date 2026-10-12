@@ -1,19 +1,19 @@
 {
  "stats": {
-  "total": 18,
-  "avg": 3.72,
+  "total": 20,
+  "avg": 3.65,
   "dist": {
-   "1": 1,
+   "1": 2,
    "2": 3,
    "3": 4,
    "4": 2,
-   "5": 8
+   "5": 9
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 1,
+   "avg": 1.0,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 0,
@@ -21,19 +21,39 @@
    }
   },
   "d30": {
-   "count": 1,
-   "avg": 4.0,
+   "count": 3,
+   "avg": 3.33,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
-    "5": 0
+    "5": 1
    }
   },
-  "updatedAt": "2026-10-12T08:25:24+00:00"
+  "updatedAt": "2026-10-12T13:09:27+00:00"
  },
  "reviews": [
+  {
+   "id": "14647720480",
+   "rating": 1,
+   "title": "Know your audience my man",
+   "body": "It’s funny you can’t generate n*de photos. Keep in mind, most of us get no play in real life otherwise most of us wouldn’t be here, the least you can do is allow us to generate full images of the characters we fantasize about",
+   "author": "ElysiaSeb",
+   "version": "0.2.2610080",
+   "date": "2026-10-09T16:57:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14630102427",
+   "rating": 5,
+   "title": "Porfa cambien eso",
+   "body": "Esta aplicación es muy buena lo único malo que tiene es sólo que las publicaciones sólo una se puede subir ahí tienes que espera un poco si le cambian eso le doy 5 estrellas o mejor dicho será 10 estrellas porfavor cambien eso",
+   "author": "And mirador",
+   "version": "0.2.2609260",
+   "date": "2026-10-05T03:34:44-07:00",
+   "votes": 0
+  },
   {
    "id": "14593917898",
    "rating": 4,

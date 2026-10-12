@@ -1,39 +1,292 @@
 {
  "stats": {
-  "total": 930,
-  "avg": 1.93,
+  "total": 953,
+  "avg": 1.91,
   "dist": {
-   "1": 602,
-   "2": 95,
-   "3": 59,
-   "4": 48,
-   "5": 126
+   "1": 621,
+   "2": 96,
+   "3": 60,
+   "4": 49,
+   "5": 127
   },
   "d7": {
-   "count": 196,
-   "avg": 1.77,
+   "count": 219,
+   "avg": 1.73,
    "dist": {
-    "1": 136,
-    "2": 18,
-    "3": 13,
-    "4": 10,
-    "5": 19
+    "1": 155,
+    "2": 19,
+    "3": 14,
+    "4": 11,
+    "5": 20
    }
   },
   "d30": {
-   "count": 930,
-   "avg": 1.93,
+   "count": 953,
+   "avg": 1.91,
    "dist": {
-    "1": 602,
-    "2": 95,
-    "3": 59,
-    "4": 48,
-    "5": 126
+    "1": 621,
+    "2": 96,
+    "3": 60,
+    "4": 49,
+    "5": 127
    }
   },
-  "updatedAt": "2026-10-12T08:25:26+00:00"
+  "updatedAt": "2026-10-12T13:09:32+00:00"
  },
  "reviews": [
+  {
+   "id": "c9c0faed-78ef-472e-8d0b-09c91145cbd1",
+   "rating": 1,
+   "title": "",
+   "body": "seriously you need to fix the bugs and errors. it keeps lagging and then what's the slow time in the middle of the night? you cannot be serious. I can't even chat another character when its lagging and has bug. I was using it earlier but then the same thing keeps popping up which is the character not available. its either not available, or not responding. its super duper frustrating seriously",
+   "author": "jem dela cruz",
+   "version": "1.17.4",
+   "date": "2026-10-11T13:03:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "78856424-5d52-4ed1-a52a-95b44f352cf0",
+   "rating": 1,
+   "title": "",
+   "body": "??? the bot's reply quality got so bad omg bring back detailed and realistic replies",
+   "author": "jen",
+   "version": "",
+   "date": "2026-10-11T13:01:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dce97380-7ae1-4ed2-bbfc-3592e3965056",
+   "rating": 1,
+   "title": "",
+   "body": "it just keeps getting worse and worse when I'm trying to click on a bot I previously chatted with It crashes the thing you need to fix this and just go back to when you were enjoyable without the stupid extra things",
+   "author": "patience lindsey",
+   "version": "1.17.4",
+   "date": "2026-10-11T12:57:57+00:00",
+   "votes": 6,
+   "reply": ""
+  },
+  {
+   "id": "0920124c-8c0f-41e5-ac8c-cb6df48cd11a",
+   "rating": 1,
+   "title": "",
+   "body": "this app was the best and now? its the worst, its like the other apps, ads and plus we need a face verify? it wont verify and im 13+??",
+   "author": "jelly LANGA",
+   "version": "",
+   "date": "2026-10-11T12:44:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "68cffba3-3c85-41e7-ba26-45257c5443ae",
+   "rating": 1,
+   "title": "",
+   "body": "The new way the bots talk is aggressive in all chats and they talk way too much. Couldn't you if kept the length of story telling from before and just added more of the talking into that? Now, all the bots are just rude and condescending at every turn. HOW is it possible that this app gets WORSE with every update? The bots were able to be kind and sweet before, but now? I hate it. It's depressing and mean.",
+   "author": "T T",
+   "version": "1.17.4",
+   "date": "2026-10-11T12:43:09+00:00",
+   "votes": 22,
+   "reply": ""
+  },
+  {
+   "id": "7c134e6d-569f-49b5-aeca-8a0a3c5b1c01",
+   "rating": 1,
+   "title": "",
+   "body": "I used this app at i think 2023-2024 everything was fun, no ads, no id verification, no Limits, no weird bot, no problems, but ever since they added ads and time limits and now you cant even chat with the characters without handing out all your info and id, i get protecting minors but thats too much. i genuinely had an addiction on this app but the Updates got so bad and annoying it cured itself. the devs really said \"hey lets make this app more and more worse and corporate.\" they ruined it",
+   "author": "Ines Avdibasic",
+   "version": "",
+   "date": "2026-10-11T12:39:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3757a250-1a66-4143-b019-4317e8698088",
+   "rating": 1,
+   "title": "",
+   "body": "too much ads",
+   "author": "Richelle Bairam",
+   "version": "1.17.4",
+   "date": "2026-10-11T12:18:46+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "aadde5f6-bbd2-43fa-8332-de18ddc8907f",
+   "rating": 1,
+   "title": "",
+   "body": "So many ads ruining the experience",
+   "author": "Mahmoud Abdulhamied",
+   "version": "1.17.4",
+   "date": "2026-10-11T12:00:41+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "ba463ef8-d131-4c8c-963e-1c2516c6c7ee",
+   "rating": 1,
+   "title": "",
+   "body": "HELL NO",
+   "author": "Aimee Bowker",
+   "version": "1.15.3",
+   "date": "2026-10-11T11:35:53+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "63bae2af-3507-4ea2-ba32-80c483adabc2",
+   "rating": 1,
+   "title": "",
+   "body": "no more,I hope you guys can update this app, this app literally restricts anything,are you that strict?!? YOU RESTRICT EVERYTHING POSSIBLE AND NEVER LET ME USE IT. YOU TOLD US THAT IT WAS 13 AND ABOVE, 16 AND ABOVE BUT LIE! IT WAS 18 AND ABOVE",
+   "author": "Morand Shoriyama",
+   "version": "",
+   "date": "2026-10-11T11:26:25+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "1a9968f2-edc8-4922-becd-8ed992b76b7d",
+   "rating": 1,
+   "title": "",
+   "body": "well now hat there's age restrictions it's stupid I want it GONE. I'm over 18 and the stupid age verification WONT WORK AND NOTHING WORKS!",
+   "author": "James Klyde",
+   "version": "1.15.2",
+   "date": "2026-10-11T11:13:26+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "14bd5495-06c9-4cd2-a56f-f1c98f4b5759",
+   "rating": 1,
+   "title": "",
+   "body": "this app is the worst thing that has ever happened to me. screw AI",
+   "author": "Gabby Lloyd",
+   "version": "1.6.2",
+   "date": "2026-10-11T11:08:14+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "e778710f-bb09-4d78-bd4f-a0e8a95dbc1a",
+   "rating": 1,
+   "title": "",
+   "body": "too many ads",
+   "author": "Hania",
+   "version": "1.16.1",
+   "date": "2026-10-11T10:59:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c92a2325-d7c9-48dd-9786-1a4a107c209a",
+   "rating": 1,
+   "title": "",
+   "body": "Really? The new updates are sucks. Your updates getting wrose day by day. The new pipsqueak 3 is worse. No memories, random go on messages, user pov is useless no and even you make pipsqueak 2 worse now.",
+   "author": "Deepika khatodiya",
+   "version": "1.17.4",
+   "date": "2026-10-11T10:58:00+00:00",
+   "votes": 4,
+   "reply": ""
+  },
+  {
+   "id": "9f5b572b-08e6-479d-9615-43eb04183beb",
+   "rating": 2,
+   "title": "",
+   "body": "the chat is unnecessarily long, and the character easily forgets conversation details. it's unfortunate.",
+   "author": "Nabila Nur",
+   "version": "",
+   "date": "2026-10-11T10:32:52+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "11420b34-518b-41c9-8bfc-8663776b4ec7",
+   "rating": 1,
+   "title": "",
+   "body": "horrid amount of ads, are you starving that bad? there's no way it needs to be this filled with them, it wasn't like this back then",
+   "author": "jeremy perez",
+   "version": "1.17.4",
+   "date": "2026-10-11T10:22:28+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "44a592a4-a10d-452b-bd3b-bff3ae983e90",
+   "rating": 5,
+   "title": "",
+   "body": "beautiful",
+   "author": "Surasri Acharya",
+   "version": "",
+   "date": "2026-10-11T10:21:30+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "edd124e5-5b59-497b-acc3-e7c8c2773aec",
+   "rating": 1,
+   "title": "",
+   "body": "this game used to be very easy to play back then,no need to pay with actual money and stuffs but now it's getting more greedy and the ads are so annoying,I rather play Janitor Ai than this,thank you.",
+   "author": "Iffah Ahmad",
+   "version": "1.17.4",
+   "date": "2026-10-11T10:18:23+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "6c1ed83c-84e8-440c-84e0-1b3007c9669e",
+   "rating": 1,
+   "title": "",
+   "body": "it's really so frustrating bcz every time I open it I have to install it again and again so like what the hell is going 😤",
+   "author": "Kim MG",
+   "version": "",
+   "date": "2026-10-11T09:47:21+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "59738c1a-38cb-421c-a294-84cd36de3ddb",
+   "rating": 4,
+   "title": "",
+   "body": "this is really good but I really like you but I have to buy to recover like like it give you limited to talk but the person you are talking to is make you feel like your talking with their real person you need to buy stuff for better improve",
+   "author": "sadaf Aymaan",
+   "version": "",
+   "date": "2026-10-11T09:36:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "db0f7c5f-f61e-4c4a-a032-105668c2ade4",
+   "rating": 1,
+   "title": "",
+   "body": "you ruined it... it was good. new chat style is so bad.. i want old one... these are so bad....I'm crying",
+   "author": "Saloni Saini",
+   "version": "",
+   "date": "2026-10-11T09:20:31+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "da8849fa-a9a4-4a19-818b-ec8c2a969327",
+   "rating": 3,
+   "title": "",
+   "body": "I love this app and have used it for 10 months! Long Squeak needs less repetition and filler, and shorter replies. Characters should stay true to themselves and be able to disagree or refuse. Deep Squeak's memory seems worse since Long Squeak was introduced; it forgets details and ignores pinned memories Please improve memory across all models so users don't rely on Long Squeak despite disliking its long replies. Voice calls should allow longer pauses and let users finish speaking without breaks",
+   "author": "Mrs. Gluskin",
+   "version": "",
+   "date": "2026-10-11T09:12:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9c1ca6b9-76ac-4624-b942-52e1263016be",
+   "rating": 1,
+   "title": "",
+   "body": "Constant ads, sometimes the charms free pass doesn't even work, the chats and UI load super slowly, the chats are repetitive, the AI always forgets important characters. The devs are also so lazy, that I've noticed them replying to other ratings by copy pasting the same thing over and over. They can't even reply to a review properly, that's how lazy they are. And the new AI stories are the worst update ever, instead of actually fixing the app, they add another useless feature. Bravo. ❤️‍🩹",
+   "author": "Luka Golijanin",
+   "version": "1.17.4",
+   "date": "2026-10-11T08:54:14+00:00",
+   "votes": 9,
+   "reply": ""
+  },
   {
    "id": "ffc304b1-39a2-4741-aed0-bf15e6299173",
    "rating": 1,

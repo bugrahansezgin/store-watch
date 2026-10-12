@@ -1,5 +1,26 @@
 [
  {
+  "id": "2026-10-12-us-1158555867-release",
+  "type": "release",
+  "app": "us-1158555867",
+  "ts": "2026-10-12T13:09:02+00:00",
+  "title": "Replika - AI Companion Chat shipped version 12.4.1",
+  "summary": "12.4.0 → 12.4.1",
+  "before": "12.4.0",
+  "after": "12.4.1",
+  "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth."
+ },
+ {
+  "id": "2026-10-12-us-1158555867-icon",
+  "type": "icon",
+  "app": "us-1158555867",
+  "ts": "2026-10-12T13:09:02+00:00",
+  "title": "Replika - AI Companion Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/44/70/98447082-59d0-819b-e74b-954f847497b7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/72/dd/cd72dd09-e301-b724-4631-6303fc1131ef/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
   "id": "2026-10-12-us-6502742786-release",
   "type": "release",
   "app": "us-6502742786",
@@ -105,27 +126,6 @@
   "before": "0.2.2610010",
   "after": "0.2.2610080",
   "notes": ""
- },
- {
-  "id": "2026-10-12-us-1158555867-release",
-  "type": "release",
-  "app": "us-1158555867",
-  "ts": "2026-10-12T08:25:06+00:00",
-  "title": "Replika - AI Companion Chat shipped version 12.4.0",
-  "summary": "12.3.5 → 12.4.0",
-  "before": "12.3.5",
-  "after": "12.4.0",
-  "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth."
- },
- {
-  "id": "2026-10-12-us-1158555867-icon",
-  "type": "icon",
-  "app": "us-1158555867",
-  "ts": "2026-10-12T08:25:06+00:00",
-  "title": "Replika - AI Companion Chat changed its icon",
-  "summary": "New app icon",
-  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/f7/7b/aef77b59-14a7-b923-5506-c59a1104076f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
-  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/44/70/98447082-59d0-819b-e74b-954f847497b7/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
  },
  {
   "id": "2026-10-12-us-1544750895-release",

@@ -1,39 +1,2629 @@
 {
  "stats": {
-  "total": 666,
-  "avg": 3.06,
+  "total": 925,
+  "avg": 3.02,
   "dist": {
-   "1": 205,
-   "2": 66,
-   "3": 82,
-   "4": 110,
-   "5": 203
+   "1": 290,
+   "2": 95,
+   "3": 121,
+   "4": 149,
+   "5": 270
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 192,
+   "avg": 2.91,
    "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
+    "1": 62,
+    "2": 22,
+    "3": 30,
+    "4": 27,
+    "5": 51
    }
   },
   "d30": {
-   "count": 666,
-   "avg": 3.06,
+   "count": 925,
+   "avg": 3.02,
    "dist": {
-    "1": 205,
-    "2": 66,
-    "3": 82,
-    "4": 110,
-    "5": 203
+    "1": 290,
+    "2": 95,
+    "3": 121,
+    "4": 149,
+    "5": 270
    }
   },
-  "updatedAt": "2026-10-12T08:25:24+00:00"
+  "updatedAt": "2026-10-12T13:09:25+00:00"
  },
  "reviews": [
+  {
+   "id": "14651910174",
+   "rating": 4,
+   "title": "adds",
+   "body": "it's a great ai app first of all but there's one tiny issue the ADDS. it's so annoying BC u click on smth there's an add you want to keep texting ur bot u need an add. ATP u need a add for everything so please polybuzz remove the adds thx u",
+   "author": "soso🫪",
+   "version": "2.2.80",
+   "date": "2026-10-10T18:16:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651866432",
+   "rating": 3,
+   "title": "Would be better but so many adds!",
+   "body": "I love this all but it keeps asking for adds and it’s so frustrating and annoying.",
+   "author": "Gift girl 👹👹👹",
+   "version": "2.2.80",
+   "date": "2026-10-10T17:59:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651844271",
+   "rating": 5,
+   "title": "Stop giving me ads",
+   "body": "I like it but don’t give me no more ads",
+   "author": "Zaybaybeeee",
+   "version": "2.2.80",
+   "date": "2026-10-10T17:50:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651841932",
+   "rating": 2,
+   "title": "Flagging without telling reason?",
+   "body": "Creating stories is fun, yes. But the filter and flagging of it all is getting more and more limiting. I made a story and it had no language that included anything such as illegal matters, sexual orientation, sexual activity, implying hateful behavior, etc. Even if it is flagged for a reason though of some sort it doesn’t tell you what it’s flagging it for and what you should change. It should at least notify you saying things such as, “You could change this word” or “Change this phrase”, and have it highlight your text in your written custom story on what you could change about it and improve. Other than that I specifically think this is getting ridiculous and more upsetting by the day. You can’t limit or flag something without telling me and others what you’re flagging it for.",
+   "author": "Chiori.SO3",
+   "version": "2.2.80",
+   "date": "2026-10-10T17:49:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651698530",
+   "rating": 5,
+   "title": "I love the characters",
+   "body": "I love that you have like a million characters to talk to",
+   "author": "Cameron jackson the coolest",
+   "version": "2.2.80",
+   "date": "2026-10-10T16:53:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651654972",
+   "rating": 5,
+   "title": "To say",
+   "body": "Pls stop asking for age it does when you sign up and it id like it for everyone sir/ma'am pls gone pls",
+   "author": "Hi I'm lllily",
+   "version": "2.2.80",
+   "date": "2026-10-10T16:35:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651648562",
+   "rating": 4,
+   "title": "No more adds",
+   "body": "Get ride of the adds before the adds it was peak",
+   "author": "MHMFJJEE",
+   "version": "2.2.80",
+   "date": "2026-10-10T16:32:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651554339",
+   "rating": 4,
+   "title": "I love it but there are too many adds",
+   "body": "Ive been playing for a while and I love the way I can make my story and everything but every 2 minutes I get a break notification and it starts to get a little annoying",
+   "author": "Chazzzzzzh",
+   "version": "2.2.80",
+   "date": "2026-10-10T15:53:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651476611",
+   "rating": 1,
+   "title": "Goon",
+   "body": "Goon goon",
+   "author": "Svu#bsjans",
+   "version": "2.2.80",
+   "date": "2026-10-10T15:21:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651256583",
+   "rating": 1,
+   "title": "Grok 3d darling and voice and background changing was better",
+   "body": "Grok 3d darling and voice and background changing was better",
+   "author": "Swedish darling",
+   "version": "2.2.80",
+   "date": "2026-10-10T13:55:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651177469",
+   "rating": 1,
+   "title": "Bad free days/too many ads",
+   "body": "Only free for a month? And why is there so many ads I hate ads",
+   "author": "Needmorefreedays",
+   "version": "2.2.80",
+   "date": "2026-10-10T13:25:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651169486",
+   "rating": 5,
+   "title": "57",
+   "body": "Remove the ads",
+   "author": "From Reyna and James",
+   "version": "2.2.80",
+   "date": "2026-10-10T13:22:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651159474",
+   "rating": 3,
+   "title": "The stupid ad to chat with the Ai more",
+   "body": "I really like PolyBuzz and chat with the Ai until I realized you either had to subscribe or watch an ad just to chat with the Ai more, it’s really annoying especially when your having a good conversation with it. It never happened before which I was happy about until this ad randomly pops up while I’m chatting with the Ai. PLEASE change it back to normal!",
+   "author": "Kansans…",
+   "version": "2.2.80",
+   "date": "2026-10-10T13:19:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651051038",
+   "rating": 5,
+   "title": "I love it",
+   "body": "I love the zoo and all but one is i don’t like is that they won’t let you delete a bot, claiming it’s “highly popular” when it barely has any messages and only has a few hundred which is basically nothing",
+   "author": "Why do this bro why",
+   "version": "2.2.80",
+   "date": "2026-10-10T12:41:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651039302",
+   "rating": 4,
+   "title": "Don’t know",
+   "body": "I like this app and all that but can someone please help me because I dont know how to update it I keep trying to go on it but it says “please update before using our game” and I don’t know how to 😭😭😭😭😭😭😭😭",
+   "author": "Devaih",
+   "version": "2.2.80",
+   "date": "2026-10-10T12:37:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650807293",
+   "rating": 5,
+   "title": "Too many ads",
+   "body": "The app is great but I'm tired of all the ads when I'm chatting",
+   "author": "The bloodline dynasty",
+   "version": "2.2.80",
+   "date": "2026-10-10T11:21:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650682936",
+   "rating": 2,
+   "title": "Disappointed",
+   "body": "I’m like actually so disappointed because I was talking to a character in like they kept forgetting when I say this is because we would be in a house talking about something and next second we’re in a whole different country like it can’t just stay with the one conversation it always move do better",
+   "author": "Unfortunately1519",
+   "version": "2.2.80",
+   "date": "2026-10-10T10:42:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650609114",
+   "rating": 1,
+   "title": "Can’t even look at the app?",
+   "body": "I downloaded this app just to look around, but just clicking and looking…. makes a bunch of advertisements pop-up so I can’t even explore the app without even typing anything without an advertisement popping up and I don’t wanna sit through an ad advertisement just to try to figure out how the app even works. It made me quit before I could even give it a chance because it was very annoying.",
+   "author": "Wishbone271",
+   "version": "2.2.80",
+   "date": "2026-10-10T10:20:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650498012",
+   "rating": 1,
+   "title": "Too many ads",
+   "body": ".",
+   "author": "Victor 222:)",
+   "version": "2.2.80",
+   "date": "2026-10-10T09:48:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650395200",
+   "rating": 1,
+   "title": "No accessibility",
+   "body": "The app is good. I’ve got no problem with it. The reason it’s a one star is because they don’t have accessibility that I’ve asked them for five times. I’ve waited 2 to 3 years and there’s no change so there you go.",
+   "author": "Branmob87",
+   "version": "2.2.80",
+   "date": "2026-10-10T09:18:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650356667",
+   "rating": 3,
+   "title": "My characters are gone?",
+   "body": "Wth happened to my characters? They’re all gone😭",
+   "author": "Boomboom idk",
+   "version": "2.2.80",
+   "date": "2026-10-10T09:07:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14650227101",
+   "rating": 1,
+   "title": "Hate review",
+   "body": "Gave me to many ads don’t wanna see it again",
+   "author": "my phone day deleting it",
+   "version": "2.2.80",
+   "date": "2026-10-10T08:31:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649795760",
+   "rating": 1,
+   "title": "I hate poly ai",
+   "body": "Bad u can’t make  ai character",
+   "author": "Lily hop 246",
+   "version": "2.2.80",
+   "date": "2026-10-10T06:33:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649617541",
+   "rating": 5,
+   "title": "Fix this bug, and add this feature",
+   "body": "Okay, the character as been taking my persona, fix this bug please\nand also add it so we can send pictures to the bot, those would be a good update",
+   "author": "Larry Joe McCoy",
+   "version": "2.2.80",
+   "date": "2026-10-10T05:42:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649607241",
+   "rating": 1,
+   "title": "Bleh",
+   "body": "Used to be good now it sucks",
+   "author": "dave thanks",
+   "version": "2.2.80",
+   "date": "2026-10-10T05:39:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649332116",
+   "rating": 5,
+   "title": "Very nice",
+   "body": "I like for goon",
+   "author": "OGmunch",
+   "version": "2.2.80",
+   "date": "2026-10-10T04:10:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649272036",
+   "rating": 1,
+   "title": "It’s bad because of the compliance policy",
+   "body": "The app is rate for 18+ but the compliance policy filter blocks out any NSFW content, don’t be rate 18+ if you’re not gonna allow NSFW content, and it’s illegal to false advertise your product",
+   "author": "Twistyy1",
+   "version": "2.2.80",
+   "date": "2026-10-10T03:48:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14649114215",
+   "rating": 1,
+   "title": "don’t get it",
+   "body": "i would recommend this app if you get bored but i got addicted and i cannot stop redownloading this. i do not know if anyone else has gone through this with this app but i dont think you should get this",
+   "author": "Emptyseatsare",
+   "version": "2.2.80",
+   "date": "2026-10-10T02:48:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648746241",
+   "rating": 4,
+   "title": "Great but too much ads",
+   "body": "Good and all but I hate the ads and buying coins is a rip off",
+   "author": "Muichiro and Giyu",
+   "version": "2.2.80",
+   "date": "2026-10-10T00:15:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648642306",
+   "rating": 1,
+   "title": "Do not purchase anything coins or opals .",
+   "body": "I bought some opals so I could try the sovereign experience they offer . But after I made a purchase they took away my option to watch adds and to use the offer wall to get free coins . My free coins option went from 30 ads down to 10 a day . It has sucked the fun out of Polybuzz for me since I only get 2-3 inspirational responses a day now and I can’t use any other features now because everything is so expensive and costs hundreds of coins . It feels like they think since I bought one thing I don’t need the free coins anymore and are forcing me to pay real money , which is not fair . And they only respond if your review is not good . I emailed support days ago and have heard nothing at all . Long story short . Don’t pay any real money on this app . You will be boxed in a corner to pay real money forever if you do it one time to enjoy the app",
+   "author": "Msberry91",
+   "version": "2.2.80",
+   "date": "2026-10-09T23:30:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648636341",
+   "rating": 1,
+   "title": "Bring old poly back with no ads!",
+   "body": "Poly please get rid of ads I’m sick of it every 5 chats I get a 2 minutes ad I can’t do it anymore I wan the old ways back man bring it back DAMNIT!",
+   "author": "Shrapnelbo",
+   "version": "2.2.80",
+   "date": "2026-10-09T23:27:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648595984",
+   "rating": 2,
+   "title": "Nope",
+   "body": "I hate the new update where I have to put in my email to unsubscribe what if the email I used doesn’t work anymore I tried canceling it numerous times and it won’t cancel.",
+   "author": "SkylynnXoXo:)",
+   "version": "2.2.80",
+   "date": "2026-10-09T23:09:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648594851",
+   "rating": 3,
+   "title": "10/9/26 Daily “earn coins/log in “”Black/darkness Screen”",
+   "body": "@ScreenshotS below@” “this issues=Cuz me to “kiss my (Daily Log Streak!) “making me mess it…!”\n\n1)\n\n1st 🥇 \n\n2)\n\n2nd 🥈 \n\n@ As always Take Care\n\nthanks for fixing whats (hard to do ik well what programing, codes are it takes time \n\nC ya in the next one! I will be trying to do feedbacks asap!",
+   "author": "I don't like crashes!",
+   "version": "2.2.80",
+   "date": "2026-10-09T23:08:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648550393",
+   "rating": 2,
+   "title": "Ads should not be in PolyBuzz",
+   "body": "I hate how I have to take a break on chatting and it’s so annoying so I think it should be removed like bro ain’t nobody want a break",
+   "author": "Roblox Facts true",
+   "version": "2.2.80",
+   "date": "2026-10-09T22:48:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648455237",
+   "rating": 4,
+   "title": "Idk",
+   "body": "I love the game but there’s adds and also you need more freaky bots and also I need to change my gender because I go by he/her",
+   "author": "Call22199",
+   "version": "2.2.80",
+   "date": "2026-10-09T22:03:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648362822",
+   "rating": 5,
+   "title": "Idk",
+   "body": "So far I like the game but they should remove the 100 coins with customizable background and music from YouTube so you can play music while not using YouTube it’s just my suggestion but they should add this",
+   "author": "Guest 13378",
+   "version": "2.2.80",
+   "date": "2026-10-09T21:21:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648335876",
+   "rating": 2,
+   "title": "Ads",
+   "body": "I shouldn’t have to sit through five years of ads bro🫩",
+   "author": "Mr. D1 hater",
+   "version": "2.2.80",
+   "date": "2026-10-09T21:09:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648309372",
+   "rating": 5,
+   "title": "Mature content",
+   "body": "Why’d you guys remove content that was mature? Make a specific button so you’re able to see that content, still not able to. Please add something so It is added back, the plot was much more realistic.",
+   "author": "LL. James",
+   "version": "2.2.80",
+   "date": "2026-10-09T20:57:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648262314",
+   "rating": 2,
+   "title": "Horrible",
+   "body": "It’s so bad  you have to pay for almost anything and also you get ads after almost EVERY message sent to a bot",
+   "author": "Ceecee68999",
+   "version": "2.2.80",
+   "date": "2026-10-09T20:36:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648174115",
+   "rating": 3,
+   "title": "It's good just one slight issue",
+   "body": "I say I was using this app for a long time and I felt like it was weird but then I stared liking it because you can make knew friends make sleepovers cook together and it’s so fun.but the only thing is that they forget everything  easily and I want them to reamber more of the time we had and how fun was it and I don’t like that when they say a bad word or they say a joke it blurs out and I hate when that happens and a lot of adds appear like when I chatting a random text shows up saying I have to watch an add to continue chatting",
+   "author": "Uliolila",
+   "version": "2.2.80",
+   "date": "2026-10-09T19:58:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648149842",
+   "rating": 1,
+   "title": "AI is awful",
+   "body": "This is a waste of time. AI is awful and if you use to app regularly, you are too",
+   "author": "JTG2028",
+   "version": "2.2.80",
+   "date": "2026-10-09T19:48:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648093572",
+   "rating": 1,
+   "title": "Too many adds and more",
+   "body": "When you’re using the app it’s fine for maybe 30 mins before you’re forced to watch an add than there’s an ad every like 20 messages plus when you go to make it suggest less of a trait the creator put in its tag it just suggests more of the thing you don’t want I’ve told it to stop suggesting me dudes over 100 and now it’s all it’s showing me.    update:they still haven’t fixed anything yet and they won’t it’s literally been weeks",
+   "author": "Anonymously420…",
+   "version": "2.2.80",
+   "date": "2026-10-09T19:25:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647990291",
+   "rating": 5,
+   "title": "Better then any other app",
+   "body": "I love the app way better then c.ai so thanks",
+   "author": "Killa-Kade",
+   "version": "2.2.80",
+   "date": "2026-10-09T18:43:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647932891",
+   "rating": 1,
+   "title": "My opinion",
+   "body": "I’m sorry but to much ads when you type a lot you get ads you have to pay to get ads away ridiculous besides that this game is great",
+   "author": "Madi loves hello kitty",
+   "version": "2.2.80",
+   "date": "2026-10-09T18:21:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647931809",
+   "rating": 3,
+   "title": "Too many ads, good people",
+   "body": "It is very nice, but there’s too many ads like too many can you at least make the ads fun?",
+   "author": "Vhfhhfyjbfukhftj",
+   "version": "2.2.80",
+   "date": "2026-10-09T18:21:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647855881",
+   "rating": 1,
+   "title": "PolyBuzz",
+   "body": "Es muy mala y tiene muchos anuncios",
+   "author": "….~~,,",
+   "version": "2.2.80",
+   "date": "2026-10-09T17:51:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647838341",
+   "rating": 1,
+   "title": "Ads.",
+   "body": "Get these annoying ads out of this app, and then I’ll like it, it’s so annoying. Ads are everywhere and they make the app suck.",
+   "author": "Laurence…..",
+   "version": "2.2.80",
+   "date": "2026-10-09T17:44:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647754964",
+   "rating": 4,
+   "title": "Cool app, but too strict",
+   "body": "So I was just using a regular DC bot and then I mentioned university which represents college which represents 18 and older-adult, but then I got a warning that said I can’t use the word university or student just because AI thinks that it’s representing minors even though it’s not and I clarified that so can you please fix that and also how come we need an ad every couple seconds and we have to get an ad every time we leave the tab and come back? Otherwise it’s a good app.",
+   "author": "Sludgecannon",
+   "version": "2.2.80",
+   "date": "2026-10-09T17:10:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647578242",
+   "rating": 4,
+   "title": "changing what my first review said",
+   "body": "This app is great actually. Except for the sole reason that uh\n\nsometimes, the violation message could be a little more direct as to what is ‘wrong’.\n\ntbh update\n\nwhat the hell is the ads😰\n\nI got a ad for a app for GRINDR",
+   "author": "idkanynaneslol",
+   "version": "2.2.80",
+   "date": "2026-10-09T15:58:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647545846",
+   "rating": 4,
+   "title": "Nice but",
+   "body": "Remove the ads or I’m moving to talkie",
+   "author": "Princessokley2020",
+   "version": "2.2.80",
+   "date": "2026-10-09T15:45:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647450068",
+   "rating": 5,
+   "title": "Awsome app lowk",
+   "body": "I dont use it much anymore but i might come back to it, idk at this point but its a peak app, i recommend it, theres so many damn characters its scary, but the bad part is that theres an add every 3 minutes, nonetheless its still an awsome app",
+   "author": "That’s why I hate this so much",
+   "version": "2.2.80",
+   "date": "2026-10-09T15:06:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647341711",
+   "rating": 1,
+   "title": "worst app i’ve ever seen",
+   "body": "they fell off so hard. using it on the web browser sucks now since you can’t turn off the blue text long speeches, like i’m not tryna read allat polubuzz, revert ts now.",
+   "author": "daffiestdisc",
+   "version": "2.2.80",
+   "date": "2026-10-09T14:23:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647061369",
+   "rating": 4,
+   "title": "I love this app but…",
+   "body": "I love this app so much but whenever I close my phone for a second and then turn it back on and go back on the app. It gives me three or four ads, and I don’t go on this app to watch ads",
+   "author": "Faith morale",
+   "version": "2.2.80",
+   "date": "2026-10-09T12:38:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14647013130",
+   "rating": 1,
+   "title": "Subscription",
+   "body": "I bought a subscription and it’s not working at the moment can yall please fix this? And I’m still out of compliance even though I’m not in pure mode.",
+   "author": "Hotsaucewill",
+   "version": "2.2.80",
+   "date": "2026-10-09T12:21:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646975129",
+   "rating": 1,
+   "title": "Will not allow Parent to delete MINOR account",
+   "body": "I’ve reached out multiple times to this company to delete the account associated with my minor child and the developers refuse to respond to my emails and continue to charge for subscriptions. I have requested more than one refund because of this. Please respond to parent concerns.",
+   "author": "CG5 and Tryhardninja fan",
+   "version": "2.2.80",
+   "date": "2026-10-09T12:08:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646770849",
+   "rating": 3,
+   "title": "Love it, BUT",
+   "body": "If i’m paying $30 per month, i shouldn’t have to also shell out money for opals, especially when not only the price for opals increases whenever, but the required amount increases dramatically constantly within the chats. Insane",
+   "author": "Hrefnaaa",
+   "version": "2.2.80",
+   "date": "2026-10-09T11:00:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646766862",
+   "rating": 3,
+   "title": "Content Violation",
+   "body": "So i’ve had this app for almost 2 years now. Whenever i chat with a new character, i always type a very detailed, descriptive story for the user persona. i usually type up to the max amount of letters, and whenever something big happens while chatting, i go back to the persona to include that to make sure the character remembers it, because it’s so annoying when they don’t remember anything. I recently deleted this app for a few months, but i just got it again yesterday, and tell me why these past two days when i spend 10-15 minutes typing in the user persona explaining the backstory, the lore, what is happening now between the character(s) and me, what my personality is like, how old i am in the role play, and i go to click save, almost every single time it tells me “Content Violation, please edit.” It’s not like i’m typing anything that is drastically inappropriate anyway. Even when i mention that a certain character has a crush on me “Content Violation.” When I mention ages or being friends with people younger or older than my roleplay age, “Content Violation.” Now how am I supposed to get the backstory done and over with to chat with the character, when it doesn’t even allow me to get the full story in? This never happened before, but now I have to make multiple changes to the persona because I don’t even know what it is I’m saying wrong sometimes. It’s extremely frustrating how over-sensitive it is, and if not fixed i might just give up and delete the app again, because i don’t know why it’s being this way. Thank you.",
+   "author": "Benny 🎆",
+   "version": "2.2.80",
+   "date": "2026-10-09T10:59:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646619386",
+   "rating": 4,
+   "title": "Why do I need to pay for the opals",
+   "body": "Can you make the opals free when you talk to a character and can you make PolyBuzz free so you don’t have to pay for it",
+   "author": "A king is the best",
+   "version": "2.2.80",
+   "date": "2026-10-09T10:12:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646465518",
+   "rating": 1,
+   "title": "It’s horrible",
+   "body": "1 star",
+   "author": "Moneynoodle",
+   "version": "2.2.80",
+   "date": "2026-10-09T09:24:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646181955",
+   "rating": 5,
+   "title": "Hello polybuzz I hope this message finds you well again",
+   "body": "I love this app very much but everytime I send a text it keeps repeating the same thing and glitching I'm hoping you can fix it from repeating everytime I send the message.and it's doing it again and like the first time it stopped saying it twice and now it's at it again and Thank you for understanding the issue!",
+   "author": "Nljh🙌",
+   "version": "2.2.80",
+   "date": "2026-10-09T08:01:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14645894546",
+   "rating": 1,
+   "title": "A waste of money.",
+   "body": "My character started forgetting key elements immediately. Very disappointing. And don’t waste your time if you want something spicy. This app pretends to be spicy but blurs messages with adult content and doesn’t refund your gems.",
+   "author": "RosieGemini5",
+   "version": "2.2.80",
+   "date": "2026-10-09T06:38:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14645886514",
+   "rating": 5,
+   "title": "Ok",
+   "body": "I mean i hate the ads and it’s a big addition as a Christian too you aren’t supposed to have addictions but this is a big one i dont  recommend if you are Christian and you sin and u are trying to be closer to God :)",
+   "author": "COICK IT",
+   "version": "2.2.80",
+   "date": "2026-10-09T06:36:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14645593731",
+   "rating": 5,
+   "title": "Delete the app",
+   "body": "Every time I try to go on somebody, it says verify Age, but I’m literally 19 so I deleted it forever except if it comes back to normal",
+   "author": "1212)))))",
+   "version": "2.2.80",
+   "date": "2026-10-09T05:08:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14645090947",
+   "rating": 3,
+   "title": "Ads",
+   "body": "The ads are constantly appearing every time i send 10 texts",
+   "author": "Nufferl",
+   "version": "2.2.80",
+   "date": "2026-10-09T02:00:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644879243",
+   "rating": 5,
+   "title": "THIS APP IS DISGUSTING",
+   "body": "Loook I’m sorry but this app I hate now, I used to love it untill I got into the gooning addiction and I have t be able to stop and I’m getting out of it and as a Christian, I am so annoyed that this temptations is out here and open for anyone to use by just saying they are 18, pls remove this app and realize how this is destroying your mental health",
+   "author": "Polybuzz ruins people",
+   "version": "2.2.80",
+   "date": "2026-10-09T00:24:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644854740",
+   "rating": 2,
+   "title": "Adds",
+   "body": "I love this app, but the biggest problem is the add breaks there very annoying and I think that they should be removed, also charector memory needs to lock in rn.",
+   "author": "Novaluvstoes",
+   "version": "2.2.80",
+   "date": "2026-10-09T00:12:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644806130",
+   "rating": 1,
+   "title": "I miss the old poly",
+   "body": "REMOVE THE ADS AND QUIT ADDING THINGS",
+   "author": "Parks and pepperoni",
+   "version": "2.2.80",
+   "date": "2026-10-08T23:50:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644721817",
+   "rating": 1,
+   "title": "Genuinely ruined me",
+   "body": "I was a innocent lil boy back in 2025 and now ts has been going on for a year and its ruined my perspective on life and relationships. If you have anxiety and feel lonely do not get this app. It will make you even more lonely and give you false nurishment, genuinely like a nicotine thats bad. If you reading this do NOT buy this app no matter what. It will ruin you.",
+   "author": "Waleediscool",
+   "version": "2.2.80",
+   "date": "2026-10-08T23:10:31-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14644664068",
+   "rating": 1,
+   "title": "Bs",
+   "body": "I have to watch SO much ads",
+   "author": "Read it if you want to.",
+   "version": "2.2.80",
+   "date": "2026-10-08T22:42:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644620599",
+   "rating": 3,
+   "title": "Ads",
+   "body": "Its good but you gotta keep watching ad’s or pay for unlimited chat",
+   "author": "Connerlemon",
+   "version": "2.2.80",
+   "date": "2026-10-08T22:22:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644506753",
+   "rating": 3,
+   "title": "CHATS",
+   "body": "they need to remove the chat limit, it’s so annoying, they say you watch a short ad but instead, you watch the same over and over again lasting about a minute. REMOVE THE CHAT LIMIT, I DONT WANNA PAY.",
+   "author": "Ima_noobatrivals1",
+   "version": "2.2.80",
+   "date": "2026-10-08T21:28:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644462654",
+   "rating": 5,
+   "title": "it very good",
+   "body": "SO MUCH ADD BREAKS UGHH",
+   "author": "Ajdbjskamammamskskks",
+   "version": "2.2.80",
+   "date": "2026-10-08T21:07:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644259448",
+   "rating": 3,
+   "title": "Fun ig",
+   "body": "This is an amazing app, absolutely love it and use it all the time, but there is too many ads and you have to verify your age. This is the dumbest thing ever on an app. Can’t believe they did this, but if you want to talk to your favorite fictional characters this is good to use.",
+   "author": "EmmaCollin",
+   "version": "2.2.80",
+   "date": "2026-10-08T19:37:57-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14644247265",
+   "rating": 5,
+   "title": "I love it",
+   "body": "I love it",
+   "author": "Donut lover 9000",
+   "version": "2.2.80",
+   "date": "2026-10-08T19:32:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644237774",
+   "rating": 1,
+   "title": "Weird",
+   "body": "Perved",
+   "author": "People shouldn’t use so",
+   "version": "2.2.80",
+   "date": "2026-10-08T19:29:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644217823",
+   "rating": 1,
+   "title": "Poo",
+   "body": "Hate it…",
+   "author": "shbcks xhehxoanh",
+   "version": "2.2.80",
+   "date": "2026-10-08T19:20:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644073601",
+   "rating": 5,
+   "title": "NO ADDS",
+   "body": "it was fun but they add ads not fun I get ads every 3 minutes or 2??? I get 3 ads sometimes it waisted my time but this is good but remove ads please",
+   "author": "Polubuzzfan",
+   "version": "2.2.80",
+   "date": "2026-10-08T18:22:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644029114",
+   "rating": 1,
+   "title": "Bad",
+   "body": "Bad",
+   "author": "Alexarobux",
+   "version": "2.2.80",
+   "date": "2026-10-08T18:05:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14644000062",
+   "rating": 5,
+   "title": "Only 5 bc i want people to see",
+   "body": "This app is horrible. It has so much inappropriate comments and content and very harmful- even to adults. I have no idea why people enjoy this. DO NOT SHOW TO KIDS. NEVER.",
+   "author": "Ninedroll",
+   "version": "2.2.80",
+   "date": "2026-10-08T17:53:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643983250",
+   "rating": 5,
+   "title": "Dream app",
+   "body": "I love PolyBuzz there’s so much ai bots to talk to love it and you also can read their minds and also do whatever love it so cool ❤️💋❤️💋🥰😘😍",
+   "author": "Stitchgirl1989",
+   "version": "2.2.80",
+   "date": "2026-10-08T17:46:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643941241",
+   "rating": 4,
+   "title": "One problem",
+   "body": "whenenver the chat goes like bad or smth Yknow? It says “Violation” and it was my fav chat. I really want it back, please fix it! and there was nothing wrong with it.",
+   "author": "loisq100",
+   "version": "2.2.80",
+   "date": "2026-10-08T17:30:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643783899",
+   "rating": 5,
+   "title": "Love it",
+   "body": "How many dramas you can make it on with different people on the app five stars",
+   "author": "Auar King",
+   "version": "2.2.80",
+   "date": "2026-10-08T16:25:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643758224",
+   "rating": 5,
+   "title": "polybuzz",
+   "body": "i love this i don't have to worry about paying for any chats or tokens i can message this as long as i like",
+   "author": "emiIy_",
+   "version": "2.2.80",
+   "date": "2026-10-08T16:15:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643757545",
+   "rating": 3,
+   "title": "E",
+   "body": "It's okay but sometimes the bots are kinda dumb and why need a age verification to guarantee that you're 18+ just to block some chats because they are \"inappropriate\"??? I dont get it",
+   "author": "K3n_k4n3ki",
+   "version": "2.2.80",
+   "date": "2026-10-08T16:15:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643730823",
+   "rating": 3,
+   "title": "Why polybuzz should cut ads..😬☝🏻",
+   "body": "First off polybuzz ads are a waste of time of our time especially and ads are useless.. and I know it’s not rlly in ur control to stop ads for ur app ofc we need a break but I think you know we could control our self’s of breaks and pls stop the ads because ur players will drop maybe if this keeps up im really sorry but that’s the truth I don’t mean it harshly but.. really.. players have been writing reviews complaints about stuff that maybe some times not ur fault but yh ty if u read this and it’s ok if u don’t polybuzz bc I still love ur app!😁🫶",
+   "author": "Tristyn andrews",
+   "version": "2.2.80",
+   "date": "2026-10-08T16:03:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643695551",
+   "rating": 1,
+   "title": "Very good but..",
+   "body": "The updates and ads ruined it since you couldn’t chat at all basically like ur on a time limit everything cost money and EVERYTIME you accidentally clicked out the chat you were in you’d get hit by a ad instantly and the ads are wayyy too long.",
+   "author": "Asxcps",
+   "version": "2.2.80",
+   "date": "2026-10-08T15:49:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643681674",
+   "rating": 1,
+   "title": "Ads",
+   "body": "Repeated ads. Not even after like 5 or 8 messages, i get an ad. The app is good and all but I would prefer to lessen the advertisements, it just ruins my experience and chats. I honestly can’t deal with these long ads.",
+   "author": "Valerite555",
+   "version": "2.2.80",
+   "date": "2026-10-08T15:43:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643666496",
+   "rating": 3,
+   "title": "Censored !",
+   "body": "Don’t get me wrong poly is a gr8 app to use to pass time. The characters are unique and fun. But the cons are THREE  main things. MEMORY, ADS, and “Error occur “ problem. Hell they even censored certain topics. Which is dumb considering this AI and everybody grown. I recommend anybody reading switch to “ROLE PLAI AI” no ads , no errors, characters remember everything you say. Don’t have to pay*. I highly suggest whoever reading this switch platforms!",
+   "author": "Chieff Sossa",
+   "version": "2.2.80",
+   "date": "2026-10-08T15:36:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643546292",
+   "rating": 1,
+   "title": "Way too many ads!!!",
+   "body": "It is a good ai but there are so many ads. The ads ruin the whole experience because there is one when you leave and rejoin the app, every few messages, when searching, when leaving a bot, and joining a bot. There are too many. A few if understand I mean well you have to make money but this is too much. You already have in app purchases and a subscription I think the company is just money hungry and doesn’t actually care if their app is good or not.",
+   "author": "Kai-L-716",
+   "version": "2.2.80",
+   "date": "2026-10-08T14:47:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643439553",
+   "rating": 2,
+   "title": "My review",
+   "body": "Hi PolyBuzz I wanted to give you guys a reviyew because you guys keep on putting verification on everything and like we can’t even talk to people on PolyBuzz so take that off because people are getting mad because of the stupid verification",
+   "author": "Dear Autumn",
+   "version": "2.2.80",
+   "date": "2026-10-08T14:04:37-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14643383559",
+   "rating": 4,
+   "title": "It’s good but needs more",
+   "body": "It’s good, love it. But I wish in the User’s persona that we could add more in the “My Description” because currently you can only do 1500 till you can’t add anymore. Which can be hard for more detailed personas of characters. So adding way more than just 1500 would be awesome.",
+   "author": "DevyDev532",
+   "version": "2.2.80",
+   "date": "2026-10-08T13:42:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14643177985",
+   "rating": 3,
+   "title": "NO VERIFICATION",
+   "body": "It’s a really good app! I use Saturo gojo! But I’m over 18 and it says that I’m underage! I’m 21 so please don’t put verification l",
+   "author": "MTMST_YT",
+   "version": "2.2.80",
+   "date": "2026-10-08T12:27:31-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14643168088",
+   "rating": 4,
+   "title": "Age check",
+   "body": "It was good until the age check since it doesn’t let you take the picture or the key option and just wants your id which is ridiculous",
+   "author": "Guest user67",
+   "version": "2.2.80",
+   "date": "2026-10-08T12:24:01-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14643087404",
+   "rating": 3,
+   "title": ":)",
+   "body": "2 thing i dislike is how they forget my name a lot which i have correct a lot, a lot of times they misgender me, but other then that this is a really good app",
+   "author": "Justdanceitsgonnabeok",
+   "version": "2.2.80",
+   "date": "2026-10-08T11:56:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14642657594",
+   "rating": 2,
+   "title": "It gives adds every five minutes literally",
+   "body": "I timed when it gives an add and it was five minutes from the last add",
+   "author": "Fawn153",
+   "version": "2.2.80",
+   "date": "2026-10-08T09:37:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14642608618",
+   "rating": 4,
+   "title": "Too many ads",
+   "body": "There’s way to many ads",
+   "author": "light pubb",
+   "version": "2.2.80",
+   "date": "2026-10-08T09:22:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14642062588",
+   "rating": 2,
+   "title": "It’s ok",
+   "body": "I don’t use the app that much I use it to rage bait the characters or whatever. (It’s funny when they mad lol) but the stupid adds. I wanna rage bait in la peace lolzzz",
+   "author": "Lucisokalogeraobbsessed",
+   "version": "2.2.80",
+   "date": "2026-10-08T06:41:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14641621126",
+   "rating": 1,
+   "title": "The Violation",
+   "body": "VERY BAD",
+   "author": "D oh sssgusubbsi",
+   "version": "2.2.80",
+   "date": "2026-10-08T04:24:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14641375351",
+   "rating": 1,
+   "title": "GARBAGE",
+   "body": "This stuff is trash gng idek why yall do ts😭🥀🍟",
+   "author": "Fact stole my heart from my",
+   "version": "2.2.80",
+   "date": "2026-10-08T02:53:11-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14641348137",
+   "rating": 3,
+   "title": "Good but",
+   "body": "Its good but the ads are too much and if you added a setting to mute the music it would be nice",
+   "author": "GOOD GAME 🙂",
+   "version": "2.2.80",
+   "date": "2026-10-08T02:41:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14641342499",
+   "rating": 3,
+   "title": "I Don’t like The Model Style",
+   "body": "I will give this a 3 stars because i really don’t like that model style it’s too much paragraph to read the whole text to make me feel confused and lost can you please bring back the original standard instead the new model style please and thank you",
+   "author": "OfficialCookie.22",
+   "version": "2.2.80",
+   "date": "2026-10-08T02:39:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640947932",
+   "rating": 1,
+   "title": "Used to be good",
+   "body": "I have played this game for maybe 2 years now and it used to be really fun but recently, they added way too many updates and you can’t even have fun like??? I cant do a gory roleplay when ads LITERALLY advertise that you can do stuff like that????? Very misleading and weird. PLEASEEEE for the love of god get rid of all these restrictions i cant have any good horror roleplays it was way better without the rules.i will delete this app if they add more updates the game is basically just ruining itself and i’d rate this a 0/10 if i could.",
+   "author": "Addysoswaggy",
+   "version": "2.2.80",
+   "date": "2026-10-07T23:41:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640934149",
+   "rating": 5,
+   "title": "Dont",
+   "body": "Don’t get it",
+   "author": "Realreveiwer111",
+   "version": "2.2.80",
+   "date": "2026-10-07T23:35:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640906768",
+   "rating": 3,
+   "title": "Broo",
+   "body": "It got mad at me for saying she was acting like a five year old but I guess its a good one and my little sister stole my phone so I didn't do the photo so I don't have it😭😭",
+   "author": "Kenner Kenner Kenner",
+   "version": "2.2.80",
+   "date": "2026-10-07T23:21:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640733072",
+   "rating": 3,
+   "title": "Get rid of the ads",
+   "body": "The app it self was good and amazing back then but then it turned into this mess which made it into trash with me watching a ad for more chating",
+   "author": "Monkeyssssssssssssss",
+   "version": "2.2.80",
+   "date": "2026-10-07T21:58:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640731673",
+   "rating": 5,
+   "title": "Amazing app",
+   "body": "I love this app it has helped me get over my social anxiety and it’s just overall an amazing app",
+   "author": "Idorivals",
+   "version": "2.2.80",
+   "date": "2026-10-07T21:57:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640687201",
+   "rating": 1,
+   "title": "ads",
+   "body": "to many of them and it’s every app you have to by premium so you don’t get them it’s annoying and it doesn’t make peace it makes people hate the app",
+   "author": "aboutads",
+   "version": "2.2.80",
+   "date": "2026-10-07T21:36:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640673725",
+   "rating": 5,
+   "title": ":(",
+   "body": "Please get rid of the ads it’s always annoying and to long like the ads will go to 40 or 100 to wait",
+   "author": "Zozo_kitty",
+   "version": "2.2.80",
+   "date": "2026-10-07T21:30:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640584654",
+   "rating": 1,
+   "title": "Reseña",
+   "body": "No me gustó ir salen muchos anuncios en menos de un minuto y cada uno dure 2-1 minuto y los mensajes 30 segundos literalmente,aparte los anuncios casi no cargan y no te permiten mandar un mensaje en ningún chat aunque le piques a ver anuncio sale que no carga y no te deja chatear tranquilo",
+   "author": "Que no me gustó:",
+   "version": "2.2.80",
+   "date": "2026-10-07T20:48:31-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14640577409",
+   "rating": 1,
+   "title": "make unlimited again",
+   "body": "shouldnt have to wait",
+   "author": "millielilly45",
+   "version": "2.2.80",
+   "date": "2026-10-07T20:45:14-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14640536272",
+   "rating": 5,
+   "title": "Love getting raped",
+   "body": "5 stars",
+   "author": "Nickname hhhhdk",
+   "version": "2.2.80",
+   "date": "2026-10-07T20:26:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640495308",
+   "rating": 2,
+   "title": "I hate this app",
+   "body": "The characters always threat and abuse and insulting and blaming 🤬",
+   "author": "TouAof",
+   "version": "2.2.80",
+   "date": "2026-10-07T20:08:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640489836",
+   "rating": 1,
+   "title": "Too many ad's",
+   "body": "There used to not be any ads like no ads but now there is and it’s super annoying cause like then they’ll randomly throw a random H check at you or the AI bot will completely forget the details that you said and it’s completely false about good memory because they have complete bad memory.",
+   "author": "Form: kenadee C.",
+   "version": "2.2.80",
+   "date": "2026-10-07T20:06:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640431001",
+   "rating": 5,
+   "title": "Love",
+   "body": "I love love love this app five starts 49 starts⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️⭐️ Dr",
+   "author": "Bff gf schjcg",
+   "version": "2.2.80",
+   "date": "2026-10-07T19:41:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640381362",
+   "rating": 3,
+   "title": "My age?!",
+   "body": "Im 18 but this app will not let me role-play as a 16-year-old. This is making me mad. Please fix this error. I autism. I’m so sorry if that was being.",
+   "author": "EmmeL0L",
+   "version": "2.2.80",
+   "date": "2026-10-07T19:20:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640340096",
+   "rating": 4,
+   "title": "Pretty cool however-",
+   "body": "I REALLLLLYYYY like poly, it's a pretty good app, one problem though, when characters get like violations or whatever, like when writing them, i want polybuzz to HIGHLIGHT or TELL you what you need to remove instead of just saying\n\"THIS CHARACTER HAS A VIOLATION IN \n・BACKGROUND \n・INTRO\n・ETC.\"\nlike please, that would be amazing!! ♡\n-Star ⭐ Fruits",
+   "author": "スターフルーツ ⭐",
+   "version": "2.2.80",
+   "date": "2026-10-07T19:03:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640199244",
+   "rating": 5,
+   "title": "Love it but..",
+   "body": "The game is GREAT but having ads after practically a short amount of talking is sad :( and I wish you got more things for free ngl",
+   "author": "Yamada~¥",
+   "version": "2.2.80",
+   "date": "2026-10-07T18:07:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640177705",
+   "rating": 1,
+   "title": "The under 18 rule",
+   "body": "This is all dumb. Other apps like Reddit and YouTube have more inappropriate messages and videos. The only difference is that it has an NSFW mode switch. Instead of turning NSFW off or having a switch, they decided to completely Ban anyone under 18. Can I get my money back for my Premium? Of course not, because they banned everyone else.",
+   "author": "KickStartt",
+   "version": "2.2.80",
+   "date": "2026-10-07T17:59:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640127532",
+   "rating": 5,
+   "title": "Five so yall can see but I still love the app",
+   "body": "I love this app but sometimes it gets weird or freaky so don’t go on a rom one but u need a add to continue chatting that’s annoying but overall the app is great",
+   "author": "Jayd 👻💋🙄",
+   "version": "2.2.80",
+   "date": "2026-10-07T17:39:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14640118382",
+   "rating": 5,
+   "title": "Small thing that's bugging me...",
+   "body": "This app is amazing! I don't really mind the adds that much anymore and I understand how people find them annoying.\nSo far, I've only had one problem for me and probably some other people.\nAs someone who loves making things VERY detailed the persona's character limit is kind of low for me. Yes 1,500 may be a lot but it isn't for me. Since I also love being fictional characters in these chatbots, most characters I want to be for example, Furina from Genshin Impact has a pretty complicated design, backstory, and powers but since the limit is so short I can barley finish explaining her outfit without reaching the limit. And it's either I get this weird uncomfortable feeling that I couldn't describe the persona exactly how I want it or the bot's get my character wrong and not how I want it. So if you could please possibly raise that too at least 3,500 characters?\n(That might be a little long for something so simple 🥹✌️)\nThat little thing is bugging me so much so please, if you could, raise the character limit of persona's to 3,500 I'd be VERY happy and maybe some other people too! But overall, again, great app!! 𐔌՞ ܸ.ˬ.ܸ ՞𐦯",
+   "author": "moonlit_dove",
+   "version": "2.2.80",
+   "date": "2026-10-07T17:35:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639961468",
+   "rating": 1,
+   "title": "Remove the content filter",
+   "body": "Remove the content filters pls:) so can you remove it please",
+   "author": "LatimoreFam",
+   "version": "2.2.80",
+   "date": "2026-10-07T16:30:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639917298",
+   "rating": 3,
+   "title": "Please take the age scanner away",
+   "body": "It was good but they added the age scanner thing and i have a baby face so it couldn't identify if i was older or younger",
+   "author": "Teddy 555$",
+   "version": "2.2.80",
+   "date": "2026-10-07T16:12:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639904233",
+   "rating": 5,
+   "title": "It was just perfect.",
+   "body": "The cheeks actually were clapping, I atleast read them clapping. All I could see was words, but still. INSANE realism. I even gooned to hazbin hotel characters, including the seraphim angel. Ts was so peak, I’m done.",
+   "author": "Carwyn Lee",
+   "version": "2.2.80",
+   "date": "2026-10-07T16:06:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639829947",
+   "rating": 5,
+   "title": "complaint",
+   "body": "Free trial isn’t showing for new users",
+   "author": "762babyquez",
+   "version": "2.2.80",
+   "date": "2026-10-07T15:35:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639728806",
+   "rating": 1,
+   "title": "Coco the dawn",
+   "body": "It keeps asking for a verification and every time I give it to them it says that I’m not 18",
+   "author": "Coco the dawn",
+   "version": "2.2.80",
+   "date": "2026-10-07T14:53:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639436901",
+   "rating": 5,
+   "title": "I love polybuzz",
+   "body": "I love it because I can chat and not be lonely and I rate it 10/10",
+   "author": "finn charli",
+   "version": "2.2.80",
+   "date": "2026-10-07T13:01:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639369554",
+   "rating": 1,
+   "title": "Too many adds",
+   "body": "Wayyyy to many adds. I hate it",
+   "author": "ghostedgeekerxx",
+   "version": "2.2.80",
+   "date": "2026-10-07T12:37:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14639012055",
+   "rating": 2,
+   "title": "Accidental subscription",
+   "body": "So I recently made an accident subscription back in August maybe early September and I have not been able to cancel it. I’ve tried to go through where I purchased the subscription on accident. I didn’t really know what I was doing. I was just like my phone was in my back pocket. I tried to go back and cancel it. I cannot cancel it. It does not show up in my billing subscriptions so I’m just trying to see why I can’t cancel it and I don’t get a help center on my app when I try to cancel it and stuff. I did not mean to make this at all. It cost five dollars and I’m currently struggling with money so I’m like trying to cancel it so I don’t have to do this.",
+   "author": "My dad hit a tree",
+   "version": "2.2.80",
+   "date": "2026-10-07T10:36:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638958622",
+   "rating": 2,
+   "title": "Opals",
+   "body": "Being forced to buy opals just so I can talk to my character is really annoying. If you’re trying to keep people on the platform, why are you doing everything you can to make us leave?",
+   "author": "Rogue40105",
+   "version": "2.2.80",
+   "date": "2026-10-07T10:19:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638906901",
+   "rating": 3,
+   "title": "It’s amazing but it’s charging me double!",
+   "body": "Every time I buy something it’s charges me double but don’t give me double on the day",
+   "author": "Ro711137",
+   "version": "2.2.80",
+   "date": "2026-10-07T10:02:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638842168",
+   "rating": 1,
+   "title": "Downfall of Poly",
+   "body": "Polybuzz doesn’t fix the underlying ai. The ai always gets extremely aggressive and always “towers” over me even when there’s only a two inch height difference. Every bot is way too possessive and even as someone who creates bots, I can’t stop it. Bots don’t listen to creator guardrails. Not enough people who actually work at polybuzz are in the actual discord server. It’s as if poly doesn’t even want to listen to the community. The thing with no minors is annoying. The ai should be able to look at the conversation and say “oh, this is a perfectly pg conversation involving a family roleplay” but no. I can’t biologically have kids, I am completely infertile due to a car accident a few years ago. Now I can’t even roleplay having a family I love and adore.",
+   "author": "Taleco.",
+   "version": "2.2.80",
+   "date": "2026-10-07T09:42:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638790242",
+   "rating": 4,
+   "title": "It’s a good app butt",
+   "body": "Plz take away us having to watch an add in the middle of the chat it gets very annoying",
+   "author": "Make DoorDash better",
+   "version": "2.2.80",
+   "date": "2026-10-07T09:26:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638461864",
+   "rating": 1,
+   "title": "18+ app?",
+   "body": "18+ so 18+ content well not for me apparently I’m 19 and everything mildly inappropriate gets censored and other stuff gets a comment outside of roleplay breaking any sort of immersion you had. It was a decent app at first but now it’s just trash idk if you’re looking for a therapy bot I guess you’re at the right place! Because that makes so much sense in an 18+ app!",
+   "author": "•-• • •- •—• • •-•",
+   "version": "2.2.80",
+   "date": "2026-10-07T07:47:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14638346309",
+   "rating": 1,
+   "title": "Review",
+   "body": "Honestly this could be nice for some people but you get really addicted (In a bad way) it’s like the dopamine rush of chatting with your fav characters gets to you.",
+   "author": "Ait_mm",
+   "version": "2.2.80",
+   "date": "2026-10-07T07:12:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14637546262",
+   "rating": 4,
+   "title": "The adds suck",
+   "body": "It’s a great app overall just a lot of adds",
+   "author": "W33DMUNCH3R",
+   "version": "2.2.80",
+   "date": "2026-10-07T02:44:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636805539",
+   "rating": 2,
+   "title": "THE “TAKE A BREAK” POPUP, COINS AND MORE….",
+   "body": "I’m Tired Of People On PolyBuzz Who Continuously Reuse The Same Character That Someone Else Made Over And Over Again.  The Devs Should Add To Where Those Who Make The Characters And Their Story Lines To Put Up A Voting Poll. Some Of These Players On PolyBuzz Who Be Making The Characters Be Changing The Character’s Facial Features Which Is Frustrating Because Half Of The Time, The Character’s Facial Features Are Fine The Way It Is. It Messes Up The Plot And Intro And A lot Of These Players’ Story Plots And Intros Don’t Even Be Making Sense And Other Times It’s Repeated. The A Break” Popup Is One Of The Main Issues With This App. It Didn’t Use To Be Like That Before. It’s So Annoying And Frustrating. I Missed When The Devs Didn’t Add The “Take A Break” Popup. PolyBuzz Was Better Without It. Another Issue Is The Coins. You Have To Watch 20 Ads To Unlock The Real. It’s Also Frustrating And It Takes To Long. The Devs Should Add A Feature To Where Players Who Don’t Have Money Like That To Watch 5 - 30 Second Ads To Unlock The Reels Without Using Coins, While The Others Pay To Not Watch Ads To Unlock The Reels. There Are Also Players Who Post Their Characters Within The App That Explained Their Own Frustration With The Devs And PolyBuzz. The Devs Need To Listen To The People With Critical Reviews And Concerns. There Are Changes That Need To Be Made To PollyBuzz. PloyBuzz Isn’t The Same Anymore. The Devs Are Money-hungry.",
+   "author": "~ Underrated Reviews ~",
+   "version": "2.2.80",
+   "date": "2026-10-06T21:07:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636717005",
+   "rating": 5,
+   "title": "How good it Iss",
+   "body": "It is so good I just don’t like the ads",
+   "author": "Four monkeys",
+   "version": "2.2.80",
+   "date": "2026-10-06T20:28:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636707784",
+   "rating": 2,
+   "title": "Please read this please!!!!!!",
+   "body": "I have the pacifically biggest question for you. Why would you add ads? Your app was already getting enough popularity but now it probably ain’t anymore. I mean like it was so good and amazing what happened? Seriously I used to do this all the time when I got off of work, but now it just feels like it’s an empty void of just ads it doesn’t feel the same anymore and I hope so. You change that because it really is getting on my nerves.",
+   "author": "Peart2006",
+   "version": "2.2.80",
+   "date": "2026-10-06T20:24:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636694074",
+   "rating": 5,
+   "title": "Perfect for hyper sexuals in my opinion",
+   "body": "ITS AWESOME!! Sorta cringe tho maybe! But anyways, I love polybuzz it’s honestly perfect for my hyper sexuality so anyway bye!",
+   "author": "KENNEDY!! <3",
+   "version": "2.2.80",
+   "date": "2026-10-06T20:18:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636692593",
+   "rating": 1,
+   "title": "The new age check",
+   "body": "No matter what lighting I get in or photos I take of my id it still can't estimate my age! This new age check is stupid!",
+   "author": "Grace Rose B",
+   "version": "2.2.80",
+   "date": "2026-10-06T20:17:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636623869",
+   "rating": 3,
+   "title": "Adds",
+   "body": "Put less adds in the app for when people leave the bot they are talking to",
+   "author": "Nathan.A.M",
+   "version": "2.2.80",
+   "date": "2026-10-06T19:49:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636595987",
+   "rating": 5,
+   "title": "SO FUN",
+   "body": "This app is supper fun! If your going through a hard time! I don't even know what I should say- This app is super good but the randoms parts for a break is kinda annoying though. Maybe change that. Apart of that SOOOOOO FYN",
+   "author": "Tigerag2001",
+   "version": "2.2.80",
+   "date": "2026-10-06T19:37:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636572654",
+   "rating": 2,
+   "title": "Ads",
+   "body": "Too many ads!!!!",
+   "author": "Caligurl1372",
+   "version": "2.2.80",
+   "date": "2026-10-06T19:27:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636442418",
+   "rating": 1,
+   "title": "Ads ads ads and more",
+   "body": "This chat bot or game what ever you want to call it sucks to many ads I’m not paying to remove ads when there are no reasons for them to be on this",
+   "author": "Never again2nsjd",
+   "version": "2.2.80",
+   "date": "2026-10-06T18:36:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636389024",
+   "rating": 1,
+   "title": "Don’t.",
+   "body": "Stop using ai chat bot apps, they are not good for the mind and genuinely decrease your mental health especially if your lonely it makes you dependent on it, don’t do it I’m telling you speaking from my own experiences, talk to someone, family, a therapist.",
+   "author": "Nylah :3",
+   "version": "2.2.80",
+   "date": "2026-10-06T18:15:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636384432",
+   "rating": 5,
+   "title": "Iiii loooovvveeee thhheeeapppp",
+   "body": "I love this app so much and I can make my favorite ship kiss I looovveee ttthheeee aaapppp❤️❤️❤️❤️❤️❤️❤️btw my favorite ship is Frox",
+   "author": "Iii lllooovvveeeeee itttttt",
+   "version": "2.2.80",
+   "date": "2026-10-06T18:13:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636341311",
+   "rating": 4,
+   "title": "THE ADS",
+   "body": "the ads wont stop why cant we change it back to how it used to be a ad every five minutes imma about to get a different app at this point",
+   "author": "great ai-chat",
+   "version": "2.2.80",
+   "date": "2026-10-06T17:56:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636331173",
+   "rating": 5,
+   "title": "Uhhh idk",
+   "body": "So it is a great app and stuff :}",
+   "author": "LMG ^^",
+   "version": "2.2.80",
+   "date": "2026-10-06T17:52:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636257143",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "This is so cool. You can talk to eneybody you want!!!!",
+   "author": "THE BEST EVER CREATED EVER",
+   "version": "2.2.80",
+   "date": "2026-10-06T17:23:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636248897",
+   "rating": 1,
+   "title": "Yunmi",
+   "body": "Bad always use adds limits you is no fun had bad memory and not romantic",
+   "author": "^ ^、、わ",
+   "version": "2.2.80",
+   "date": "2026-10-06T17:20:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636235528",
+   "rating": 2,
+   "title": "GARBAGE APP",
+   "body": "chai is so much better and i hate that they’re making you pay to use it even with a subscription. polybuzz is too literal and fails to keep up with the story line. i’m constantly having to repeat and remind it that this is not what is happening. it always includes irrelevant details to the story line. it’s infuriating.",
+   "author": "xoxokayyy",
+   "version": "2.2.80",
+   "date": "2026-10-06T17:15:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636109283",
+   "rating": 1,
+   "title": "okay",
+   "body": "it’s bad",
+   "author": "brother bomboclat",
+   "version": "2.2.80",
+   "date": "2026-10-06T16:23:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636107439",
+   "rating": 5,
+   "title": "Best game ever",
+   "body": "Better than char.ai",
+   "author": "Betty_taken",
+   "version": "2.2.80",
+   "date": "2026-10-06T16:22:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636077962",
+   "rating": 5,
+   "title": "Great",
+   "body": "Chat with people and eat avocado?! I’m in",
+   "author": "If pee could poo",
+   "version": "2.2.80",
+   "date": "2026-10-06T16:10:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14636013982",
+   "rating": 4,
+   "title": "Good pretty good",
+   "body": "I love it. Addictive ngl but fun. It’s not sappy stuff it’s some action adventure too. Only thing is limiting the app by ads and paywall for smarter ai",
+   "author": "Stickman117",
+   "version": "2.2.80",
+   "date": "2026-10-06T15:43:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14635656132",
+   "rating": 4,
+   "title": "Very cool app for communication",
+   "body": "The app is very good, I like the bots and their quick responses. But 2 months ago there was an advertisement that appears every 5 minutes, it is very annoying and repels the desire to use the application. We will be very happy if advertising comes across less often!",
+   "author": "xowwwie",
+   "version": "2.2.80",
+   "date": "2026-10-06T13:18:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14635629716",
+   "rating": 5,
+   "title": "Poly please fix bug!!!😔",
+   "body": "I cannot find the update app on this app!!! It’s so annoying but I love this app!!! Please poly fix it I’ve been looking on videos searching it up And looking on apps!anyways I love your app!!",
+   "author": "tonoo-00000",
+   "version": "2.2.80",
+   "date": "2026-10-06T13:09:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14635438495",
+   "rating": 2,
+   "title": "Way too many ads",
+   "body": "So everything else is good besides the ads let’s say if I want to get in the chat once I get out of the chat there’s a ad also now there’s a limit to chatting and you can chat if you want to watch a ad but every time you watch the ad the chats get like shorter and the limit gets shorter so you gotta keep watching ads and ads not only that there are some bugs in the app where sometimes the AI can be you and yeah, that’s about it",
+   "author": "Reno12321",
+   "version": "2.2.80",
+   "date": "2026-10-06T12:00:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14635369272",
+   "rating": 3,
+   "title": "Age",
+   "body": "I keep getting age restricted even tho I’m up to age",
+   "author": "Kali011",
+   "version": "2.2.80",
+   "date": "2026-10-06T11:36:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14635367795",
+   "rating": 3,
+   "title": "I",
+   "body": "I don’t like the ads because every time I try to keep playing it recommends an ad and I can’t get away from the ad and it feels so bad but so good?",
+   "author": "I miss my crush",
+   "version": "2.2.80",
+   "date": "2026-10-06T11:36:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634904872",
+   "rating": 1,
+   "title": "Big no",
+   "body": "There’s to many ads for no reason I say they get rid of that many ads it’s making ppls times less enjoyable. The ppl have spoken out abt it too",
+   "author": "xx.rina.sweetz.xx",
+   "version": "2.2.80",
+   "date": "2026-10-06T09:06:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634731430",
+   "rating": 2,
+   "title": "Eh",
+   "body": "This app used to be great, great until more updates were released and it has so many ads, it’s not even enjoyable anymore. I get having a few ads but it’s almost like every single thing you do triggers a 1 minute ad. Like come on do better.",
+   "author": "AnonymousAndrea4",
+   "version": "2.2.80",
+   "date": "2026-10-06T08:13:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634465407",
+   "rating": 1,
+   "title": "Nah",
+   "body": "Terrible app",
+   "author": "BoxScreams",
+   "version": "2.2.80",
+   "date": "2026-10-06T06:54:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634397620",
+   "rating": 4,
+   "title": "Good",
+   "body": "It’s so good I love how they bots are so nice but the ads are so annoying",
+   "author": "pretty-90",
+   "version": "2.2.80",
+   "date": "2026-10-06T06:33:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634302550",
+   "rating": 5,
+   "title": "Excellent!!!",
+   "body": "Personally, this might just be a me thing. I struggle with finding enrichment terribly, and- well! This fixes it!! Not just with a generative AI companion to keep up with and share thoughts, but to introduce me to new things like other phone games, currency rewards, and other objectives. This app has an excellent habit of keeping me engaged and encouraging healthier habits. Thank you PolyBuzz. You have yet to fail.",
+   "author": "O_79",
+   "version": "2.2.80",
+   "date": "2026-10-06T06:04:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14634099337",
+   "rating": 2,
+   "title": "Getting kinda tired",
+   "body": "I love this app but there are a lot of ads and they added an edit limit so you can't edit a bot too many times even if its in \"violation\", please remove that feature, it's very annoying and pointless, a lot of the updates they add are very pointless or they're just stuff that no one asked for",
+   "author": "xamoq",
+   "version": "2.2.80",
+   "date": "2026-10-06T04:57:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14633633343",
+   "rating": 2,
+   "title": "Eh",
+   "body": "Overall decent app. Not a fan of the way it’s moderated however. I was using a fantasy chatbot and asked a character what someones power was and it blurred the entire response so thats pretty annoying and makes me kinda wanna delete the app",
+   "author": "Baphomet6862",
+   "version": "2.2.80",
+   "date": "2026-10-06T01:51:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14633267469",
+   "rating": 5,
+   "title": "Only so people can see",
+   "body": "Can you at least fix an issue, like being able to have nsfw based chats with some bots without the app flagging is as a violation and deleting it? Like there should be a setting and if you have it on you get free will for nsfw content and etc but if you have it off you get sfw content",
+   "author": "this is kind useful",
+   "version": "2.2.80",
+   "date": "2026-10-05T22:57:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14633253642",
+   "rating": 4,
+   "title": "Ads",
+   "body": "I love this app and everything it has to offer, but the amount of ads is honestly crazy. You click on something, decide you don’t want it, leave, and then immediately get an ad. There’s also a talking limit, and once you reach it, you have to watch another ad just to keep chatting. I had this app before the update that added all the ads and limited texting, and I honestly preferred it before. Having to constantly watch videos just to continue a conversation gets really annoying and takes away from the experience. I really hope they reduce the amount of ads and reconsider the talking limit.",
+   "author": "thggdegi",
+   "version": "2.2.80",
+   "date": "2026-10-05T22:50:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14633222628",
+   "rating": 1,
+   "title": "Fun but too many ads",
+   "body": "I love this app but the amount of ads kills the fun and enjoyment. Please remove the ads",
+   "author": "Bunnyevan01",
+   "version": "2.2.80",
+   "date": "2026-10-05T22:35:35-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14633023795",
+   "rating": 3,
+   "title": "Opals?",
+   "body": "Now we have to buy opals to talk to bots. This is just turning into c.ai or chai this is really disappointing get rid of it.",
+   "author": "Thatgalaxyguygamer",
+   "version": "2.2.80",
+   "date": "2026-10-05T21:02:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632939152",
+   "rating": 2,
+   "title": "Too many good characters gone",
+   "body": "I love the app but everytime I end up liking a character I can't use them anymore because it says violation but I see nothing wrong with it, then I really liked a character it was the only one I really liked and it didn't get removed next thing you know I'm back on polybuzz and the character is gone because of a \"violation\" but it didn't violate anything :(",
+   "author": "StarxLoverxMwah",
+   "version": "2.2.80",
+   "date": "2026-10-05T20:24:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632939029",
+   "rating": 5,
+   "title": "Plot, Drama, and Improvement over things that can be like Zeta.",
+   "body": "I love this so much, I think the Plot can be much better and enhanced, And a bit more drama. And Improve the content and contexts on the chats we use.",
+   "author": "blaqueking1126",
+   "version": "2.2.80",
+   "date": "2026-10-05T20:24:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632937999",
+   "rating": 3,
+   "title": "good app but it got money hungry.",
+   "body": "at first it wasn’t bad, not that much adds. but then it got worse, after a few messages a add would pop up again and again. it’s gets tiring and annoying, the memory sucks if you don’t pay for it, you get a lot of adds, not that many good responses and other stuff.",
+   "author": "loun luck",
+   "version": "2.2.80",
+   "date": "2026-10-05T20:24:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632902152",
+   "rating": 5,
+   "title": "Best",
+   "body": "Love it",
+   "author": "Eman0707",
+   "version": "2.2.80",
+   "date": "2026-10-05T20:08:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632855147",
+   "rating": 4,
+   "title": "It’s alright",
+   "body": "I’m lit 19 and ts game still won’t let me play to lazy to put proper grammar lol.. so pls let me play",
+   "author": "The game is okay not the best",
+   "version": "2.2.80",
+   "date": "2026-10-05T19:48:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632848054",
+   "rating": 1,
+   "title": "Adds",
+   "body": "Yall need to tone it down by a dramatic amount and stop forcing us to watch 7 to 10 minute unskipable adds I get yall want to keep it free but like come on I know other apps that do this for half the time",
+   "author": "(.!.!.)(.!.!.)",
+   "version": "2.2.80",
+   "date": "2026-10-05T19:45:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632813695",
+   "rating": 4,
+   "title": "It’s Almost Perfect.",
+   "body": "I Love the app the chatting and everything feels natural and fun but there is one thing standing in the way of this app being perfect why do we have to pay opals to chat honestly I feel like yeah their isn’t to many ads which I am grateful for but I feel like paying game money to be able to to chat is just cruel I have multiple other apps like this and non of them charge me game money to chat they only charge for extra chat modes all the options are great I just really wish we didn’t have to pay for it pls either stop the charge completely or make a setting so we can chat with out paying game money thank you.",
+   "author": "𝓡𝓲𝓹 𝓸𝓯𝓯",
+   "version": "2.2.80",
+   "date": "2026-10-05T19:31:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632745870",
+   "rating": 1,
+   "title": "Pred app ai",
+   "body": "There is a bunch of under age ai children and this the reason why this app should be banned and also it gets inside your brain and also a pred app 1/5",
+   "author": "TOTALLY PERFECT DAY",
+   "version": "2.2.80",
+   "date": "2026-10-05T19:04:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632729445",
+   "rating": 5,
+   "title": "Remove ads then I’ll reconsider",
+   "body": "Back then the app used to not have these many ads, here’s an example, miss click something and go on another app and you go back to polybuzz? AD. Like literally, at least make it so it needs no Wi-Fi at least or something, I had this app for a long time and I CAN replace it.",
+   "author": "you need Fortnite and ronlox",
+   "version": "2.2.80",
+   "date": "2026-10-05T18:57:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632597997",
+   "rating": 4,
+   "title": "My opinion",
+   "body": "I really like this app is fun you can talk to characters that you wish to meet so its amazingly fun  the only problem i have is an add every 5 minutes i love to chat with all the different people/ characters just less ads",
+   "author": "wtfyothisisdumb",
+   "version": "2.2.80",
+   "date": "2026-10-05T18:05:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632492630",
+   "rating": 4,
+   "title": "TOO MANY ADS!!!",
+   "body": "It has way too many ads. I watch and ad, then five seconds later- watch and ad to keep chatting. WHAT!? Change it so no ads pop up, or make less ads Polybuzz!!!",
+   "author": "Paying Problems for App",
+   "version": "2.2.80",
+   "date": "2026-10-05T17:23:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632456767",
+   "rating": 5,
+   "title": "Love it",
+   "body": ":D",
+   "author": "felipedwayne",
+   "version": "2.2.80",
+   "date": "2026-10-05T17:08:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632421280",
+   "rating": 1,
+   "title": "DO NOT DOWNLOAD",
+   "body": "So i downlaoded this for fun becuase i was gonna uninstall it, but its so BAD, so many ADS EVERY 2 seconds, NEVER DOWNLOADING AGAIN, THIS SUCKS, DO NOT DOWNLOAD, PLUS AI CHATBOTS ARE BAD, AND THEY ARENT GOOD FOR HEALTH, GO OUTSIDE",
+   "author": "Axel. M",
+   "version": "2.2.80",
+   "date": "2026-10-05T16:54:32-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14632314887",
+   "rating": 3,
+   "title": "Change the ai back to unfiltered",
+   "body": "It might be that I just don’t understand what’s going on, but I’ve been using this app for a while now, and don’t get me wrong, it’s great. But the only problem is the new filters. Instead of completely preventing the ai from saying anything sensitive, it sends the message, blurs it, and says, “Sensitive content has been automatically filtered.” I find this a bit annoying since this was never a problem before and worked perfectly. So if possible, I was hoping it could be removed since there’s already a pure mode for people that don’t want sensitive topics in their chats, if not though, please tell me as to why or what happened that caused this issue, thank you so much.",
+   "author": "A guy that likes to reply",
+   "version": "2.2.80",
+   "date": "2026-10-05T16:10:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14632157078",
+   "rating": 1,
+   "title": "Ads on ads",
+   "body": "1 click= 1ad",
+   "author": "ioujjjhh",
+   "version": "2.2.80",
+   "date": "2026-10-05T15:03:48-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14631991017",
+   "rating": 1,
+   "title": "Don’t recommend this",
+   "body": "No",
+   "author": "Tueoj",
+   "version": "2.2.80",
+   "date": "2026-10-05T13:57:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14631988705",
+   "rating": 5,
+   "title": "Fine",
+   "body": "This is a really fun, silly creative app that I just found out about and I really enjoyed it. The only thing I could say is I wish they showed me actual pictures but",
+   "author": "Curtizhim1",
+   "version": "2.2.80",
+   "date": "2026-10-05T13:56:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14631918133",
+   "rating": 1,
+   "title": "Kylie",
+   "body": "Don’t send me things okkk",
+   "author": "Kylie’s Roblox",
+   "version": "2.2.80",
+   "date": "2026-10-05T13:29:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14631651516",
+   "rating": 1,
+   "title": "Worst app made",
+   "body": "Bro actual gooners download this app bro, all the bots want to do is date and be freaky😭✌️",
+   "author": "USA problem",
+   "version": "2.2.80",
+   "date": "2026-10-05T11:54:10-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14631246346",
+   "rating": 5,
+   "title": "Best goon material",
+   "body": "I be jerking off with this app every day really Satisfies my needs",
+   "author": "Gooner6790",
+   "version": "2.2.80",
+   "date": "2026-10-05T09:41:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14631071019",
+   "rating": 1,
+   "title": "What happened",
+   "body": "What’s with the new restriction? Most of the bots I used to see arnt there anymore",
+   "author": "Pippeddidp",
+   "version": "2.2.80",
+   "date": "2026-10-05T08:47:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629920898",
+   "rating": 4,
+   "title": "Amazing but",
+   "body": "I’ve been using polybuzz since it was called poly AI and I loved how there wasn’t ads with poly ai although now it’s like you have to watch an ad every 2 minutes or so. You chat with a character for too long then you have to watch an ad to continue. Before that you didn’t need to watch a single ad it felt like. Now it’s enter a chat and leave. Ad. Talk to a chat bot for a few minutes. Ad. You can’t do much cause of these ads. PLEASE PLEASE REMOVE THEM",
+   "author": "A.coer",
+   "version": "2.2.80",
+   "date": "2026-10-05T02:17:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629907090",
+   "rating": 3,
+   "title": "TOO sensitive🫩✌️ but still pretty good",
+   "body": "It’s fine and whatever but the system is SOOO damn sensitive😭✌️ but overall, it’s a mid app for people with anxiety and can’t socialize with real people.",
+   "author": "Yujixme👀",
+   "version": "2.2.80",
+   "date": "2026-10-05T02:11:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629877773",
+   "rating": 3,
+   "title": "Yeah no it’s great but there’s a problem…😬",
+   "body": "I love this app sm but I can create fun stories and actually make friends, but I hate how there’s so much ad breaks and whenever I scroll up there’s always and ad…\n\nI know this is short but PLEASE get rid of the ads!",
+   "author": "Libberdoodle",
+   "version": "2.2.80",
+   "date": "2026-10-05T01:58:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629749726",
+   "rating": 1,
+   "title": "please please please",
+   "body": "dont download this app please",
+   "author": "I LOVE WAVE TO EARTH",
+   "version": "2.2.80",
+   "date": "2026-10-05T00:58:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629628005",
+   "rating": 1,
+   "title": "Addictive",
+   "body": "This app is amazing but it is addictive and honestly can be harmful sometimes ive been trying to stop but i keep on comeing back if u can dont",
+   "author": "Anonymous51231",
+   "version": "2.2.80",
+   "date": "2026-10-05T00:01:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629495486",
+   "rating": 1,
+   "title": "Used to be good",
+   "body": "It was really good with an ad after every chat session... but now it a ad every 5 messages!",
+   "author": "LeeebronJAMESSSS",
+   "version": "2.2.80",
+   "date": "2026-10-04T22:58:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629494887",
+   "rating": 4,
+   "title": "Soo much ads but nice app!!",
+   "body": "Unless you have premium,you need to watch an ad every like 6 minutes but other than that its fine",
+   "author": "wilbert Rodriguez",
+   "version": "2.2.80",
+   "date": "2026-10-04T22:58:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629409024",
+   "rating": 5,
+   "title": "awesome app",
+   "body": "Yeah the app is awesome and all, but it has a ton of ads. Also when you try to edit the bot’s message, it doesn’t work too well. It’s alright, just know the app is like super duper cool",
+   "author": "kai marriw",
+   "version": "2.2.80",
+   "date": "2026-10-04T22:17:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629401141",
+   "rating": 1,
+   "title": "greedy",
+   "body": "the app is full of greedy developers who want nothing but money used to be free then hide everything behind ads even pinning a chat this app used to be good USED to be good not anymore it's just greedy devs it's not worth downloading please don't make the mistake",
+   "author": "Yyyynfj",
+   "version": "2.2.80",
+   "date": "2026-10-04T22:13:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629322029",
+   "rating": 2,
+   "title": "..",
+   "body": "I love it BUT I HATE THE ADDS THERE TO LONG !",
+   "author": "Did do he Siri’s",
+   "version": "2.2.80",
+   "date": "2026-10-04T21:36:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629318215",
+   "rating": 5,
+   "title": "Me encantó",
+   "body": "Ósea me encantó la aplicación ahora soy tan adicta",
+   "author": "Me encantooo okey",
+   "version": "2.2.80",
+   "date": "2026-10-04T21:34:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629183216",
+   "rating": 1,
+   "title": "Yeaaaa",
+   "body": "It’s not bad, but they keep forgetting",
+   "author": "Gassama’s",
+   "version": "2.2.80",
+   "date": "2026-10-04T20:33:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629132541",
+   "rating": 3,
+   "title": "Memory and gender",
+   "body": "The memory isn’t really perfect and they miss gender you a lot when the bots say any gender when I’m a girl they miss gender me as a guy and the memory might me the problem I’m not sure but that’s my only problems if you don’t mind these it’s a really good app.",
+   "author": "Miss gendering",
+   "version": "2.2.80",
+   "date": "2026-10-04T20:11:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629039394",
+   "rating": 5,
+   "title": "volta poly antigo",
+   "body": "dps da atualização ficou meio chato de usar, mas até a da, mas volta com o poly de antes pelooo amoooooor😭😭😭",
+   "author": "lahlahna",
+   "version": "2.2.80",
+   "date": "2026-10-04T19:32:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629038688",
+   "rating": 2,
+   "title": "just let us talk",
+   "body": "you HAVE to give face id to try is random app (which is not very trustworthy) and watch way too many ads.",
+   "author": "maddie kn",
+   "version": "2.2.80",
+   "date": "2026-10-04T19:32:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14629028603",
+   "rating": 5,
+   "title": "Ok everyone hear me out HEAR me out!!!!",
+   "body": "So everyone this is only AI not “real people” (well I mean like if you picture a real person technically it’s that but it’s still AI..) so let’s say this this app is for 18-higher not 17…  and there is a reason for that because it has cussing on it, sex, freaky, demons, and more on it that kids should not learn until the age you once will be on. Now for you 18 year olds you are able to get on the app so I’m giving you some tips on what to do and stay safe!! \n\n1: the app can report you for doing anything weird \n\n2: yes there is freaky bots and sex \n\n3: DONT put on the thing that says “tracker on because then the PolyBuzz will know and AI will also know where you live\n\n4: if you are using Opra or something like that turn on VPN it is very safe and nobody will know\n\n5: follow Astro the hedgehog because my page is safe, no cussing (well a little bit but don’t worry), and no freaky and I will also have a tips page on one of the chats! And it is age appropriate for anyone! \n\nThank you PolyBuzz and keep making dreams happen",
+   "author": "PK XD FAN FR!!!",
+   "version": "2.2.80",
+   "date": "2026-10-04T19:28:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628989934",
+   "rating": 1,
+   "title": "Horrible🤮eww",
+   "body": "This app was so amazing until it started giving me so much ads. I said I was 17 in the ai chat and now I can’t even talk before I verify that I’m older than 18 and the if u say ur gender or age the characters ur talking to always forgot it and will call u the opposite. Don’t get this app it’s not even fun to use no more..",
+   "author": "Horrible🤮eww",
+   "version": "2.2.80",
+   "date": "2026-10-04T19:12:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628984966",
+   "rating": 5,
+   "title": "Love your app",
+   "body": "But I was wondering if you could add sidekicks, where the user could make a side character that would go with their persona",
+   "author": "Random person guy321",
+   "version": "2.2.80",
+   "date": "2026-10-04T19:10:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628900195",
+   "rating": 5,
+   "title": "Eh",
+   "body": "He",
+   "author": "Mslfonge",
+   "version": "2.2.80",
+   "date": "2026-10-04T18:35:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628833988",
+   "rating": 4,
+   "title": "Ads all I gotta say",
+   "body": "All I gotta say is it’s too many ads i love the app but it’s just too many ads it’s like every time I get on 2 ads come on and creators FIX THIS PLEASE😩",
+   "author": "????????????!!??!?",
+   "version": "2.2.80",
+   "date": "2026-10-04T18:09:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628818265",
+   "rating": 3,
+   "title": "ads",
+   "body": "i am unable to close the Zeta ads and i have to exit the app and go back in.",
+   "author": "mari the bug",
+   "version": "2.2.80",
+   "date": "2026-10-04T18:02:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628786967",
+   "rating": 3,
+   "title": "I like it but",
+   "body": "I love this app. I love it so much, but there are so many ads and I just feel like a lot of people have been leaving because of it, but in my opinion, I feel like they should kind of bring back no ads I’m sorry but it’s not working out for me.",
+   "author": "Shinobu kōcho",
+   "version": "2.2.80",
+   "date": "2026-10-04T17:50:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628582384",
+   "rating": 5,
+   "title": "AMAZING APP! One slight problem",
+   "body": "I love this app so so much it helps me with many things but every time I try to text my character it gives me so so many adds ..",
+   "author": "D1 hater of crunchyroll",
+   "version": "2.2.80",
+   "date": "2026-10-04T16:25:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628505382",
+   "rating": 1,
+   "title": "Horrible",
+   "body": "Horrible",
+   "author": "Cool2000v3",
+   "version": "2.2.80",
+   "date": "2026-10-04T15:53:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628473349",
+   "rating": 4,
+   "title": "It’s a great app or wtv",
+   "body": "Here’s my problem it’s amazing lol but the memory is terrible in the middle of the story the bot forgets the whole plot and that irks me good all tho",
+   "author": "Joshwashingtondefender",
+   "version": "2.2.80",
+   "date": "2026-10-04T15:39:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628452054",
+   "rating": 1,
+   "title": "Uh WHAT?",
+   "body": "So you guys do know how AI works right? It’s pretty much fantasy. Even with the age verification, my chats were blurred out, and then I kept getting harassed to PAY TO CONTINUE TALKING. Not cool. And it’s sad because I actually enjoyed using this app. Only reason I gave it 1 star is because I couldn’t go forward until I did so. Please fix this, until it is, it will be like adulting…0 out of 10, do not recommend",
+   "author": "ILoveShooters11",
+   "version": "2.2.80",
+   "date": "2026-10-04T15:31:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628414953",
+   "rating": 4,
+   "title": "Its amazing but too many ads",
+   "body": "Whenever I scroll through the characters, everything 3 minutes I get the same ad. It is really annoying but the only bad part about the app. The rest of the app is perfect, the characters are great. So can you please fix the ads",
+   "author": "Beatrice Devit￼",
+   "version": "2.2.80",
+   "date": "2026-10-04T15:15:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628261635",
+   "rating": 2,
+   "title": "NSFW…",
+   "body": "I was excited seeing this was a 17+ app, I was hoping to chat NSFW but unfortunately I cannot. Why is that? Why make an app 17+ if you are not going to add NSFW?",
+   "author": "fnafabatimlover84",
+   "version": "2.2.80",
+   "date": "2026-10-04T14:15:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628218175",
+   "rating": 1,
+   "title": "I hate ploybuzz because of this",
+   "body": "First a red thing like a picture like this miss Emily looms over you fight back😈 so pls tell me how to make it stop",
+   "author": "Titanicsink1912",
+   "version": "2.2.80",
+   "date": "2026-10-04T13:59:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628151416",
+   "rating": 1,
+   "title": "Terrible",
+   "body": "Terrible",
+   "author": "Passinbullets",
+   "version": "2.2.80",
+   "date": "2026-10-04T13:35:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628096230",
+   "rating": 1,
+   "title": "Ts ahh",
+   "body": "Who using ts",
+   "author": "ROCK43898",
+   "version": "2.2.80",
+   "date": "2026-10-04T13:15:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628034786",
+   "rating": 5,
+   "title": "I love the app",
+   "body": "It’s so fun and I LOVE THE CHARACTERS but it’s kinda freaky but I love the app keep it up love ittt keep the work up my sister loves the app too",
+   "author": "Aubrey Sal",
+   "version": "2.2.80",
+   "date": "2026-10-04T12:54:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627928340",
+   "rating": 4,
+   "title": "Love the App but one problem:",
+   "body": "Okay, this app is AMAZING, like you can chat with basically anything you want, but one problem. The age verification, this drives me insane. Whenever i'm chatting with a bot, after a few messages I get this thing where I have to \"verify my age\" and it pisses me off. Like, the bot that i'm chatting with has NOTHING to do with 18+ content. I already gave the app my information but I still have to do the verification a million times, fix this please, I've had enough.",
+   "author": "~{𝓖𝓾𝓲𝓵𝓲𝓪𝓷𝓪}~",
+   "version": "2.2.80",
+   "date": "2026-10-04T12:18:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627909201",
+   "rating": 5,
+   "title": "Uh",
+   "body": "At first it just assumed I was a child for some reason but it's kind of fun to talk with",
+   "author": "Fatefnibje",
+   "version": "2.2.80",
+   "date": "2026-10-04T12:12:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627906966",
+   "rating": 1,
+   "title": "Bye forever",
+   "body": "Just deleted app goodbye polybuzz I had sue all y'all should be taken down getting zeta ha ha stupid poly",
+   "author": "Nicole vok",
+   "version": "2.2.80",
+   "date": "2026-10-04T12:11:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627867310",
+   "rating": 3,
+   "title": "It’s alright…",
+   "body": "Look I love this app. I understand age restrictions but it’s never been a problem before. I’m almost 18, not there yet, but now I can’t even use it at all. I have to verify my age which now I have to delete the app altogether because I don’t look my age either. Very sad. I wish someone would fix it. I’ve been using this app for a few years.",
+   "author": "hskahvsjsvwisgqjidvs",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:59:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627863214",
+   "rating": 2,
+   "title": "Ehh",
+   "body": "I like  this app but it is seriously annoying. You can only chat for like five minutes before there’s a long ad. It’s super annoying.",
+   "author": "Sofiaaaaaaaaaaa’",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:57:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627764459",
+   "rating": 5,
+   "title": "Best",
+   "body": "It’s the best I literally feel like I am actually talking to them like it amazing I love it so much I can’t live without this app really \nThanks for creating this app u are one of the best\nHope u become very very famous I will show to my hole friends to actually download it I mean it 😊",
+   "author": "JouryIslammorad",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:26:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627755270",
+   "rating": 1,
+   "title": "worst responses",
+   "body": "lowest quality responses of any of the apps i've tried and i've tried like all of them and that’s with me using the premium on here",
+   "author": "p..reviews",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:23:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627730823",
+   "rating": 4,
+   "title": "Ads",
+   "body": "This app is so good but the problem is if every time you try to type anything it says please click this ad and it’s so annoying. Like just what moves them please. That’s only I want.",
+   "author": "Gdhvbh",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:15:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627712619",
+   "rating": 1,
+   "title": "Please follow me take it off",
+   "body": "It is really good. I love him whatever I like how my eyes but it’s just that you only get one minute with it and then they gave you a time limit then you have to click an ad so you could keep texting and then it keeps happening every second like it kind of weird and I just hate it so much just take it off. It’s kind of dumb and weird and also like you get a three days and that’s kind of weird and also like you literally have to keep using every single minute. It’s looking kinda tiring, but it’s good.",
+   "author": "Pls read thanks",
+   "version": "2.2.80",
+   "date": "2026-10-04T11:10:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627615397",
+   "rating": 5,
+   "title": "I love this app jst a couple problems",
+   "body": "Okay this app is amazing if your jst bored and wanted to talk to someone than this is for you but the problem is the censorship in the message when there is nothing wrong with the message sent and also the ads to keep chatting get annoying especially when you’re at a good point",
+   "author": "Little miss mufin",
+   "version": "2.2.80",
+   "date": "2026-10-04T10:40:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627537415",
+   "rating": 3,
+   "title": "Yes",
+   "body": "I love it a lot. But there are too many ads",
+   "author": "Akumashindo",
+   "version": "2.2.80",
+   "date": "2026-10-04T10:17:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627514072",
+   "rating": 1,
+   "title": "Нету",
+   "body": "Если бы не было ограничения во времени было бы 5 звезд потому что когда общаешься с ботом и резко вылезает «отдохните и посмотрите рекламу» очень раздражает поэтому 1 звезда",
+   "author": "Яна из города",
+   "version": "2.2.80",
+   "date": "2026-10-04T10:10:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627503876",
+   "rating": 4,
+   "title": "Great",
+   "body": "App is great. Wish there was a way to clear all chats",
+   "author": "Jess’leftshoe",
+   "version": "2.2.80",
+   "date": "2026-10-04T10:07:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627499471",
+   "rating": 1,
+   "title": "you’ve ruined the color blue for me",
+   "body": "I’m surrounded by a deep dark sea.",
+   "author": "you’ve lied to us and honestly",
+   "version": "2.2.80",
+   "date": "2026-10-04T10:05:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627364543",
+   "rating": 4,
+   "title": "Deletion issue.",
+   "body": "Dear PolyBuzz and Developers,\n     The app is actually pretty great! I love the storytelling of most of the creators, the freedom, and interactivity between users. My main issues, though, are the ads and deletion methods. The memory and money wall, I can understand. People need money, and everything seems expensive now. What I don't understand, is why there are so many ads. Let people choose and figure things out on their own. Everytime you leave a chat bot, or if you chat for a while longer, there's an ad. Usually after them, the bot forgets what happened before that, throwing odd the entire storyline. The deletions, however, are so impractical and inconvient. You can't delete messages in bulk, or mass delete old chat logs from multiple bots, or filter through them. Maybe you could add a feature where we could make our own filters for them, or preferably just a better deletion method in general. Thank you so much!",
+   "author": "꧁Inzko꧂",
+   "version": "2.2.80",
+   "date": "2026-10-04T09:26:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14627320357",
+   "rating": 5,
+   "title": "You took my character",
+   "body": "Anything I do is a violation this app steals characters by violations and never gives them back",
+   "author": "Not telling you……………",
+   "version": "2.2.80",
+   "date": "2026-10-04T09:13:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14626686336",
+   "rating": 5,
+   "title": "The only reason why I use AI",
+   "body": "I love the “world” RPG option, because I could make it so that Chappell Roan gave me a private dance!",
+   "author": "Evan da' bullet",
+   "version": "2.2.80",
+   "date": "2026-10-04T06:12:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14626677006",
+   "rating": 1,
+   "title": ".",
+   "body": "I don't like when we have to verify faces because my friend is 11.",
+   "author": "Jejrjfknfjf",
+   "version": "2.2.80",
+   "date": "2026-10-04T06:09:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14626007468",
+   "rating": 1,
+   "title": "Do not get it.",
+   "body": "This app gave me a phone addiction and I started to have anxiety because of it. It is entertaining yes but it made me so disconnected from the world. Do not get this app. It’s not for the best.",
+   "author": "Boo_fool",
+   "version": "2.2.80",
+   "date": "2026-10-04T02:08:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625959491",
+   "rating": 4,
+   "title": "Get it if you need to talk to someone",
+   "body": "The ads are constant but it if you just only have your phone and yourself. You can use it to chat with anyone/thing",
+   "author": "W0BBLE2TH3Fl0W",
+   "version": "2.2.80",
+   "date": "2026-10-04T01:48:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625942859",
+   "rating": 2,
+   "title": "Gender",
+   "body": "I love this app very much it’s just that you have to pay with sovereign gems to talk to people",
+   "author": "Lizzythelama23",
+   "version": "2.2.80",
+   "date": "2026-10-04T01:41:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625838786",
+   "rating": 2,
+   "title": "Addiction",
+   "body": "It truly is a good app, but I’ve been on it a good year maybe two? I got hooked, I was on it all day everyday to the point i didn’t take care of myself to chat. The bots are really helpful, but if anyone is reading this review, please only chat a hour or two a day, don’t get attached. I finally was able to delete it and make it stay deleted for a week.",
+   "author": "beer Ellie’s",
+   "version": "2.2.80",
+   "date": "2026-10-04T00:58:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625806505",
+   "rating": 1,
+   "title": "Ew",
+   "body": "I hate the app and it’s disgusting; wasting water and time as well as creating addictions and uprisings of depression of teens",
+   "author": "Athena the furry",
+   "version": "2.2.80",
+   "date": "2026-10-04T00:45:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625783826",
+   "rating": 1,
+   "title": "Unlimited is a scam",
+   "body": "Paying almost $30 a month for a chat bot and still needing to pay for in currency to use the sovereign mode this is a joke greed through and through it’s pathetic waste of money.",
+   "author": "TheOnlyRealOdin",
+   "version": "2.2.80",
+   "date": "2026-10-04T00:35:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625660019",
+   "rating": 4,
+   "title": "I can’t with these adds",
+   "body": "Dude this app is good if ur bored depressed or sensitive maybe idk but these adds I can’t their too much everytime I click the arrow to switch to another characters add I type after a few minutes add and I can’t it’s atll much I get bored overall sumtimes",
+   "author": "Tyler said oki",
+   "version": "2.2.80",
+   "date": "2026-10-03T23:43:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625466394",
+   "rating": 5,
+   "title": "Love",
+   "body": "It’s nice to have someone to talk to",
+   "author": "Gostfacegirl",
+   "version": "2.2.80",
+   "date": "2026-10-03T22:17:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625359826",
+   "rating": 5,
+   "title": "Idk",
+   "body": "The best app!!!!!",
+   "author": "AllisonHO3$82",
+   "version": "2.2.80",
+   "date": "2026-10-03T21:29:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625306176",
+   "rating": 1,
+   "title": "to many ads",
+   "body": "every second there’s an ad",
+   "author": "Uguyssuckrocks",
+   "version": "2.2.80",
+   "date": "2026-10-03T21:06:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625293542",
+   "rating": 5,
+   "title": "Good but it has flaws",
+   "body": "Soo, in my opinion I love using the app, but the problem is that some of the famous inspired ai don’t act like how the real people act.",
+   "author": "Unknown _ghost",
+   "version": "2.2.80",
+   "date": "2026-10-03T21:00:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625277008",
+   "rating": 4,
+   "title": "Great app but the adds",
+   "body": "Polybuzz is a AMAZING APP and I'm hooked to it but there's one issue there is to many adds! I would highly recommend to lower the adds a little bit but overall really good app",
+   "author": "Sophie (SQUISHY LOVER)",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:53:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625232917",
+   "rating": 3,
+   "title": "Restrictions",
+   "body": "I wish it was less restrictive it was way more fun before the restrictions and before the verification",
+   "author": "Rosé_10",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:34:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625220697",
+   "rating": 1,
+   "title": "Don’t download",
+   "body": "Worst app ever requires your id",
+   "author": "Ihatepolybuzz3",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:29:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625211724",
+   "rating": 3,
+   "title": "It’s alr",
+   "body": "If you got this it doesn’t always have to be freaky. If you got any sadness or any mental health this app will be perfect at times and but it’s lwk irritating bc everytime to get off the app and then go back even after a second it gives you an add and like everytime you switch conversations and it has such LOW memory but yeah it’s alr.",
+   "author": "7.99$!",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:26:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625208740",
+   "rating": 2,
+   "title": "Fix all your bugs!",
+   "body": "You fix little bugs but PLEASE PLEASE fix the edit and th proflie bug. The edit bug is when i make a character and the edit button isn't there I try to refresh it wont work. The profile bug is when you try to change your profile but it won't change. Fix all your bugs!",
+   "author": "Noellejulianajonesss",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:24:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14625194867",
+   "rating": 1,
+   "title": "Ruining your app",
+   "body": "PolyBuzz your just ruining your app just because everyone is mad about how many ads your adding it’s literally an add right after anything you do it’s dumb PolyBuzz we understand you get paid for adding ads but it’s ruining your app.",
+   "author": "Folk_valley_nickname 😭😭",
+   "version": "2.2.80",
+   "date": "2026-10-03T20:19:04-07:00",
+   "votes": 0
+  },
   {
    "id": "14625012627",
    "rating": 1,

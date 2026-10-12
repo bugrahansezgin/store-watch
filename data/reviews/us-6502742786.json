@@ -1,39 +1,89 @@
 {
  "stats": {
-  "total": 503,
+  "total": 508,
   "avg": 2.81,
   "dist": {
-   "1": 146,
+   "1": 147,
    "2": 75,
-   "3": 105,
-   "4": 83,
-   "5": 94
+   "3": 107,
+   "4": 84,
+   "5": 95
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 3,
+   "avg": 3.33,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
     "3": 0,
-    "4": 0,
-    "5": 0
+    "4": 1,
+    "5": 1
    }
   },
   "d30": {
-   "count": 13,
-   "avg": 2.92,
+   "count": 18,
+   "avg": 3.0,
    "dist": {
-    "1": 5,
+    "1": 6,
     "2": 0,
-    "3": 2,
-    "4": 3,
-    "5": 3
+    "3": 4,
+    "4": 4,
+    "5": 4
    }
   },
-  "updatedAt": "2026-10-12T08:25:24+00:00"
+  "updatedAt": "2026-10-12T13:09:21+00:00"
  },
  "reviews": [
+  {
+   "id": "14650807895",
+   "rating": 4,
+   "title": "it's great, but it needs one more feature that I think would make it better",
+   "body": "The feature to add gifs",
+   "author": "Walten45YT",
+   "version": "1.117",
+   "date": "2026-10-10T11:21:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14648164022",
+   "rating": 1,
+   "title": "Not worth your time",
+   "body": "If you have to pay for everything not worth the time. It would be better if this was more free and less short conversations with the characters. By the time it’s getting good you have to wait almost 3 days to enjoy it. Not worth the time.",
+   "author": "Grace sayer💜",
+   "version": "1.117",
+   "date": "2026-10-09T19:54:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14646651242",
+   "rating": 5,
+   "title": "Juju",
+   "body": "I love it",
+   "author": "Blues73738",
+   "version": "1.117",
+   "date": "2026-10-09T10:22:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14630375853",
+   "rating": 3,
+   "title": "Free version is mid",
+   "body": "I love the ideas, but you really can't do anything on the free version. I've only been on it a couple times, but once you make your post you can't reply to any comments or make new ones under anyone else's posts. Dms are cut super short. The only thing i think you can do is like and follow. \n\nI think if there was monthly and weekly premium options more people would buy it. I know I'd pay for a week at a time. 40$/yr for an app i can barely try out seems almost predatory",
+   "author": "It is a good app but...",
+   "version": "1.116",
+   "date": "2026-10-05T05:13:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14628019219",
+   "rating": 3,
+   "title": "why so many paywalls?",
+   "body": "the core concept of this app is interesting, but it’s hard to enjoy when damn near everything is locked behind a paywall, what gives, man?\n\ni will be generous and give 3 stars though, once again the concept is interesting but the monetization methods bring it down for me",
+   "author": "ThatWindowsGuy",
+   "version": "1.116",
+   "date": "2026-10-04T12:49:28-07:00",
+   "votes": 0
+  },
   {
    "id": "14624926691",
    "rating": 5,

@@ -1,39 +1,116 @@
 {
  "stats": {
-  "total": 904,
-  "avg": 2.95,
+  "total": 911,
+  "avg": 2.96,
   "dist": {
-   "1": 304,
+   "1": 305,
    "2": 96,
    "3": 128,
-   "4": 95,
-   "5": 281
+   "4": 97,
+   "5": 285
   },
   "d7": {
-   "count": 192,
-   "avg": 3.06,
+   "count": 199,
+   "avg": 3.1,
    "dist": {
-    "1": 60,
+    "1": 61,
     "2": 21,
     "3": 25,
-    "4": 19,
-    "5": 67
+    "4": 21,
+    "5": 71
    }
   },
   "d30": {
-   "count": 904,
-   "avg": 2.95,
+   "count": 911,
+   "avg": 2.96,
    "dist": {
-    "1": 304,
+    "1": 305,
     "2": 96,
     "3": 128,
-    "4": 95,
-    "5": 281
+    "4": 97,
+    "5": 285
    }
   },
-  "updatedAt": "2026-10-12T08:25:25+00:00"
+  "updatedAt": "2026-10-12T13:09:29+00:00"
  },
  "reviews": [
+  {
+   "id": "a3be92ba-73b5-445c-b8cf-b5ce2cafa21c",
+   "rating": 5,
+   "title": "",
+   "body": "YESSSS! I love poly buzz so much. the bots and everything is amazing. And I have more than 50 chats and their all so good!🫦I love cortis the boy band and almost all of my chats are about them! and I've made a couple bots but no chats 😭! but this is a really good app and if you delusional like me, this is a good app for you👍❤️💋👏🫦(my user is Mrt_1n).",
+   "author": "Nicole C",
+   "version": "2.2.82",
+   "date": "2026-10-11T12:38:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bd149b10-7d96-47a1-bc53-0edb8098e835",
+   "rating": 5,
+   "title": "",
+   "body": "that perfect",
+   "author": "ملینا دروی",
+   "version": "2.2.80",
+   "date": "2026-10-11T11:22:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c74600ac-16b5-41e9-b82f-4ab01b540447",
+   "rating": 1,
+   "title": "",
+   "body": "so many adds, old version was better",
+   "author": "rica pamela bacarisas",
+   "version": "2.2.82",
+   "date": "2026-10-11T10:42:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "66c58398-6b94-4090-9951-f6d84d2b0777",
+   "rating": 5,
+   "title": "",
+   "body": "it is amazing on how there is no limit to anything",
+   "author": "harley polanco",
+   "version": "2.2.82",
+   "date": "2026-10-11T10:29:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1a613dc5-6f68-4d98-a63f-46384bf11cc6",
+   "rating": 5,
+   "title": "",
+   "body": "Yo, can you guy's extend the limit for persona's to 2,500? Would really appreciate it. Thanks.",
+   "author": "Marites Balledo",
+   "version": "2.2.82",
+   "date": "2026-10-11T10:19:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8808b35a-214c-4c38-b21f-14e9c1c44cca",
+   "rating": 4,
+   "title": "",
+   "body": "it just makes me calm",
+   "author": "Mirabel Bright",
+   "version": "2.2.82",
+   "date": "2026-10-11T10:08:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "11fe86de-be42-4ec6-900a-66b469ec8dbb",
+   "rating": 4,
+   "title": "",
+   "body": "please polybuzz make the letter limit like 2000 to 3000 for character creation details and 2000 for the user persona please",
+   "author": "Angelo Banales",
+   "version": "2.2.72",
+   "date": "2026-10-11T09:45:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "6a90e414-3c73-4aff-8505-eaf03edf55fd",
    "rating": 5,

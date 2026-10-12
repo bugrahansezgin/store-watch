@@ -1,39 +1,539 @@
 {
  "stats": {
-  "total": 588,
-  "avg": 2.81,
+  "total": 638,
+  "avg": 2.8,
   "dist": {
-   "1": 273,
-   "2": 38,
-   "3": 27,
-   "4": 26,
-   "5": 224
+   "1": 299,
+   "2": 40,
+   "3": 31,
+   "4": 27,
+   "5": 241
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 50,
+   "avg": 2.62,
    "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
+    "1": 26,
+    "2": 2,
+    "3": 4,
+    "4": 1,
+    "5": 17
    }
   },
   "d30": {
-   "count": 588,
-   "avg": 2.81,
+   "count": 638,
+   "avg": 2.8,
    "dist": {
-    "1": 273,
-    "2": 38,
-    "3": 27,
-    "4": 26,
-    "5": 224
+    "1": 299,
+    "2": 40,
+    "3": 31,
+    "4": 27,
+    "5": 241
    }
   },
-  "updatedAt": "2026-10-12T08:25:24+00:00"
+  "updatedAt": "2026-10-12T13:09:26+00:00"
  },
  "reviews": [
+  {
+   "id": "14652089892",
+   "rating": 5,
+   "title": "Love my girl",
+   "body": "was so easy to post my girl",
+   "author": "Lil Gary69",
+   "version": "450.1.0",
+   "date": "2026-10-10T19:24:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652037340",
+   "rating": 1,
+   "title": "10/26 update is trash! FAIL",
+   "body": "This update it terrible. If they do not fix it within a week or allow the old viewing style I'm going to delete until they fix it.",
+   "author": "Jimmy john's",
+   "version": "450.1.0",
+   "date": "2026-10-10T19:04:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652031979",
+   "rating": 4,
+   "title": "Close friends from laptop?",
+   "body": "I love scheduling posts from my laptop, but one of my favorite ways to communicate is via my close friends story! Is there any way we can get that available on the website version?",
+   "author": "Rosaaaaaaaaaaaaaaaaaaaaaa",
+   "version": "450.1.0",
+   "date": "2026-10-10T19:02:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652031727",
+   "rating": 3,
+   "title": ".",
+   "body": "It’s a good app but y’all suck when it comes to reporting someone. Was getting harassed and reported him and have screenshots of it and I got an update that nothing was done. And not to mention all the porn. It’s really disappointing and disgusting. And this apps for 12 and up? kinda disturbing if u ask me",
+   "author": "Ur_girl_anna",
+   "version": "450.1.0",
+   "date": "2026-10-10T19:02:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652028576",
+   "rating": 5,
+   "title": "Crowd favorite",
+   "body": "It took me awhile to join the crowd and get Instagram.  Now I see the it is easy to learn and visually attractive.",
+   "author": "Denver Dog trainer",
+   "version": "450.1.0",
+   "date": "2026-10-10T19:01:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652014920",
+   "rating": 2,
+   "title": "Let my people go",
+   "body": "I love you guys but, you controlled too much my post and music",
+   "author": "Benji4784",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:55:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652009780",
+   "rating": 1,
+   "title": "Recent Update",
+   "body": "Ruined the app for iPad users. The recent update removed the full screen view of vid from the Home Screen. Just get a little pop up window that only shows you a cropped vid. Also lost is the ability to speed up the vids, 2x function is gone! Why make the app worse and not better??",
+   "author": "Jmcoic",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:54:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651959010",
+   "rating": 1,
+   "title": "can’t login on the app.",
+   "body": "i can log into my account om browser just fine, but when i try to log in on the app, it tells me i need to use a device i’ve already logged in on. this is very frustrating.",
+   "author": "Killjoy Idiot",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:34:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651949042",
+   "rating": 1,
+   "title": "Recent Instagram update is unusable on iPad",
+   "body": "The recent update has made the app unusable on iPad. Selecting a video doesn’t open it in full screen, it opens a square “preview” window of the video with no way to view it in full screen.",
+   "author": "DylanLi.",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:30:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651932122",
+   "rating": 1,
+   "title": "G",
+   "body": "Tiki",
+   "author": "Lord Farquhar the tiki yara",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:24:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651916077",
+   "rating": 1,
+   "title": "Posting features",
+   "body": "I don’t like the new posting features",
+   "author": "Carolinabellc",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:18:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651915822",
+   "rating": 5,
+   "title": "To the creator of instagram",
+   "body": "I wouldn’t have made this app any different you did great and i love everything about it please be happy everyday. Good luck.",
+   "author": "Taylor Edder",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:18:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651900879",
+   "rating": 5,
+   "title": "PLEASE SEE! (IPAD USER!!)",
+   "body": "Hi so one day I just wanted to scroll on my most favorite time drained app! And I see that now when you click a profile or check your repost instead of thos beautiful perfect FULL SCREEN rectangles! They are confusing small squares that are just terrible I try to click a video on someone’s account it turns to those small squares and scrolls all the way to a random video Nono I hate that please turn it normal thank you Huns!",
+   "author": "queenmissy14",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:12:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651880846",
+   "rating": 1,
+   "title": "ميزه الريلز التجريبي لاتضهر",
+   "body": "ميزه التراي غير موجودة",
+   "author": "novenia.care",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:05:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651871918",
+   "rating": 1,
+   "title": "App is basically unusable",
+   "body": "Here is what it is like trying to scroll this godforsaken wasteland of an app. 1 Reel. Ai slop ad. 2nd ai slop ad. 1 reel. Ai slop ad. Grid of 4 ai slop garbage ads. 1 reel. Ai slop. 1 reel. Ai slop. I don’t even get to begin my doom scroll because this app is so flooded with ads. And the ads are all bots selling literally nothing. Fix this app or I’m gonna keep scrolling on every other app instead. Brain dead developers",
+   "author": "👎👎terrible",
+   "version": "450.1.0",
+   "date": "2026-10-10T18:01:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651867158",
+   "rating": 1,
+   "title": "Bring back the old feed",
+   "body": "Meta ruined this app. I am sick and tired of seeing bullsh from a week ago and missing stuff posted that day. Meta ruins everything it touches.",
+   "author": "Forrest Gumpth",
+   "version": "450.1.0",
+   "date": "2026-10-10T17:59:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651854846",
+   "rating": 1,
+   "title": "Re",
+   "body": "They Disabled my account and make it all recovery based on an ai model that knows nothing.",
+   "author": ".e.m..",
+   "version": "450.1.0",
+   "date": "2026-10-10T17:54:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651837038",
+   "rating": 1,
+   "title": "New UI",
+   "body": "I hate the new layout. You can’t see you want to see without going to the posts page. Roll back the release. Whose idea was this?",
+   "author": "apt342",
+   "version": "450.1.0",
+   "date": "2026-10-10T17:47:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651770807",
+   "rating": 5,
+   "title": "🥳",
+   "body": "Genial",
+   "author": "Dímelo toro 🐂",
+   "version": "450.1.0",
+   "date": "2026-10-10T17:22:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651678869",
+   "rating": 5,
+   "title": "Margi and Cody’s day",
+   "body": "Amazing vendor, Kate’s vision made The Melissa Barn sparkle.  It was subtle elegance everywhere.  Kate is a true professional and I love working, planning, and coordinating with her.",
+   "author": "Dream Day Details",
+   "version": "450.1.0",
+   "date": "2026-10-10T16:45:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651665152",
+   "rating": 1,
+   "title": "Gets worse all the time",
+   "body": "Videos either don’t work at all, or pop up in little square windows, especially when using the search feature. Very frustrating.",
+   "author": "thespottedelephant",
+   "version": "450.1.0",
+   "date": "2026-10-10T16:39:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651631740",
+   "rating": 5,
+   "title": "Falla",
+   "body": "No me dejan poner filtros en las instantáneas porque?",
+   "author": "Quiuuuu",
+   "version": "450.1.0",
+   "date": "2026-10-10T16:25:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651597971",
+   "rating": 2,
+   "title": "Hate the new pop up windows",
+   "body": "When the reels pop up in a floating window, you can’t see half of the reel, you can’t backup - it’s a terrible experience. Ruing what was a really good app.",
+   "author": "Words2go!",
+   "version": "450.1.0",
+   "date": "2026-10-10T16:11:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651567198",
+   "rating": 1,
+   "title": "Latest update is horrible",
+   "body": "The latest update to the app has made the videos absolutely unwatchable now. All videos come up in a small screen where you can’t see much of the video at all. It needs to be fixed and returned back to the previous version where you can see full sized videos. Horrible, absolutely horrible!!!!",
+   "author": "rgray65",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:59:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651566519",
+   "rating": 1,
+   "title": "Annoying and interruptive",
+   "body": "Auto plays audio when you open the app and constantly pauses my background apps like Spotify when I’m just trying to do basic navigations on the app",
+   "author": "wontshoponamazon",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:58:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651564622",
+   "rating": 1,
+   "title": "Aburrida app",
+   "body": "Ya me tienes hasta la vrg suspendiéndome cuentas injustas mente por asociación a cuentas que ni conozco. Como buen mexicano te invito a que pruebes el chile y ctpm",
+   "author": "Tuptojefewey24",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:57:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651554403",
+   "rating": 3,
+   "title": "Give some credit",
+   "body": "Meta AI gave a reprieve for a new acccount. But should stop false flagging altogether",
+   "author": "BITWAwesome",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:53:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651502210",
+   "rating": 5,
+   "title": "Update: 2026: WHY ARE YOU CHANGING 🙄 I hate these new updates!!!",
+   "body": "Stay original instagram.\n\n2024 to 2025- still the most original app. Please don’t change instagram!",
+   "author": "Natalia 💙",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:32:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651500278",
+   "rating": 5,
+   "title": "precious gift of the presence of those we love...",
+   "body": "gratitude.",
+   "author": "ENERGYLIVESLONG",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:31:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651495151",
+   "rating": 5,
+   "title": "I’ll keep my tre thoughts to myself….",
+   "body": "Thanks!!!!!!",
+   "author": "BRO love!",
+   "version": "450.1.0",
+   "date": "2026-10-10T15:29:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651408450",
+   "rating": 5,
+   "title": "100%",
+   "body": "Love you guys",
+   "author": "211dub",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:54:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651400771",
+   "rating": 5,
+   "title": "الكويت",
+   "body": "افضل برنامج 👍",
+   "author": "Llalatyn",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:51:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651393238",
+   "rating": 1,
+   "title": "Not working",
+   "body": "The app won’t open.",
+   "author": "ChasityLee88",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:48:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651387577",
+   "rating": 3,
+   "title": "Recent update",
+   "body": "10/10/26. The recent update has markedly degraded the experience on iPad.  Expanding tiles in search frequently fail and the ones that open are small and aren’t full frame",
+   "author": "^2ts",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:45:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651363757",
+   "rating": 1,
+   "title": "Can’t see the reel on instagram",
+   "body": "Why would you ever cut reels on instagram we can’t even see the full thing??????",
+   "author": "Cat 🪼🦋",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:36:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651337546",
+   "rating": 1,
+   "title": "Reels cut off",
+   "body": "New update, cuts off the top and bottom part of reels on an iPad.",
+   "author": "mo_7eph",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:25:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651336509",
+   "rating": 1,
+   "title": "Stop turning the sound back on",
+   "body": "Instagram will now default to turning the sound on for its reels or stories, no matter how many times you’ve turned it off. You don’t even have to close the app, you just exited for a moment, and the sound will turn back on. This is new behavior, and a very unwelcome one.",
+   "author": "Hymay1",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:25:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651300198",
+   "rating": 1,
+   "title": "6 buttons on reels??",
+   "body": "Are you crazy or sum? Can you just keep the like, comment and share buttons ??? It’s like the whole gallery now",
+   "author": "ReviewRat13",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:11:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651295625",
+   "rating": 1,
+   "title": "Horrible service",
+   "body": "If I could do less than 1sts j would it is the worst app I and comment anything no more please stop being so sensitive not all of us are baby’s",
+   "author": "omarg 2002",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:09:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651278085",
+   "rating": 5,
+   "title": "I love it",
+   "body": "10/10",
+   "author": "nikky rossy",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:03:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651274789",
+   "rating": 1,
+   "title": "War for the iPads",
+   "body": "I hat e this k\nNew update it is so fd up so if you have a iPad for whatever reason you will not like it I am telling you now I am thinking of suing this app it has blown my mind and I use this daily I hate you and this app",
+   "author": "na￼",
+   "version": "450.1.0",
+   "date": "2026-10-10T14:01:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651260831",
+   "rating": 1,
+   "title": "CORRECT THE IPAD UPDATE!",
+   "body": "Reels are not FULLY viewable on the iPad, they are stuck in a square preview ratio. Please make them full screen Iike they were before, or we will not be able to use the app on ipadOS.",
+   "author": "257731345544",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:56:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651251763",
+   "rating": 3,
+   "title": "Don’t get insta",
+   "body": "My account kept getting suspended for no reason, even if I made a new one literally five minutes later, I would get banned again For no reason and I finally hit my goal on one of my accounts getting over 2000 followers and being able to go live, but I got that all taken away from me so I would never download this app again",
+   "author": "Lei_unknown",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:53:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651247056",
+   "rating": 5,
+   "title": "I love it! But…",
+   "body": "So I have been using this app for a little bit now and I know, the new update is supposed to be nice, but I really don’t like the new update. This update is not what I really want right now. Please change it back. Thank you!\n\n-human",
+   "author": "Human😁😊",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:51:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651242927",
+   "rating": 5,
+   "title": "I love",
+   "body": "Instagram is a great platform if they would stop shadow banning me.",
+   "author": "Bishoptalk",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:49:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651164005",
+   "rating": 5,
+   "title": "Excelentes",
+   "body": "Good",
+   "author": "carolina fox",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:20:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651161894",
+   "rating": 1,
+   "title": "Brooo",
+   "body": "Instagram you banned my stuff for no reason I didn’t even follow anybody. I had zero followers zero following you and you disabled my account Mark Zuckerberg or whoever made Instagram can I get my account back because I have suspended it for no reason",
+   "author": "Gf bc CB bringing",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:19:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651158551",
+   "rating": 5,
+   "title": "OLAXcut",
+   "body": "Help me push my account pls",
+   "author": "OLAXcut",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:18:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651155299",
+   "rating": 1,
+   "title": "Update is awful.",
+   "body": "Reels are cropped. Pretty much unwatchable. Bring the previous interface back. Terrible update.",
+   "author": "wheelmaker.seattle",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:17:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14651138324",
+   "rating": 1,
+   "title": "Suspended for no reason",
+   "body": "I really did not do anything wrong and I got suspended for no reason. I need my account back because I do follow the rules. What confused me the most is that Instagram suspended my account for doing nothing wrong. I was joyfully having fun on Instagram until I got suspended.",
+   "author": "Ekdhdkjdjdkd",
+   "version": "450.1.0",
+   "date": "2026-10-10T13:11:37-07:00",
+   "votes": 0
+  },
   {
    "id": "14626135620",
    "rating": 1,
