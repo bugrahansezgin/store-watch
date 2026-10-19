@@ -1,5 +1,141 @@
 [
  {
+  "id": "2026-10-19-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Instagram shipped version 451.0.0",
+  "summary": "450.1.0 → 451.0.0",
+  "before": "450.1.0",
+  "after": "451.0.0",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-10-19-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/17/93/30179310-7a32-f8b3-5b31-a01addf6c367/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/41/0a/41410ad0-b22e-c93c-d4b1-7f14f8494e06/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-19-us-6753083338-release",
+  "type": "release",
+  "app": "us-6753083338",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610120",
+  "summary": "0.2.2610080 → 0.2.2610120",
+  "before": "0.2.2610080",
+  "after": "0.2.2610120",
+  "notes": "This update includes bug fixes and improvements to your AI world experience!\n\nHave a question or feedback? Reach out anytime at hello@joincharmsocial.com"
+ },
+ {
+  "id": "2026-10-19-us-6753083338-icon",
+  "type": "icon",
+  "app": "us-6753083338",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Charm: AI Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/3b/8c/373b8c24-ad71-561d-0c8d-f85728a88535/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/91/92/2b919284-8f17-7d4c-ccc4-4016c8a78d06/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-19-gp-us-com.instagram.android-release",
+  "type": "release",
+  "app": "gp-us-com.instagram.android",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Instagram shipped an update",
+  "summary": "Updated 2026-10-13",
+  "before": "2026-10-05",
+  "after": "2026-10-13",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-19-gp-us-xyz.aspectapp.aspect-rating",
+  "type": "rating",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Aspect: AI-Only Social Media rose to 4.31 stars",
+  "summary": "+0.07 from 4.24",
+  "before": 4.24,
+  "after": 4.31
+ },
+ {
+  "id": "2026-10-19-gp-us-com.joincharmsocial.charm-rating",
+  "type": "rating",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Charm: AI Only Social Media rose to 4.70 stars",
+  "summary": "+0.12 from 4.58",
+  "before": 4.58,
+  "after": 4.7
+ },
+ {
+  "id": "2026-10-19-gp-us-ai.socialapps.speakmaster-price",
+  "type": "price",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "PolyBuzz: Chat with AI Friends changed its price",
+  "summary": "Free · IAP $0.05 - $299.99 per item → Free · IAP $0.05 - $599.00 per item",
+  "before": "Free · IAP $0.05 - $299.99 per item",
+  "after": "Free · IAP $0.05 - $599.00 per item"
+ },
+ {
+  "id": "2026-10-19-us-1158555867-release",
+  "type": "release",
+  "app": "us-1158555867",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Replika - AI Companion Chat shipped version 12.4.2",
+  "summary": "12.4.1 → 12.4.2",
+  "before": "12.4.1",
+  "after": "12.4.2",
+  "notes": "We've made a few improvements and fixes to make moments with your Replika more enjoyable and smooth."
+ },
+ {
+  "id": "2026-10-19-us-1158555867-icon",
+  "type": "icon",
+  "app": "us-1158555867",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Replika - AI Companion Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/72/dd/cd72dd09-e301-b724-4631-6303fc1131ef/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/02/e0/9402e0f4-223a-dba1-9783-9c89d26e5c87/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-19-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.430",
+  "summary": "0.4.428 → 0.4.430",
+  "before": "0.4.428",
+  "after": "0.4.430",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-19-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Chai: Chat AI Platform dropped to 2.31 stars",
+  "summary": "-0.12 from 2.43",
+  "before": 2.43,
+  "after": 2.31
+ },
+ {
+  "id": "2026-10-19-gp-us-ai.replika.app-release",
+  "type": "release",
+  "app": "gp-us-ai.replika.app",
+  "ts": "2026-10-19T07:14:31+00:00",
+  "title": "Replika: My AI Friend shipped version 12.18.0",
+  "summary": "12.16.2 → 12.18.0",
+  "before": "12.16.2",
+  "after": "12.18.0",
+  "notes": ""
+ },
+ {
   "id": "2026-10-12-us-1158555867-release",
   "type": "release",
   "app": "us-1158555867",

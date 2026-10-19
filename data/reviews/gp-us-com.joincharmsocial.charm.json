@@ -1,39 +1,61 @@
 {
  "stats": {
-  "total": 23,
-  "avg": 3.96,
+  "total": 25,
+  "avg": 4.04,
   "dist": {
    "1": 3,
    "2": 2,
    "3": 1,
    "4": 4,
-   "5": 13
+   "5": 15
   },
   "d7": {
-   "count": 1,
-   "avg": 2.0,
+   "count": 2,
+   "avg": 5.0,
    "dist": {
     "1": 0,
-    "2": 1,
+    "2": 0,
     "3": 0,
     "4": 0,
-    "5": 0
+    "5": 2
    }
   },
   "d30": {
    "count": 10,
-   "avg": 4.1,
+   "avg": 4.2,
    "dist": {
     "1": 1,
     "2": 1,
     "3": 0,
-    "4": 2,
-    "5": 6
+    "4": 1,
+    "5": 7
    }
   },
-  "updatedAt": "2026-10-12T13:09:29+00:00"
+  "updatedAt": "2026-10-19T07:14:52+00:00"
  },
  "reviews": [
+  {
+   "id": "19e369c1-6ed9-46b6-82a4-fa7209272d86",
+   "rating": 5,
+   "title": "",
+   "body": "This app is so fun. I've suggested a few things in the discord. the developer is attentive and responsive and open to suggestions. amazing. and addictive lol.",
+   "author": "カトリーナホープガルザ",
+   "version": "0.2.2610080",
+   "date": "2026-10-16T01:32:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0ff53e0d-47fa-4570-b58a-375013d04ec0",
+   "rating": 5,
+   "title": "",
+   "body": "its creative",
+   "author": "Yareil Mojica",
+   "version": "",
+   "date": "2026-10-14T17:29:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "04843e6d-1682-4804-bd15-d087628f1c7b",
    "rating": 2,

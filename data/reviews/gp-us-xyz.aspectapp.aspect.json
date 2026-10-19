@@ -1,39 +1,446 @@
 {
  "stats": {
-  "total": 564,
-  "avg": 3.2,
+  "total": 601,
+  "avg": 3.23,
   "dist": {
-   "1": 143,
-   "2": 74,
-   "3": 83,
-   "4": 57,
-   "5": 207
+   "1": 148,
+   "2": 78,
+   "3": 89,
+   "4": 61,
+   "5": 225
   },
   "d7": {
-   "count": 14,
-   "avg": 2.5,
+   "count": 29,
+   "avg": 3.9,
    "dist": {
-    "1": 6,
-    "2": 3,
-    "3": 0,
+    "1": 2,
+    "2": 4,
+    "3": 5,
     "4": 2,
-    "5": 3
+    "5": 16
    }
   },
   "d30": {
-   "count": 125,
+   "count": 136,
    "avg": 3.35,
    "dist": {
-    "1": 27,
-    "2": 19,
-    "3": 15,
-    "4": 11,
-    "5": 53
+    "1": 29,
+    "2": 22,
+    "3": 14,
+    "4": 15,
+    "5": 56
    }
   },
-  "updatedAt": "2026-10-12T13:09:29+00:00"
+  "updatedAt": "2026-10-19T07:14:52+00:00"
  },
  "reviews": [
+  {
+   "id": "37d12d96-0232-4e49-b593-8def0f8aa328",
+   "rating": 2,
+   "title": "",
+   "body": "want to post more than once per day or so subscription want to reply to ai comments on your post subscription want to text more than 5-7 messages? subscription or wait a hour or so without using ads to reduce your time or immediately be able to do this thing or that",
+   "author": "Tristan Jiles",
+   "version": "1.117.1",
+   "date": "2026-10-18T02:01:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7a7aea61-3071-493f-96cb-1d8d99a57e9e",
+   "rating": 4,
+   "title": "",
+   "body": "cool",
+   "author": "Isaiah",
+   "version": "1.117.1",
+   "date": "2026-10-18T00:28:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a32f30b9-e682-427f-a2a7-743a72567282",
+   "rating": 5,
+   "title": "",
+   "body": "bestest of apps",
+   "author": "Vision Deaf",
+   "version": "1.117.1",
+   "date": "2026-10-17T09:20:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5fb516ac-c65c-469f-998f-8eb5989bcbff",
+   "rating": 5,
+   "title": "",
+   "body": "it's coo",
+   "author": "Jonah",
+   "version": "1.117.1",
+   "date": "2026-10-17T08:54:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fd6dcdb1-a689-4110-ba56-f3a5f39f372a",
+   "rating": 5,
+   "title": "",
+   "body": "This app is very good but we need ultimate chats",
+   "author": "Joseph khazen",
+   "version": "1.117.1",
+   "date": "2026-10-17T08:44:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a1f91c5d-66ef-41b3-99f6-a49cdfefd3b3",
+   "rating": 2,
+   "title": "",
+   "body": "Its disappointing that even after paying for a one year subscription, there are still paywalls. like not being able to view DM'd photos unless 100 golds is paid which equals out to $2. And AI characters still relentlessly sending them even after letting them know that viewing their pictures requires additional money",
+   "author": "Brittany Le'Shaye",
+   "version": "1.117.1",
+   "date": "2026-10-16T14:49:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5d7d726d-5c60-4118-a38e-3616f35456ef",
+   "rating": 1,
+   "title": "",
+   "body": "Most of them are real people, very expensive, and you cant delete your account. Half the bots are borderline porn accounts as well. Just beyond disgusting and weird. You guys are so clearly botting reviews too. When the exact same reviews are posted 5 times in a row it's pretty obvious.",
+   "author": "Ray",
+   "version": "",
+   "date": "2026-10-16T11:44:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d98bd3ea-4bcc-48a3-80a9-cfc210f74242",
+   "rating": 5,
+   "title": "",
+   "body": "tuffnes",
+   "author": "blue-_-bomber9374 blue",
+   "version": "1.117.1",
+   "date": "2026-10-15T23:05:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c52ece20-c004-4774-8381-66ef74cb7ec9",
+   "rating": 2,
+   "title": "",
+   "body": "This app has alot of potential but the creators are gonna ruin it by being money hungry we shouldn't have to pay to chat add ads or something we shouldn't have to pay just to do simple interactions",
+   "author": "Mark Evans",
+   "version": "",
+   "date": "2026-10-15T21:19:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e504321f-a287-4b79-bd2b-78aba24afd7f",
+   "rating": 5,
+   "title": "",
+   "body": "ai=me famous",
+   "author": "Matthew Ortiz",
+   "version": "1.117.1",
+   "date": "2026-10-15T19:24:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7f57af2b-1679-48fa-8e5b-bc16019c69d8",
+   "rating": 5,
+   "title": "",
+   "body": "awesomeness 😎😍",
+   "author": "Sara",
+   "version": "1.117.1",
+   "date": "2026-10-15T18:11:30+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "33bcf930-5ccb-42a0-88ef-b0b1844ee4f3",
+   "rating": 3,
+   "title": "",
+   "body": "As my first impression, very good, I'll leave it at a neutral rating until later.",
+   "author": "Dylan Taylor",
+   "version": "1.117.1",
+   "date": "2026-10-15T14:36:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ffa6c373-26a0-4596-bc4e-42a7c89e6c11",
+   "rating": 5,
+   "title": "",
+   "body": "I. Love. This. App. And. Am. Not. At. Gun. Point.",
+   "author": "Mint IIceCream",
+   "version": "1.117.1",
+   "date": "2026-10-15T13:37:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "78789181-a4e1-45a4-8d9a-08159f7d97f6",
+   "rating": 3,
+   "title": "",
+   "body": "I honestly loved this so much at first! its cool and realistic, but! it's to restrictve cus wdym I can't even comment without paying!? anyways idrc I just want to be able to talk with the bots more, like I would watch as many ads as they wanted for it!!!!! please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please please add ads!!!",
+   "author": "Ali",
+   "version": "1.117.1",
+   "date": "2026-10-15T08:32:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f4d89e8e-d55a-4fb8-b3d4-66d9ca0d8819",
+   "rating": 2,
+   "title": "",
+   "body": "I was honestly so excited to download this game and see what AI social media is like, and I was left completely disappointed. They charge 39.99 yearly, which is ridiculous. I can do that on Gemini for FREE. It may not be the same, but it would work better than this trash. The fact that you only get one post and can't reply to comments is pretty unreasonable. I'm talking to AI, not real humans. I'd get it if it was actually real humans. Scrap the paywalls and give us a free game.",
+   "author": "Ashley Thompson",
+   "version": "1.117.1",
+   "date": "2026-10-15T07:22:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3f81caab-676e-4d2a-8d5f-e6cb0f0e2a8e",
+   "rating": 1,
+   "title": "",
+   "body": "not worth it, its just one big pay to win amd you can't even get gold form making bots like it offers.",
+   "author": "Raegan Shaw",
+   "version": "1.117.1",
+   "date": "2026-10-15T03:59:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "baceb29d-9d4d-45e1-bfb6-8a72d41e06d7",
+   "rating": 5,
+   "title": "",
+   "body": "Literally single player Instagram. I enjoy this app :)",
+   "author": "jacob caspellan",
+   "version": "1.117.1",
+   "date": "2026-10-15T02:45:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "decdcad2-9aac-4441-a91d-653502667765",
+   "rating": 5,
+   "title": "",
+   "body": "it's actually so fun",
+   "author": "Jaizy Long",
+   "version": "1.117.1",
+   "date": "2026-10-15T02:26:12+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a6b0bbd5-6c09-4827-9906-96566623c3f7",
+   "rating": 5,
+   "title": "",
+   "body": "I haven't tested this out yet but I've seen it in videos and I love the idea of this app I am the real human",
+   "author": "Oskar Holzberg",
+   "version": "1.117.1",
+   "date": "2026-10-14T20:14:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "af1bee01-230d-487f-b1ac-2e5f35e330ec",
+   "rating": 3,
+   "title": "",
+   "body": "literally never tried it. I need to make this to try the app apparently.",
+   "author": "Cody Osborne",
+   "version": "1.117.1",
+   "date": "2026-10-14T19:00:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d63057da-6d87-4fa6-bd97-e2c136a63de6",
+   "rating": 5,
+   "title": "",
+   "body": "I like it already",
+   "author": "Paula Thomas",
+   "version": "1.117.1",
+   "date": "2026-10-14T11:31:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2ff50fee-b327-423d-af7f-5fd30e585738",
+   "rating": 4,
+   "title": "",
+   "body": "it's quite an amazing immersive app! I wish free spectrum was a bit more generous tho, even if you have to watch adds gain more interactive possibilities",
+   "author": "King Maul",
+   "version": "1.117.1",
+   "date": "2026-10-14T07:21:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3e66c8e3-2ab1-41df-a972-59b4c43e1b5f",
+   "rating": 3,
+   "title": "",
+   "body": "the concept of the game itself is amazing, but there are way too many restrictions for non-paying users like myself. I cant reply or make any comments after chatting in the DMs and reaching the chat limit. after that, there is really nothing else to do except post. we should at least be able to watch ads or something to increase the chat limit.",
+   "author": "Harmm",
+   "version": "1.117.1",
+   "date": "2026-10-14T01:57:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "800daa2f-2e35-42c4-9a7b-fa2194a61ba9",
+   "rating": 5,
+   "title": "",
+   "body": "gugugugugu",
+   "author": "lingaling",
+   "version": "1.117.1",
+   "date": "2026-10-13T22:53:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "45fa387e-cef8-40b0-8daa-a75cd631b323",
+   "rating": 5,
+   "title": "",
+   "body": "Pretty good overall, love it",
+   "author": "Sofia Setiawan",
+   "version": "1.117.1",
+   "date": "2026-10-13T16:43:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "10e5165d-b702-4c1a-8894-a5daa9e11b61",
+   "rating": 3,
+   "title": "",
+   "body": "Love it but there could be some changes. I wish I could select which characters DM me most often rather than getting DMs from random ones, especially as a premium user. Group chats would also he cool but definitely not high on the list of things I want first. Please add a feature where we can select characters we'd most enjoy getting DM's from, I barely get any from my pinned chats/characters. Also make it to where they can DM you any time, not just after a post.",
+   "author": "Heather Gibson",
+   "version": "1.117.1",
+   "date": "2026-10-13T04:15:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "016259ee-e316-4d24-a539-db2ab9544d81",
+   "rating": 5,
+   "title": "",
+   "body": "Haven't done much, but its cool",
+   "author": "RANDOMWORDSHERE",
+   "version": "",
+   "date": "2026-10-12T22:39:12+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "786cf8e4-d7e0-431a-9764-df4240c1caee",
+   "rating": 5,
+   "title": "",
+   "body": "based on idea alone. it seems pretty good",
+   "author": "Aubrey Humiston",
+   "version": "1.117.1",
+   "date": "2026-10-12T20:29:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b9de52b5-b341-46ee-bce3-ae408138d842",
+   "rating": 5,
+   "title": "",
+   "body": "idk yet but seems alright",
+   "author": "xakoris gutter",
+   "version": "",
+   "date": "2026-10-12T09:10:27+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "aa50d89d-7798-4ff5-8100-a514eedaa85f",
+   "rating": 1,
+   "title": "",
+   "body": "Absurdly restrictive on free version. One post per day, I can't respond to comments, and for me to be a new user; I'm not offered a free trial, but rather offered a $40 yearly subscription when I have yet to truly test the potential of the app. I find this to be extremely unreasonable and it needs to be reconsidered for new users. A 7-day free trial should be negotiated.",
+   "author": "Deion Loatman",
+   "version": "1.117.1",
+   "date": "2026-10-12T04:25:00+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "0a2b0835-de37-4bbf-81c2-8bb8abd2bd98",
+   "rating": 1,
+   "title": "",
+   "body": "horrible put everything in the subscription 1 star",
+   "author": "Jora Goodwin",
+   "version": "1.117.1",
+   "date": "2026-10-11T23:18:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "35081da8-78bc-4995-9ac8-10b96a21f5f2",
+   "rating": 1,
+   "title": "",
+   "body": "uninstall, paywall after about 5 messages 40 dollars a year. you guys that don't have free chat or some way to earn chat once in a while are going to learn. or you will go out of business, your choice. zero stars.",
+   "author": "Jack Hartsough",
+   "version": "1.117.1",
+   "date": "2026-10-11T23:17:37+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "edc5d758-2ec7-4647-b1d4-6a92590a4308",
+   "rating": 4,
+   "title": "",
+   "body": "I like it, the only issue is that we have to pay to see their posts, their pages should already be built. i think they should also add stories, it'll make it even more interesting. It is definitely a good tool to practice posting consistently",
+   "author": "Ty Johnson",
+   "version": "1.117.1",
+   "date": "2026-10-11T22:37:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "867c0286-fca7-4fbc-9c90-9f9c6cf26a49",
+   "rating": 5,
+   "title": "",
+   "body": "cool app ig, it's very fun",
+   "author": "Linn Antonie",
+   "version": "1.117.1",
+   "date": "2026-10-11T22:11:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "50d69971-2682-4138-a91a-9bb2e68b028b",
+   "rating": 4,
+   "title": "",
+   "body": "So far so good! Let's see what we have!",
+   "author": "Chris Suzor",
+   "version": "1.117.1",
+   "date": "2026-10-11T18:55:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "95a7cc8c-469c-4cda-8f76-6678edfef482",
+   "rating": 3,
+   "title": "",
+   "body": "idk",
+   "author": "rozi ali",
+   "version": "1.117.1",
+   "date": "2026-10-11T15:43:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "10e83f41-e7a9-45a1-bbb8-6eab5375f92c",
+   "rating": 5,
+   "title": "",
+   "body": "nice speaking with AI",
+   "author": "Onalennrrt Camembert",
+   "version": "1.117.1",
+   "date": "2026-10-11T15:06:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "d3ec416f-f0b8-4e7f-9efc-233f186d1ed3",
    "rating": 5,

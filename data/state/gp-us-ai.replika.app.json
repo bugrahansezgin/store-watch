@@ -6,12 +6,12 @@
  "developer": "Luka, Inc",
  "url": "https://play.google.com/store/apps/details?id=ai.replika.app&gl=us",
  "icon": "https://play-lh.googleusercontent.com/UGRlMthHHNvFrbkIbfgMnxAdbZhQfba57ajRbODHniOnT57JBHUY5-8NQljnGw5c3MP7BLO4cA-ypU3pfCik=w512",
- "version": "12.16.2",
+ "version": "12.18.0",
  "releaseNotes": "",
- "versionDate": "2026-09-22T20:41:24+00:00",
+ "versionDate": "2026-10-13T12:18:45+00:00",
  "price": "Free · IAP $0.99 - $299.99 per item",
  "rating": 4.25,
- "ratingCount": 525128,
+ "ratingCount": 525213,
  "installs": "10,000,000+",
  "genre": "Health & Fitness",
  "descriptionHash": "de0d5938abbc",
@@ -27,6 +27,6 @@
  ],
  "ipadScreenshots": [],
  "screenshotSource": "play",
- "lastChecked": "2026-10-12T13:09:02+00:00",
+ "lastChecked": "2026-10-19T07:14:31+00:00",
  "trackedSince": "2026-09-30T08:03:17+00:00"
 }
