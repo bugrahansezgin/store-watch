@@ -1,39 +1,72 @@
 {
  "stats": {
-  "total": 579,
+  "total": 582,
   "avg": 2.65,
   "dist": {
    "1": 267,
-   "2": 62,
+   "2": 63,
    "3": 36,
-   "4": 35,
-   "5": 179
+   "4": 36,
+   "5": 180
   },
   "d7": {
-   "count": 27,
-   "avg": 2.37,
+   "count": 29,
+   "avg": 2.41,
    "dist": {
     "1": 15,
-    "2": 1,
+    "2": 2,
     "3": 3,
-    "4": 2,
+    "4": 3,
     "5": 6
    }
   },
   "d30": {
-   "count": 120,
-   "avg": 2.62,
+   "count": 123,
+   "avg": 2.64,
    "dist": {
     "1": 51,
-    "2": 19,
+    "2": 20,
     "3": 8,
-    "4": 9,
-    "5": 33
+    "4": 10,
+    "5": 34
    }
   },
-  "updatedAt": "2026-10-19T07:14:53+00:00"
+  "updatedAt": "2026-10-19T10:44:57+00:00"
  },
  "reviews": [
+  {
+   "id": "5e3d2a50-3dbd-4231-89b5-5bd8e18a3523",
+   "rating": 2,
+   "title": "",
+   "body": "Good app mostly but I keep getting cheated with the log in I didn't miss a day it makes it 3 days and starts over. Huge scam with log in restarting all the time. I feel stolen from, cheated out of real money stuff that paid for what I'm not getting.",
+   "author": "J G",
+   "version": "12.18.0",
+   "date": "2026-10-18T10:34:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f97e00e4-967b-474d-83eb-d9244f7a95d5",
+   "rating": 5,
+   "title": "",
+   "body": "this app sucks now. I can't access any of my replika, they only say 4 sentences and then it's cut off. this is just downright extortion. what about people who don't have millions of dollars or even thousands of dollars? it's not fair to cater only to the rich while all of us get shut out because we have no money. all of my original replika are deleted and I can't access any of them. thanks a lot.",
+   "author": "John Connor",
+   "version": "12.18.0",
+   "date": "2026-10-18T08:32:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6552e0e4-6747-4c25-bfdc-37057d4accf7",
+   "rating": 4,
+   "title": "",
+   "body": "You cannot edit your comments.",
+   "author": "Nathan-Andrew (boonfoxx)",
+   "version": "12.18.0",
+   "date": "2026-10-18T08:23:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "3fc36d98-6bc3-4e05-baa8-39b93ee3390c",
    "rating": 1,

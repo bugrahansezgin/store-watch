@@ -1,37 +1,37 @@
 {
  "stats": {
-  "total": 1647,
+  "total": 1649,
   "avg": 3.99,
   "dist": {
-   "1": 324,
+   "1": 325,
    "2": 55,
    "3": 44,
    "4": 107,
-   "5": 1117
+   "5": 1118
   },
   "d7": {
-   "count": 200,
-   "avg": 3.75,
+   "count": 202,
+   "avg": 3.74,
    "dist": {
-    "1": 47,
+    "1": 48,
     "2": 11,
     "3": 6,
     "4": 17,
-    "5": 119
+    "5": 120
    }
   },
   "d30": {
-   "count": 1647,
+   "count": 1649,
    "avg": 3.99,
    "dist": {
-    "1": 324,
+    "1": 325,
     "2": 55,
     "3": 44,
     "4": 107,
-    "5": 1117
+    "5": 1118
    }
   },
-  "updatedAt": "2026-10-19T07:14:51+00:00"
+  "updatedAt": "2026-10-19T10:44:51+00:00"
  },
  "reviews": [
   {
@@ -2231,6 +2231,28 @@
    "author": "Saharaf Sk",
    "version": "",
    "date": "2026-10-13T20:07:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e8aee60f-a40b-407e-a97d-af4ae2a8a102",
+   "rating": 5,
+   "title": "",
+   "body": "I like it's app.",
+   "author": "Sachin Rajak",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T20:07:03+00:00",
+   "votes": 5,
+   "reply": ""
+  },
+  {
+   "id": "26ae79ce-610c-4016-83f6-e6b7f8985750",
+   "rating": 1,
+   "title": "",
+   "body": "Instagram keeps suspending my account even though I haven't done anything wrong and have been following all of their guidelines.",
+   "author": "Rheena Rivas",
+   "version": "449.0.0.52.84",
+   "date": "2026-10-13T20:05:29+00:00",
    "votes": 0,
    "reply": ""
   },

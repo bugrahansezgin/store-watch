@@ -1,39 +1,149 @@
 {
  "stats": {
-  "total": 1101,
-  "avg": 2.93,
+  "total": 1111,
+  "avg": 2.92,
   "dist": {
-   "1": 375,
-   "2": 117,
+   "1": 381,
+   "2": 119,
    "3": 153,
-   "4": 120,
-   "5": 336
+   "4": 121,
+   "5": 337
   },
   "d7": {
-   "count": 190,
-   "avg": 2.81,
+   "count": 200,
+   "avg": 2.77,
    "dist": {
-    "1": 70,
-    "2": 21,
+    "1": 76,
+    "2": 23,
     "3": 25,
-    "4": 23,
-    "5": 51
+    "4": 24,
+    "5": 52
    }
   },
   "d30": {
-   "count": 1101,
-   "avg": 2.93,
+   "count": 1111,
+   "avg": 2.92,
    "dist": {
-    "1": 375,
-    "2": 117,
+    "1": 381,
+    "2": 119,
     "3": 153,
-    "4": 120,
-    "5": 336
+    "4": 121,
+    "5": 337
    }
   },
-  "updatedAt": "2026-10-19T07:14:52+00:00"
+  "updatedAt": "2026-10-19T10:44:52+00:00"
  },
  "reviews": [
+  {
+   "id": "6e586a8e-627b-4a6c-a41b-5e0dec553115",
+   "rating": 2,
+   "title": "",
+   "body": "I lile the bots and their responses and I dont seem to be dsiturbed by the ADS but the thing is I just need some space to chat. Not like for every 5 or 10 minutes there's an ad taht already pops up. The bot's responses are sometimes not even relevant to the topic or also forgets every sentence the moment the chat goes long. Its just the app keeps getting worser the lomger I use. Please fix this.",
+   "author": "Maria Althea Tapiru",
+   "version": "",
+   "date": "2026-10-18T10:40:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "86b428bd-2317-4a64-871d-97e1b221920a",
+   "rating": 1,
+   "title": "",
+   "body": "This app is genuinely baffling in how it monetizes. I get it's expensive to run, but some of the paywalled features are so incredibly basic that there is no justifying it. It also lacks so many basic features that are standard for these types of apps like Personas, message editing, and includes really bizzare \"features\" that are more of a hindrance than anything like scrolling through chats swipes to a completely different random bot.",
+   "author": "Adrian",
+   "version": "2.2.82",
+   "date": "2026-10-18T10:38:54+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8606f4e9-7036-4046-a487-4254392b49ad",
+   "rating": 1,
+   "title": "",
+   "body": "Please remove other languages I don't understand other languages and I only understand English or Vietnamese, Put the English language This sucks What does this mean paywatch really and take a break for tomorrow This language is not currently supported assistance notification Please put an image why do I have to watch video not chats longest button on because I need it and put image in I hate it please I hate you game now I cannot chats now it annoying me occurs error no violation text box short",
+   "author": "Linh Phạm",
+   "version": "2.2.82",
+   "date": "2026-10-18T10:28:05+00:00",
+   "votes": 15,
+   "reply": ""
+  },
+  {
+   "id": "d70362f8-4868-4dce-a456-86d9943e7156",
+   "rating": 1,
+   "title": "",
+   "body": "so much 18+",
+   "author": "Shelly Rawrrr",
+   "version": "2.2.82",
+   "date": "2026-10-18T10:25:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "24c3c863-7fa1-4099-a077-04e17f157ff0",
+   "rating": 1,
+   "title": "",
+   "body": "they distance you from actual ppl",
+   "author": "Prisco Sanchez",
+   "version": "",
+   "date": "2026-10-18T10:18:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a080b731-d717-4c37-b129-758f10da73e7",
+   "rating": 1,
+   "title": "",
+   "body": "The developers gave up and abandoned the app, making the AI dumber and adding more ads. Why the hell do you allow yourself to do this?! You're monsters. soon no one will use it",
+   "author": "Александр",
+   "version": "2.2.82",
+   "date": "2026-10-18T09:58:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ba8c1458-692a-4f23-b8e0-4ef1d6fc02a4",
+   "rating": 4,
+   "title": "",
+   "body": "it's great but i don't like that after every 20 message's you have to watch an ad to continue. but beside that it's great",
+   "author": "Family Mbay",
+   "version": "",
+   "date": "2026-10-18T09:58:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7fd8a9a5-5bc5-4cb4-8e46-aa4fc98b7c9a",
+   "rating": 1,
+   "title": "",
+   "body": "the memory in this is terrible. the ai constantly forgets things even though I paid for permanent memory. I spend more time reminding the bots of things it forgot than I do chatting with them",
+   "author": "Cole Gregg",
+   "version": "2.2.82",
+   "date": "2026-10-18T08:48:27+00:00",
+   "votes": 29,
+   "reply": ""
+  },
+  {
+   "id": "1ca15b68-6c4b-4b32-9998-d9ba2d4278eb",
+   "rating": 2,
+   "title": "",
+   "body": "edit: i think they were running out of cash...if they run out of cash...they will be forced to take down the app...so I kinda understand... adding only one star cuz I kinda understand what's happening",
+   "author": "Amber Nicole",
+   "version": "2.2.82",
+   "date": "2026-10-18T08:30:05+00:00",
+   "votes": 4,
+   "reply": ""
+  },
+  {
+   "id": "93dcfaab-ed72-4d6d-a056-3f2a56e17d3f",
+   "rating": 5,
+   "title": "",
+   "body": "It's such a great app I recommend it I been using this app after the new chai update honestly it's such a great app",
+   "author": "Angel Gurung",
+   "version": "",
+   "date": "2026-10-18T08:24:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "f8cdee34-4295-486c-a951-e37560b31f5d",
    "rating": 1,

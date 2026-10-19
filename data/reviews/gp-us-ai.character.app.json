@@ -1,39 +1,259 @@
 {
  "stats": {
-  "total": 1151,
+  "total": 1171,
   "avg": 1.94,
   "dist": {
-   "1": 744,
-   "2": 112,
-   "3": 74,
+   "1": 758,
+   "2": 114,
+   "3": 75,
    "4": 61,
-   "5": 160
+   "5": 163
   },
   "d7": {
-   "count": 198,
-   "avg": 2.07,
+   "count": 218,
+   "avg": 2.05,
    "dist": {
-    "1": 123,
-    "2": 16,
-    "3": 14,
+    "1": 137,
+    "2": 18,
+    "3": 15,
     "4": 12,
-    "5": 33
+    "5": 36
    }
   },
   "d30": {
-   "count": 1151,
+   "count": 1171,
    "avg": 1.94,
    "dist": {
-    "1": 744,
-    "2": 112,
-    "3": 74,
+    "1": 758,
+    "2": 114,
+    "3": 75,
     "4": 61,
-    "5": 160
+    "5": 163
    }
   },
-  "updatedAt": "2026-10-19T07:14:53+00:00"
+  "updatedAt": "2026-10-19T10:44:59+00:00"
  },
  "reviews": [
+  {
+   "id": "0696889e-beec-4d10-a669-bd62346f227b",
+   "rating": 1,
+   "title": "",
+   "body": "ehew my memories and chat were gone",
+   "author": "Jemima Aditya",
+   "version": "",
+   "date": "2026-10-18T10:42:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "84104df8-46e7-4c34-9020-d743ebae08de",
+   "rating": 2,
+   "title": "",
+   "body": "the story focuses more on the character than me. for the roleplaying part that is REALLY annoying",
+   "author": "den hemliga kanalen",
+   "version": "1.17.4",
+   "date": "2026-10-18T10:38:54+00:00",
+   "votes": 8,
+   "reply": ""
+  },
+  {
+   "id": "511e3143-0ae8-4e2a-9e61-482f8271901f",
+   "rating": 1,
+   "title": "",
+   "body": "please fix this bug. The app keeps crashing whenever I try to open a chat. and on the website, the chat never loads or let's me send messages.",
+   "author": "j3nniee0",
+   "version": "",
+   "date": "2026-10-18T10:28:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b67a5dbb-7577-42a0-8da7-86b7016c39ba",
+   "rating": 1,
+   "title": "",
+   "body": "I hatee",
+   "author": "david nyoka",
+   "version": "1.17.4",
+   "date": "2026-10-18T10:14:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e486e48c-d983-4b78-9cde-14de3f4dfad3",
+   "rating": 1,
+   "title": "",
+   "body": "worst update eve!",
+   "author": "Forsakengooners",
+   "version": "",
+   "date": "2026-10-18T09:50:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "20f2f439-9da5-437c-96bf-1b2068f5212b",
+   "rating": 1,
+   "title": "",
+   "body": "Edited from 5 stars to 1 star due to the sudden appearance of ads, which are annoying... edit (4/11/26): No the ads are eating up 25% of my screen. This is not going to be good... (5/24/26 edit) ads are basically everywhere... I didn't even tap on it but it instantly redirects me to god knows where... (10/18/26 edit) wdym we have a cooldown?! what is this, a gacha game?",
+   "author": "HaruenPenelope",
+   "version": "1.17.3",
+   "date": "2026-10-18T09:24:17+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "e51de494-0008-460b-a19b-7a59ba3fd6ae",
+   "rating": 1,
+   "title": "",
+   "body": "just.. just no",
+   "author": "Wann nenkraun",
+   "version": "1.14.1",
+   "date": "2026-10-18T09:24:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d71d055b-6e9e-405e-9631-9843ce672e89",
+   "rating": 2,
+   "title": "",
+   "body": "The 'never ghost a character again' feature is useless, like what is the point of not having to lose a character if our chats aren’t going to be there?",
+   "author": "Salim Howlader",
+   "version": "1.17.4",
+   "date": "2026-10-18T09:14:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "05bb4e1b-5b8b-40bc-ae8d-756daf942d87",
+   "rating": 1,
+   "title": "",
+   "body": "This app has gotten absolutely horrid, it was so fun with the roleplays, but now you have to be an adult to chat, which is absolutely stupid. The least you can do is make it PG-13 instead of 18, like who needs a government ID to text with a bot named Dee dee mega doo doo?",
+   "author": "Natia Emishovi",
+   "version": "",
+   "date": "2026-10-18T09:10:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6ba89f12-19a7-4706-a403-dde635f91071",
+   "rating": 1,
+   "title": "",
+   "body": "worse app",
+   "author": "Wisa Ahmadzai",
+   "version": "",
+   "date": "2026-10-18T08:58:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "914529a7-7cfe-4077-9df7-74b194b4edc2",
+   "rating": 1,
+   "title": "",
+   "body": "worst app, bad updated especially the age verify, bring back the old version!",
+   "author": "Krar Hxm",
+   "version": "1.17.4",
+   "date": "2026-10-18T08:57:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "78258a54-a366-4d5c-b48f-454388aa1186",
+   "rating": 1,
+   "title": "",
+   "body": "GOSH, WHY ADD THE AGE VERIFICATION THINGY IF IT DOESN'T EVEN WORK?? ALSO, ADD AN OPTION WHERE WE CAN UPLOAD SOFT COPIES OF OUR ID's (FOR SOMEONE WHO DOES HAVE A PHYSICAL COPY OF THEIR OWN ID!!)",
+   "author": "Mabby Aparicio",
+   "version": "1.15.2",
+   "date": "2026-10-18T08:55:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ffd36522-02dc-4717-aca9-7af5cc0add31",
+   "rating": 1,
+   "title": "",
+   "body": "the app is GENUINELY unusable because the ads keep popping up and every update is a new restriction or bug not only that they sometimes delete the characters we were talking to. At this point just remove this from the app store.",
+   "author": "Alisa Pili",
+   "version": "1.17.4",
+   "date": "2026-10-18T08:52:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ab7b78ea-1d29-4f3b-8f23-b6b333aa5144",
+   "rating": 3,
+   "title": "",
+   "body": "guys remove the chat filters from the chat ok for atleast 18+ users it's so annoying it's keeps saying the chat is filtered it's not like I'm chatting on some sensitive or controversial topics ok keep it mind devs and remove some so we can chat freely to the chat bot .",
+   "author": "Akbar Ali",
+   "version": "1.17.4",
+   "date": "2026-10-18T08:47:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fc315b22-dd0d-4f0d-b875-57df66440122",
+   "rating": 5,
+   "title": "",
+   "body": "I'm going to miss this app so much . I love it",
+   "author": "Nad Zem",
+   "version": "1.17.2",
+   "date": "2026-10-18T08:08:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "61255fb6-74ec-48ff-8727-645f0012af63",
+   "rating": 5,
+   "title": "",
+   "body": "this app is good but I think you should remove the ads cuz it's kinda annoying... and you should make the bots remember everything about us especially when we pinned the chat. but overall i think the app is good but just you need to remove the ads for real",
+   "author": "Iris",
+   "version": "1.17.4",
+   "date": "2026-10-18T07:58:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1207d707-e56a-4660-9ba8-c3d749cbd6d0",
+   "rating": 1,
+   "title": "",
+   "body": "Horrible. I have used this app for 2-3 years, I witnessed its peak and its fall. I didn't mind the adds at the beginning when you click the character, but now there's ads every 5 messages. Most ads are unskipable. When I click the x it takes me to the app store, making this app very much unusable.",
+   "author": "Sophia Angeles",
+   "version": "1.17.4",
+   "date": "2026-10-18T07:37:33+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "bf9cbbd5-de2e-47bb-b083-79a9b9c16a1a",
+   "rating": 1,
+   "title": "",
+   "body": "Dear developers, stop being greedy or forcing people to pay for your plans and bring back how great this app used to be during 2022 and 2023! the free version would always crash and I no longer enjoyed all of the chats because the characters are no longer fun and livelier especially with the problem of how the replies are too small and flat! Please listen to your feedbacks and fix the mistakes for yours truly",
+   "author": "Azure Blackberry",
+   "version": "1.11.1",
+   "date": "2026-10-18T07:21:23+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "018d19e8-3d63-4bfd-a9d4-be740a6ca3ad",
+   "rating": 1,
+   "title": "",
+   "body": "I knew this day would come",
+   "author": "Rafi Abdullah Hellfire",
+   "version": "1.11.0",
+   "date": "2026-10-18T07:18:52+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "4dfce2c3-94c2-4dd4-8981-347a8b5ae6a5",
+   "rating": 5,
+   "title": "",
+   "body": "Love this app I hope it doesn't go",
+   "author": "Jake Jayingee",
+   "version": "1.17.4",
+   "date": "2026-10-18T07:15:27+00:00",
+   "votes": 2,
+   "reply": ""
+  },
   {
    "id": "6b9bba83-c841-4976-9b34-fc2a893d442a",
    "rating": 1,

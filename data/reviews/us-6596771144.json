@@ -1,39 +1,5039 @@
 {
  "stats": {
-  "total": 1058,
-  "avg": 4.26,
+  "total": 1558,
+  "avg": 4.32,
   "dist": {
-   "1": 43,
-   "2": 28,
-   "3": 145,
-   "4": 233,
-   "5": 609
+   "1": 57,
+   "2": 37,
+   "3": 188,
+   "4": 345,
+   "5": 931
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 500,
+   "avg": 4.44,
    "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
+    "1": 14,
+    "2": 9,
+    "3": 43,
+    "4": 112,
+    "5": 322
    }
   },
   "d30": {
-   "count": 1058,
-   "avg": 4.26,
+   "count": 1558,
+   "avg": 4.32,
    "dist": {
-    "1": 43,
-    "2": 28,
-    "3": 145,
-    "4": 233,
-    "5": 609
+    "1": 57,
+    "2": 37,
+    "3": 188,
+    "4": 345,
+    "5": 931
    }
   },
-  "updatedAt": "2026-10-19T07:14:51+00:00"
+  "updatedAt": "2026-10-19T10:44:51+00:00"
  },
  "reviews": [
+  {
+   "id": "14679635395",
+   "rating": 5,
+   "title": "Great game",
+   "body": "You must have thick skin lol",
+   "author": "AbbbyK",
+   "version": "1.9.62",
+   "date": "2026-10-17T18:00:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679609346",
+   "rating": 4,
+   "title": "status",
+   "body": "fun fun fun, lowkirk want more gems so here i am",
+   "author": "Young F.A",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:50:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679589867",
+   "rating": 5,
+   "title": "Good app",
+   "body": "Nice",
+   "author": "Bojskzijssb",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:43:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679571381",
+   "rating": 5,
+   "title": "Great game",
+   "body": "Sooo fun",
+   "author": "fatima153",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:35:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679523567",
+   "rating": 4,
+   "title": "Good game!",
+   "body": "Very fun! I love making my way OCs. Only issue is the energy wait. Why? It's odd, and makes it hard to enjoy the app.",
+   "author": "demonic Frog",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:17:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679516740",
+   "rating": 4,
+   "title": "very good game",
+   "body": "great game just runs out of energy fast makes you lose interest",
+   "author": "osis12233",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:15:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679508470",
+   "rating": 3,
+   "title": "A lot of ads",
+   "body": "A lot of ads, making it unbearable to play but the concept itself is fun.",
+   "author": "Moonie0555",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:11:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679498021",
+   "rating": 5,
+   "title": "Awesome",
+   "body": "Could spend hours on this app so fun",
+   "author": "brandimanuel80",
+   "version": "1.9.62",
+   "date": "2026-10-17T17:08:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679473589",
+   "rating": 5,
+   "title": "Dope",
+   "body": "Dope",
+   "author": "Prodigykillah",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:58:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679444031",
+   "rating": 5,
+   "title": "Great game!",
+   "body": "Been really enjoying the Harry Potter game",
+   "author": "NCTrucker1776",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:47:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679437135",
+   "rating": 3,
+   "title": "i like",
+   "body": "it",
+   "author": "ella pimental",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:44:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679425573",
+   "rating": 5,
+   "title": "Loving the game",
+   "body": "I’l really loving this so far",
+   "author": "_Tero123",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:39:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679399454",
+   "rating": 5,
+   "title": "Energy",
+   "body": "Energy",
+   "author": "MyKidsTokeMyWife",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:28:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679398086",
+   "rating": 5,
+   "title": "I love it!",
+   "body": "It’s so fun! I get to chat with my favorite idols and post my own stories! I have gotten a bunch of fans! And the best part is that you can be anyone you want! And have any career you want! I have been a kpop idol a bunch of times and have never had any problems!",
+   "author": "Riwon !",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:28:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679368683",
+   "rating": 5,
+   "title": "Really great app but.",
+   "body": "I really enjoy this app but i feel like the energy system is too short and the wait time is way too lengthy.\n\nIts a mixed opinion though",
+   "author": "Mr.Ick",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:16:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679363261",
+   "rating": 4,
+   "title": "Amazing",
+   "body": "This app is so fun and the interactions feel so real. The only issue I have is all the ads being so often and the like energy thing being so small. Like I understand ads get revenue, but it is a little annoying. Overall great app tho!",
+   "author": "Leila-Rei",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:14:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679359907",
+   "rating": 1,
+   "title": "Meh could improve",
+   "body": "It’s a fun concept but there’s just so many ads it takes away the fun. You also only get 5 energy a day which isn’t much. I think I’m going to only have this app for a few more days.",
+   "author": "Castle minded",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:12:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679342762",
+   "rating": 4,
+   "title": "4.5/5",
+   "body": "The app is good and all but, I wish there weren’t as many ads and the ability to get unlimited energy with unlimited amount of ads.",
+   "author": "Anonymous3567￼",
+   "version": "1.9.62",
+   "date": "2026-10-17T16:05:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679306052",
+   "rating": 5,
+   "title": "great app",
+   "body": "this app is amazing",
+   "author": "jeeloz",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:50:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679294121",
+   "rating": 4,
+   "title": "fun asl",
+   "body": "it’s kinda addicting",
+   "author": "omztj",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:46:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679292386",
+   "rating": 5,
+   "title": "beet app ever",
+   "body": "its .. peak..",
+   "author": "sidfirkdkwpwpdk",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:45:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679267213",
+   "rating": 2,
+   "title": "good but no energy",
+   "body": "it’s a lot of fun at first and I remember when it initially came out it was really good but 5 energy is terrible and it needs a higher energy cap bcs it’s bad",
+   "author": "ttmcop",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:35:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679243275",
+   "rating": 5,
+   "title": "Hehe",
+   "body": "It’s fun just sometimes the reply’s hurt a lot",
+   "author": "Mimiiskiki",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:25:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679202864",
+   "rating": 5,
+   "title": "So fun",
+   "body": "never really heard of the app until i saw it on tiktok and i was intrigued. i know it’s generated by AI but all the responses you get from the characters are so realistic and the feed it like today’s world. love it!",
+   "author": "YURR689",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:09:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679196821",
+   "rating": 5,
+   "title": "Obsessed",
+   "body": "So addicting ! Lets you get away from the real world for a bit",
+   "author": "Lisalisa bai",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:06:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679183534",
+   "rating": 3,
+   "title": "The charge",
+   "body": "It’s super addicting like top tier but you really spend more time grinding ads to actually play \nSince they only give you essentially 6 energy to play with",
+   "author": "The_anonymous_nobody",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:01:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679179805",
+   "rating": 2,
+   "title": "To little energy",
+   "body": "The amount of energy is annoying",
+   "author": "gbghcgf",
+   "version": "1.9.62",
+   "date": "2026-10-17T15:00:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679178136",
+   "rating": 5,
+   "title": "Fun",
+   "body": "I really love using this as inspo for writing.",
+   "author": "Meowders",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:59:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679163188",
+   "rating": 2,
+   "title": "Everything is good except ads",
+   "body": "Basically this app is 13+ right? But thoses disgusting ads are not 13+ and also remove tipsy and zeta ads in your app dawg im mad that ts always happen even they gave you too much money you must remove them",
+   "author": "Mrgateissocool",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:53:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679094572",
+   "rating": 4,
+   "title": "Pretty good. Wish they had inf energy and just gave out ads every 5 posts",
+   "body": "They give u. So lil energy but good",
+   "author": "Pezz_pezzy",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:27:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679092733",
+   "rating": 3,
+   "title": "Energy",
+   "body": "Wish there were easier ways to get energy",
+   "author": "It’smecookie",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:26:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679081556",
+   "rating": 3,
+   "title": "Yes",
+   "body": "It was mid",
+   "author": "Ur mummy228",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:22:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679062217",
+   "rating": 5,
+   "title": "perfect app",
+   "body": "the best chatting app ever frfrfr so good i love it ❤️❤️❤️❤️",
+   "author": "nico6742sigma",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:14:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679060601",
+   "rating": 4,
+   "title": "Fun",
+   "body": "This  game is fun I just wish some basic features weren’t blocked by a paywall",
+   "author": "savannah nogas",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:14:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679059115",
+   "rating": 4,
+   "title": "hii",
+   "body": "love but adds and loose gems quick",
+   "author": "sunghoondada",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:13:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679055576",
+   "rating": 5,
+   "title": ".",
+   "body": "10/10",
+   "author": "littlekasss",
+   "version": "1.9.62",
+   "date": "2026-10-17T14:12:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14679006730",
+   "rating": 5,
+   "title": "Best thing to be done",
+   "body": "So much interaction..and has some of the best characters",
+   "author": "Treecatattcak",
+   "version": "1.9.62",
+   "date": "2026-10-17T13:54:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678993325",
+   "rating": 4,
+   "title": "Great game but..",
+   "body": "I only have one negative thing to say about this, everything else is all good. I am not a big fan of running out of the energy and then having to watch ads to get more because I don’t want to pay for it. I’m too broke for that.",
+   "author": "GameReveiwer206",
+   "version": "1.9.62",
+   "date": "2026-10-17T13:49:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678890421",
+   "rating": 5,
+   "title": "Love it",
+   "body": "I have been able to tease a character I crush on 🤭",
+   "author": "🐶🥩",
+   "version": "1.9.62",
+   "date": "2026-10-17T13:12:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678871088",
+   "rating": 5,
+   "title": "SO FUN",
+   "body": "This game is very interesting and very fun i would recommend if your ever bored of live and want to pretend yours is interesting loll!",
+   "author": "hdgfhxjfhvy:",
+   "version": "1.9.62",
+   "date": "2026-10-17T13:05:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678854389",
+   "rating": 5,
+   "title": "t",
+   "body": "great",
+   "author": "eheheh12564",
+   "version": "1.9.62",
+   "date": "2026-10-17T13:00:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678830787",
+   "rating": 5,
+   "title": "wow",
+   "body": "wow",
+   "author": "BlackPanda586",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:52:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678814539",
+   "rating": 5,
+   "title": "Buen juego",
+   "body": "Increíble sigan creando mundos increíbles",
+   "author": "No te bañas",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:46:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678801628",
+   "rating": 5,
+   "title": "Love it",
+   "body": "It’s very fun and I love it so  much",
+   "author": "The bestest 10/10",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:42:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678784040",
+   "rating": 5,
+   "title": "So much fun!",
+   "body": "This is all the fun of an RPG without having to get 4 schedules together!",
+   "author": "Ashlee V.",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:36:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678772025",
+   "rating": 5,
+   "title": "muy bueno",
+   "body": "muy bueno, entretenido",
+   "author": "vickydvls",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:32:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678768494",
+   "rating": 5,
+   "title": "Love",
+   "body": "Love",
+   "author": "Garrett Graham!!!!!",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:31:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678747236",
+   "rating": 4,
+   "title": "It’s a good app but..",
+   "body": "I love this app! But I feel like there should be more energy, because I want to keep using this app but the energy is bothering me and many others, they should remove the energy thing, it’s quite annoying",
+   "author": "Yelloyes",
+   "version": "1.9.62",
+   "date": "2026-10-17T12:24:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678632331",
+   "rating": 5,
+   "title": "It’s one the first good games I have seen in a while",
+   "body": "Love love love",
+   "author": "Kiannik",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:47:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678627850",
+   "rating": 5,
+   "title": "Beautiful",
+   "body": "I love this app",
+   "author": "Coopydop",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:45:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678591742",
+   "rating": 5,
+   "title": "15qwzOmz67",
+   "body": "Doing this for codes man ngl but is nice i like the features and it reminds of paz historia",
+   "author": "41Aaron67",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:34:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678580658",
+   "rating": 5,
+   "title": "fun app!",
+   "body": "this is genuinely a fun app and feeds every delusion in you. probably the best ai app ever, also its super cool how you can choose which kind of world you can join. -#1 fan",
+   "author": "baakkakakaaka",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:30:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678530996",
+   "rating": 3,
+   "title": "Addicting - would prefer fewer adds",
+   "body": "It’s a great game. I love the interaction. Would be much better if there weren’t so many ads and non subscribers weren’t stuck on hard difficulty.",
+   "author": "SaraLiz03",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:15:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678489638",
+   "rating": 5,
+   "title": "current obsession",
+   "body": "i’m hooked😩",
+   "author": "sara from wa",
+   "version": "1.9.62",
+   "date": "2026-10-17T11:03:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678456944",
+   "rating": 4,
+   "title": "So interesting",
+   "body": "I really enjoy this app but the ads are kinda much especially every single time I press on something I understand it’s so you guys can get paid but yeah…",
+   "author": "Asjsjjdsjsjs",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:53:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678431869",
+   "rating": 5,
+   "title": "Good",
+   "body": "Good app",
+   "author": "Melisa Planas",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:45:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678415104",
+   "rating": 4,
+   "title": "Cheap",
+   "body": "Need it cheaper",
+   "author": "Teddywinfree",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:40:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678395943",
+   "rating": 4,
+   "title": "fun game",
+   "body": "controls are sorta weird and dont get why characters get mad for not reason, other than that good",
+   "author": "kingderpwya",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:34:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678338020",
+   "rating": 4,
+   "title": "It’s so fun",
+   "body": "I got into it but it’s a cash grab",
+   "author": "Got into it to much-",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:17:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678323882",
+   "rating": 4,
+   "title": "…",
+   "body": "It’s a good app, but I think it lacks energy",
+   "author": "I’myourbiggestfan1",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:13:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678321419",
+   "rating": 5,
+   "title": "wow",
+   "body": "great app its fun honestly",
+   "author": "manziezz",
+   "version": "1.9.62",
+   "date": "2026-10-17T10:12:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678266208",
+   "rating": 3,
+   "title": "A bit too many ads",
+   "body": "This is great and you can interact with pretty much everything. There’s not some crazy price for extra interactions per day (you start with 5 per day but by earning gems or paying like 20¢ a day you can get 50 or so) otherwise you can watch ads for extra energy. I just wish it wasn’t a per day thing and more of a regens one energy over like 20 minutes. I think it’ll help promote the app a lot too, you’ll get more interactions. Other than that the only thing that’s annoying is the ads that pop up after every day (if you make a post the next day comes)",
+   "author": "stellarstellan",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:56:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678247982",
+   "rating": 5,
+   "title": "Ai Israel",
+   "body": "I can’t wait to live in a future without water",
+   "author": "Zircrome",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:51:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678244139",
+   "rating": 5,
+   "title": "Loved",
+   "body": "I’m just hear for drama",
+   "author": "Poppingwithjungwon",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:50:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678242099",
+   "rating": 4,
+   "title": "so much fun",
+   "body": "this game is so much fun. creating your own narrative is the best",
+   "author": "N0p3!!!!!!!!!",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:50:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678195298",
+   "rating": 5,
+   "title": ".",
+   "body": "Buenísima",
+   "author": "Dark romance05",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:36:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678155706",
+   "rating": 1,
+   "title": "Overpriced AI Slop",
+   "body": "If you’re going to charge people hundreds of dollars to have basic functionality of the game, then at least make the AI generated posts more interesting than just “oh he is DIABOLICAL”",
+   "author": "Undeadsolider13",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:25:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678122944",
+   "rating": 5,
+   "title": "Great",
+   "body": "So much fun",
+   "author": "Oceans and Holy Grail",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:16:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678111857",
+   "rating": 5,
+   "title": "incredible",
+   "body": "so nice!",
+   "author": "nnnwjxldbdhw",
+   "version": "1.9.62",
+   "date": "2026-10-17T09:13:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678050515",
+   "rating": 5,
+   "title": "New obsession🥹✌️💜",
+   "body": "I’ve been searching for soo long and when I saw this add I knew I had to install it and it’s been the best experience I love it!",
+   "author": "The trailers are movie’s",
+   "version": "1.9.62",
+   "date": "2026-10-17T08:56:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14678024772",
+   "rating": 5,
+   "title": "Best app",
+   "body": "Funny asf",
+   "author": "kiakyaaaa",
+   "version": "1.9.62",
+   "date": "2026-10-17T08:49:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677977109",
+   "rating": 5,
+   "title": "Hello",
+   "body": "It’s a good game",
+   "author": "This hryturbrkodjeh",
+   "version": "1.9.62",
+   "date": "2026-10-17T08:36:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677867350",
+   "rating": 5,
+   "title": "Great job",
+   "body": "I love it! Addicting!",
+   "author": "Cookies n’ Milk",
+   "version": "1.9.62",
+   "date": "2026-10-17T08:06:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677801318",
+   "rating": 5,
+   "title": "Entertaining",
+   "body": "Keeps me engaged for hours",
+   "author": "Fluffy367",
+   "version": "1.9.62",
+   "date": "2026-10-17T07:49:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677771188",
+   "rating": 2,
+   "title": "TOO.MUCH.ADS.",
+   "body": "When your finished typing and sending, AD. When you want energy, AD. When you post a photo, AD. When you open the app, AD. What’s the point of giving so many ads? Your still going to make money.",
+   "author": "iammilani",
+   "version": "1.9.62",
+   "date": "2026-10-17T07:41:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677765092",
+   "rating": 5,
+   "title": "great",
+   "body": "six seven",
+   "author": "Wendip Fangirl",
+   "version": "1.9.62",
+   "date": "2026-10-17T07:39:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677729502",
+   "rating": 3,
+   "title": "Ehh",
+   "body": "It’s cool",
+   "author": "Consuelo504",
+   "version": "1.9.62",
+   "date": "2026-10-17T07:30:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677699257",
+   "rating": 4,
+   "title": "Está buena pero…",
+   "body": "Está bueno pero agregan mucho anuncios y el tema de las energías es como un poco innecesario pero en si la app está muy buena",
+   "author": "Nose2277",
+   "version": "1.9.62",
+   "date": "2026-10-17T07:22:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677592252",
+   "rating": 5,
+   "title": "It’s really fun",
+   "body": "I love the app!",
+   "author": "Willoina",
+   "version": "1.9.62",
+   "date": "2026-10-17T06:53:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677583941",
+   "rating": 5,
+   "title": "This is tuff",
+   "body": "love this app! It’s genuinely so good and all the characters are NOT ooc at all!!",
+   "author": "fortnitesbestplay67",
+   "version": "1.9.62",
+   "date": "2026-10-17T06:51:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677525592",
+   "rating": 4,
+   "title": "Occupies me when I’m bored",
+   "body": "I like it I’ve been bored lately so it occupies my time I just wish as someone who isn’t going to pay I wish they give us more options for energies and faster ways to get it",
+   "author": "Boredw/life",
+   "version": "1.9.62",
+   "date": "2026-10-17T06:35:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677467729",
+   "rating": 4,
+   "title": "Fun",
+   "body": "Fun to play, and the ai is pretty good for the characters",
+   "author": "K12hfpf13luv",
+   "version": "1.9.62",
+   "date": "2026-10-17T06:19:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677452211",
+   "rating": 5,
+   "title": "SOOOO GOOODDD",
+   "body": "it feels like im really bug CELEBRITYYY",
+   "author": "Bogveradze",
+   "version": "1.9.62",
+   "date": "2026-10-17T06:15:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677207717",
+   "rating": 3,
+   "title": "Game",
+   "body": "Super fun but just know it’s ai so if you don’t want to support that then…",
+   "author": "catsosick",
+   "version": "1.9.62",
+   "date": "2026-10-17T05:02:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677201458",
+   "rating": 5,
+   "title": "Rating",
+   "body": "Such a fun app",
+   "author": "JEONISHRAT",
+   "version": "1.9.62",
+   "date": "2026-10-17T05:00:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14677155711",
+   "rating": 5,
+   "title": "Really fun game",
+   "body": "I can’t put this game down. I love the different worlds and interacting with characters. It’s really easy to use and understand, and I would recommend for folks to try it!",
+   "author": "YDKnellz314",
+   "version": "1.9.62",
+   "date": "2026-10-17T04:45:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676960681",
+   "rating": 5,
+   "title": "..",
+   "body": "Whimsical",
+   "author": "Paigeypooh17<3",
+   "version": "1.9.62",
+   "date": "2026-10-17T03:38:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676933004",
+   "rating": 4,
+   "title": "Fun",
+   "body": "It’s honestly not that bad",
+   "author": "Kosifas",
+   "version": "1.9.62",
+   "date": "2026-10-17T03:28:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676814753",
+   "rating": 4,
+   "title": "Surprisingly fun",
+   "body": "I was hesitant about this game, but it’s actually really engaging and fun.",
+   "author": "Sue_Zan404",
+   "version": "1.9.62",
+   "date": "2026-10-17T02:43:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676787377",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Nice",
+   "author": "awndrai",
+   "version": "1.9.62",
+   "date": "2026-10-17T02:33:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676752998",
+   "rating": 5,
+   "title": "The game",
+   "body": "It’s Super interesting I love itttt\nBest game I got",
+   "author": "L4uhhh",
+   "version": "1.9.62",
+   "date": "2026-10-17T02:19:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676699589",
+   "rating": 5,
+   "title": "Love",
+   "body": "Love this!",
+   "author": "Jessihot1229",
+   "version": "1.9.62",
+   "date": "2026-10-17T01:58:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676651406",
+   "rating": 5,
+   "title": "Very good",
+   "body": "This is genially a good way to express your world into reality, and it feels  real, responses are also on point",
+   "author": "park iren",
+   "version": "1.9.62",
+   "date": "2026-10-17T01:39:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676494456",
+   "rating": 5,
+   "title": "Fun",
+   "body": "Yeah it’s kinda fun.",
+   "author": "Paigehl9624",
+   "version": "1.9.62",
+   "date": "2026-10-17T00:36:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676406563",
+   "rating": 5,
+   "title": "The best",
+   "body": "Great",
+   "author": "Klulesss",
+   "version": "1.9.62",
+   "date": "2026-10-17T00:01:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676346734",
+   "rating": 5,
+   "title": "So funny",
+   "body": "Bro it was so funny seeing kpop Stans react to my messages",
+   "author": "Ruyicatty",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:35:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676339454",
+   "rating": 5,
+   "title": "Amazing app",
+   "body": "I do love this app, the ad’s get annoying but it’s not a problem. :)",
+   "author": "Pur1fied_water",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:32:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676297176",
+   "rating": 5,
+   "title": "Living the dream",
+   "body": "Very fun and easy to get sucked into",
+   "author": "M3rth0r",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:14:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676293646",
+   "rating": 4,
+   "title": "Very detailed",
+   "body": "I didn’t think it would be so detailed but I was wrong it really is!",
+   "author": "Krazy_Kryptonian",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:13:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676284426",
+   "rating": 4,
+   "title": "idk",
+   "body": "A lot of ads and few refills other than that rlly fun",
+   "author": "imbatman 🥸",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:09:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676268079",
+   "rating": 4,
+   "title": "Wish I could make it more realistic without having to pay for a subscription.",
+   "body": "It’s great but basically the title.",
+   "author": "Raindrop123Bacon",
+   "version": "1.9.62",
+   "date": "2026-10-16T23:02:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676231975",
+   "rating": 4,
+   "title": "Love it",
+   "body": "Very fun game to play",
+   "author": "hchvvvgbb",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:46:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676201297",
+   "rating": 5,
+   "title": "very nice!",
+   "body": "5/5",
+   "author": "swaggyunicorn777",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:32:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676186349",
+   "rating": 5,
+   "title": "Very silly game.",
+   "body": "Very silly.",
+   "author": "Keylimepie laptop",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:26:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676183922",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Amazing",
+   "author": "ヘヘヘヘ",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:25:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676159928",
+   "rating": 4,
+   "title": "It’s pretty good!!",
+   "body": "I wish there were more ways to get energy. Also please make a website so this is also available on desktop!!",
+   "author": "Kitkat Blue dino",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:14:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676153773",
+   "rating": 2,
+   "title": "Short energy.",
+   "body": "Wish it was easier to gain energy, and have more of it for longer. It just seems like a short amount of energy and actions that may only last 5 minutes and make you buy more which makes me move to other platforms rather than buying more or even waiting to reload.",
+   "author": "Cara01!",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:11:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676139468",
+   "rating": 5,
+   "title": "i love",
+   "body": "great game i love it",
+   "author": "Luci280",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:05:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14676135917",
+   "rating": 4,
+   "title": "Fun",
+   "body": "It’s entertaining and helps waste time but pushes expensive memberships and doesn’t last long without paying.",
+   "author": "Anonon567",
+   "version": "1.9.62",
+   "date": "2026-10-16T22:04:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675991514",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "Amazing",
+   "author": "Lolllypoplollip",
+   "version": "1.9.62",
+   "date": "2026-10-16T21:01:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675988708",
+   "rating": 5,
+   "title": "Low-key fun",
+   "body": "It’s so stupid but it’s so fun and low-key funny asf cuz I’m bored . Play it!!",
+   "author": ">Nickname <",
+   "version": "1.9.62",
+   "date": "2026-10-16T21:00:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675977369",
+   "rating": 5,
+   "title": "fire game",
+   "body": "Its Soooo good",
+   "author": "hovba",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:55:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675976262",
+   "rating": 5,
+   "title": "Gg",
+   "body": "Gg",
+   "author": "qqqqqwewxvnm de",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:54:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675975307",
+   "rating": 5,
+   "title": "Addictive",
+   "body": "It’s awesome and super realistic",
+   "author": "savagexgh0st",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:54:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675944280",
+   "rating": 5,
+   "title": "Sure Whatever…",
+   "body": "it sure is a “social media” app",
+   "author": "Stanley Nada",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:41:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675942464",
+   "rating": 3,
+   "title": "Very enjoyable",
+   "body": "Great game play but it takes too long to get a little energy unless you’re able to pay.",
+   "author": "GTR867",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:41:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675919330",
+   "rating": 4,
+   "title": "Fun",
+   "body": "Found a newer app that’s actually quite interesting and fun. Most apps these days are quite boring. Lots of ads but that’s typical",
+   "author": "BullsGirl23",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:31:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675852761",
+   "rating": 3,
+   "title": "Less Ads",
+   "body": "too many ads,",
+   "author": "${Bmx_Lee}$",
+   "version": "1.9.62",
+   "date": "2026-10-16T20:05:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675813820",
+   "rating": 5,
+   "title": "gaga7",
+   "body": "gaga7",
+   "author": "Melly927",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:49:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675798581",
+   "rating": 5,
+   "title": "Very fun!",
+   "body": "Fun game to use to pass the time, I at first was skeptical about this but I really enjoy it.",
+   "author": "Comic Field",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:44:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675795163",
+   "rating": 5,
+   "title": "Slay",
+   "body": "Also say",
+   "author": "Julland98",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:42:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675743381",
+   "rating": 4,
+   "title": "Fun!",
+   "body": "Love it I just hate the certain amount of stuff we need to be able to message",
+   "author": "xbuunylove",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:23:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675738420",
+   "rating": 5,
+   "title": "So entertaining!",
+   "body": "I can spend hours playing this game!!",
+   "author": "Precespedes",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:21:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675730397",
+   "rating": 5,
+   "title": "yes",
+   "body": "has",
+   "author": "loveeemysoss",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:18:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675707743",
+   "rating": 1,
+   "title": "Used to be good.",
+   "body": "Ts used to be good a while ago now we get 5 posts with ads after EVERY SINGLE ACTION. Not worth it anymore.",
+   "author": "Catty mew",
+   "version": "1.9.62",
+   "date": "2026-10-16T19:10:03-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14675679433",
+   "rating": 4,
+   "title": "Fun",
+   "body": "It’s actually a really fun name. The ads aren’t so bad either.",
+   "author": "Violetteeeeeee",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:59:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675674678",
+   "rating": 5,
+   "title": "So good",
+   "body": "10/10",
+   "author": "Raelynn Laigelynn",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:57:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675658204",
+   "rating": 1,
+   "title": "terrible",
+   "body": "terrible, you barely can barely enjoy the app without buying the pack just to have energy the whole concept of the energy is annoying and why only 5?",
+   "author": "A2h2a2",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:51:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675645770",
+   "rating": 5,
+   "title": "Like it",
+   "body": "Has limited interactions every day but still very fun",
+   "author": "hjghf(dsug",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:46:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675633110",
+   "rating": 4,
+   "title": "Nice",
+   "body": "Too many ads though\nAt least give +3 energy for ads otherwise this is just boring and repetitive",
+   "author": "LimezDaL3mon",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:42:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675611910",
+   "rating": 5,
+   "title": "status",
+   "body": "this is such a fun app, i love all the different worlds and that you can play with real people. such a great concept!",
+   "author": "Niniplayer01",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:34:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675570419",
+   "rating": 5,
+   "title": "Avis",
+   "body": "Super jeux !",
+   "author": "Andreaaaaxxx0000",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:18:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675564872",
+   "rating": 5,
+   "title": "Me encanta",
+   "body": "Demasiado buena",
+   "author": "Increiblelol",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:16:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675564048",
+   "rating": 5,
+   "title": "👍🏽",
+   "body": "Absolute bs",
+   "author": "Zombiehh",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:16:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675557983",
+   "rating": 5,
+   "title": "just wish it was unlimited",
+   "body": "i really enjoy the face tho",
+   "author": "jmoneydawg445",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:14:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675544257",
+   "rating": 4,
+   "title": "Put together",
+   "body": "It’s very well put together, not my cup of tea for premium subscription",
+   "author": "NNANEHA",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:09:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675543948",
+   "rating": 4,
+   "title": "Quickly Appealing",
+   "body": "I tried thus on a temporary basis and came to enjoy the format of this app. It resembles the Choose Your Own Adventure books that were always entertaining",
+   "author": "Lyricelise",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:09:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675535211",
+   "rating": 5,
+   "title": "Love it",
+   "body": "Its so fun i really like it",
+   "author": "Zheen101",
+   "version": "1.9.62",
+   "date": "2026-10-16T18:05:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675454838",
+   "rating": 5,
+   "title": "fun time waster",
+   "body": "great for when i can’t sleep",
+   "author": "deergaiius",
+   "version": "1.9.62",
+   "date": "2026-10-16T17:35:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675449264",
+   "rating": 5,
+   "title": "Love it",
+   "body": "Love this game!! Just wish getting energy wasn’t so hard",
+   "author": "Rosewiu",
+   "version": "1.9.62",
+   "date": "2026-10-16T17:33:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675447487",
+   "rating": 5,
+   "title": "Peak",
+   "body": "Peak",
+   "author": "Iaaajjwjicsnjcjncsnjcnj",
+   "version": "1.9.62",
+   "date": "2026-10-16T17:32:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675426350",
+   "rating": 3,
+   "title": "pay to win",
+   "body": "it’s good but i wish not everything was pay… i HATE the energy system! if there was a ‘watch an ad for __ energy/gems’ option, i’d be using it more often.",
+   "author": "Nunya B. Swacks",
+   "version": "1.9.62",
+   "date": "2026-10-16T17:24:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675383559",
+   "rating": 5,
+   "title": "good",
+   "body": "pretty fun",
+   "author": "itzzz_alyssa33",
+   "version": "1.9.62",
+   "date": "2026-10-16T17:08:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675359938",
+   "rating": 3,
+   "title": "man",
+   "body": "actually kind of addictive",
+   "author": "Terra555",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:59:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675346693",
+   "rating": 5,
+   "title": "Suggestione",
+   "body": "So I love this app it’s like finally I’m not bored I can create what I like but the problem is energy please! The fact you guys lowered it made me pretty upset and not just me but everyone likes this app it’s holy potential but please fix the energy or at least give us unlimited energy and then add some simple things that premium or at least give 100 energy and then to get more like unlimited you have to pay",
+   "author": "Adilheid_Now",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:54:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675337216",
+   "rating": 4,
+   "title": "Fun!",
+   "body": "fun but the fake wonhee made me crash out 😭",
+   "author": "tea_wonhee",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:50:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675310463",
+   "rating": 4,
+   "title": "Fun",
+   "body": "Its very fun to explore and interact with the game. I wish there were more ways to collect energy for the people who cannot afford to buy a game.",
+   "author": "Fslopez",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:40:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675292726",
+   "rating": 3,
+   "title": "Decent but Ad Heavy",
+   "body": "Stories are decently generated, but conversations are a little stale after a bit.",
+   "author": "Anthony Cece",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:33:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675244378",
+   "rating": 4,
+   "title": "Energy",
+   "body": "Yea the apps alright, but the fact that you only get barely enough energy is pretty bad. I get it tho but make it so the adds give full energy",
+   "author": "Tsbax",
+   "version": "1.9.62",
+   "date": "2026-10-16T16:14:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675193631",
+   "rating": 5,
+   "title": "Fun",
+   "body": "I like the game, pretty fun and you actually have to think about what u post",
+   "author": "Zozo was taken",
+   "version": "1.9.62",
+   "date": "2026-10-16T15:54:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675184479",
+   "rating": 4,
+   "title": "Ads but otherwise great",
+   "body": "A lot of ads, but other than that it’s amazing. I love it",
+   "author": "Digory M. Kirke",
+   "version": "1.9.62",
+   "date": "2026-10-16T15:50:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675096551",
+   "rating": 5,
+   "title": "PEAK APP",
+   "body": "This app is EXTREMELY FUN YO TRUST ME YOU CAN LIVE IN YOUR FANDOMS AND CREATE DRAMAS, SHIPPINGS AND SO MUCH MORE I RECCOMEND THIS SO MUCH OMGOMGOMG",
+   "author": "EatTheAppol",
+   "version": "1.9.62",
+   "date": "2026-10-16T15:16:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675081274",
+   "rating": 4,
+   "title": "great app but",
+   "body": "Its a great app but theres too many adds and i loose energy easily!",
+   "author": "creeeeeekstyle",
+   "version": "1.9.62",
+   "date": "2026-10-16T15:10:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675079096",
+   "rating": 4,
+   "title": "super",
+   "body": "great app genuinely seems fun to annoy the characters off",
+   "author": "dbahsjaii sc y",
+   "version": "1.9.62",
+   "date": "2026-10-16T15:09:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675053992",
+   "rating": 5,
+   "title": "Hbhc",
+   "body": "Thought",
+   "author": "124!$&8?(tugt",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:59:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675024111",
+   "rating": 4,
+   "title": "game is fun",
+   "body": "Fun game to many ads tho.",
+   "author": "Chellie_9877",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:47:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675014543",
+   "rating": 5,
+   "title": "review 👀",
+   "body": "OMG this game is so good, it's like twitter and you post stories, posts, and you can message the characters you added to your world, they also have so many fandoms too!!! 10/10",
+   "author": "Maybemitsu",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:44:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14675007029",
+   "rating": 5,
+   "title": "Wow",
+   "body": "Wow",
+   "author": "Subject Xerø",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:41:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674993854",
+   "rating": 5,
+   "title": "obsessed",
+   "body": "it's actually so fun and addicting",
+   "author": "vee ly",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:36:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674952737",
+   "rating": 3,
+   "title": "Entertaining, but ad filled.",
+   "body": "Lots of ads, and it’s usually the same ad 98% of the time. Sometimes the app gets frozen, and you run out of energy to interact fast. But, it’s engaging.",
+   "author": "White Tiger M",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:20:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674899022",
+   "rating": 5,
+   "title": "Love this game",
+   "body": "I truly like this game. It’s immersive and you can control how you want things to go",
+   "author": "Lee_anne33",
+   "version": "1.9.62",
+   "date": "2026-10-16T14:00:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674883622",
+   "rating": 4,
+   "title": "super funnn",
+   "body": "loving it so far. would love if there was yk visuals too but this is fun i like the x vibe",
+   "author": "elliokna",
+   "version": "1.9.62",
+   "date": "2026-10-16T13:54:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674847418",
+   "rating": 5,
+   "title": "Excelente juego",
+   "body": "Muy bueno",
+   "author": "Winnifer12",
+   "version": "1.9.62",
+   "date": "2026-10-16T13:41:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674830945",
+   "rating": 5,
+   "title": "The best app",
+   "body": "Es lo mejorrr",
+   "author": "noseqhago",
+   "version": "1.9.62",
+   "date": "2026-10-16T13:35:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674797756",
+   "rating": 5,
+   "title": "L one!",
+   "body": "Addicting",
+   "author": "Emmyyyyyyyyyyyyy67",
+   "version": "1.9.62",
+   "date": "2026-10-16T13:23:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674795781",
+   "rating": 3,
+   "title": "It’s okay honestly",
+   "body": "It’s fun, you can get free gems but $200 for premium? In this economy?? Absolutely ridiculous, it sucks cause this has the potential to be amazing",
+   "author": "Hennyyyyyy2k",
+   "version": "1.9.62",
+   "date": "2026-10-16T13:22:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674730481",
+   "rating": 5,
+   "title": "Buena",
+   "body": "Muy buena app",
+   "author": "Samilanda",
+   "version": "1.9.62",
+   "date": "2026-10-16T12:59:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674697111",
+   "rating": 5,
+   "title": "Meli",
+   "body": "Very good game",
+   "author": "Sugarcane 8617",
+   "version": "1.9.62",
+   "date": "2026-10-16T12:47:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674661786",
+   "rating": 5,
+   "title": "👌🏻",
+   "body": "👌🏻",
+   "author": "Влудаоудцдц",
+   "version": "1.9.62",
+   "date": "2026-10-16T12:35:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674621878",
+   "rating": 4,
+   "title": "Fun but AI slop",
+   "body": "Exactly as the title says",
+   "author": "Lumine666",
+   "version": "1.9.62",
+   "date": "2026-10-16T12:21:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674567068",
+   "rating": 5,
+   "title": "Amazing!",
+   "body": "Loved the chaos and drama!",
+   "author": "Naiya808",
+   "version": "1.9.62",
+   "date": "2026-10-16T12:02:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674446982",
+   "rating": 3,
+   "title": ".",
+   "body": ".",
+   "author": "Theghostoflovers",
+   "version": "1.9.62",
+   "date": "2026-10-16T11:22:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674426155",
+   "rating": 5,
+   "title": "Great",
+   "body": "very good app, wish we didn’t have to pay for energy though",
+   "author": "Danny6116",
+   "version": "1.9.62",
+   "date": "2026-10-16T11:15:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674389101",
+   "rating": 5,
+   "title": "The best",
+   "body": "Love this game",
+   "author": "Danifu20",
+   "version": "1.9.62",
+   "date": "2026-10-16T11:03:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674376094",
+   "rating": 5,
+   "title": "love!!",
+   "body": "i think this game is so much fun, but i wish the chats didn’t require any energy that’s my favorite part",
+   "author": "torilove22",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:59:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674335553",
+   "rating": 4,
+   "title": "Not Nad but",
+   "body": "It’s not a bad app, the Ai responses are good but there’s too many ads and it has an energy system with an expensive subscription",
+   "author": "BradleyTwinB",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:46:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674332726",
+   "rating": 5,
+   "title": "Super cool immersive game",
+   "body": "You can make any storyline and I love it",
+   "author": "t hubs",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:45:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674327637",
+   "rating": 5,
+   "title": "Goated",
+   "body": "Game is great",
+   "author": "Fredrickthegreat124",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:44:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674299933",
+   "rating": 5,
+   "title": "Very very cheap",
+   "body": "Very very cheap, one pound fish",
+   "author": "Piperronio",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:35:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674220685",
+   "rating": 5,
+   "title": "Ooo",
+   "body": "Love this game so far",
+   "author": "colby golbach webber brock",
+   "version": "1.9.62",
+   "date": "2026-10-16T10:10:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674173384",
+   "rating": 4,
+   "title": "Addictive.",
+   "body": "Pretty interesting concept of social media game and influence.",
+   "author": "Stef.ella12",
+   "version": "1.9.62",
+   "date": "2026-10-16T09:56:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674142755",
+   "rating": 4,
+   "title": "It’s actually good",
+   "body": "Ive had it for a couple of days and I love it but I think we should have more free energy.",
+   "author": "Ghost_face638",
+   "version": "1.9.62",
+   "date": "2026-10-16T09:47:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674093458",
+   "rating": 5,
+   "title": "Good app",
+   "body": "Good app fun",
+   "author": "roseBellaty",
+   "version": "1.9.62",
+   "date": "2026-10-16T09:32:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14674044786",
+   "rating": 5,
+   "title": "Fun game",
+   "body": "Fun game",
+   "author": "neyyyyyyyyyyyyyyyymar",
+   "version": "1.9.62",
+   "date": "2026-10-16T09:18:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673986208",
+   "rating": 5,
+   "title": "Yooj",
+   "body": "Very good",
+   "author": "Panochina",
+   "version": "1.9.62",
+   "date": "2026-10-16T09:01:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673970664",
+   "rating": 4,
+   "title": "Its good but im out of energy so fast 😭",
+   "body": "I like this game but the energy's are annoying",
+   "author": "☆Devrim_•",
+   "version": "1.9.62",
+   "date": "2026-10-16T08:56:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673960387",
+   "rating": 4,
+   "title": "Great game!",
+   "body": "This game is honestly really fun to play it’s actually like your talking to the characters one problem is the energy system it runs out to fast and to many ads to watch to get it back",
+   "author": "Lemon is the better fruit",
+   "version": "1.9.62",
+   "date": "2026-10-16T08:53:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673730531",
+   "rating": 5,
+   "title": "lol",
+   "body": "Ok… this is fun",
+   "author": "Some1udont.kno",
+   "version": "1.9.62",
+   "date": "2026-10-16T07:48:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673705231",
+   "rating": 5,
+   "title": "so fun",
+   "body": "so fun",
+   "author": "rrooola",
+   "version": "1.9.62",
+   "date": "2026-10-16T07:41:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673687650",
+   "rating": 5,
+   "title": "Amazing !!",
+   "body": "This game is so incredibly fun and the drama can get so intense.",
+   "author": "Trlsadeadu",
+   "version": "1.9.62",
+   "date": "2026-10-16T07:36:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673653251",
+   "rating": 5,
+   "title": "Fire",
+   "body": "Vv fun",
+   "author": "Kka34",
+   "version": "1.9.62",
+   "date": "2026-10-16T07:27:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673464553",
+   "rating": 2,
+   "title": "Game",
+   "body": "The game is really good, but you can only play for 5 minutes, and then you have to wait hours before you can play again.",
+   "author": "Iangel333",
+   "version": "1.9.62",
+   "date": "2026-10-16T06:33:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673456429",
+   "rating": 4,
+   "title": "Very interactive",
+   "body": "It’s great but limited energy",
+   "author": "Noneya1235",
+   "version": "1.9.62",
+   "date": "2026-10-16T06:31:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673419933",
+   "rating": 5,
+   "title": "So fun!!!!",
+   "body": "This game is so fun!",
+   "author": "FlowersMolly",
+   "version": "1.9.62",
+   "date": "2026-10-16T06:20:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673325154",
+   "rating": 3,
+   "title": "Fun and Entertaining",
+   "body": "Ive only had this app for a few hours and have been playing around with it. It’s pretty fun and definitely an interesting one! My only complaint is the amount of ads for free users but they do need to make their money..",
+   "author": "PrincessFluffyCat",
+   "version": "1.9.62",
+   "date": "2026-10-16T05:52:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673307800",
+   "rating": 5,
+   "title": "Real like",
+   "body": "Awesome role play",
+   "author": "The next twitter",
+   "version": "1.9.62",
+   "date": "2026-10-16T05:47:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673265527",
+   "rating": 5,
+   "title": "Game",
+   "body": "It’s fun",
+   "author": "Bobberton Bob",
+   "version": "1.9.62",
+   "date": "2026-10-16T05:34:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673230285",
+   "rating": 1,
+   "title": "Fun but don’t recommend",
+   "body": "This game is fun but the energy system is rigged. You only get 5 moved before you have to wait for more or pay. Not worth it.",
+   "author": "MaciBonker",
+   "version": "1.9.62",
+   "date": "2026-10-16T05:23:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673215725",
+   "rating": 5,
+   "title": "So cute",
+   "body": "I love it sm",
+   "author": "Angel_kisses2032",
+   "version": "1.9.62",
+   "date": "2026-10-16T05:19:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673105637",
+   "rating": 5,
+   "title": "I’M TOTALLY ADDICTED",
+   "body": "When I first started playing this games, I was like okay what is the purpose of this app, then i actually learned how to play it and Ive never stopped ever since",
+   "author": "Januaryembers6789",
+   "version": "1.9.62",
+   "date": "2026-10-16T04:44:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673025455",
+   "rating": 5,
+   "title": "I LOVE THIS APP",
+   "body": "EXTREMELY FUN!!! IVE SPENT HOURS ON THIS AND IVE NEVER BEEN BORED EVRR",
+   "author": "I love adults",
+   "version": "1.9.62",
+   "date": "2026-10-16T04:17:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673014389",
+   "rating": 5,
+   "title": "Great app",
+   "body": "This app is amazing. Thank you for making a social app that let’s you keep up with movie and tv characters, even if it is AI. It seems so real",
+   "author": "Kati1218",
+   "version": "1.9.62",
+   "date": "2026-10-16T04:13:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14673006135",
+   "rating": 5,
+   "title": "🫶🏼",
+   "body": "Absolutely enjoying this! I love how it lets me experience what celebrities feel on social media. But the ad limitation for energy is the slight downside for me, still highly recommend it!",
+   "author": "nanawonz",
+   "version": "1.9.62",
+   "date": "2026-10-16T04:10:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672840582",
+   "rating": 3,
+   "title": "Wow",
+   "body": "Tingu",
+   "author": "Bobbbbbbpoiytre",
+   "version": "1.9.62",
+   "date": "2026-10-16T03:09:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672769126",
+   "rating": 4,
+   "title": "I love this",
+   "body": "I loves this app! Very fun, but i need more energy so thats why i gave it a 4",
+   "author": "Idklmaool",
+   "version": "1.9.62",
+   "date": "2026-10-16T02:41:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672743938",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Cooler",
+   "author": "👅🐺",
+   "version": "1.9.62",
+   "date": "2026-10-16T02:30:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672742070",
+   "rating": 3,
+   "title": "Mi opinión",
+   "body": "es una buena app, pero tiene muchos anuncios y a fuerzas se debe ser plus para poder tener cosas y tmb las energías deberían de dar energías cada que subas de nvl tmb ademas de agregar un nuevo personaje",
+   "author": "Manunununu7",
+   "version": "1.9.62",
+   "date": "2026-10-16T02:29:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672715965",
+   "rating": 5,
+   "title": "This app is hilarious",
+   "body": "I love being able to tweet with characters that I absolutely love, they have many options with different vibes. I recommend.",
+   "author": "I love using this for jjk",
+   "version": "1.9.62",
+   "date": "2026-10-16T02:19:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672672634",
+   "rating": 5,
+   "title": "Fun",
+   "body": "So fun",
+   "author": "Jump btc",
+   "version": "1.9.62",
+   "date": "2026-10-16T02:00:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672671248",
+   "rating": 2,
+   "title": "Hermione",
+   "body": "Cool",
+   "author": "Hermione𐙚⋆°🦢.⋆ᥫ᭡",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:59:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672666205",
+   "rating": 5,
+   "title": "great app.",
+   "body": "amazing, works really well and fun.",
+   "author": "mhxhldtarishsykekyeitwktsaot",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:57:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672659477",
+   "rating": 4,
+   "title": "Not bad, but feels like it could use something oomph",
+   "body": "Not bad, I personally don’t like the energy system and kinda drives me away from apps. Hopefully there rework that completely or make it easier to earn energy. Overall great but feels like there’s some missing pieces to make it really great.",
+   "author": "hakbeksvslsbalabalajakaksvf",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:54:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672598554",
+   "rating": 5,
+   "title": "!",
+   "body": "It's good",
+   "author": "MIDNIGHT_WOLF910",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:27:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672567524",
+   "rating": 5,
+   "title": "SO PEAK",
+   "body": "Im obsessed",
+   "author": "35 percent",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:13:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672565334",
+   "rating": 5,
+   "title": "Love love love",
+   "body": "I’m in my hogwarts dream with this game",
+   "author": "Lilyvelmora",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:12:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672561329",
+   "rating": 5,
+   "title": "This is actually entertaining",
+   "body": "I hate scrolling so much and enjoy talking to people more at night so this app helps",
+   "author": "not.lilah",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:11:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672559631",
+   "rating": 5,
+   "title": "The best",
+   "body": "The best",
+   "author": "TomboyPrincess22",
+   "version": "1.9.62",
+   "date": "2026-10-16T01:10:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672519401",
+   "rating": 5,
+   "title": "yes i love i love",
+   "body": "so so so so good",
+   "author": "🥴😉🥴😉🥴😉🥴😉😉",
+   "version": "1.9.62",
+   "date": "2026-10-16T00:52:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672391557",
+   "rating": 5,
+   "title": "It’s so fun",
+   "body": "Really fun",
+   "author": "Annabnnananannaan",
+   "version": "1.9.62",
+   "date": "2026-10-15T23:53:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672375378",
+   "rating": 2,
+   "title": "Energy",
+   "body": "The game is good but after a while you start to run out of ads and you only have 5 actions PER DAY without the premium. If we could have more energy and less ads it would really make and impact on this game!",
+   "author": "Mellisa6741",
+   "version": "1.9.62",
+   "date": "2026-10-15T23:45:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672314690",
+   "rating": 5,
+   "title": "W",
+   "body": "A game",
+   "author": "Poo87557",
+   "version": "1.9.62",
+   "date": "2026-10-15T23:16:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672308334",
+   "rating": 5,
+   "title": "This app is good",
+   "body": "It’s good and u can talk to any fandom u want or like",
+   "author": "Un1corn_nyla",
+   "version": "1.9.62",
+   "date": "2026-10-15T23:13:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672287022",
+   "rating": 3,
+   "title": "Too much ads",
+   "body": "It’s fun but too much ads it’s annoying can’t play in peace",
+   "author": "Hellokittyprincess420",
+   "version": "1.9.62",
+   "date": "2026-10-15T23:03:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672261792",
+   "rating": 5,
+   "title": "Good",
+   "body": "Good fun",
+   "author": "BennoGFC",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:51:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672230386",
+   "rating": 5,
+   "title": "get this rn",
+   "body": "this is so entertaining, and always helps on late nights when i can’t sleep",
+   "author": "cecerevs",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:36:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672205130",
+   "rating": 5,
+   "title": "Holy addicted",
+   "body": "Found ts on instagram, and im immediately having more fun than any mobile game",
+   "author": "Crimsonk67",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:24:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672191302",
+   "rating": 5,
+   "title": "o",
+   "body": "good app",
+   "author": "manjooooooo",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:18:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672169490",
+   "rating": 5,
+   "title": "My new favorite game…",
+   "body": "I always wanted to be in the wizarding world, and now, it kinda feels like I am!",
+   "author": "Sgt. Jewell",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:07:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672152862",
+   "rating": 5,
+   "title": "Love it",
+   "body": "I absolutely love this app",
+   "author": "Leelee092619!",
+   "version": "1.9.62",
+   "date": "2026-10-15T22:00:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672124038",
+   "rating": 5,
+   "title": "Great app",
+   "body": "10s all across the board love it",
+   "author": "Natasha’s CD havsafagyaca",
+   "version": "1.9.62",
+   "date": "2026-10-15T21:46:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672117616",
+   "rating": 5,
+   "title": "game so tea",
+   "body": "got me giggling and kicking my feet",
+   "author": "wingstop11",
+   "version": "1.9.62",
+   "date": "2026-10-15T21:43:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672103021",
+   "rating": 5,
+   "title": "G",
+   "body": "G",
+   "author": "HenryWhitworth",
+   "version": "1.9.62",
+   "date": "2026-10-15T21:36:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672065158",
+   "rating": 5,
+   "title": "Just got it",
+   "body": "So far so good",
+   "author": "Witchylittle",
+   "version": "1.9.62",
+   "date": "2026-10-15T21:18:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14672000469",
+   "rating": 1,
+   "title": "Use your love the game",
+   "body": "I love it’s when the gems where actually affordable now it’s just over priced already make you pay 7.99 a week why make us pay 24 dollars for 161 lighting bolts like either make it 7.99 a month and charge high on gems or do the 7.99 a week and pay less for gems",
+   "author": "166218",
+   "version": "1.9.62",
+   "date": "2026-10-15T20:48:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671955840",
+   "rating": 4,
+   "title": "Good",
+   "body": "This game is addictive but the ads are so annoying.",
+   "author": "CaitlinEntwis",
+   "version": "1.9.62",
+   "date": "2026-10-15T20:28:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671943475",
+   "rating": 4,
+   "title": "Fun app!",
+   "body": "Fun to play when bored!",
+   "author": "Hysterialshark",
+   "version": "1.9.62",
+   "date": "2026-10-15T20:23:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671899540",
+   "rating": 5,
+   "title": "Fun",
+   "body": "It’s really fun and more interactive than I thought",
+   "author": "ahhnissbeauty",
+   "version": "1.9.62",
+   "date": "2026-10-15T20:04:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671867224",
+   "rating": 5,
+   "title": "Obsessive",
+   "body": "I cant stop playing",
+   "author": "Ariekla",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:50:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671859626",
+   "rating": 5,
+   "title": "Actually not that bad",
+   "body": "Its really not as bad as some of the reviews are making it seem its quirky and despite the ads its actually pretty fun",
+   "author": "Eric56656",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:47:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671842834",
+   "rating": 5,
+   "title": "Love",
+   "body": "Love",
+   "author": "Aghdnr",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:40:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671808152",
+   "rating": 4,
+   "title": "Good",
+   "body": "Good",
+   "author": "123xoxo gossip girl",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:26:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671800996",
+   "rating": 5,
+   "title": "Best game ever",
+   "body": "I love this game",
+   "author": "Your favorite person.",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:23:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671759584",
+   "rating": 5,
+   "title": "This funny",
+   "body": "This is so funny because im making everyone mad asf🤣",
+   "author": "Bring back chatting please!!!!",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:06:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671749186",
+   "rating": 4,
+   "title": "Great but not amazing",
+   "body": "The app so far is fun and generally entertaining",
+   "author": "Angel_png",
+   "version": "1.9.62",
+   "date": "2026-10-15T19:02:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671740906",
+   "rating": 4,
+   "title": "pretty coo",
+   "body": "it’s coo",
+   "author": "brelle brelle",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:59:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671740656",
+   "rating": 3,
+   "title": "Cool",
+   "body": "Chill",
+   "author": "girl meets world2",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:59:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671730478",
+   "rating": 4,
+   "title": "great! but a bit buggy",
+   "body": "this app was great! it was cool and i had a lot of fun with it! my only complaint is the bugs with the app. After I post something, it freezes and I can’t click anything. Or sometimes i open the app and the logo is still there even after it loads. I don’t know if it’s just my device or the app. Anyway, this was fun! I liked the endless fandoms, the humor, the feedback, and the fact that i can still do some things even without gems or energy. Overall, this was great!",
+   "author": "superlongtoesocks",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:55:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671728595",
+   "rating": 3,
+   "title": "It's good but it could use a lot of work...",
+   "body": "You run out of energy almost immediately, and you have to use said energy to chat with the bots?? Plus there are so many ads and you have to use energy to play your OWN world. It's basically really hard to use unless you pay for premium which is super annoying",
+   "author": "Gnarpster",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:54:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671722230",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "Amazing app I love it",
+   "author": "That_1gal",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:51:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671700974",
+   "rating": 5,
+   "title": "so good it’s addicting",
+   "body": "i wanna play it all the time and neglect all my adult responsibilities. it feels like wattpad but better",
+   "author": "pizzamanjan4317",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:43:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671690000",
+   "rating": 5,
+   "title": "good",
+   "body": "I love ittt!!! Only thing is i run out of energy all the timeee😓😓😓",
+   "author": "remsupercool",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:39:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671689225",
+   "rating": 4,
+   "title": "Good",
+   "body": "Pretty good I like it I wish that you could do more to get energy",
+   "author": "Nikvr#1",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:39:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671674815",
+   "rating": 5,
+   "title": ".",
+   "body": ".",
+   "author": "meemawpickens12",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:33:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671669746",
+   "rating": 5,
+   "title": "best game",
+   "body": "love this game so addictive",
+   "author": "insjsnxvgjakox",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:31:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671642836",
+   "rating": 5,
+   "title": "Wonderful",
+   "body": "Wonderful",
+   "author": "magicamaiahcat",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:21:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671605835",
+   "rating": 3,
+   "title": "👀",
+   "body": "so fun but so many ads . sucks that you need to pay for everything",
+   "author": "shayyyy44444",
+   "version": "1.9.62",
+   "date": "2026-10-15T18:06:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671550382",
+   "rating": 5,
+   "title": "good",
+   "body": "10/10",
+   "author": "Pinkfashion2005",
+   "version": "1.9.62",
+   "date": "2026-10-15T17:44:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671550057",
+   "rating": 5,
+   "title": "Why Status is good duh!",
+   "body": "It’s definitely not like any other apps I been on but it is really fun to go on and just play scenarios.",
+   "author": "Autumn Russo",
+   "version": "1.9.62",
+   "date": "2026-10-15T17:44:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671492485",
+   "rating": 5,
+   "title": "Idk",
+   "body": "Good",
+   "author": "Milo_isdead",
+   "version": "1.9.62",
+   "date": "2026-10-15T17:22:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671466539",
+   "rating": 3,
+   "title": "good, but could be better.",
+   "body": "i’ve been very off and on with this app. love it, great concept, but i wish it gave more accessibility to persons who are over legal adult age to partake in chats or worlds that allow nsfw qualities (erp). ID verification, birthday verification, something..? idk. good app tho, with or without.",
+   "author": "ameliaxxtra",
+   "version": "1.9.62",
+   "date": "2026-10-15T17:12:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671443666",
+   "rating": 5,
+   "title": "Loveee",
+   "body": "Love the whole gameeee",
+   "author": "Kamariann",
+   "version": "1.9.62",
+   "date": "2026-10-15T17:03:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671423754",
+   "rating": 5,
+   "title": "Best game ever",
+   "body": "l love this gameeee",
+   "author": "Lilyyyy💕🍡",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:55:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671418702",
+   "rating": 3,
+   "title": "Fun just wish it had more ppl to add",
+   "body": "Love this app but you can only add one celebrity to talk to",
+   "author": "Kaystery.88",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:53:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671418047",
+   "rating": 5,
+   "title": "Great",
+   "body": "Great",
+   "author": "1of1 Slim",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:53:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671399426",
+   "rating": 5,
+   "title": "I love it",
+   "body": "Gotta pay or watch ads but boredom killer",
+   "author": "I only review for free stuff",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:46:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671358902",
+   "rating": 5,
+   "title": "nice game",
+   "body": "im having so much fun playing this",
+   "author": "kdsksj",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:29:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671341078",
+   "rating": 3,
+   "title": "Too much for gems",
+   "body": "It’s not really fun when they take forever to give you gems",
+   "author": "Imgettingahonda",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:22:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671340437",
+   "rating": 5,
+   "title": "amazing",
+   "body": "amazing",
+   "author": "amfnhsdhJaja",
+   "version": "1.9.62",
+   "date": "2026-10-15T16:22:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671230991",
+   "rating": 4,
+   "title": "Review",
+   "body": "Very fun and entertaining",
+   "author": "Belllaaaa r",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:38:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671213595",
+   "rating": 5,
+   "title": "Status",
+   "body": "Amazing!",
+   "author": "Spark426",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:31:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671203221",
+   "rating": 5,
+   "title": "Boi",
+   "body": "Boi",
+   "author": "Steve rogets",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:27:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671202180",
+   "rating": 5,
+   "title": "Awesome!",
+   "body": "I’m actually having a lot of fun with it so far. Feels rather accurate, and it’s very interactive",
+   "author": "Levi20201010",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:26:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671178251",
+   "rating": 5,
+   "title": "Great",
+   "body": "Super fun creating timelines and things",
+   "author": "Hajamskdjn",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:17:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671165593",
+   "rating": 4,
+   "title": "Actually.. pretty fun",
+   "body": "I expected this to be a drag.. in reality though, I haven’t been able to put it down. I need more energy post haste.",
+   "author": "Ploxxjoob",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:12:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671162710",
+   "rating": 3,
+   "title": "Fun",
+   "body": "But you have to purchase it play for a long time and a bunch of adds",
+   "author": "Vcchfggd",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:10:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671149083",
+   "rating": 5,
+   "title": "👍",
+   "body": "nice",
+   "author": "osalamaleykym",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:05:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671141000",
+   "rating": 3,
+   "title": "P2p",
+   "body": "Yo pretty cool just money hungry",
+   "author": "Heheh baby",
+   "version": "1.9.62",
+   "date": "2026-10-15T15:02:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671085515",
+   "rating": 5,
+   "title": "Entertaining Escape",
+   "body": "It’s so fun and it’s a nice little distraction.",
+   "author": "DanielAE94",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:40:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671069185",
+   "rating": 5,
+   "title": "loveee",
+   "body": "wonderful game",
+   "author": "Baybee Bre",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:34:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671030661",
+   "rating": 5,
+   "title": "I love it but…",
+   "body": "I really love this game. It helps my imagination run wild. I just wish we could have group chats and have calls. Besides that, it’s really good.",
+   "author": "JezulaL",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:19:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671029742",
+   "rating": 5,
+   "title": "Great game!",
+   "body": "So fun and addicting! I’m currently romancing one of my fav celebs! 😭🫶🏻",
+   "author": "Ginevraak",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:18:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671015631",
+   "rating": 4,
+   "title": "so interesting and fun but..",
+   "body": "I was having soooo much fun until it asks you to pay for more \"energy\"…. I wish there was different payment options… also the \"ad watching\" option doesn’t work most of the time for me so.. I gotta wait 15h every time to get new daily energy.. i enjoy this app so much but the money part kills the fun all the time :(",
+   "author": "turnabella",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:13:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14671006906",
+   "rating": 5,
+   "title": "So fun",
+   "body": "It really is fun lol. The energy replenishes on itself which is always good",
+   "author": "Kronastone",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:10:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670990851",
+   "rating": 4,
+   "title": "fun",
+   "body": "it's fun just soo many ads",
+   "author": "toemi110",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:04:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670982475",
+   "rating": 4,
+   "title": "Interesting",
+   "body": "I like the setup. Interesting game play. A bit pricey.",
+   "author": "987dk",
+   "version": "1.9.62",
+   "date": "2026-10-15T14:00:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670958505",
+   "rating": 5,
+   "title": "tons of fun",
+   "body": "got to live out my fangirl dreams",
+   "author": "Greenbeanjosephine",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:52:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670955606",
+   "rating": 5,
+   "title": "Es increíble",
+   "body": "La verdad es muy divertido y es muy entretenido la verdad lo recomiendo mucho y me hace sentir que el tiempo pasa volando",
+   "author": "bts fan check",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:50:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670940419",
+   "rating": 4,
+   "title": "REALLY GOOD",
+   "body": "I give it 4 stars just because there’s lots of things to pay for and lots of adds but the game itself is amazing.When I played it some of the AI’s where really paying attention and they had really and not corny responses",
+   "author": "Nickname235474",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:45:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670930030",
+   "rating": 5,
+   "title": "best thing ever",
+   "body": "soooo good",
+   "author": "burciaga hernandez ana",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:41:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670899471",
+   "rating": 5,
+   "title": "LOVE THIS GAME",
+   "body": "ABSOLUTELY LOVE TALKING TO ALL MY FAVORITE CHARACTERS!! Reminds of me of the time we all tried to shift!!",
+   "author": "eksknskemnsk",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:30:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670852806",
+   "rating": 4,
+   "title": "😝",
+   "body": "So fun",
+   "author": "itxcza",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:13:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670834067",
+   "rating": 5,
+   "title": "Fun game",
+   "body": "Love this it is great but I wish the replies the feed was realtime instead of the post instantly getting all the likes and tons of comments instantly",
+   "author": "Brandonltxxp",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:06:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670815824",
+   "rating": 5,
+   "title": "Living out your favorite fics",
+   "body": "As a lover of fanfics, this is a fun way to play them out through social media. Whether you want to play as an established character or as a self insert, it’s a blast. And the preset characters interact and the play their parts well. Definitely a fun way to spend a lunch break.",
+   "author": "Chelseauhh",
+   "version": "1.9.62",
+   "date": "2026-10-15T13:00:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670810511",
+   "rating": 5,
+   "title": "ITS AMAZING",
+   "body": "I love everything about it!!",
+   "author": "Holly_**dollly",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:58:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670804192",
+   "rating": 5,
+   "title": "I’m hooked!",
+   "body": "This game is pure addictive chaos. Such fun!!!",
+   "author": "Poedelette",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:56:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670800059",
+   "rating": 4,
+   "title": "GET THE APP",
+   "body": "It’s so fun bru, but it’s somewhat confusing at first but trust me bru it’s sooo fun.",
+   "author": "Imissmycousins",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:54:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670781270",
+   "rating": 4,
+   "title": "Review",
+   "body": "App is very good in general, I love to roleplay on here and it’s fun to see my favorite characters interact with eachother. Only problem is whenever the energy runs out I have to wait a long time for it to refill..other than that it’s an amazing app!",
+   "author": "Urlocalgoobygoob",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:48:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670772349",
+   "rating": 4,
+   "title": "Great game but ads",
+   "body": "I’ve been having a blast with the game but the ads are limiting and the long action recharge but other than that it’s a great game",
+   "author": "Sparkman232",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:45:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670719094",
+   "rating": 5,
+   "title": "off campus",
+   "body": "SO MUCH FUNN I LOVE IT",
+   "author": "Ariboo boo",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:26:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670699408",
+   "rating": 5,
+   "title": "BEST GAME",
+   "body": "actually sm fun",
+   "author": "eoshsiwi",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:20:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670671329",
+   "rating": 4,
+   "title": "Fun",
+   "body": "This app is incredibly fun, but you guys need to make more free options if you want to become even better of an app",
+   "author": "James luv 4",
+   "version": "1.9.62",
+   "date": "2026-10-15T12:10:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670617036",
+   "rating": 5,
+   "title": "Status fun",
+   "body": "It’s so much fun",
+   "author": "Hottie lady",
+   "version": "1.9.62",
+   "date": "2026-10-15T11:52:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670605937",
+   "rating": 4,
+   "title": "Status review",
+   "body": "Fun game",
+   "author": "JiggySam1100",
+   "version": "1.9.62",
+   "date": "2026-10-15T11:49:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670603022",
+   "rating": 4,
+   "title": "Game is hilarious",
+   "body": "Enjoying it so far, everything is so realistic and fun.",
+   "author": "Bmbodoll",
+   "version": "1.9.62",
+   "date": "2026-10-15T11:48:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670476779",
+   "rating": 5,
+   "title": "Awesome",
+   "body": "Really fun",
+   "author": "111111255,5,6,;6,75,6,7",
+   "version": "1.9.62",
+   "date": "2026-10-15T11:07:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670454465",
+   "rating": 5,
+   "title": "Obsessed",
+   "body": "Very fun so far. There are different levels of subscription, so you do have to pay for no ads, but it can be a little and weekly. You can also watch ads for free energy. Already obsessed with my current world & can’t wait to start another one!",
+   "author": "fireflyjar",
+   "version": "1.9.62",
+   "date": "2026-10-15T11:00:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670397602",
+   "rating": 4,
+   "title": "Review",
+   "body": "Good app but alots of adds",
+   "author": "1234567910a12345678910",
+   "version": "1.9.62",
+   "date": "2026-10-15T10:42:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670385367",
+   "rating": 4,
+   "title": "YAY!!!",
+   "body": "Good but Wish they gave more energy.",
+   "author": "Em08G",
+   "version": "1.9.62",
+   "date": "2026-10-15T10:38:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670364698",
+   "rating": 5,
+   "title": "love",
+   "body": "one of my favorite games",
+   "author": "AlaysiaMarie1998",
+   "version": "1.9.62",
+   "date": "2026-10-15T10:31:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670361567",
+   "rating": 5,
+   "title": "Best game ever",
+   "body": "Totally will keep playing this game. It is so realistic and I’m genuinely surprised about how many things you can do.",
+   "author": "Kioranothere",
+   "version": "1.9.62",
+   "date": "2026-10-15T10:30:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670341983",
+   "rating": 4,
+   "title": "Good game",
+   "body": "Fun game but way too any ads if you don’t wanna pay for the premium",
+   "author": "jord188",
+   "version": "1.9.62",
+   "date": "2026-10-15T10:24:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670166254",
+   "rating": 5,
+   "title": "Good game",
+   "body": "Great",
+   "author": "Fit Scorpion",
+   "version": "1.9.62",
+   "date": "2026-10-15T09:31:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14670071717",
+   "rating": 5,
+   "title": "So fun!",
+   "body": "Great characters!",
+   "author": "that one blue powerpuff girl",
+   "version": "1.9.62",
+   "date": "2026-10-15T09:03:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669958637",
+   "rating": 5,
+   "title": "Addicting",
+   "body": "lowk addicting I can’t stop playing it",
+   "author": "i love dogs 123456789",
+   "version": "1.9.62",
+   "date": "2026-10-15T08:30:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669907037",
+   "rating": 1,
+   "title": "This is so bad",
+   "body": "When I got the game it was good at first but.. you get so little energy! and you have a add after every thing you send! and for plus they try to make you pay 211 dollars!? and to get more energy it takes hours not minutes, it would of been good if it wasn’t a scam and bad developing, like why do I have to get an add after I send one thing? Like it’s bad dont get it bro.",
+   "author": "PinkBunny9910",
+   "version": "1.9.62",
+   "date": "2026-10-15T08:15:28-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14669868887",
+   "rating": 5,
+   "title": "Good",
+   "body": ".",
+   "author": "Beidudhfc",
+   "version": "1.9.62",
+   "date": "2026-10-15T08:04:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669859813",
+   "rating": 5,
+   "title": "Cute game",
+   "body": "It’s cute. Wish there was more energy though",
+   "author": "BrookeM24",
+   "version": "1.9.62",
+   "date": "2026-10-15T08:01:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669838215",
+   "rating": 5,
+   "title": "I love it",
+   "body": "Very nice app but i would suggest a limit of at least 20 energy",
+   "author": "Aubree121",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:55:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669835623",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "Love it",
+   "author": "Anonymous_265",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:55:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669827200",
+   "rating": 5,
+   "title": "The best !",
+   "body": "I think I’m gonna be delulu this app is amazing",
+   "author": "Anapanda1",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:52:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669707732",
+   "rating": 4,
+   "title": "Great game but crashes sometimes",
+   "body": "Honestly love this game so far. It’s so entertaining and chaotic - love it. The only thing is that my app crashes every time it has high volume of “posts”. Other than that I love it!! Such a creative game.",
+   "author": "GreatVillain",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:19:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669704204",
+   "rating": 5,
+   "title": "love it",
+   "body": "love ittt",
+   "author": "French tush's Dream",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:18:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669700106",
+   "rating": 5,
+   "title": "very funzies game",
+   "body": "i like it",
+   "author": "belloooooooko",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:16:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669663437",
+   "rating": 1,
+   "title": "you gotta pay to play",
+   "body": "there is a pop up ad every minute I swear and you gotta pay a subscription if you want it gone. Its really not worth the money and the ads get annoying",
+   "author": "Abigail Sepang",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:06:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669641577",
+   "rating": 5,
+   "title": "you should download it",
+   "body": "very fun",
+   "author": "joshua_mann",
+   "version": "1.9.62",
+   "date": "2026-10-15T07:00:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669628461",
+   "rating": 5,
+   "title": "gems",
+   "body": "honestly i actually really like this as someone who is a chud this is top 5 chud actives",
+   "author": "reveiwname6975",
+   "version": "1.9.62",
+   "date": "2026-10-15T06:56:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669526890",
+   "rating": 5,
+   "title": "Im doing this for free action",
+   "body": "It kinda entertaining lol",
+   "author": "Jabanjxjdsjjwjaka72882",
+   "version": "1.9.62",
+   "date": "2026-10-15T06:28:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669525303",
+   "rating": 5,
+   "title": "Good",
+   "body": "Good",
+   "author": "Sidd bbs said",
+   "version": "1.9.62",
+   "date": "2026-10-15T06:27:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669443169",
+   "rating": 5,
+   "title": "Love",
+   "body": "Love",
+   "author": "K.B22110",
+   "version": "1.9.62",
+   "date": "2026-10-15T06:03:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669422889",
+   "rating": 4,
+   "title": "Really cool concept",
+   "body": "The concept is super cool in this game and I am really enjoying the game play! I also love that there are free options rather than NEEDING to buy the subscription to support the app. Love all of it and can’t wait to see it develop",
+   "author": "JMacoretta",
+   "version": "1.9.62",
+   "date": "2026-10-15T05:58:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14669294470",
+   "rating": 5,
+   "title": "I LOVE THIS APP",
+   "body": "it’s so so good omg",
+   "author": "baizhu licker",
+   "version": "1.9.62",
+   "date": "2026-10-15T05:19:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668923934",
+   "rating": 5,
+   "title": "Love this",
+   "body": "Banneker",
+   "author": "Rawrrrr2884",
+   "version": "1.9.62",
+   "date": "2026-10-15T03:16:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668889116",
+   "rating": 5,
+   "title": "Uhhh",
+   "body": "Very fun so far but I wish there wasn’t so many things involving purchases",
+   "author": "Abcdefghilmnop7",
+   "version": "1.9.62",
+   "date": "2026-10-15T03:02:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668882055",
+   "rating": 5,
+   "title": "incredible",
+   "body": "love this app",
+   "author": "mysticooga",
+   "version": "1.9.62",
+   "date": "2026-10-15T02:59:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668756704",
+   "rating": 5,
+   "title": "so fun",
+   "body": "literally so fun i just wish they gave u more energy 😭",
+   "author": "Skye xo",
+   "version": "1.9.62",
+   "date": "2026-10-15T02:08:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668690549",
+   "rating": 5,
+   "title": "Fun!",
+   "body": "Honestly very fun",
+   "author": "Alison Rosie",
+   "version": "1.9.62",
+   "date": "2026-10-15T01:40:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668664787",
+   "rating": 4,
+   "title": "Awesome!",
+   "body": "So far it’s been great! Lwk hate the 24/7 adds though 🥲",
+   "author": "Vikkta_baby",
+   "version": "1.9.62",
+   "date": "2026-10-15T01:29:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668659160",
+   "rating": 5,
+   "title": "Fun",
+   "body": "Fun forsure",
+   "author": "Itsjonahthan",
+   "version": "1.9.62",
+   "date": "2026-10-15T01:27:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668546067",
+   "rating": 5,
+   "title": "So many ads",
+   "body": "I love this game but please not so many ads",
+   "author": "riyahslane",
+   "version": "1.9.62",
+   "date": "2026-10-15T00:37:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668545457",
+   "rating": 4,
+   "title": "App",
+   "body": "I like this app",
+   "author": "MELOSSHSI",
+   "version": "1.9.62",
+   "date": "2026-10-15T00:37:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668500887",
+   "rating": 5,
+   "title": "I love it!!",
+   "body": "Awesome ❤️❤️",
+   "author": "Love ❤️ tt",
+   "version": "1.9.62",
+   "date": "2026-10-15T00:17:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668437815",
+   "rating": 5,
+   "title": "Entertaining",
+   "body": "This be having me up hours",
+   "author": "KockyCole",
+   "version": "1.9.62",
+   "date": "2026-10-14T23:48:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668393270",
+   "rating": 4,
+   "title": "Cool app",
+   "body": "Fun free app",
+   "author": "NateIsIdk",
+   "version": "1.9.62",
+   "date": "2026-10-14T23:27:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668392260",
+   "rating": 5,
+   "title": "You will not regret it",
+   "body": "Okay so I honestly was so skeptical but it’s so good! I have been on here for like an hour straight it’s super addictive. The only thing is though that the subscription is pretty pricey, but the game lets you do a lot without it! Would recommend!",
+   "author": "DracoM he he",
+   "version": "1.9.62",
+   "date": "2026-10-14T23:27:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668375367",
+   "rating": 5,
+   "title": "Good",
+   "body": "I love this game it’s so entertaining",
+   "author": "Meowww hahaha",
+   "version": "1.9.62",
+   "date": "2026-10-14T23:19:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668313856",
+   "rating": 3,
+   "title": "Literally insane",
+   "body": "Literally insane how addictive this can be yet it’s covered in ads and barely gives you any energy to work with. They’re forcing you to get the paid plan essentially and it sucks.",
+   "author": "Shsuebnsibsj",
+   "version": "1.9.62",
+   "date": "2026-10-14T22:50:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668300623",
+   "rating": 5,
+   "title": "Great game",
+   "body": "So fun! Has such good worlds to play",
+   "author": "Missy hehe",
+   "version": "1.9.62",
+   "date": "2026-10-14T22:44:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668222736",
+   "rating": 4,
+   "title": "Bájenle a la publi",
+   "body": "buena app pero tiene muchos anuncios",
+   "author": "unicornio verdeamarillo",
+   "version": "1.9.62",
+   "date": "2026-10-14T22:08:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668217430",
+   "rating": 3,
+   "title": "I enjoy",
+   "body": "It nice but it kinda sucks the engery thing",
+   "author": "Rorosie2020",
+   "version": "1.9.62",
+   "date": "2026-10-14T22:05:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668162963",
+   "rating": 5,
+   "title": "Omg!!!",
+   "body": "This game is Perfect",
+   "author": "jennie mae reamer",
+   "version": "1.9.62",
+   "date": "2026-10-14T21:40:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668111946",
+   "rating": 4,
+   "title": "Great game but good potential",
+   "body": "this game is great and very fun but i hope in the future it can be a little bit more free to play friendly",
+   "author": "kanjuuri",
+   "version": "1.9.62",
+   "date": "2026-10-14T21:17:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668090908",
+   "rating": 5,
+   "title": "I like it",
+   "body": "Having funnnn",
+   "author": "Franci$Charle$",
+   "version": "1.9.62",
+   "date": "2026-10-14T21:08:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668060811",
+   "rating": 5,
+   "title": "Try",
+   "body": "Gy",
+   "author": "Nicknamedonme",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:54:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14668029667",
+   "rating": 5,
+   "title": "Orden de los sostenidos y bemoles",
+   "body": "FA DO SOL RE LA MI SI, SI MI LA RE SOL DO FA",
+   "author": "Choco_mitch",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:41:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667944428",
+   "rating": 3,
+   "title": "Pretty impressive",
+   "body": "I think the program is very well made with characters and plot lines go along fairly well as the ai have an alright memory. There are a lot of problems with inconsistencies I’ve come across many times, which is kind of annoying. The biggest pressing issue is the energy system, i understand the token usage can be limiting, sure. But the fact that you can still get plenty of ads pushed on you, even though the game tells you there are no more ads to watch for energy refills is insanely ridiculous. Wish the game could be better, but unfortunately pockets have to be filled. Very cool concept overall.",
+   "author": "5T3P4N",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:04:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667939761",
+   "rating": 3,
+   "title": "good but you have to wait for energy",
+   "body": "i always hate when i find a fun game and it ends up being one where you have to pay for a subscription or pay for more energy. for awhile you can watch adds but then you can't anymore. another way to get energy is to write a review so that's what i'm doing now.",
+   "author": "it's me your enemy",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:02:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667939435",
+   "rating": 4,
+   "title": "I LOVE this app!",
+   "body": "It feeds my delusions and I absolutely LOVE it",
+   "author": "Sageee6",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:02:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667938378",
+   "rating": 4,
+   "title": "Cool so far",
+   "body": "Cool so far I’m a little confused",
+   "author": "1little__bear",
+   "version": "1.9.62",
+   "date": "2026-10-14T20:02:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667903350",
+   "rating": 4,
+   "title": "Fun game!",
+   "body": "It’s a really good concept and I like it. Just wish there was way to get energy easier other than having to watch a video after every action.",
+   "author": "Ally-Walle",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:47:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667857561",
+   "rating": 5,
+   "title": "fun",
+   "body": "this app is genuinely fun and funny i lowkey love it",
+   "author": "dti 5 stars",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:29:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667853955",
+   "rating": 5,
+   "title": "Addicting game!",
+   "body": "Very addictive",
+   "author": "Oreokk30",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:27:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667847982",
+   "rating": 5,
+   "title": "Fun",
+   "body": "Good",
+   "author": "yo boy ball lick",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:25:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667834458",
+   "rating": 5,
+   "title": "Great game",
+   "body": "Love this game so much, you all should play",
+   "author": "Benji23487$$",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:20:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667827809",
+   "rating": 5,
+   "title": "fun",
+   "body": "fun",
+   "author": "ovootvp",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:17:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667809930",
+   "rating": 4,
+   "title": "Love it!",
+   "body": "I love this game so much my only complaint is the amount of ads you have to sit through without the premium version of the game.",
+   "author": "Ky.Ar.Mc",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:10:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667796673",
+   "rating": 5,
+   "title": "Status",
+   "body": "It is so fun",
+   "author": "Maddier3z",
+   "version": "1.9.62",
+   "date": "2026-10-14T19:05:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667781312",
+   "rating": 4,
+   "title": "Idk",
+   "body": "It’s okay the ads are pretty annoying It’s like you to add every time you do something.",
+   "author": "BooowIws",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:59:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667772575",
+   "rating": 1,
+   "title": "What Happened?",
+   "body": "This app was incredible, then it stopped working out of nowhere. Force closed on me and won’t open past the first screen.",
+   "author": "ZoeyGlow",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:55:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667752211",
+   "rating": 5,
+   "title": "Me encanta",
+   "body": "Es una de las mejores aplicaciones de rol que eh probado,me encanta mucho y la recomiendo,es literalmente la mejor",
+   "author": "Aoajksow",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:47:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667693685",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "Super cool and entertaining",
+   "author": "TLD1106",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:25:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667680156",
+   "rating": 5,
+   "title": "Fun",
+   "body": "So fun",
+   "author": "Gamer girl173&&:&,9/‘s",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:19:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667653422",
+   "rating": 5,
+   "title": "I LOVE THIS APP",
+   "body": "It's an incredible app, very funny, love",
+   "author": "Cara like",
+   "version": "1.9.62",
+   "date": "2026-10-14T18:09:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667577096",
+   "rating": 5,
+   "title": "Did",
+   "body": "Bunch",
+   "author": "Briannathebighest",
+   "version": "1.9.62",
+   "date": "2026-10-14T17:39:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667554661",
+   "rating": 4,
+   "title": "fun!",
+   "body": "great fun but ads do get annoying",
+   "author": "annnerrrer",
+   "version": "1.9.62",
+   "date": "2026-10-14T17:31:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667545549",
+   "rating": 5,
+   "title": "Fun",
+   "body": "In love with the game such a good escape from reality lol",
+   "author": "Keixoxoxoxoxooxox",
+   "version": "1.9.62",
+   "date": "2026-10-14T17:27:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667475065",
+   "rating": 5,
+   "title": "Honestly so fun!",
+   "body": "I’ve been playing at Kip from Heated Rivalry and it’s honestly a 10/10!",
+   "author": "Devyn Williams",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:59:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667474625",
+   "rating": 5,
+   "title": "Status",
+   "body": "Game is actually amazing!\nI love how you can either join in a world \nOr create your own and navigate it how you want it to go",
+   "author": "Patrice David",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:59:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667441725",
+   "rating": 5,
+   "title": "Amazing game",
+   "body": "I love how realistic it is",
+   "author": "Didisisjsnnasmksksks",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:45:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667439725",
+   "rating": 5,
+   "title": "Very good",
+   "body": "Great game, good way to earn free energy, and the subscriptions aren’t expensive either",
+   "author": "FreezeSneeze",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:44:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667412277",
+   "rating": 5,
+   "title": "This app is nice",
+   "body": "I honestly like how this app is like social media",
+   "author": "Treyhjhjh",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:33:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667409542",
+   "rating": 5,
+   "title": "Addicting",
+   "body": "Literally soooo immersive and worth spending for the 20 daily energy",
+   "author": "MinnieElyLove",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:32:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667407137",
+   "rating": 3,
+   "title": "Greedy.",
+   "body": "Everything requires plus and even if u get plus its still not unlimited. I think its too much for an AI-made game. It would be so fun if everything wasnt limited.",
+   "author": "Tora0_.",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:31:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667406934",
+   "rating": 3,
+   "title": "mid",
+   "body": "too much adds and need more power",
+   "author": "tinnieminnies",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:31:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667359338",
+   "rating": 5,
+   "title": "Ooo",
+   "body": "I love this game but I hate there’s a limit",
+   "author": "Wowthisgameisawesomsauce",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:12:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667358053",
+   "rating": 5,
+   "title": "Oh",
+   "body": "Muy bueno",
+   "author": "𝘢𝘯𝘰𝘯𝘪𝘮",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:11:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667349519",
+   "rating": 5,
+   "title": "Status",
+   "body": "I actually love this app. This is my favorite app!",
+   "author": "Livvster liv",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:08:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667343465",
+   "rating": 5,
+   "title": "Fun!",
+   "body": "The adds should have some breaks just because they show up for every action, but this has been entertaining and is really fun to play!",
+   "author": "v9798",
+   "version": "1.9.62",
+   "date": "2026-10-14T16:05:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667324594",
+   "rating": 5,
+   "title": "ok",
+   "body": "ok",
+   "author": "sigma skibidi gyatt",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:58:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667313292",
+   "rating": 5,
+   "title": "Just know Draco is amazing",
+   "body": "Great app too many adds tho",
+   "author": "Robloxislife 6767",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:53:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667307932",
+   "rating": 5,
+   "title": "Love",
+   "body": "I think it’s so so so good like actually amazing do ittttt",
+   "author": "Cassidy lynn r.",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:51:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667252871",
+   "rating": 4,
+   "title": "Pretty Solid",
+   "body": "Pretty good I like the game a lot so far. I have to dock one star because what do you mean I got to pay to continue to do stuff. But other than that the ai is pretty good on it.",
+   "author": "skerjrr",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:28:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667234854",
+   "rating": 4,
+   "title": "4/5",
+   "body": "Pretty good app overall, but the energy is kind of ridiculous and a deal breaker for me. Plus there’s so many ads. It makes the experience kind of annoying. But for the app itself, AMAZING!!",
+   "author": "DCS550",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:21:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667228207",
+   "rating": 5,
+   "title": "Amazing game!",
+   "body": "I love this game. I get to be friends with any character I like and more could happen",
+   "author": "myfavangie",
+   "version": "1.9.62",
+   "date": "2026-10-14T15:18:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667177905",
+   "rating": 5,
+   "title": "Super fun.",
+   "body": "This game is literally so fun!",
+   "author": "iiDollface",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:58:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667177476",
+   "rating": 5,
+   "title": "so good",
+   "body": "very fun i love it seriously i’m obsessed",
+   "author": "rhfhdhssgfzgsgvxgd",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:58:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667168087",
+   "rating": 5,
+   "title": "Fun!!",
+   "body": "So much fun",
+   "author": "Tdeplonty",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:54:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667125663",
+   "rating": 5,
+   "title": "Status",
+   "body": "i love this app so much is a very good app. I’m having a very very good time on here. I never thought I would find anything better than this app right here definitely a 10 out of 10. I will recommend this app to anyone.",
+   "author": "Funky feet and dirty nails",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:38:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667119543",
+   "rating": 5,
+   "title": "Fun app",
+   "body": "Super entertaining",
+   "author": "GalaxiBubz",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:35:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667091883",
+   "rating": 5,
+   "title": "I LIVE FOR THIS",
+   "body": "i love this my only problem is the subscription aspect it’s so exhausting nowadays that everything is a paid service and we can’t just have fun playing silly phone games anymore",
+   "author": "abberooni42202",
+   "version": "1.9.62",
+   "date": "2026-10-14T14:25:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667015469",
+   "rating": 4,
+   "title": "It’s low-key",
+   "body": "I like it, but I don’t like that every single time we have to do an event there’s always an ad before",
+   "author": "🫩…@",
+   "version": "1.9.62",
+   "date": "2026-10-14T13:56:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14667000080",
+   "rating": 3,
+   "title": "Slow",
+   "body": "Quite a few ads, it seems as if after every energy you use, an ad pops up. Waiting  a full day for more energy sucks. Very slow if you’re playing for free and not paying for upgrades to the gameplay.",
+   "author": "DontWasteYourTime99😡",
+   "version": "1.9.62",
+   "date": "2026-10-14T13:50:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666883607",
+   "rating": 5,
+   "title": "Expensive but good",
+   "body": "Very well made very entertaining but it really makes you want to spend money",
+   "author": "MissSarcasic",
+   "version": "1.9.62",
+   "date": "2026-10-14T13:07:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666861970",
+   "rating": 5,
+   "title": "woo",
+   "body": "woo",
+   "author": "dawon122800!!!",
+   "version": "1.9.62",
+   "date": "2026-10-14T13:00:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666792861",
+   "rating": 4,
+   "title": "Pretty fun",
+   "body": "You are able to do practically whatever you want but the energy system is kind of annoying especially if you pay for premium.",
+   "author": "peorsucc",
+   "version": "1.9.62",
+   "date": "2026-10-14T12:36:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666737043",
+   "rating": 5,
+   "title": "Best game",
+   "body": "This is the best game I’ve ever played",
+   "author": "CompXO",
+   "version": "1.9.62",
+   "date": "2026-10-14T12:17:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666719855",
+   "rating": 5,
+   "title": "adorbs",
+   "body": "that’s it.",
+   "author": "😻😽🫶🏼",
+   "version": "1.9.62",
+   "date": "2026-10-14T12:11:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666686679",
+   "rating": 4,
+   "title": "Fun but ads",
+   "body": "Definitely a fun game but once you run out of energy the ads are insane",
+   "author": "Loxish1225",
+   "version": "1.9.62",
+   "date": "2026-10-14T12:00:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666617273",
+   "rating": 5,
+   "title": "I love it",
+   "body": "So far it’s been amazing and no ads and it hasn’t tried making me spend any money and I can still interact a lot even in a day.",
+   "author": "ᴍɪᴀʜ",
+   "version": "1.9.62",
+   "date": "2026-10-14T11:37:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666609398",
+   "rating": 5,
+   "title": "Yayy",
+   "body": "Very good",
+   "author": "Hippy hit",
+   "version": "1.9.62",
+   "date": "2026-10-14T11:34:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666514890",
+   "rating": 5,
+   "title": "cute",
+   "body": "i like it fun to play tbh",
+   "author": "eating the best",
+   "version": "1.9.62",
+   "date": "2026-10-14T11:04:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666454000",
+   "rating": 3,
+   "title": "Is fun, but the ads…",
+   "body": "It’s fun, but the amount of energy you get and the amount of pop-ups are too much.",
+   "author": "roxylynnsavage",
+   "version": "1.9.62",
+   "date": "2026-10-14T10:44:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666385194",
+   "rating": 5,
+   "title": "Ok I love this game",
+   "body": "5/5 I don’t like the ads much after each decision but I love this game! Like living in my own world",
+   "author": "Ellie_bell2",
+   "version": "1.9.62",
+   "date": "2026-10-14T10:22:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666324813",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Interesting enough to play casually.",
+   "author": "mizsnacker",
+   "version": "1.9.62",
+   "date": "2026-10-14T10:03:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666265203",
+   "rating": 4,
+   "title": "Good time sink",
+   "body": "Does a good job immersing you and it’s nice to play around",
+   "author": "Blob44",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:45:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666253263",
+   "rating": 5,
+   "title": "круто!",
+   "body": "а в целом интересно, даже русский язык получилось сделать",
+   "author": "(=:",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:41:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666252418",
+   "rating": 5,
+   "title": "Very fun",
+   "body": "This was a great find",
+   "author": "Rainnwhit",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:41:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666242083",
+   "rating": 4,
+   "title": "Like it",
+   "body": "So far I like it",
+   "author": "Rustic nostalgia",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:38:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666237170",
+   "rating": 5,
+   "title": "Ignore this",
+   "body": "I just want energy",
+   "author": "Hannah banana 827413",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:36:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666201299",
+   "rating": 4,
+   "title": "Interesting",
+   "body": "This app is really fun. Goofy but EXTREMELY reactive. I’m not a huge fan of the pricing/energy system but everything else is almost perfect.",
+   "author": "BuddersPlays",
+   "version": "1.9.62",
+   "date": "2026-10-14T09:25:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665992947",
+   "rating": 5,
+   "title": "Cool game",
+   "body": "So awesome! You get to do whatever you want, play as a canon or non canon character, and the responses are so fresh and funny",
+   "author": "Sl33pyst4r",
+   "version": "1.9.62",
+   "date": "2026-10-14T08:23:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665985129",
+   "rating": 4,
+   "title": "Love it so far.",
+   "body": "Fun, engaging, just wish there weren’t so many ads.",
+   "author": "S.G.H.1",
+   "version": "1.9.62",
+   "date": "2026-10-14T08:21:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665927090",
+   "rating": 3,
+   "title": "Too many ads and too little energy",
+   "body": "App is fun and honestly hilarious at times, but an add after nearly every tap is a bit much. Also, there’s way too many actions that take energy as well as too little energy as a whole.",
+   "author": "rockzstarzz",
+   "version": "1.9.62",
+   "date": "2026-10-14T08:04:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665826280",
+   "rating": 5,
+   "title": "Great time!",
+   "body": "Love it!",
+   "author": "haleyadrianne",
+   "version": "1.9.62",
+   "date": "2026-10-14T07:35:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665800172",
+   "rating": 5,
+   "title": "Amazing",
+   "body": "Love this",
+   "author": "Nellyxntyk",
+   "version": "1.9.62",
+   "date": "2026-10-14T07:28:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665761313",
+   "rating": 4,
+   "title": "Love",
+   "body": "Love the game but you do get very limited energy",
+   "author": "Ashkycoco",
+   "version": "1.9.62",
+   "date": "2026-10-14T07:17:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665679707",
+   "rating": 5,
+   "title": "Status",
+   "body": "Such a great app i’m having so much fun with this",
+   "author": "Strange puppy",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:53:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665673096",
+   "rating": 5,
+   "title": "Statusssss",
+   "body": "Peak! I love haikyuu",
+   "author": "Bishes slay",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:52:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665670463",
+   "rating": 1,
+   "title": "gone downhill",
+   "body": "this app is utterly insufferable with the number of ads running now. also did yall really have to implement so much AI? this game is not what it used to be AT ALL. bring back the old versions.",
+   "author": "nikiii_f",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:51:14-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14665599353",
+   "rating": 2,
+   "title": "Unfortunately good idea but money hungry game",
+   "body": "This game is probably the best ever if we could've ATLEAST just had way more energy, ATLEAST 45 a day. It's too little such a shame  I thought I'd finally find a new interesting game. I hope we get treated better :)",
+   "author": "2sa.021",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:30:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665581311",
+   "rating": 5,
+   "title": "Interesting",
+   "body": "This is a great app for socializing and socially awkward people.",
+   "author": "ave1994",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:25:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665501536",
+   "rating": 4,
+   "title": "It’s good",
+   "body": "Pretty good so far. Lots of ads though",
+   "author": "K8LYNW2013",
+   "version": "1.9.62",
+   "date": "2026-10-14T06:01:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665336126",
+   "rating": 5,
+   "title": "amazing",
+   "body": "so obsessed with my characters and the posts",
+   "author": "almostphilia",
+   "version": "1.9.62",
+   "date": "2026-10-14T05:10:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665193601",
+   "rating": 5,
+   "title": "Genuinely addicting",
+   "body": "A blast!!! Keeps me on for hours.",
+   "author": "Ziamodefiles",
+   "version": "1.9.62",
+   "date": "2026-10-14T04:23:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665190804",
+   "rating": 4,
+   "title": "Interesting to say the least",
+   "body": "So far is fun.",
+   "author": "PetKitty08",
+   "version": "1.9.62",
+   "date": "2026-10-14T04:22:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665169552",
+   "rating": 5,
+   "title": "Great app",
+   "body": "Naw this app kind of dope.",
+   "author": "dede_mandy92_",
+   "version": "1.9.62",
+   "date": "2026-10-14T04:14:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665166777",
+   "rating": 5,
+   "title": "Addicting!!",
+   "body": "The ads are pretty frequent but they are pretty short and the energy u js have to watch a few ads",
+   "author": "Bugsinarug",
+   "version": "1.9.62",
+   "date": "2026-10-14T04:13:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14665129504",
+   "rating": 4,
+   "title": "fun",
+   "body": "this app is fun but please remove the subscription feature and give more energy there's so little actions now 😢😢 i redownloaded this app after playing in its early days and it had a lot more actions than before",
+   "author": "tomekurata",
+   "version": "1.9.62",
+   "date": "2026-10-14T04:00:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664957180",
+   "rating": 5,
+   "title": "Fun",
+   "body": "Ad monster but fun otherwise",
+   "author": "eaJ62",
+   "version": "1.9.62",
+   "date": "2026-10-14T02:53:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664886154",
+   "rating": 4,
+   "title": "Review",
+   "body": "Very entertaining just wish there was a way I could get unlimited energy but otherwise great",
+   "author": "Addy arrrrr",
+   "version": "1.9.62",
+   "date": "2026-10-14T02:23:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664839446",
+   "rating": 5,
+   "title": "Very",
+   "body": "Good",
+   "author": "Bjhkjkdkamkwownsnkskwkw",
+   "version": "1.9.62",
+   "date": "2026-10-14T02:03:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664786788",
+   "rating": 1,
+   "title": "status",
+   "body": "it’s fine. to many ads and wants you to buy everything. about to delete the app.",
+   "author": "cayla—1",
+   "version": "1.9.62",
+   "date": "2026-10-14T01:39:11-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14664780757",
+   "rating": 5,
+   "title": "Love it!!",
+   "body": "I love this app,it is so fun,I didn’t think I would like it this much",
+   "author": "C6tqueen09 pkz add",
+   "version": "1.9.62",
+   "date": "2026-10-14T01:36:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664677092",
+   "rating": 5,
+   "title": "Fun",
+   "body": "I just tried this out from an ad I saw on Tik tok and it’s so fun",
+   "author": "Lin Lin #cutiepie",
+   "version": "1.9.62",
+   "date": "2026-10-14T00:48:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664669443",
+   "rating": 3,
+   "title": "Hella ads but fun",
+   "body": "Title says it all",
+   "author": "Imaboss1326",
+   "version": "1.9.62",
+   "date": "2026-10-14T00:44:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664662263",
+   "rating": 3,
+   "title": "Fun to joke around on but ads everywhere",
+   "body": "Middle tier due to heavy ads",
+   "author": "Tessamcm",
+   "version": "1.9.62",
+   "date": "2026-10-14T00:41:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664601504",
+   "rating": 5,
+   "title": "Very good",
+   "body": "Ads aren’t as bad as people say. But the energy is annoying",
+   "author": "TherealMimikyu",
+   "version": "1.9.62",
+   "date": "2026-10-14T00:12:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664593996",
+   "rating": 5,
+   "title": "Review",
+   "body": "Great game love it but fix the glitch it stopped giving me adds to watch for free energy please fix that other than that best game out right now",
+   "author": "Saint wick",
+   "version": "1.9.62",
+   "date": "2026-10-14T00:09:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664544615",
+   "rating": 3,
+   "title": "ADDS",
+   "body": "Too many adds",
+   "author": "emwashere123",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:45:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664525717",
+   "rating": 5,
+   "title": "Great",
+   "body": "This game is great",
+   "author": "Angedown",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:36:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664521152",
+   "rating": 5,
+   "title": "hooked",
+   "body": "i am HOOKED. this is seriously so fun and cures my delusions and lonliness. I be forgetting this is all ai and that nothings real😭😭 but i love this sm this app is amazing",
+   "author": "cepnis",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:34:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664500199",
+   "rating": 5,
+   "title": "Great Game",
+   "body": "This game is amazing and the interactions on here are very realistic. I love it.",
+   "author": "caren2358",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:24:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664488878",
+   "rating": 5,
+   "title": "Fun!",
+   "body": "a fun game just wish I had more energy",
+   "author": "reviewsssssssteeheee",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:18:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664477557",
+   "rating": 4,
+   "title": "Great and fun",
+   "body": "Could use a mechanic to reply to comments with images",
+   "author": "Graytildagrave",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:13:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664456429",
+   "rating": 5,
+   "title": "SO FUN",
+   "body": "It’s like if x and c.ai had a baby",
+   "author": "Dani.l.u",
+   "version": "1.9.62",
+   "date": "2026-10-13T23:03:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664359818",
+   "rating": 5,
+   "title": "Status",
+   "body": "Very good the devs are goated.",
+   "author": "Tre_12",
+   "version": "1.9.62",
+   "date": "2026-10-13T22:16:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664358410",
+   "rating": 1,
+   "title": "steals your money",
+   "body": "charged me $200 when that’s not what was supposed to happen, and won’t give me a refund. terrible.",
+   "author": "simplyfinn",
+   "version": "1.9.62",
+   "date": "2026-10-13T22:16:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664357149",
+   "rating": 5,
+   "title": "No reason I rated it like this",
+   "body": "I need energy",
+   "author": "England’shuazh",
+   "version": "1.9.62",
+   "date": "2026-10-13T22:15:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664328696",
+   "rating": 3,
+   "title": "Good but expensive",
+   "body": "Fun but expensive",
+   "author": "LilleMarieAA",
+   "version": "1.9.62",
+   "date": "2026-10-13T22:02:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664313127",
+   "rating": 5,
+   "title": "Cool game",
+   "body": "Fun",
+   "author": "Just playing..",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:54:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664305228",
+   "rating": 5,
+   "title": "yuh",
+   "body": "good",
+   "author": "myaandliyah",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:51:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664301713",
+   "rating": 1,
+   "title": "Not good because of the actions update",
+   "body": "When I first started playing this game we had plenty of actions. Now it’s just 5 and I have to wait so many hours for it to refill. Pls make it back to how it used to be.",
+   "author": "Ddffgjj46",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:49:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664288802",
+   "rating": 4,
+   "title": "Liked it mostly",
+   "body": "Overall really like this app kinda wish i didnt have to pay for them to text first but i get it it limits the amount of ads you can watch to get free energy so you have to wait a bit sometimes",
+   "author": "Anonymous5590",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:43:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664285833",
+   "rating": 4,
+   "title": "Can’t make up my mind.",
+   "body": "Neat concept. I wish there wasn’t an energy per add limit though….\nActually, It may be a good thing.",
+   "author": "Valsystra",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:42:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664238778",
+   "rating": 5,
+   "title": "So fun",
+   "body": "I downloaded it and got so into it… I play it everyday",
+   "author": "PLEASE d",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:20:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664216597",
+   "rating": 4,
+   "title": "yes",
+   "body": "very good",
+   "author": "sbsuwhub",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:10:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664214318",
+   "rating": 5,
+   "title": "Love it",
+   "body": "Its a lot of fun, i like it",
+   "author": "cookie_brick",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:09:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664195176",
+   "rating": 5,
+   "title": "VERYYYY FUNN",
+   "body": "GAME IS VERY VERY VERY REALISTIC AND FUN! I 100% RECOMMEND",
+   "author": "Marshafield",
+   "version": "1.9.62",
+   "date": "2026-10-13T21:00:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664192756",
+   "rating": 5,
+   "title": "Good",
+   "body": "Good",
+   "author": "Goodlydhv",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:59:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664189852",
+   "rating": 5,
+   "title": "Great",
+   "body": "Love!",
+   "author": "1160!!",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:57:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664185943",
+   "rating": 5,
+   "title": "👌🏻",
+   "body": "👌🏻",
+   "author": "👌🏻🫡🫠",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:56:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664158751",
+   "rating": 5,
+   "title": "G",
+   "body": "Amazing",
+   "author": "Tatianaortixz",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:43:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664155138",
+   "rating": 5,
+   "title": "best game",
+   "body": "this game is so fun",
+   "author": "yuh yuh0202",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:42:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664148078",
+   "rating": 5,
+   "title": "Super Fun",
+   "body": "Honestly a really good app super fun to play and super interactive",
+   "author": "Costly cultist JC",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:38:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664146039",
+   "rating": 5,
+   "title": "tuff",
+   "body": "tuff",
+   "author": "driedpen",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:37:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664113869",
+   "rating": 4,
+   "title": "This is flipping hilarious",
+   "body": "I made Ron Weasley Awkward. Romanced Hermione. Roasted Snape and Voldemort. Started an illegal betting ring amongst other things… \n\nAbsolute hilarity. Some of the responses are crazy work.\n\nAlthough, I think the app has device memory-leak issues because it seems after a few days in game it freezes and forces you to re-open the app again.",
+   "author": "JosephS****",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:23:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664082680",
+   "rating": 5,
+   "title": "10/10",
+   "body": "love the app so much so realistic !!!!",
+   "author": "(jorden)@",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:10:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664064891",
+   "rating": 5,
+   "title": "Cute and fun",
+   "body": "actually a cute game to play. lots of ads tho",
+   "author": "janemayb",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:02:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664064394",
+   "rating": 5,
+   "title": "Great game",
+   "body": "Love this game so much, its addicting.",
+   "author": "gvsrhxsinzdbbd",
+   "version": "1.9.62",
+   "date": "2026-10-13T20:02:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664037184",
+   "rating": 5,
+   "title": "So much fun!!",
+   "body": "Love this app!! It’s so much fun and I love how much it’s like Twitter used to be 😭",
+   "author": "Kaitlyn Thomson",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:51:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664026612",
+   "rating": 5,
+   "title": "Funny",
+   "body": "I like it",
+   "author": "Emilia carrillo",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:46:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664018256",
+   "rating": 5,
+   "title": "Pretty good",
+   "body": "I don’t use many ai games because a lot of them are low quality or they bombarde you with getting you to buy things and while yes, this app has ads and yes it does tell you that you can pay to get gems and no ads, but it’s not nearly as frequent as most apps. The quality of the AI is really good as well. It also limits the amount of actions you get daily but I feel like it helps me to not spend too much time on the app. It’s easy to get sucked into the story and have fun and you can still get more energy by watching ads, recommending friends, reviewing the game… cough cough I need more energy cough cough, and it makes it easy to pace myself without completely not letting me continue when it’s getting juicy.",
+   "author": "C0m3t-St4r",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:43:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664006555",
+   "rating": 1,
+   "title": "👎",
+   "body": "It’s really fun but I wish it was free. Not everything has to cost money these days.",
+   "author": "YOURGIRLLLAV",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:38:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664004583",
+   "rating": 5,
+   "title": "Fun",
+   "body": "To many ads",
+   "author": "Darius_the_crazziest",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:37:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663996403",
+   "rating": 4,
+   "title": "It’s so good!",
+   "body": "I love this! But. The ads are so much and in so little amount of time. I’d love if they were more spread apart and back to back instead or we got a reward for watching them. But it’s so fun to play otherwise",
+   "author": "CutebutChaotic6",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:34:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663990362",
+   "rating": 4,
+   "title": "love it",
+   "body": "just buy it",
+   "author": "HoneynOatss",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:31:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663988253",
+   "rating": 5,
+   "title": "Lowkey fire",
+   "body": "Not bad for a ai app",
+   "author": "Luh savage zero",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:30:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663975401",
+   "rating": 4,
+   "title": "Harry Potter",
+   "body": "Game is fun, does glitch though and if you don’t want to spend money you have to watch an add that’s 1 min long every time you do something",
+   "author": "Allstarcheerleadingaddict",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:25:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663970358",
+   "rating": 4,
+   "title": "!!",
+   "body": "Very entertaining, loved it",
+   "author": "Miana098",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:23:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663932688",
+   "rating": 5,
+   "title": "good game",
+   "body": "its very good and pretty immersive",
+   "author": "intellectualcrab44",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:08:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663932697",
+   "rating": 5,
+   "title": "The best ever",
+   "body": "I really love this app.it makes me feel obsessed and loved all the time",
+   "author": "Bimil Key",
+   "version": "1.9.62",
+   "date": "2026-10-13T19:08:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663909107",
+   "rating": 5,
+   "title": "Love it",
+   "body": "Love this app so much",
+   "author": "Myrandahhhhh",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:58:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663891679",
+   "rating": 4,
+   "title": "4/5",
+   "body": "Good!! Just hard to learn how it works",
+   "author": "Adilyn👍",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:51:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663876220",
+   "rating": 5,
+   "title": "This game is awesome",
+   "body": "I like it it’s coole",
+   "author": "Gojodagoat",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:45:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663853488",
+   "rating": 5,
+   "title": "El mejor",
+   "body": "El mejor",
+   "author": "Yohejejej",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:36:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663844596",
+   "rating": 3,
+   "title": "Decent, too many ads.",
+   "body": "Ads are overwhelming. Otherwise it’s cute.",
+   "author": "MidiSlyth",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:33:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663842491",
+   "rating": 5,
+   "title": "i love it",
+   "body": "i get on this when i feel like im gonna explode evaporate from depression and guilt and i let the people laugh at me",
+   "author": "Bigbertha25",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:32:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663837931",
+   "rating": 4,
+   "title": "Love it",
+   "body": "Love the app but sometimes ads don’t load to get more energy",
+   "author": "Rjeneudbfh",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:30:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663831277",
+   "rating": 5,
+   "title": "Perfect",
+   "body": "Great game I love it",
+   "author": "Jul7337$!",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:28:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663819200",
+   "rating": 5,
+   "title": "Pretty fun",
+   "body": "Unique compared to most A.I apps. Like a twitter sim.",
+   "author": "DKTayaka",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:23:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14663798871",
+   "rating": 5,
+   "title": "This game is amazing",
+   "body": "It’s so much fun to do, the conversations feel so real!",
+   "author": "lielahnee09",
+   "version": "1.9.62",
+   "date": "2026-10-13T18:15:19-07:00",
+   "votes": 0
+  },
   {
    "id": "14652068270",
    "rating": 5,

@@ -1,39 +1,119 @@
 {
  "stats": {
-  "total": 508,
-  "avg": 2.81,
+  "total": 516,
+  "avg": 2.8,
   "dist": {
-   "1": 147,
-   "2": 75,
-   "3": 107,
+   "1": 151,
+   "2": 77,
+   "3": 108,
    "4": 84,
-   "5": 95
+   "5": 96
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 4,
+   "avg": 1.5,
    "dist": {
-    "1": 0,
+    "1": 3,
     "2": 0,
-    "3": 0,
+    "3": 1,
     "4": 0,
     "5": 0
    }
   },
   "d30": {
-   "count": 13,
-   "avg": 3.46,
+   "count": 21,
+   "avg": 2.9,
    "dist": {
-    "1": 3,
-    "2": 0,
-    "3": 2,
+    "1": 7,
+    "2": 2,
+    "3": 3,
     "4": 4,
-    "5": 4
+    "5": 5
    }
   },
-  "updatedAt": "2026-10-19T07:14:49+00:00"
+  "updatedAt": "2026-10-19T10:44:42+00:00"
  },
  "reviews": [
+  {
+   "id": "14678149983",
+   "rating": 1,
+   "title": "what a scam",
+   "body": "u have to pay to even reply… like at least give me 30 days of the full experience",
+   "author": "helpfulhomo",
+   "version": "1.117",
+   "date": "2026-10-17T09:24:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14666542695",
+   "rating": 1,
+   "title": "You get 1 post a day, 1 comment, 1 reply, and a handful of DMs.",
+   "body": "6 dollars a week is insane work.",
+   "author": "Faelyn Vixenrose",
+   "version": "1.117",
+   "date": "2026-10-14T11:13:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14664919523",
+   "rating": 3,
+   "title": "Subscription",
+   "body": "I don’t personally have a problem with the app itself. I’ve only been playing it for a few days, but so far I think it’s pretty good and fun. There is a few small complaints, but the main one I’m writing about is the fact that if you want the subscription there is only the yearly option which is $39.99. Yes that’s not bad, however I think there should be a monthly option. I don’t always have time to play games and I feel like the monthly option would be a better and a shorter commitment. And then you could just leave it subscribed monthly, or you could cancel it if you know you won’t have time to play it one month. I also play ‘status’ which is a similar game. It has a weekly or a yearly option. I have the weekly option and it works well, however sometimes I wish it was a monthly thing too.",
+   "author": "Strawberry shortcake 💖",
+   "version": "1.117",
+   "date": "2026-10-14T02:37:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14661929201",
+   "rating": 1,
+   "title": "Free Trial.",
+   "body": "I had a free trial as i remember and cancelled it before i was made to pay. They still made me pay as if they weren’t giving a free trial. Overall its a fine game, if you pretend to have brother/sister they comment on your stuff flirty.",
+   "author": "my.name.is.taken",
+   "version": "1.117",
+   "date": "2026-10-13T07:31:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14655800103",
+   "rating": 2,
+   "title": "Why one a day",
+   "body": "It sucks i can’t do anything without paying for a subscription to talk to fake people",
+   "author": "Hhahhhjahahbcnd",
+   "version": "1.117",
+   "date": "2026-10-11T17:11:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14655649460",
+   "rating": 1,
+   "title": "PLEASE INCREASE POST LIMIT",
+   "body": "The post limit being literally ONE per day is criminal. It’s so boring after that, you might as well not even download it to begin with. If you have to pay to have FUN, it’s not worth it. Seriously like at least make the post limit five per day or something. You can’t even comment on others’ posts. Ridiculous and greedy; boring, boring, boring.",
+   "author": "СОБАКОТ",
+   "version": "1.117",
+   "date": "2026-10-11T16:09:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14655447132",
+   "rating": 2,
+   "title": "Things I hate about the app",
+   "body": "Once you reach a limit you literally have to wait for 7 hours and it’s kinda boring so can you lowkey fix’s that and honestly I love the app that’s the only problem is the limited time but byee",
+   "author": "Avril_lavigne!❤️",
+   "version": "1.117",
+   "date": "2026-10-11T14:47:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14652543271",
+   "rating": 5,
+   "title": "Love it definitely look into ads for rewards",
+   "body": "Love it but wish one post a day wasn’t a thing, I understand the ai costs would be a bit, but we would definitely not mind watching ads for a post or what not",
+   "author": "jojofancybizarrw",
+   "version": "1.117",
+   "date": "2026-10-10T22:32:55-07:00",
+   "votes": 0
+  },
   {
    "id": "14650807895",
    "rating": 4,
