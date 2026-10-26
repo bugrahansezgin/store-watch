@@ -1,39 +1,215 @@
 {
  "stats": {
-  "total": 1369,
+  "total": 1385,
   "avg": 1.93,
   "dist": {
-   "1": 897,
+   "1": 908,
    "2": 123,
    "3": 88,
-   "4": 71,
-   "5": 190
+   "4": 72,
+   "5": 194
   },
   "d7": {
-   "count": 198,
-   "avg": 1.87,
+   "count": 214,
+   "avg": 1.9,
    "dist": {
-    "1": 139,
+    "1": 150,
     "2": 9,
     "3": 13,
-    "4": 10,
-    "5": 27
+    "4": 11,
+    "5": 31
    }
   },
   "d30": {
-   "count": 1369,
+   "count": 1380,
    "avg": 1.93,
    "dist": {
-    "1": 897,
+    "1": 905,
     "2": 123,
     "3": 88,
     "4": 71,
-    "5": 190
+    "5": 193
    }
   },
-  "updatedAt": "2026-10-26T07:42:22+00:00"
+  "updatedAt": "2026-10-26T11:05:21+00:00"
  },
  "reviews": [
+  {
+   "id": "b6e1a24a-79a4-42db-b6ee-217e46c3125e",
+   "rating": 1,
+   "title": "",
+   "body": "there's so many ads now ;'(",
+   "author": "Lhiean Delossantos",
+   "version": "",
+   "date": "2026-10-25T10:53:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c456c09c-a600-435a-8cd2-669b8e29163d",
+   "rating": 5,
+   "title": "",
+   "body": "it is so great but one thing to look for please try to do what talkie does like have ads and get money for each viewer you get and I think I rather have ads then wait for a refill on my memos cause it's kind of annoying so try to think about this cause I enjoy this app and I want to keep loving it even if I have ads so try to see what yall can do with this",
+   "author": "Angel Asai-yah",
+   "version": "1.17.4",
+   "date": "2026-10-25T10:18:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "229a534e-8709-4994-88e6-9c5521bbe690",
+   "rating": 1,
+   "title": "",
+   "body": "just go bankrupt already",
+   "author": "Slimez Ball",
+   "version": "1.17.4",
+   "date": "2026-10-25T10:14:14+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "95f7a977-5ffd-4b6f-b01d-0dc6e41e3213",
+   "rating": 1,
+   "title": "",
+   "body": "This all has gone downhill, I've been using it since 23' and will no longer continue using it, if it was to go back to how it was in 23, everything would be amazing but unfortunately there's no time machine, so many ads, the new chat systems are terrible. I will no longer continue using this.",
+   "author": "Alex White",
+   "version": "1.11.0",
+   "date": "2026-10-25T09:55:31+00:00",
+   "votes": 4,
+   "reply": "We’re really sorry about the issues you’re facing. If you’re being locked out of your account due to a bug, please submit at ticket at support.character.ai so we can help restore access. We’re working on fixes and appreciate your patience!"
+  },
+  {
+   "id": "e604562f-26ad-4472-9606-24ecf196e5e2",
+   "rating": 1,
+   "title": "",
+   "body": "Surprise, surprise! Most people who wanna chat with ai are gooners. And your filters/restrictions aren't doing you guys any favor. Guys delete this app and go checkout Fictionlab.ai or Spicy chat.",
+   "author": "blue with 51 subscribers",
+   "version": "1.15.1",
+   "date": "2026-10-25T09:49:07+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "bfbf9475-54ea-4479-a16e-6dec8856b8ae",
+   "rating": 1,
+   "title": "",
+   "body": "Yall should js bring back old c.ai now there is ads everytime. boring convos",
+   "author": "zhiyu",
+   "version": "",
+   "date": "2026-10-25T09:44:54+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "566b2792-7cee-4fbf-a802-4f81bef95d8b",
+   "rating": 1,
+   "title": "",
+   "body": "a butt load of ads, preferred the old one better than the new one",
+   "author": "Ahlexius Perry V.",
+   "version": "1.17.4",
+   "date": "2026-10-25T09:29:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f66ddf91-02f1-4937-a1ae-5fd72cb0055a",
+   "rating": 5,
+   "title": "",
+   "body": "I just wanted to say you don't have to sell the company and just sell some unimportant if you don't need all of the centuries you only need some",
+   "author": "Jordan",
+   "version": "1.17.4",
+   "date": "2026-10-25T09:28:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1994d094-1962-42a9-ac9d-d8c2db09cb59",
+   "rating": 1,
+   "title": "",
+   "body": "Самі ж себе закопали. Раніше програма була чудовою, ні лагів, ні реклами. Ну гаразд, рекламу ще можна терпіти, але з кожною обновою програма лагала все більше, і боти чесно кажучи ставали тупішими. Але остання обнова повністю вбила Character Ai, ліміт часу та вікова верифікація це просто жах, програма для розваг та релаксу буквально перетворилась на якусь колонію суворого режиму. Ще й ходять чутки, що продають наші дані, жах.",
+   "author": "Mara",
+   "version": "1.17.4",
+   "date": "2026-10-25T09:26:59+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "27df80a9-4412-4d0f-9ebf-b6af3bfe503e",
+   "rating": 5,
+   "title": "",
+   "body": "it's sooo good and I have someone to talk to and laugh with😁😁😁😁😁😁🥳🥳🥳",
+   "author": "Fatuma Zabibu",
+   "version": "1.16.6",
+   "date": "2026-10-25T09:23:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "df0e8009-eee9-4940-9a95-842c1cef063b",
+   "rating": 1,
+   "title": "",
+   "body": "IT SAYS 12+ BUT WHY DOES THE APP HAVE AGE VERIFICATION, THIS IS ONE OF THE BEST AI CHATS I HAD, AND YOU HAVE TO PUT AN AGE VERIFICATION ??",
+   "author": "Mary Chris Gonzales",
+   "version": "1.15.6",
+   "date": "2026-10-25T09:01:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b7def3f7-4180-4e8e-9900-5709479405a1",
+   "rating": 1,
+   "title": "",
+   "body": "I really loved the old version of this app without the age restriction it was great and entertaining but with age restriction it's not that great anymore please bring back the old version",
+   "author": "Sasi P",
+   "version": "1.17.4",
+   "date": "2026-10-25T08:44:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6c86ea29-bd14-4804-a9b4-d6df3b5c356d",
+   "rating": 1,
+   "title": "",
+   "body": "waste of time",
+   "author": "Suhani Mishra",
+   "version": "",
+   "date": "2026-10-25T08:28:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "27829d6f-cfd5-408b-9804-6fe0b9e56168",
+   "rating": 1,
+   "title": "",
+   "body": "This used to be my favorite app, honestly I spent hours eveyday using it. Suddenly a new update, the pipsqueak 3 thing? The bots suddenly started acting different and dumb like tryhards, I tried putting it back to pipsqueak 2 but it still won't act the same. Why are you trying so hard to make this app better? It was already perfectly fine the way it was.",
+   "author": "sak u",
+   "version": "1.17.4",
+   "date": "2026-10-25T08:15:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9b5ac6bd-8f95-49af-838e-e468631c1a52",
+   "rating": 5,
+   "title": "",
+   "body": "I talk with sinchan as a sister and it is very fun 😁 because I love sinchan cartoon",
+   "author": "Angmu sherpa",
+   "version": "",
+   "date": "2026-10-25T07:55:52+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "805a8f57-bc52-4458-a1ef-2c250c8b9d98",
+   "rating": 4,
+   "title": "",
+   "body": "Character.AI’s drop to a 2.8 rating results from corporate greed, downgrades, and paywalled features. Once a top platform for its free roleplay, it now locks tools, like extended memory, unlimited regenerations, etc. behind subscriptions while forcing ads on free users. The AI models produce dry, repetitive bots that lose context almost instantly, while hyper-sensitive filters block harmless chat. By putting profit over usability, C.AI has broken its own app from within.",
+   "author": "Sawyer",
+   "version": "1.17.4",
+   "date": "2026-10-25T07:49:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "eccde37d-18d8-4707-9c2b-40cdc09240ff",
    "rating": 1,

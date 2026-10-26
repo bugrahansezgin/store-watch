@@ -1,22 +1,22 @@
 {
  "stats": {
-  "total": 626,
+  "total": 627,
   "avg": 3.25,
   "dist": {
    "1": 152,
    "2": 78,
    "3": 93,
-   "4": 67,
+   "4": 68,
    "5": 236
   },
   "d7": {
-   "count": 22,
-   "avg": 3.73,
+   "count": 23,
+   "avg": 3.74,
    "dist": {
     "1": 4,
     "2": 0,
     "3": 3,
-    "4": 6,
+    "4": 7,
     "5": 9
    }
   },
@@ -31,9 +31,20 @@
     "5": 61
    }
   },
-  "updatedAt": "2026-10-26T07:42:20+00:00"
+  "updatedAt": "2026-10-26T11:05:16+00:00"
  },
  "reviews": [
+  {
+   "id": "4eb99e8b-12f5-4e59-b642-0793558f8c4b",
+   "rating": 4,
+   "title": "",
+   "body": "I love the app it's fun I just wish it was easier to manage the subscription maybe in the app, I also wish the images were included in the subscription instead of having to keep buying gold maybe have different subscriptions and so on also images in chat maybe available to see instead of having to scroll to find them, also the memory the characters forget things pretty easily. They are fun and it is good entertainment",
+   "author": "Alejandra Navarro",
+   "version": "",
+   "date": "2026-10-25T10:11:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "1392dfcb-3ec9-4e96-bb5a-1a44fde5e91a",
    "rating": 5,

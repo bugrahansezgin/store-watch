@@ -1,39 +1,5039 @@
 {
  "stats": {
-  "total": 688,
-  "avg": 2.8,
+  "total": 1188,
+  "avg": 2.2,
   "dist": {
-   "1": 321,
-   "2": 45,
-   "3": 32,
-   "4": 31,
-   "5": 259
+   "1": 762,
+   "2": 55,
+   "3": 39,
+   "4": 33,
+   "5": 299
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 500,
+   "avg": 1.38,
    "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
+    "1": 441,
+    "2": 10,
+    "3": 7,
+    "4": 2,
+    "5": 40
    }
   },
   "d30": {
-   "count": 688,
-   "avg": 2.8,
+   "count": 1188,
+   "avg": 2.2,
    "dist": {
-    "1": 321,
-    "2": 45,
-    "3": 32,
-    "4": 31,
-    "5": 259
+    "1": 762,
+    "2": 55,
+    "3": 39,
+    "4": 33,
+    "5": 299
    }
   },
-  "updatedAt": "2026-10-26T07:42:18+00:00"
+  "updatedAt": "2026-10-26T11:05:08+00:00"
  },
  "reviews": [
+  {
+   "id": "14707897088",
+   "rating": 2,
+   "title": "AI overrules user",
+   "body": "The fact that no one in the US can opt out of Meta AI scrapping their account is horrifying. My 7 years account down the drain",
+   "author": "Thefrappeer",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:52:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707896363",
+   "rating": 1,
+   "title": "Khó chịu",
+   "body": "Suốt ngày bị quét acc với bị vô hiệu hoá, khó chịu vãi chưởng",
+   "author": "tbm đph lừa đảo",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:52:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707893973",
+   "rating": 1,
+   "title": "STOP TRAINING AI WITH MY WORK",
+   "body": "Meta doesn’t care about individual privacy and will steal your data and IP.",
+   "author": "willi1270",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:51:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707891835",
+   "rating": 1,
+   "title": "Smh👿",
+   "body": "The Ads and AI are getting out of control!! 0/10 I miss the old days when it was just friends and family!",
+   "author": "Sad Millennial User",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:50:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707890620",
+   "rating": 1,
+   "title": "Parcial",
+   "body": "A Meta está sob suspeita de interferir nas eleições brasileiras. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio dos seus algoritmos. Exigimos transparência, imparcialidade e respeito à democracia brasileira.",
+   "author": "Belezas123",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:50:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707889113",
+   "rating": 1,
+   "title": "No way to opt out of AI training",
+   "body": "Forcing users to opt into AI training with no ability to opt out, not a good platform for creatives or humans in general! Their decision to include business accounts in forced AI training makes this app worthless",
+   "author": "Fruitbats",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:49:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707881404",
+   "rating": 1,
+   "title": "Suspended just now",
+   "body": "I have no idea why all my accounts get suspended but I am done I am not a robot nor did I do anything wrong I didn’t have any referrals or nothing I just got suspended. I’m not downloading this app again.",
+   "author": "Z Dudley",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:46:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707842604",
+   "rating": 1,
+   "title": "Elections",
+   "body": "Instagram manipulating the elections in Brazil.",
+   "author": "NTF43289",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:31:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707840933",
+   "rating": 1,
+   "title": "Interferência eleitoral.",
+   "body": "Instagram e seu algoritmos está interferindo na eleição presidencial no Brasil. E prejudicando a democracia.",
+   "author": "Brasília-88",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:31:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707820514",
+   "rating": 1,
+   "title": "Stop shoving AI down our throats",
+   "body": "Meta’s new policy that they have permission to train their AI on any images from professional accounts, with no way to opt out is ridiculous.  They continually push AI features that very few people want.   I am tired of so many Reels and less and less oversight on what sort of experience we get in our feeds.",
+   "author": "Great Lunch Conversation!",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:23:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707809437",
+   "rating": 1,
+   "title": "Interference",
+   "body": "Instagram is interfering in the elections in Brazil.",
+   "author": "FUzuck13",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:19:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707806183",
+   "rating": 5,
+   "title": "Halloween",
+   "body": "Great time on instagram",
+   "author": "11583 recology",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:17:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707800709",
+   "rating": 1,
+   "title": "meta is the worst",
+   "body": "insta is now the most stupid app ever, its a tiktok copy but with somehow more ai slop and stalking, full of racist bots. all thanks to facebook ceo, this app is trash and is proposing all business accounts get their work scrapped by ai. This is the biggest infringement on copyright that I’ve ever heard of. hope this app explodes and so does whatsapp and facebook. have tried deleting accounts and it just doesnt let me, sleezy af",
+   "author": "dthbkuf",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:15:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707787957",
+   "rating": 1,
+   "title": "AI and data scraping",
+   "body": "AI has ruined Instagram. I do not want AI scraping my data and stealing my art. I rely on Instagram for my business but hate how AI is being shoved down our throats.",
+   "author": "Nickkaia",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:11:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707779968",
+   "rating": 1,
+   "title": "Serious Concerns About Meta’s Role in Brazil’s Elections",
+   "body": "Instagram’s handling of political content surrounding Brazil’s elections raises serious concerns about transparency, content moderation, and the potential influence of Meta’s algorithms on democratic discourse.\n\nReports and allegations of inconsistent moderation, reduced visibility of political content, and selective enforcement deserve independent scrutiny and clear explanations from Meta.\n\nWhen a platform has the power to influence what millions of citizens see, accountability is not optional. Decisions affecting political expression should be transparent, consistent, and open to independent oversight.\n\nMeta’s lack of meaningful transparency undermines public confidence in both the platform and the integrity of online political discourse.\n\nBrazilian users deserve better than opaque algorithms and corporate statements that fail to address legitimate concerns.\n\nMeta must be held accountable for how its platforms handle election-related content. Public trust cannot exist without transparency.",
+   "author": "Hipsterdan",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:08:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707776994",
+   "rating": 1,
+   "title": "😡😡",
+   "body": "ESTÁN QUITANDO CUENTAS SIN MOTIVOS Y ENTONCES NO RESPONDEN CUÁNTO UNO MONDA EL MENSAJE PRIVADO ARREGLEN ESO DIOS MÍO!!",
+   "author": "Sumalditamadre39393",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:06:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707775460",
+   "rating": 1,
+   "title": "Stop interfering in your DEMOCRACY",
+   "body": "INSTAGRAM is interfering in the Brazilian electoral process and harming our democracy.\nIt’s clear as glass that META is manipulating the algorithm to make the far right post reach a larger number of users, you need to do a deep search to find presidential Lula account, but the other one it’s right there when you tap the first letter is his name, your behavior is disgusting. \nMETA: Stay out of our business.",
+   "author": "Camisllimas",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:06:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707766175",
+   "rating": 1,
+   "title": "let me opt out of ur ai training",
+   "body": "i dont want to feed the next gen of slop thx",
+   "author": "fork cereal",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:02:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707761829",
+   "rating": 1,
+   "title": "Zero star",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "FabianaGrady",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:01:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707761373",
+   "rating": 1,
+   "title": "Brazilian elections",
+   "body": "Interferiu no processo eleitoral",
+   "author": "Prissssssss",
+   "version": "452.0.0",
+   "date": "2026-10-24T19:01:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707750391",
+   "rating": 1,
+   "title": "I hate this app",
+   "body": "I use Instagram to support my small business but it’s ai policy is disgusting and has ruined the entire app meta is now planning to scrape business accounts for ai with no way for users to object might have to delete the app and my accounts but my business will take a hit from this.",
+   "author": "Nick.crow",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:56:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707738214",
+   "rating": 1,
+   "title": "Não confiável",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Olivia Ramos",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:52:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707738033",
+   "rating": 1,
+   "title": "Interferes in politics",
+   "body": "Is biased and infers in foreign politics. Not trustworthy.",
+   "author": "lola'smamma",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:52:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707713679",
+   "rating": 1,
+   "title": "FASCIST AMERICAN APP",
+   "body": "THE META COMPANY IS INTERFERING ON MY COUNTRY’S ELECTION AND FAVORING THE EXTREME RIGHT WING AND HATE GROUPS.",
+   "author": "Crissythea",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:43:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707706279",
+   "rating": 1,
+   "title": "Não controla fakenews",
+   "body": "Interferência nas Eleições Brasileiras, deveria controlar fakenews antes de autorizar uma publicação. Absurdo!",
+   "author": "DemocracyBR",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:40:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707703057",
+   "rating": 1,
+   "title": "Absurdo",
+   "body": "\"A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!\"",
+   "author": "Karlali",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:39:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707684316",
+   "rating": 1,
+   "title": "Manipulando eleição",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Sil1102rio",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:32:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707683186",
+   "rating": 1,
+   "title": "Unfair Content Moderation & Concerns About Political Bias",
+   "body": "The algorithm is controlled to favor whoever they want to win the election to benefit their company. I had a terrible experience when I was posting in support of a specific political party: they removed one of my posts, citing child nudity. There’s a lot of misinformation on the app, and its policies don’t seem to be effectively enforced to remove it or protect users. People are being divided by hate speech so they spend more time on the app.",
+   "author": "Mandzdias",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:31:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707679276",
+   "rating": 5,
+   "title": "Johnny brovo",
+   "body": "Goated",
+   "author": "DripTyrannosaurus rex",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:30:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707652330",
+   "rating": 1,
+   "title": "Meta is suspected of favoring Flávio Bolsonaro in the Brazilian election race.",
+   "body": "\"Meta is suspected of favoring Flávio Bolsonaro in the Brazilian election race. A foreign company cannot have the power to influence political rumors in Brazil through its algorithms. We demand transparency, impartiality, and respect for Brazilian democracy!\"",
+   "author": "Anne BCL",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:20:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707611720",
+   "rating": 1,
+   "title": "Interferência democrática no Brasil",
+   "body": "Perigoso para a democracia, agiu com interferência nas eleições democráticas do meu Pais!",
+   "author": "Pcccj",
+   "version": "452.0.0",
+   "date": "2026-10-24T18:05:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707557868",
+   "rating": 1,
+   "title": "Wrongfully suspended my account",
+   "body": "My account was permanently disabled, I tried to appeal but nothing came of it. Meta ai wrongfully suspended me when I’ve done nothing wrong.",
+   "author": "JoeMan4ver",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:44:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707552422",
+   "rating": 1,
+   "title": "No meta ai",
+   "body": "Stop.",
+   "author": "Bardenb",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:42:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707541752",
+   "rating": 1,
+   "title": "NO MORE AI",
+   "body": "i am so. so. so. tired of AI. please stop using it i beg you. the bubble will pop and you will lose so much money over this.",
+   "author": "yeety mc sceety",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:38:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707541506",
+   "rating": 1,
+   "title": "Elections Interference",
+   "body": "This app is interfering in the Brazilian elections and endangering our democracy.",
+   "author": "Braziliancomorgulho",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:38:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707511432",
+   "rating": 1,
+   "title": "a",
+   "body": "i keep getting suspended for no reason and some of the stuff i got suspended for i didnt even do it",
+   "author": "akndhdidhdhdd",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:27:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707510058",
+   "rating": 5,
+   "title": "Flint",
+   "body": "Safe Space ✅",
+   "author": "Luxo Flint",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:26:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707502790",
+   "rating": 1,
+   "title": "Political Interefernce",
+   "body": "App interferes in political process in Brazil, promoting fake news against one side and protecting the other in massive ways to obtain power against the people right to fair elections.",
+   "author": "Seu Pachequinho",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:23:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707501747",
+   "rating": 5,
+   "title": "Cool 😏",
+   "body": "Cool 😎",
+   "author": "DiamondBF",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:23:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707494355",
+   "rating": 1,
+   "title": "Backstabs artist",
+   "body": "As an artist, the use of ai on here and the meta relationship is disrespectful.",
+   "author": "nicky815",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:20:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707492295",
+   "rating": 1,
+   "title": "No AI🚫",
+   "body": "NO AI ❌",
+   "author": "Vivix Metti",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:19:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707482492",
+   "rating": 3,
+   "title": "Need a fix",
+   "body": "Super liking removes the story",
+   "author": "BenjaminHundred",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:16:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707443931",
+   "rating": 1,
+   "title": "Stop manipulating algorithms",
+   "body": "It’s interfering with my country democratic process.",
+   "author": "HeloKinder",
+   "version": "452.0.0",
+   "date": "2026-10-24T17:01:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707431313",
+   "rating": 1,
+   "title": "abysmal ai.",
+   "body": "options to opt out vanishing, increased scraping with 0 compensation or consent, worsened moderation due to AI filters",
+   "author": "leozzzzzzzzzzz",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:56:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707428198",
+   "rating": 1,
+   "title": "Bad decisions",
+   "body": "Meta is interfering with Brazilian democracy and causing serious harm to it.",
+   "author": "DaniloMattos",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:55:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707423769",
+   "rating": 1,
+   "title": "Interferência criminosa nas eleições",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "Eduardo81737",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:53:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707418408",
+   "rating": 1,
+   "title": "Cannot opt out of Ai trash",
+   "body": "New update allows Ai to scrape info images DMS photos everything to train its water guzzling Ai. This is horrible.",
+   "author": "LBtattoos",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:51:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707412205",
+   "rating": 1,
+   "title": "AI slop over human users",
+   "body": "Why is the AI Objection Form region-locked? Give U.S. users the right to opt out of AI training.",
+   "author": "codyvw",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:49:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707409195",
+   "rating": 5,
+   "title": "The best",
+   "body": "The best",
+   "author": "Aivana-Maya",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:47:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707409142",
+   "rating": 1,
+   "title": "Manipulating algorithm",
+   "body": "Instagram is not partial and influences algorithm.",
+   "author": "Juuuuliiiaaa",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:47:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707384383",
+   "rating": 1,
+   "title": "Nem 1 estrela merecia!",
+   "body": "Interferência no processo eleitoral do meu país e prejuízo à democracia.",
+   "author": "Luciana B Faria",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:38:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707365959",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na campanha eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos. Exigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "The only thing you really?",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:30:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707358006",
+   "rating": 5,
+   "title": "My favorite",
+   "body": "Alhamdulilah ❤️",
+   "author": "Mai taba",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:27:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707355475",
+   "rating": 1,
+   "title": "A Threat to Br",
+   "body": "It is interfering in my country’s electoral process and undermining its democracy",
+   "author": "VictoriaB13",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:26:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707353865",
+   "rating": 1,
+   "title": "Interferência nas eleições do Brasil",
+   "body": "Esse app está diretamente influenciando no processo eleitoral do Brasil, omitindo nosso conteúdo e prejudicando a democracia",
+   "author": "Jayne axelly",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:25:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707332334",
+   "rating": 1,
+   "title": "Interferência eleitoral",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Teté13",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:17:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707331342",
+   "rating": 1,
+   "title": "Election",
+   "body": "O aplicativo interfere a favor de suas preferências em momentos de eleição nos países",
+   "author": "douglas khurpia",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:16:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707330524",
+   "rating": 1,
+   "title": "Interferência eleições",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "ROG-04",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:16:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707319722",
+   "rating": 1,
+   "title": "Banned account",
+   "body": "Banned my account for something deplorable which i did not do. Absolutely disgusting to accuse me of something like that.",
+   "author": "Bruhavius",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:12:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707306243",
+   "rating": 1,
+   "title": "Meddling with elections",
+   "body": "Meta has been used to meddle with elections in various countries supporting the far right.  Its blocks people from following others, reduced visibility on posts and reels, deletes content.  zuck at his best trying to support the far right so he doesn’t have to pay taxes and abide by the laws.   Just shameful.",
+   "author": "GlobalistUser",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:06:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707305545",
+   "rating": 1,
+   "title": "Prejudicando as eleições",
+   "body": "Claramente sabotando o Lula com a Meta AI",
+   "author": "Showzentsbj",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:06:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707300358",
+   "rating": 1,
+   "title": "Can’t opt out of Gen AI",
+   "body": "Meta isn’t letting US creators like me opt out of their new policy for professional accounts (coming November 2026!) Their new update will allow everything I’ve posted: content, dm’s, and linked pages (like my portfolio) to train their generative ai model. This is unacceptable for a platform meant to showcase creativity and connection.",
+   "author": "covergirlbooks",
+   "version": "452.0.0",
+   "date": "2026-10-24T16:04:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707289169",
+   "rating": 1,
+   "title": "Useless and disruptive AI features ruin this app",
+   "body": "Absolutely awful generative AI features that NO ONE ASKED FOR & that are harmful to individuals & small businesses. Not worth using anymore. Time to find a new app unless Meta gets a grip & rolls back these terrible “features.”",
+   "author": "MissShellfishBeach",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:59:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707279881",
+   "rating": 1,
+   "title": "AI policy",
+   "body": "Intrusive AI policy with Meta",
+   "author": "De.Win.",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:56:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707278589",
+   "rating": 1,
+   "title": "Interferiu nas eleições para presidente do Brasil",
+   "body": "A meta favoreceu o candidato da Direita na disseminação de Fake News e limitou/impediu os posts da Esquerda, interferindo diretamente no processo eleitoral e na democracia do meu país.",
+   "author": "Medicina 2022",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:55:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707257467",
+   "rating": 1,
+   "title": "IG",
+   "body": "Instagram comete muchos errores con AI NO PUEDO RECUPERAR MI CUENTA  ME RESTRINGUIERON DE ALGO QUE NO HIZE Y INTENTO QUE ME AYUDEN PERO NO RECIBO RESPUESTAS",
+   "author": "Lorolx",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:47:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707249583",
+   "rating": 1,
+   "title": "Blatant Manipulation of elections in favor of far right",
+   "body": "Meta has demonstrated a blatant manipulation of the algorithm in favor of the far right. Completely shutting down posts from the left and favoriting and spreading wide post from far right figures, even when they are false or mes leading. In addition, they allow scamming pages to remain active and shut down pages dedicated to warning about the scamming pages.",
+   "author": "Unfriendly app",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:43:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707243880",
+   "rating": 1,
+   "title": "no opt out for upcoming ai features",
+   "body": "do better.",
+   "author": "no ai opt out",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:41:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707242584",
+   "rating": 1,
+   "title": "Interferência nas eleições brasileiras",
+   "body": "O Instagram está interferindo na democracia e nas eleições do Brasil.",
+   "author": "Bruce7i",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:41:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707239840",
+   "rating": 5,
+   "title": "Beli",
+   "body": "Ta",
+   "author": "shotgun tyme",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:40:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707222731",
+   "rating": 1,
+   "title": "Meta is using Ai to steal from artists!",
+   "body": "^ so many artists rely on Facebook and Instagram to promote their work. Now their original artwork will be scoured and scalped by gen ai. This is theft!",
+   "author": "Bee Es",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:33:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707207491",
+   "rating": 1,
+   "title": "META AI IS STEALING CONTENT",
+   "body": "Starting soon, Meta will be updating their policy to allow their AI to scrape all business accounts, including images, captions, private DMs, and linked accounts in order to train their AI. There is NO option to opt out. There is no consent. This is a huge privacy violation and must be stopped.",
+   "author": "snailz900",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:27:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707202754",
+   "rating": 1,
+   "title": "Not good",
+   "body": "App interfering in country elections.",
+   "author": "Marinalabes",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:25:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707186519",
+   "rating": 1,
+   "title": "Hey Meta, Stop Stealing Art!",
+   "body": "Instagram used to be a great place for creatives, but Meta seems intent on making it continually worse by limiting our ability to reach our followers without jumping through a bunch of hoops and chasing the latest trend/algorithm trick. And now they’re stealing our work, our intellectual property, our personal images, to feed their ai. Actively seeking alternative platforms.",
+   "author": "JustAnotherAngryArtist",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:18:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707159896",
+   "rating": 1,
+   "title": "Disappointing",
+   "body": "This social media platform is interfering in my country’s electoral process and harming our democracy!",
+   "author": "Marcus Lucon",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:08:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707142384",
+   "rating": 1,
+   "title": "Instagram’s AI use",
+   "body": "Instagram was honestly such a fun app where creativity was meant to be cultivated, but honestly recently all it has done is pushed AI slop down people’s throats. I get that the algorithm is doing this as it gets the most views, but most people honestly don’t want this.\n\nMy biggest issue isn’t the AI videos anymore though, it’s the new AI policies that Instagram is pushing on us.\n\nInstagram will (starting Nov. 30th) begin to use ALL art posted on business profiles to train their AI, with no way for the artists to opt out of this. \n\nOn December 16th, Instagram will be reading ALL of your private DM’s, every conversation, every photo, every voice message, and feeding it into their AI for their own profit, COMPLETELY stealing all this “private” information from you.\n\nTHEY DON’T CARE ABOUT YOUR PRIVACY!!!",
+   "author": "Jacob Poling",
+   "version": "452.0.0",
+   "date": "2026-10-24T15:01:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707137598",
+   "rating": 3,
+   "title": "Malas funciones",
+   "body": "Es una buena aplicación pero lo malo es que última mente están fallando las nuevas actualizaciones.",
+   "author": "Francisc001",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:59:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707129854",
+   "rating": 1,
+   "title": "Não se meta",
+   "body": "Há indícios fortes de interferência da meta nas eleições brasileiras em favor de um candidato de extrema direita. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira.",
+   "author": "Marimarimaricota",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:56:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707128118",
+   "rating": 1,
+   "title": "Stop trying to expand Meta AI.",
+   "body": "Meta's insistence on exploiting the work and data of its public creators, the backbone of the entire platform, is not only an egregious overstep of intellectual property but an incredibly malicious practice that impacts the privacy and data of all end users regardless of their presence on Meta platforms.\n\nEven overlooking the blatant disregard towards its end users, the fact that Meta is going to such lengths to try and expand the assets it is allowed to scrape by masquerading blanket \"consent\" to pull from content that is not posted to its platforms only signifies that the venture into AI infrastructure has been largely unsuccessful. The only conceivable reason a company would need to pull from outside resources is because of a failure to produce results with what has already been harvested, so this decisions reflects extremely poorly on Meta's success as a business. Additionally, seeing as there are no safeguards for content that gets shared or reposted (and ultimately fed into Meta's AI without the creator's consent), Meta is largely leaving itself open to a myriad of lawsuits for the unlawful distribution, invasion, and usage of work created by users not on their platforms. Given that many large corporations and their employees also utilize Meta platforms, it would be unsurprising if additional issues arose over the scraping of their data and content without explicit knowledge or permission. Furthermore, allowing Meta AI to access chats from business accounts not only breaches privacy but will ultimately deter users from utilizing these features all together.\n\nMeta's decision to pursue these avenues reflects very poorly on the corporation as a whole, but also on the integrity and security of your products. Continuing to pursue these decisions will only continue to alienate large portions of your end users, which will ultimately lead to a decrease in usage of Meta products all together. Reconsider.",
+   "author": "Charlie Ann boon",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:55:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707121694",
+   "rating": 1,
+   "title": "AI SLOP POLICY",
+   "body": "WARNING this app WILL scrape your data and bottle feed it to its sweaty fat gen ai baby’s WITH NO WAY TO OPT OUT",
+   "author": "Dreww111",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:53:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707109361",
+   "rating": 1,
+   "title": "Interfering in elections",
+   "body": "It’s interfering in the electoral process in my country and threatening democracy.",
+   "author": "STOPMEDDLING",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:48:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707096613",
+   "rating": 1,
+   "title": "New AI Implementation",
+   "body": "I am absolutely disgusted that Meta is doing this. No way to opt out for americans. If i could give less than 1 star i would.",
+   "author": "AmGaRaRaRa",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:43:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707093260",
+   "rating": 5,
+   "title": "Hello🙋‍♂️Instagram code writers",
+   "body": "instagrams platform isn't written well enough to allow me to recover my original \"truckertwotimes\" account.",
+   "author": "iamtruckertwotimes",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:42:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707083206",
+   "rating": 1,
+   "title": "Interfering in the Brazilian elections",
+   "body": "“está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger forçosamente alguém que não irá regulamentar o Instagram no meu país”",
+   "author": "AC2026-10",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:38:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707063009",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Cool",
+   "author": "Casingplata",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:30:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707060624",
+   "rating": 1,
+   "title": "Meta não se meta",
+   "body": "Keep your hands off Brasil elections",
+   "author": "Dancing_starbucks_01",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:30:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707059541",
+   "rating": 1,
+   "title": "Election interference!",
+   "body": "Instagram/Meta is interfering with Brazil elections and threatening the DEMOCRACY",
+   "author": "@marivonraven",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:29:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707058891",
+   "rating": 1,
+   "title": "Data manipulation",
+   "body": "Algorithm is being used with political bias",
+   "author": "Real_Arcturus",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:29:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707056697",
+   "rating": 1,
+   "title": "meta nao se meta",
+   "body": "instagram is interfering on brazil elections take your hands off.",
+   "author": "DanielLuiT",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:28:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707051553",
+   "rating": 1,
+   "title": "Meta não se meta",
+   "body": "Instagram is interfering on Brazil elections- takes your hands off our elections",
+   "author": "Thamaraguimi",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:26:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707043283",
+   "rating": 1,
+   "title": "Regulate Use of AI",
+   "body": "Strongly opposed to Meta’s plan to allow AI to scrape data from creator accounts and its failure to regulate the use of AI to steal intellectual property from artists, and even to block the choice to restrict this for US-based accounts. You can do better than this, Meta!",
+   "author": "Regulate AI",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:23:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14707031974",
+   "rating": 1,
+   "title": "Problema nos stores",
+   "body": "O Instagram tá impedindo que a democracia seja feita !Eu não consigo postar meu stores!",
+   "author": "Leilinha um amor",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:19:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706992887",
+   "rating": 3,
+   "title": "AI shoved down your throat like every other platform",
+   "body": "Starting soon they plan to be scraping all the images you post even in your DM’s to feed their AI and there’s no way to opt out of it unless you’re in the EU. The AI features they already have are just really useless.\n\nAlso, I think the platform prioritize the post you share with people rather than the post you actually like.",
+   "author": "gfgghhi",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:05:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706991499",
+   "rating": 5,
+   "title": "Good",
+   "body": "I love the features like editing stuff really easy",
+   "author": "Baron cool a lot",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:04:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706983051",
+   "rating": 1,
+   "title": "Brazilian Elections",
+   "body": "Biased",
+   "author": "ineverleaveOB",
+   "version": "452.0.0",
+   "date": "2026-10-24T14:01:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706961598",
+   "rating": 1,
+   "title": "Horrível!",
+   "body": "Está interferindo nas eleições do meu país",
+   "author": "Aluvilaca",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:53:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706959984",
+   "rating": 1,
+   "title": "Prejudica eleições",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Danandndjj",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:53:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706957107",
+   "rating": 1,
+   "title": "Imparcialidade!",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "SnapOut_Matt",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:52:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706954317",
+   "rating": 5,
+   "title": "Appreciate",
+   "body": "This app is one of the perfect and usefully I ever used ❤️",
+   "author": "Ahmadi khana",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:50:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706948107",
+   "rating": 1,
+   "title": "Upcoming Meta AI Policy change has no way to opt-out and will steal information from small business.",
+   "body": "Upcoming Meta AI Policy change has no way to opt-out and will steal information from small business.",
+   "author": "allswift",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:48:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706938897",
+   "rating": 1,
+   "title": "following and followers",
+   "body": "whatever update they did is really messing up everything. especially since i have littles that are allowed to have instagram but now i can not keep track of who’s following and followers in chronological order.",
+   "author": "allyyx",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:45:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706937368",
+   "rating": 1,
+   "title": "STOP AI USE AND TRAINING",
+   "body": "Ironic how in the country of freedom, America, we get no say in how our posts are used. Stop using hard working artists to train your dumb AI. Use your brains for God’s sake.",
+   "author": "kiko_yuki",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:44:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706936668",
+   "rating": 1,
+   "title": "Censuring Brazilian election.",
+   "body": "This app is owned by Meta, and was proofed to gaining money from the righwing in Brazil to censure posts from the leftwing and it has to stop!! Entenda que não é teu lugar!!! Meta não se meta!!!",
+   "author": "Nini_Bang",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:44:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706935655",
+   "rating": 1,
+   "title": "my account is hacked",
+   "body": "Not getting help and my identity has been stolen",
+   "author": "Deb Hovagimian",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:44:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706918447",
+   "rating": 1,
+   "title": "AI Policy Changes",
+   "body": "Human creation is at risk due to a recent policy decision allowing its artificial intelligence to scrape any images posted or links connecting to any persons images from websites. I implore anyone to show disdain of this practice as  it is a policy that affects all creators/influencers involved with no decision to opt out. It is nothing but greed that these tech giants can’t satiate more than to exploit us further for financial gain.",
+   "author": "Gothictorchbearerii",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:38:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706915411",
+   "rating": 1,
+   "title": "Dont Bother",
+   "body": "META continues to disappoint with their violation of basic privacy, and stealing content from small businesses and users to train ai. If youre looking for a good platform to share and find art or connect with others, youre better off looking elsewhere.",
+   "author": "AverageUser1956",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:37:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706913977",
+   "rating": 1,
+   "title": "No Option to Opt Out of AI in US",
+   "body": "If you’re a business account or just a public account, know that your photos, captions, tags, etc will all be scraped for data to train their generative ai program whether or not you would approve.",
+   "author": "I HATE U BOOOOOO",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:36:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706907133",
+   "rating": 1,
+   "title": "Sucks",
+   "body": "Sucks",
+   "author": "SAM--------------",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:34:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706898855",
+   "rating": 1,
+   "title": "Interferência no Processo eleitoral do Brasil",
+   "body": "Claramente a Meta, Instagram e Facebook estão interferindo no Processo eleitoral do Brasil! Vão tomar no olho do cu!",
+   "author": "Diovan Cezar Maboni",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:31:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706887944",
+   "rating": 1,
+   "title": "Está interferindo no meu país",
+   "body": "This application is interfering in Brazil's electoral process. And harming democracy.",
+   "author": "Anna Sventnickas",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:27:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706881139",
+   "rating": 1,
+   "title": "Disappointed",
+   "body": "I have used instagram for a long time and as the years have gone on I made the difficult decision to delete my art account. Now meta is planning on making all business accounts subject to scraping for the use of generative AI with no ability to opt out. I am considering leaving every social platform they make if this goes through as it is a horrifying way to treat creatives who already are struggling.",
+   "author": "elliotthazeleigh",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:24:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706876544",
+   "rating": 5,
+   "title": "Mi plataforma favorita",
+   "body": "La mejor de todas las plataformas",
+   "author": "El_titi_96",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:23:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706849370",
+   "rating": 1,
+   "title": "Controlling elections",
+   "body": "Meta is using this app and other to interfere in Brazil’s election. Such a shame!",
+   "author": "Lis🇧🇷",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:13:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706848644",
+   "rating": 1,
+   "title": "INTERFERÊNCIA NAS ELEIÇÕES PRESIDENCIAIS DO BRASIL",
+   "body": "INTERFERÊNCIA NAS ELEIÇÕES PRESIDENCIAIS DO BRASIL",
+   "author": "Jc17091995",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:13:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706844524",
+   "rating": 1,
+   "title": "Interference in the Brazilian election 2026",
+   "body": "Instagram is actively Interfering in the Brazilian presidential election in 2026!",
+   "author": "PSW1976",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:12:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706814606",
+   "rating": 1,
+   "title": "Urgent",
+   "body": "Meta is interfering in the Brazilian election right now.",
+   "author": "Juju Moreira",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:01:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706813598",
+   "rating": 1,
+   "title": "Corrupted by money",
+   "body": "Can’t believe they’re letting AI take over their platform like this.. I’m really disappointed",
+   "author": "EnbyBiology",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:01:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706812240",
+   "rating": 1,
+   "title": "I got banned for no reason",
+   "body": "They won’t tell me why I got banned",
+   "author": ";&:8:7;6;)2$;%}£¥~%|>%+~*>~%~#",
+   "version": "452.0.0",
+   "date": "2026-10-24T13:01:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706797786",
+   "rating": 1,
+   "title": "AI Opt Out",
+   "body": "So sick of Meta changing their policies to make us feed their AI.",
+   "author": "GV117",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:56:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706784639",
+   "rating": 1,
+   "title": "Interference in my country’s elections",
+   "body": "O app parece que está violando a liberdade de expressão e manipulando o algoritmo para beneficiar um partido político.",
+   "author": "Rosana Andreasen",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:51:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706779836",
+   "rating": 1,
+   "title": "Exploitative",
+   "body": "Meta is exploiting artists left and right. boycott all of their pos apps",
+   "author": "EricsOGappleID",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:50:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706774261",
+   "rating": 1,
+   "title": "o Instagram está interferindo nas eleições e na democracia do Brasil. Perseguindo milhares de perfis",
+   "body": "A plataforma Instagram está censurando perfis de esquerda",
+   "author": "Davizs/-",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:48:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706773523",
+   "rating": 1,
+   "title": "Está intervindo no processo eleitoral do meu país e prejudicando a democracia!",
+   "body": "Está intervindo no processo eleitoral do meu país e prejudicando a democracia!",
+   "author": "NMP1333",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:47:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706759719",
+   "rating": 1,
+   "title": "Stop Meta",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia! Stop Meta! Its is interfering in the electoral process of the most country harming democracy!",
+   "author": "Gomesa28",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:43:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706756468",
+   "rating": 1,
+   "title": "STOP MANIPULATING BRAZILS ELECTION!!!",
+   "body": "Meta and Instagram need to be held accountable for their algorithms, political content distribution, and lack of transparency!\n\nWhy are certain political voices amplified while others struggle to reach their audiences?\n\nBrazilian democracy deserves transparency, fairness, and freedom from algorithmic manipulation.\n\nWe demand answers, independent audits, and accountability. Our democracy is NOT for sale!",
+   "author": "arianecastro",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:42:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706743510",
+   "rating": 1,
+   "title": "Newest Business Account Policy",
+   "body": "The newest policy for Fall 2026 is disappointing and heartbreaking for creatives who rely on this platform to be seen and to grow their online presence. To be told that we can't do anything but sit back while Meta scrapes our accounts, messages, and links? And if we don't want that to happen that we need to delete EVERYTHING off of our accounts/the account itself and use different platforms? That's unbelievable. If this doesn't change, I won't stick around.",
+   "author": "Rosephonite",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:38:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706739382",
+   "rating": 1,
+   "title": "AI going too far",
+   "body": "All other problems aside, Meta keeps pushing more and more ai features with less options to opt out. AI-generated content is disturbingly abundant. It's getting to the point where sifting through the slop is barely worth it to find actually good, human-made content.",
+   "author": "Miss SnapDragon",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:36:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706735599",
+   "rating": 1,
+   "title": "Está interferindo no processo eleitoral do brasil",
+   "body": "Prejudicando a democracia, e dando desculpas sendo que claramente não é um bug, politicos de um lado específico recebendo mais vizualizações que famosos mundiais com muitos milhoes de seguidores.",
+   "author": "Nathalie Ferreira",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:35:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706720445",
+   "rating": 1,
+   "title": "Interferindo no processo eleitoral",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "Gabigianni",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:30:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706719466",
+   "rating": 5,
+   "title": "Love instagram",
+   "body": "Instagram is more than just a social media platform to me.\n\nIt is a limitless showcase for art, history, authenticity, and timeless beauty.\n\nFor a business like Antiquebaz, Instagram creates a direct connection with people who truly appreciate unique pieces. It allows us to present each antique, tell its story, build trust, and turn interest into real connections and sales.\n\nToday, you don’t always need to walk into a gallery to discover something extraordinary.\n\nSometimes, all it takes is opening a page—and letting a remarkable piece speak for itself.\n\nThat is the power of Instagram for business.",
+   "author": "Antiquebaz",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:30:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706712900",
+   "rating": 1,
+   "title": "Manipulate elections",
+   "body": "Uses algorithms to manipulate elections in third world countries and USA",
+   "author": "joanaborges",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:28:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706706939",
+   "rating": 1,
+   "title": "Links sent are Broken",
+   "body": "Meta fix the app.  When you send a link to someone through iMessages or regular RCS it doesn’t open to the link. It just opens to your feed to random things. That’s unacceptable and has been broken for a while now.",
+   "author": "Semp1",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:26:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706695212",
+   "rating": 1,
+   "title": "Interferência nas Eleições do Brasil",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no Brasil",
+   "author": "Faxina podcast",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:22:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706668710",
+   "rating": 1,
+   "title": "Interferência nas Eleições do Brasil.",
+   "body": "A Meta está interferindo no processo eleitoral do meu país Brasil e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país.",
+   "author": "pamelapmc",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:13:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706663960",
+   "rating": 1,
+   "title": "They keep pushing ai features",
+   "body": "Im so disappointed to see meta pushing ai on the instagram users. They’re implementing a new feature in November 2026 where ai can scrape the business accounts with no way to opt out. Thats buns. Do better meta.",
+   "author": "Olive6608",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:12:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706652110",
+   "rating": 2,
+   "title": "Meta",
+   "body": "Está interferindo no processo eleitoral do meu país e ameaçando a democracia ao tentar impor, à força, a eleição de alguém que não pretende regulamentar o Instagram no meu país.",
+   "author": "Boicote nas eleições do Brasil",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:08:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706642917",
+   "rating": 1,
+   "title": "the worst",
+   "body": "horrible practices, taking advantage of artists and creators, shoving ai down your throat",
+   "author": "rampjam",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:05:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706626094",
+   "rating": 1,
+   "title": "Political Interference",
+   "body": "It’s interfering in my country’s elections",
+   "author": "Nathalia K.",
+   "version": "452.0.0",
+   "date": "2026-10-24T12:00:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706621044",
+   "rating": 5,
+   "title": "Divertido",
+   "body": "Fabuloso",
+   "author": "Mayra coronado",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:58:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706604822",
+   "rating": 1,
+   "title": "Trash app",
+   "body": "This app disabled my account for no reasons and it won’t let me make a new one I’ve lost all my memories and photos with my friends don’t download this app cause they’ll take away ur account for no apearant reason",
+   "author": "haileemae67",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:53:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706602074",
+   "rating": 1,
+   "title": "Meta’s commitment to AI is disgusting",
+   "body": "Instagram’s parent company Meta is a disgusting exploitation machine that is gorging itself on users’ internet-wide information to satisfy the unending gluttony of AI.",
+   "author": "ptwolfe",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:52:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706595910",
+   "rating": 1,
+   "title": "Meta AI Scapping with no opt-out policy",
+   "body": "I have spent literal year on Instagram finding small business and artists that are unique and authentic. Meta focusing these accounts (and by the looks of it all accounts) to accept their hard work being stolen from to train AI is a spit in the face to every user. The communities I love are going to break down and if that happens I am leaving everything associated with meta. I will be petty and bitter. I don’t want the to happen but I am sick and tired of feeling like very company/app is eventually gonna screw us over. What is the point of building a community/following/whatever else if it constantly feels under treat. This policy is taking away the autonomy and trust of its users. SHAME ON META!!!!",
+   "author": "R_J_Sca.25_",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:50:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706592542",
+   "rating": 5,
+   "title": "Good option",
+   "body": "Miami girl on weekend",
+   "author": "russian Tommy",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:49:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706576479",
+   "rating": 1,
+   "title": "No good",
+   "body": "Instagram esta interferindo no processo eleitoral Brasileiro",
+   "author": "Agora1313",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:44:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706572152",
+   "rating": 1,
+   "title": "AI",
+   "body": "Don’t scrape from business accounts to train your ai…",
+   "author": "AJ apple guy",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:43:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706568330",
+   "rating": 1,
+   "title": "Intervening in elections.",
+   "body": "Instagram should stop intervening in elections!!!!",
+   "author": "Roger Veep",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:42:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706564354",
+   "rating": 1,
+   "title": "Sai do Brasil",
+   "body": "Este aplicativo está interferindo nas eleições do meu país de maneira criminosa e anti democrática. O Brasil não é quintal de ninguém!",
+   "author": "Jj 13.",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:41:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706560301",
+   "rating": 1,
+   "title": "Need to be able to opt out of AI scraping",
+   "body": "Meta is so wrong for trying to launch an update that allows their AI to scrape posted content for their own benefit with NO WAY TO OPT OUT! At least let people opt out FFS.",
+   "author": "AIcanflockoff",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:39:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706552527",
+   "rating": 1,
+   "title": "Interfering in Brazilian elections",
+   "body": "Instagram is interfering in Brazilian elections",
+   "author": "wearethe99percent",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:37:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706550410",
+   "rating": 1,
+   "title": "Interferindo nas Eleições",
+   "body": "Gostava até interferir descaradamente nas eleições no Brasil.",
+   "author": "Copacetic Listener",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:36:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706548517",
+   "rating": 1,
+   "title": "No current way to opt out of AI scraping",
+   "body": "Stop forcing us into the machine",
+   "author": "mrbloxxypants",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:36:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706542677",
+   "rating": 1,
+   "title": "Wrongful banning",
+   "body": "They used to have human employees to make sure if you were doing allowed you weren’t wrongfully banned but they fired all of them and replaced them with a faulty ai that has banned a ton of innocent users for accusations I can’t even say on here. DO BETTER",
+   "author": "NewJeansNeverDies227",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:34:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706539692",
+   "rating": 1,
+   "title": "Não se meta na nossa eleição",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na campanha eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos. Exigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "TiagoSCoelho",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:33:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706533475",
+   "rating": 1,
+   "title": "Ai",
+   "body": "Get rid of the new meta Ai update, nobody wants Ai to forcefully steal their content without an option to opt out! Nasty",
+   "author": "Rat12568",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:31:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706528033",
+   "rating": 1,
+   "title": "Not able to make a account",
+   "body": "It’s not letting me make a account and it deleted both of my old accounts",
+   "author": "Jaylidee",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:29:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706522977",
+   "rating": 1,
+   "title": "Disappointed with AI policies",
+   "body": "I used to like this app and and have been using it since the early 2010s, but using our pages to train AI and having the company be so insidious is pushing me to delete everything completely",
+   "author": "Sunnybutsour",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:28:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706519727",
+   "rating": 1,
+   "title": "Interfering in elections",
+   "body": "Meta is interfering in the Brazilian elections in favor of a criminal",
+   "author": "Democracy in dangerous",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:27:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706518979",
+   "rating": 1,
+   "title": "Meta ruined Instagram",
+   "body": "This app used to be a fun way to connect with friends and family. It is now one big marketing scheme, purposely addictive with more & more methods implemented to collect our data every day. The new plan to update the policy on AI making it so that we cannot opt out of Meta using AI to scrape everything on our accounts is invasive and disgusting. I do plan to do everything in my power to stop that from happening including deleting all of my accounts.",
+   "author": "Rug.i",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:27:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706510613",
+   "rating": 1,
+   "title": "Stop AI Scraping",
+   "body": "Stop scraping accounts for AI",
+   "author": "Emipaige",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:24:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706504553",
+   "rating": 1,
+   "title": "Interferência eleitoral",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Nanda.Rizzo",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:22:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706501622",
+   "rating": 1,
+   "title": "Interferindo nas eleições brasileiras",
+   "body": "O app constantemente interfere nas entregas de post político, inaceitável",
+   "author": "fernanda t d",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:21:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706489787",
+   "rating": 1,
+   "title": "Interferes with the election process in my country",
+   "body": "This app is clearly interfering in the election process in my country. Do not start on it, minimize your activity on it if possible.",
+   "author": "Neto Rodrigues",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:18:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706473204",
+   "rating": 1,
+   "title": "Trying to Rig Brazilian Elections",
+   "body": "Vast documented evidence that instagram is rigging the election for the extreme right and the Bolsonaro family to take control of the country. Instagram should forbidden in Brazil as in every other  sovereign country.",
+   "author": "Fernando1983a",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:13:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706471754",
+   "rating": 1,
+   "title": "Bad app",
+   "body": "I get no notifications from Insta even though it’s all turned on and says allow notifications. Half the time I don’t see messages that people send me until days later, my followers dont see my posts and the constant updates for more ai scrapping  just sucks",
+   "author": "Grugugh",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:12:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706469490",
+   "rating": 5,
+   "title": "Cool App",
+   "body": "Love it",
+   "author": "Oliver Tano",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:12:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706460053",
+   "rating": 3,
+   "title": "Annoying",
+   "body": "Bro this is making me so mad im over the age limit and it keeps restricting my accounts🤬🤬🤬",
+   "author": "Maddy_17388",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:09:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706452913",
+   "rating": 1,
+   "title": "DISGUSTING 😡",
+   "body": "Meta is trying to exploit brazilian elections by tuning the algorithm to boost far-right wing posts and diminish the candidate Lula! it is DISGUSTING! DISGUSTING!",
+   "author": "wagner.patriota",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:06:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706437344",
+   "rating": 1,
+   "title": "Eleição",
+   "body": "O Instagram está interferindo nas eleições e na democracia do Brasil",
+   "author": "Faz o Eli kk",
+   "version": "452.0.0",
+   "date": "2026-10-24T11:02:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706410800",
+   "rating": 1,
+   "title": "Awful ban policy.",
+   "body": "You can get banned if you are mass reported by a user, or if you reply something that can be misinterpreted. There is high risk of losing your account, and there’s definitely too much AI in motion. Instagram, please fix this or shut yourself down",
+   "author": "tortise lover",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:54:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706407292",
+   "rating": 5,
+   "title": "Please Make This UPDATE",
+   "body": "I LOVE this app. I remember writing a review asking if you guys would make an update to where you can add/change the music to a post that’s already posted, and you guys did exactly that. There were probably tons of other reviews writing about the same request but either way thank you IG for that. \n\nI had another request that would make me and I think MILLIONS of other people love the app even more… and that would simply be if you guys were able to make the update to the app so that we would be able to also add other photos/videos to existing posts please.",
+   "author": "avery.cromm",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:53:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706401230",
+   "rating": 1,
+   "title": "Stop Putting AI Over People",
+   "body": "It’s very disheartening that Meta continues to put profit over people. Stop backing AI and forcing it on your users!!",
+   "author": "Kaet6000",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:51:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706399069",
+   "rating": 1,
+   "title": "Algorithmic abuse",
+   "body": "In my city algorithmic abuse is illegal, not that methods exempt from this but somehow they figure out how to target people with disabilities and get away with it.\n\nApp is still engaging in more subtle antagonistic behaviors now, instead is being pre set to load images and behaviors the app doesn’t traditionally load. I would appreciate it if meta would stop these behaviors which are contributing negatively to my experience using the app.",
+   "author": "👽🛸👾👽",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:50:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706387537",
+   "rating": 1,
+   "title": "IG Undermines Democracy",
+   "body": "Instagram has interfered and continues to interfere in my country’s electoral process, deliberately UNDERMINING DEMOCRACY. This is unacceptable.",
+   "author": "Guiga01",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:47:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706386516",
+   "rating": 2,
+   "title": "Optimization",
+   "body": "Need to optimize to Apple duo",
+   "author": "iam _jeshin",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:46:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706386313",
+   "rating": 2,
+   "title": "Horrible Experience",
+   "body": "It’s like they intentionally limit reach on every post because they want you to pay. They literally took the fun out of social media. There’s no point of posting any more…none of my friends post anymore. All I see is ads or things from accounts. I don’t follow or things from months ago.",
+   "author": "MikeBolden9",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:46:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706375270",
+   "rating": 1,
+   "title": "I wish i could give 0 stars",
+   "body": "I’ve been using instagram for years now and they banned my account ive had for years then mistakenly banned my new account after that and keep mass banning my new accounts for “not following community guidelines” submitting an appeal is useless and the meta AI help bot isn’t any better and you cant even talk to a representative this needs to be fixed by meta i know im not the only one with this problem",
+   "author": "alwaysf4ith",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:43:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706366400",
+   "rating": 1,
+   "title": "IG Undermines DEMOCRACY",
+   "body": "Instagram has interfered—and continues to interfere—in my country’s electoral process, deliberately UNDERMINING DEMOCRACY.",
+   "author": "Monteira",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:41:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706359285",
+   "rating": 1,
+   "title": "New policies are insidious",
+   "body": "Starting soon Meta will scrape all business accounts AND websites linked to them to train their AI. I use instagram for art and art inspiration and this will be so destructive to the community, as AI art account copies already run amuck and confuse people with what crafts/techniques are actually possible and what’s generated, not to mention the accounts that have their videos wholesale copied by AI only replacing the creator with someone another race/gender. \n\nIt’s turning into a rant because I’m so disappointed with the way Meta is handling AI integration, I’m already trying some of new similar apps coming out for something to replace it.",
+   "author": "Astrolectric",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:38:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706355869",
+   "rating": 5,
+   "title": "Da goat",
+   "body": "Freakin gnarly (gnarly)",
+   "author": "tmriwllnotfal",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:37:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706350045",
+   "rating": 1,
+   "title": "NO AI PLEASE",
+   "body": "please stop forcing us into corners, we don’t want more ai. let us either opt out entirely or stop the update of everyone’s content and dms being scrubbed to train your AI",
+   "author": "ooey.gooey",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:36:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706343173",
+   "rating": 1,
+   "title": "AI POLICY IS TERRIBLE",
+   "body": "scraping posts, dms, stories, EVERYTHING to feed into some dumb ai??? NO THANK YOU! do you KNOW how many talented hardworking ARTISTS are on this app who are about to have their work unwillingly fed into their biggest enemy, a water wasting bot?? EW!!",
+   "author": "Artist___.!",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:34:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706336463",
+   "rating": 1,
+   "title": "Eleições no Brasil",
+   "body": "MISSÃO DE HOJE (TROCO PRA META)\n\n“Está interferindo no processo eleitoral do meu país e prejudicando a democracia, tentando eleger à força alguém que não irá regulamentar o Instagram no Brasil.”Absurdo!!!\nManipulação",
+   "author": "Nao a manipulação",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:32:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706329341",
+   "rating": 1,
+   "title": "NO AI!",
+   "body": "Quit scraping our pages! Literally NO ONE wants this! On October 30, 2026, Meta is going to start scraping your private message, voice clips, and, of course, your images, to train its AI. WE DO NOT WANT THIS. Business accounts, which were once safe from that nonsense, are now being specifically targeted, according to their new TOS. And, unlike the UK and Europe, Americans can’t even opt out of it!",
+   "author": "AuronFlare",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:30:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706310083",
+   "rating": 1,
+   "title": "Atrapalhando democracia",
+   "body": "App está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Fidelis066",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:24:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706308187",
+   "rating": 1,
+   "title": "Meta Allowing GEN AI to scrape our Data",
+   "body": "I’ve been a long time user. The app runs well enough. But the recent change to allow Metas Gen AI to comb through my pictures and data in order to train their model is something I’d prefer to opt out of. \nMeta, PLEASE let people and artists opt out. Thank you.",
+   "author": "ositoocutiee",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:24:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706304305",
+   "rating": 1,
+   "title": "Awful AI Policy",
+   "body": "Dear stakeholders, the new AI policy is a mistake.\n\nAs an artist who uses Instagram for my business, I can’t stress enough how negative Meta’s AI policy is. I already hate using Instagram because of the algorithm and how unfriendly the app is unless you’re an influencer. Apparently there isn’t a way for us in the states to opt out, so here I am, leaving a negative review.",
+   "author": "i hat3 it h3re",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:23:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706295873",
+   "rating": 1,
+   "title": "#MetaForaDaNossaEleição",
+   "body": "Meta interfere nas eleições, faz censura e favorece miliciano bandido",
+   "author": "Elisa Larkin",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:20:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706293104",
+   "rating": 1,
+   "title": "Está se metendo onde não deve",
+   "body": "Está interferindo nas eleições de um país prejudicando a democracia para ganhos próprios",
+   "author": "Hellensn",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:19:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706273378",
+   "rating": 1,
+   "title": "Why are we forced to train AI?",
+   "body": "I enjoyed the app until I was forced to train AI. It should be our right to opt out and not forced into something we don’t want to do. It’s against our amendment rights and we should have the option to say no. I understand wanting to train them but let people choose to do that if they want. It’s unethical that we don’t have a choice right now.",
+   "author": "Maddie108900",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:14:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706262772",
+   "rating": 1,
+   "title": "STOP FORCING US TO GIVE OUR DATA TO AI PROGRAMS. STOP META AI. YOU WILL LOOSE ALL OF THE ARTISTS.",
+   "body": "They’ve implemented meta ai into Instagram and haven’t given folks in many locations the true option to decline or opt out. Please change this, Ai sucks especially for all of the artists on there. At the very least make opting out easily accessible and an option for EVERYONE! We don’t want it!! We don’t want to train the ai algorithm!We don’t want it to take our work from us! I didn’t want a meta ai account and now it’s forced on me and others! Will delete my accounts very quickly if this continues.",
+   "author": "Fweebeeart",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:11:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706259247",
+   "rating": 1,
+   "title": "Deixou a desejar",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Renata from 🇧🇷",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:10:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706256417",
+   "rating": 1,
+   "title": "no ai",
+   "body": "forcing everyone to feed their ai is chud behavior",
+   "author": "PLATe1:3",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:09:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706250363",
+   "rating": 1,
+   "title": "Stop training ai",
+   "body": "hey can you like not use my account to train ai? No because youre grossly wealthy and evil? Oh ok",
+   "author": "Boneyard333",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:07:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706249068",
+   "rating": 1,
+   "title": "AI Privacy threat",
+   "body": "AI is now cowering your account and taking all of your info with no option to opt out.",
+   "author": "jdd345",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:07:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706240663",
+   "rating": 1,
+   "title": "Political Interference",
+   "body": "This app is contributing to election interference in my home country, Brazil.",
+   "author": "Marcio Feitoza",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:04:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706236941",
+   "rating": 2,
+   "title": "Useless functions",
+   "body": "Why do you have a “cancel upload” option if you’re just going to tell me to wait until it uploads and then delete it. Just get rid of the function all together if you aren’t going to have it work.",
+   "author": "Xavier Walter",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:03:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706234684",
+   "rating": 1,
+   "title": "Inimigo da Democracia",
+   "body": "Interferência direta nas eleições brasileiras",
+   "author": "Edu Acquarone",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:03:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706226836",
+   "rating": 1,
+   "title": "Ad after Ad",
+   "body": "My feed has degraded into an advertisement after every one or two posts.",
+   "author": "PlayerNo001",
+   "version": "452.0.0",
+   "date": "2026-10-24T10:00:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706223484",
+   "rating": 1,
+   "title": "AI Usage is Gross",
+   "body": "The AI usage and training is getting alarming! Like c’mon Meta, can we not?? Not allowing us to opt out is disturbing",
+   "author": "Ilovelanterns",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:59:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706221948",
+   "rating": 1,
+   "title": "No User Rights Against AI",
+   "body": "I am sad to say that I hate what this app has become. I am unable to opt out of AI use and my own work will be used without my consent starting October 30th due to Meta’s update. This app is no longer safe for ethical artists, business owners, or its causal users. Photos of yourself, your children, your products and creations, will be taken from you. This is something that should be HIGHLY concerning. I can’t in good conscience ever recommend this app in its current state.",
+   "author": "Ayuuupii",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:59:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706221184",
+   "rating": 1,
+   "title": "Bias content",
+   "body": "IG has been selective on the content given the election a of Brazil and I’m totally disappointed with it",
+   "author": "Resistebrasil",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:59:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706219529",
+   "rating": 1,
+   "title": "Aqui é a Brasil!!",
+   "body": "Interfering with the Brazilian elections!",
+   "author": "mahtoytoy",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:58:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706219402",
+   "rating": 1,
+   "title": "Biased content",
+   "body": "It’s been clear that there is interference in the Brazilian elections through the algorithms",
+   "author": "Aquiebrasil",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:58:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706218425",
+   "rating": 1,
+   "title": "Interfere nas eleições",
+   "body": "Sinto que a Meta tem sido tendenciosa nas eleições brasileiras",
+   "author": "enalves",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:58:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706217371",
+   "rating": 1,
+   "title": "Bias company",
+   "body": "Interfering with the Brazilian elections like is a business",
+   "author": "fval1",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:58:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706205506",
+   "rating": 1,
+   "title": "Slop",
+   "body": "Instagrams change in algorithm and organization has completely destroyed the app and sucked all enjoyment out of it. My home page should only be the people I follow, not leaking content on my feed that I don’t want to see nor care for in order to force engagement out of me. It’s also frustrating that the app randomly chooses to open on the reels tab— another useless feature we didn’t ask for– blasting audio before I get a chance to lower my volume. Also absolutely sickened by AI constantly being forced on us. I’m not cool with the Meta AI showing me what my selfies would look like enhanced or offering to animate a piece of my art without being prompted to do so. I’m sure it’s been slipped in the TOS that using the app automatically grants this permission to use anything I post but I find it absolutely abhorrent. Unfortunately I used instagram to promote my business. I’m coming to the conclusion that face to face and word of mouth is the best way to promote your work. Suck it Zuck.",
+   "author": "MeemawsCigBreak",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:54:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706203424",
+   "rating": 5,
+   "title": "Very Helpful",
+   "body": "Learn to Use it The Right Way & It Will Change Your Life 🤞🏼",
+   "author": "Dj.inks",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:54:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706195183",
+   "rating": 1,
+   "title": "Rubbish",
+   "body": "They are interfering on the Brazil election in favor of the extreme right wing!",
+   "author": "eglesreis",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:51:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706181464",
+   "rating": 1,
+   "title": "Election Interference",
+   "body": "Está interferindo na eleição de presidente do Brasil e tentando eleger na marra alguém que não ira regulamentar o Instagram no meu pais.",
+   "author": "KpmBra",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:48:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706177096",
+   "rating": 1,
+   "title": "Anti-democratic",
+   "body": "It is interfering with my country’s electoral process and undermining democracy",
+   "author": "Brazilian_M",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:46:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706174654",
+   "rating": 1,
+   "title": "Interferência nas eleições",
+   "body": "Depois das eleições excluo e vou pro tik tok",
+   "author": "lopesfogaca",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:46:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706170217",
+   "rating": 1,
+   "title": "AI training",
+   "body": "I loved this platform for many years and lately I’m a bit upset with the use of people’s personal data to train AI. Especially artists who have trusted your platform for years to share their artwork. Using human made art to train a generative AI model without a clear option to opt out is disgusting.",
+   "author": "Grmtrbo",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:45:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706167601",
+   "rating": 1,
+   "title": "Undermining Democracy",
+   "body": "The algorithm is interfering in democratic elections in many countries - right now in Brazil. The social media created bubbles where people get immersed and disconnected with reality, boosting certain content and suppressing others. Don’t use it.",
+   "author": "Rising Sun2.0",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:44:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706158310",
+   "rating": 1,
+   "title": "Stop interfering in Brazilian election",
+   "body": "This app is interfering in Brazilian elections and jeopardizing democracy",
+   "author": "Al_4",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:41:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706148834",
+   "rating": 1,
+   "title": "PREJUDICANDO A DEMOCRACIA DE UM PAÍS",
+   "body": "Péssimo! Está interferindo no sistema eleitoral e prejudicando a democracia de um país!",
+   "author": "Vavásm",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:39:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706140665",
+   "rating": 1,
+   "title": "Meta está interferindo nas eleições brasileiras",
+   "body": "Meta está interferindo nas eleições brasileiras.",
+   "author": "Allnighfffxxzsf",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:36:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706135301",
+   "rating": 1,
+   "title": "Instagram is interfering in Brazil’s elections",
+   "body": "I’ve been experiencing repeated “glitches” on instagram whenever I try to repost or like content about president Lula. This is deeply concerning, specifically during an election period. It feels as though Instagram is actively interfering in Brazil’s presidential election and limiting political expression.",
+   "author": "acarlacarvalho",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:35:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706122534",
+   "rating": 1,
+   "title": "Impartiality",
+   "body": "It is interfering in my country's electoral process, harming democracy",
+   "author": "M@rcos Rangel",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:31:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706104454",
+   "rating": 1,
+   "title": "META IS A SCAM",
+   "body": "here in the US they don’t let you opt out of new policy that scrapes AI to train its garbage model. this is a criminal company.",
+   "author": "Gangweed42069",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:26:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706089470",
+   "rating": 1,
+   "title": "Leave Brazil alone",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia, tentando eleger à força alguém que não irá regulamentar o Instagram no Brasil.",
+   "author": "kittana_",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:22:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706088497",
+   "rating": 1,
+   "title": "Instants",
+   "body": "I don’t this feature on my account while all my friends have it please fix it",
+   "author": "Shkar najmadeen",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:22:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706082978",
+   "rating": 1,
+   "title": "Meta Meddles.",
+   "body": "Meta is facing allegations of favoring Flávio Bolsonaro in Brazil’s electoral race. A foreign company should not have the power to influence Brazil’s political future through its algorithm. We demand transparency, impartiality, and respect for Brazilian democracy!",
+   "author": "Clara Parrish",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:20:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706079622",
+   "rating": 5,
+   "title": "Request to Review Instagram Partnership Monetization",
+   "body": "Subject: Request to Review Instagram Partnership Monetization\n\nDear Instagram Support Team,\n\nI would like to request a review of the Partnership Monetization feature on my Instagram account.\n\nI want to know whether my account is eligible for Partnership Monetization. If my account has any restrictions or eligibility issues, please review them and let me know the reason.\n\nI believe my account should be reviewed fairly according to Instagram’s Partner Monetization Policies. If there is any issue that needs to be resolved, please provide the necessary guidance.\n\nKindly review my account and restore access to the feature if my account meets all the eligibility requirements.\n\nThank you for your time and support.\n\nRegards,\nInstagram Creator",
+   "author": "Shelby legacy",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:19:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706078238",
+   "rating": 1,
+   "title": "Free speech",
+   "body": "You can’t even write loser about someone that’s a loser",
+   "author": "ianimal666",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:19:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706069677",
+   "rating": 1,
+   "title": "Meta threats democracy",
+   "body": "Meta is suspected of favoring Flávio Bolsonaro in the Brazilian election race. A foreign company should not have the power to influence the political direction of Brazil through its algorithms. We demand transparency, impartiality, and respect for Brazilian democracy!",
+   "author": "thbrazil13",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:17:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706063030",
+   "rating": 1,
+   "title": "algoritmo comprado pela direita",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia!",
+   "author": "Tifsd",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:15:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706055456",
+   "rating": 1,
+   "title": "Stop with the AI",
+   "body": "It’s ruining the experience and making the app worse. Nobody asked for an AI bot on Instagram, and we DEFINITELY didn’t ask to be free training material. You already shove ads into my face constantly, I know you’re making money from those. Why sell my data too? Greedy pigs.",
+   "author": "the king of weebs",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:13:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706045399",
+   "rating": 1,
+   "title": "Suspensión",
+   "body": "Me quitaron la cuenta y no hice nada y no me dejan crear otra",
+   "author": "Nicoll.gutierrezzz",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:10:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706028096",
+   "rating": 1,
+   "title": "Brazilian Elections Interference",
+   "body": "Meta is clearly interfering in Brazilian elections, boosting far-right content.",
+   "author": "Jerseydriver",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:05:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706014621",
+   "rating": 1,
+   "title": "Ai scraping",
+   "body": "New ai scraping usage policy is disgusting.",
+   "author": "Lilpandatea",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:02:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706013026",
+   "rating": 2,
+   "title": "Quitaron los filtros de meta",
+   "body": "Ya no aparecen como antes! Y no cargan para nada donde ahora se encuentran !! Antes podías subir una foto a tu historia de la galería y ponerle un filtro padre y ahora ya no se puede",
+   "author": "Strangei",
+   "version": "452.0.0",
+   "date": "2026-10-24T09:01:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14706005459",
+   "rating": 1,
+   "title": "Bad App",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Scardua123",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:59:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705988135",
+   "rating": 1,
+   "title": "Democracia",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia!",
+   "author": "Chiefstewflorist",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:55:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705985659",
+   "rating": 1,
+   "title": "Pessima manipuladora",
+   "body": "Tenta interferir nas eleições do Brasil",
+   "author": "Patricia pulaski",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:54:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705975696",
+   "rating": 1,
+   "title": "I hate meta",
+   "body": "I hate ai! Dont scrape my data!",
+   "author": "Kate :DDDDDD",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:51:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705973125",
+   "rating": 1,
+   "title": "Meta ruins everything",
+   "body": "Instagram is so different from what it was years ago, and not in a good way. On top of the incessant ads and divisive algorithms, Meta has announced it will not scrape business accounts to train its AI model, with no way to opt out, which will be terrible for the millions of artists and creators on the platform. This is truly a tool that has made and continues to make our society worse. If you’ve avoided Meta this far, please don’t start now. They make me sick.",
+   "author": "hannabananzo",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:51:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705954608",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "\"está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país\".",
+   "author": "Rogerio Silvio",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:46:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705952204",
+   "rating": 1,
+   "title": "Interference in elections",
+   "body": "No way to report fake news, and interference in democratic elections",
+   "author": "NaoseMeTanoBrazil",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:45:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705949319",
+   "rating": 1,
+   "title": "Stealing our content for AI??",
+   "body": "New update allowing AI to scrape all business accounts to train their Gen-AI without the consent of the account owner. It's a total affront to creator autonomy and small businesses. \nGIVE THE OPT-OUT OPTION NOW.",
+   "author": "R A Artist Mystic",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:44:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705944092",
+   "rating": 1,
+   "title": "AI training without consent",
+   "body": "Why on earth is Meta scheduled to scrape my account and websites for AI training without my consent??? This is straight up stealing. This platform is so exploitative it’s disgusting.",
+   "author": "Skargogh",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:43:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705943618",
+   "rating": 1,
+   "title": "Undermining Brazilian democracy",
+   "body": "You are interfering with democracy in Brazil by trying to force the election of someone who will not regulate Meta.",
+   "author": "Rafa28461",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:43:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705932102",
+   "rating": 1,
+   "title": "Absolute joke this app",
+   "body": "An American company interfering with the politics in Brazil. Meta is an absolute joke. Need to keep to their own business and stop interfering with what’s happening in other countries.",
+   "author": "Jazz.jjjj",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:40:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705928684",
+   "rating": 1,
+   "title": "This company likes to interfere in elections",
+   "body": "Instagram is the worst app of this decade. They manipulate and censor content for everyone. Also they sequester people’s minds with their ads and agenda. Their lack of accountability has to end. Stop interfering in elections worldwide META.",
+   "author": "90s.kid.ipodstan",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:39:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705918053",
+   "rating": 1,
+   "title": "DEMOCRACIA",
+   "body": "A meta está interferindo no processo eleitoral do meu país e prejudicando a democracia !",
+   "author": "Stephanielimao",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:36:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705917899",
+   "rating": 1,
+   "title": "Steals from its users",
+   "body": "Meta is making a new policy that will scrape all business accounts and their linked sites for images to be used to train their gen AI. There is no way to opt out either. This is theft in plain site. Artists own their own work, not the websites that they post it to. But Meta is stealing it all the same to train their slop machine.",
+   "author": "amemecalledbruh",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:36:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705902651",
+   "rating": 1,
+   "title": "Sucks now",
+   "body": "Too much ai slop, never see anyone’s posts I follow just adds.",
+   "author": "tori wartooth",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:32:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705899039",
+   "rating": 5,
+   "title": "Meta ia es re mala",
+   "body": "Me suspendieron por algo que yo no hice y no puedo recuperar la cuenta ni crearme otra.me parece una boludez y encima perder todas mis cosas",
+   "author": "La gilada",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:31:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705896053",
+   "rating": 1,
+   "title": "Update sucks",
+   "body": "Updated my app now nothing wants to load",
+   "author": "Addicted IG user",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:30:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705893861",
+   "rating": 1,
+   "title": "Prejudicando",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "hellenzita33",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:29:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705885452",
+   "rating": 1,
+   "title": "Electoral process",
+   "body": "It is interfering in my country’s electoral process and undermining democracy by trying to force the election of someone who will refuse to regulate Instagram in my country",
+   "author": "scoliosee",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:27:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705876815",
+   "rating": 1,
+   "title": "Plataforma vendida",
+   "body": "Está interferindo nas eleições brasileiras, na democracia e induzindo engajamento a favor de um lado.",
+   "author": "bonjesuense",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:25:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705860530",
+   "rating": 1,
+   "title": "Brasil",
+   "body": "Está interferindo nas eleições brasileiras!",
+   "author": "djc00",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:21:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705841525",
+   "rating": 1,
+   "title": "LET US OPT OUT OF AI",
+   "body": "Instagram scrapes our data to feed it to their AI. They don’t give us any way to opt out (unlike other countries). They don’t care about user consent. Not to mention they hide left leaning content.",
+   "author": "candycrusher19495726",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:16:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705830438",
+   "rating": 1,
+   "title": "ai model training",
+   "body": "new meta privacy policy makes it so if you have a business account they can use all of your content to train their gen ai model, and there is NO way to opt out of this. i do NOT consent to my art and hard work being used to feed ai models. as much as it pains me i will be deleting my instagram if this policy goes into effect.",
+   "author": "Meghxnnnn",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:13:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705828757",
+   "rating": 1,
+   "title": "MAKES YOU USE AI",
+   "body": "Not giving me an option to opt out of ai… and is a prime example of what happens to a company when the owner sells out.",
+   "author": "No. Ai",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:12:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705828453",
+   "rating": 1,
+   "title": "Shadow banning-election interference",
+   "body": "Elections interference nationally and internationally. Banning content and access.",
+   "author": "aamsalt",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:12:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705825089",
+   "rating": 1,
+   "title": "AI data scraping",
+   "body": "I don’t like the way Instagram has started pushing ai on its platform. Now they are changing their terms of service to scrape data too.",
+   "author": "Maddie_78",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:11:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705793116",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "Instagram has been actively interfering with elections in Brazil. The app does not work properly. Would not recommend to anyone seeking a clean democratic process!",
+   "author": "Forgot my Sextant at Home",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:03:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705790227",
+   "rating": 1,
+   "title": "LEAVE BUSINESS ACCOUNTS ALONE",
+   "body": "STOP INJECTING AI INTO EVERYTHING!!!!! WE DONT WANT TO BE SCRAPED!!!!!!!! WERE JUST TRYING TO MAKE A LIVING!!!!!!!!!!",
+   "author": "mellowmish",
+   "version": "452.0.0",
+   "date": "2026-10-24T08:02:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705773239",
+   "rating": 1,
+   "title": "Give us a way to opt out of AI",
+   "body": "I do not condone or support the use of my content for training your generative AI models",
+   "author": "Tacosockos",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:58:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705758713",
+   "rating": 4,
+   "title": "very good",
+   "body": "i love it wow insta",
+   "author": "awezan n qader",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:54:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705748604",
+   "rating": 1,
+   "title": "Insta is pro-fascism",
+   "body": "Instagram is manipulating data it feeds the public to undermine democracy in Brasil during its elections. Its algorithm favors fascism",
+   "author": "Outraged_2026",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:51:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705745264",
+   "rating": 3,
+   "title": "Can’t See What I’m trying to comment",
+   "body": "This is so frustrating, first Threads, two weeks ago, and now Instagram, where when I try to type a comment, the comment box is hidden underneath the keyboard on my iPad. I’ve tried going from portrait to landscape, from minimize to maximize, and nothing fixes it.",
+   "author": "JDeannW",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:50:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705731817",
+   "rating": 1,
+   "title": "lastimável",
+   "body": "Esse aplicativo, bem como os outros da Meta, vende uma fachada de imparcialidade, mas a realidade que nós brasileiros estamos vendo durante o nosso processo eleitoral é de interferência, censura constantes e sobretudo, extremamente parciais.\n\nOs serviços que esta empresa presta ao Brasil são LASTIMÁVEIS e deixam clara a necessidade de criarmos redes sociais nacionais.",
+   "author": "imparcialidade lastimável",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:47:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705728317",
+   "rating": 1,
+   "title": "Contra a democracia!",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "bibirose11",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:46:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705720916",
+   "rating": 1,
+   "title": "Tech overlord :/",
+   "body": "Boooo meta is desperate to steal other people’s art. Considering deleting my account because of the AI-scraping deal",
+   "author": "Elle34567",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:44:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705720056",
+   "rating": 1,
+   "title": "Js suspended for no reason",
+   "body": "Js kept getting suspended for no reason when I moved to phnx and meta ai won’t even help me get it back so lwk think it’s dumb now",
+   "author": "Dejuan Begay",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:44:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705717084",
+   "rating": 1,
+   "title": "Meta Under Fire: Allegations of Political Bias and Threats to Brazilian Democracy",
+   "body": "Meta is under suspicion of favoring Flávio Bolsonaro in Brazil’s election campaign. A foreign company cannot have the power to influence Brazil’s political direction through its algorithms.\n\nWe demand transparency, impartiality, and respect for Brazilian democracy!",
+   "author": "Gustavo_rm",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:43:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705695076",
+   "rating": 5,
+   "title": "Instagram review",
+   "body": "I love instagram. Easy to interact with and helpful for promoting",
+   "author": "Mrfeetup",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:37:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705677675",
+   "rating": 1,
+   "title": "AI changes",
+   "body": "beware. meta is making changes to allow the scrape of user data to train their gen ai. they are NOT allowing users to opt out.",
+   "author": "runeglaivee",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:33:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705667484",
+   "rating": 1,
+   "title": "greedy pigs",
+   "body": "no respect for it’s users, just force feeding ai trash down everyone’s throats while trying to steal the work of the actual artists",
+   "author": "artemisia888",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:30:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705662160",
+   "rating": 1,
+   "title": "AI bots",
+   "body": "you can barely post anything anymore since they added their new AI bots scraping everything off your profile and flagging your accounts for no apparent reason… horrible and frustrating app to use",
+   "author": "nalationi",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:28:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705658607",
+   "rating": 1,
+   "title": "Meta sucks",
+   "body": "Stop implementing things that nobody asked for. Nobody wants meta, I certainly don’t want it, and I definitely don’t want to be put into something that I had no say in. You try to be all sneaky about it, not telling us and forcing people to use your features that we clearly don’t want to use that you make it impossible to even allow opt out of. No one wants their hard work scraped because you want to use it for your AI system! Let people be able to make content without the fear of big corporations like you taking their work and turning around to use their AI to make slop!",
+   "author": "Hailey4327",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:28:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705658530",
+   "rating": 1,
+   "title": "Stop to influence Brazilian election",
+   "body": "Meta is suspected of favoring Flávio Bolsonaro in Brazil’s electoral race. A foreign company must not have the power to influence Brazil’s political future through its algorithms.\n\nWe demand transparency, impartiality, and respect for Brazilian democracy!",
+   "author": "murillo.esteves",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:27:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705657272",
+   "rating": 5,
+   "title": "Amazing centerpieces",
+   "body": "Beautiful stylish creative Bettystotalevents events",
+   "author": "Decirations A to Z",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:27:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705640961",
+   "rating": 1,
+   "title": "They had their AI technology ban my account of 9 years for literal no warning or reason",
+   "body": "They can suck eggs, I’ll finally give em a review after 9 years of service to their site for what? A kick in the pants cause their AI can’t do a good job? Yeah I do not recommend this site",
+   "author": "LukallurFallout",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:23:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705635428",
+   "rating": 1,
+   "title": "Democracia",
+   "body": "Está interferindo no processo eleitoral do Brasil e prejudicando a democracia.",
+   "author": "léo calvão",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:21:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705635271",
+   "rating": 1,
+   "title": "Instagram is interfering in Brazil’s democracy",
+   "body": "The app is interfering in my country electoral process and undermining democracy in Brazil.",
+   "author": "catarinarbezerra",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:21:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705617494",
+   "rating": 1,
+   "title": "Manipulator",
+   "body": "It’s interfering and manipulating my countries election. True info being hidden. What a shame.",
+   "author": "lipechen",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:17:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705614047",
+   "rating": 1,
+   "title": "AI Policy Update from Hell",
+   "body": "I recently found out the meta will be updating their policy to train AI using the content (everything from pictures and captions, to DMs and links in bio) made from all business accounts. In the United States, there is no option to opt out. I do NOT want my account involved, in any manner, with the creation of more AI slop. This is disgusting, disgraceful, and unacceptable.",
+   "author": "05AConcernedCitizen05",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:16:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705612489",
+   "rating": 1,
+   "title": "Meta intervindo nas eleições brasileira",
+   "body": "Estamos lutando no Brasil pela manutenção da nossa democracia e a Meta e instagram estão sob suspeita de favorecimento do candidato Flávio Bolsonaro que é envolvido com milicianos e contra a democracia do Brasil.",
+   "author": "Ritaccq",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:15:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705609551",
+   "rating": 1,
+   "title": "‼️",
+   "body": "It’s interfering in my country’s electoral process and undermining democracy by trying to force the election of someone who will refuse to regulate Instagram in my country.",
+   "author": "MsAlves.",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:15:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705605510",
+   "rating": 1,
+   "title": "Pessimo",
+   "body": "Está interferindo nas eleições brasileiras de forma desonesta",
+   "author": "PiorAppdeBanco",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:14:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705603186",
+   "rating": 1,
+   "title": "انستا",
+   "body": "فاشل",
+   "author": "6.he0",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:13:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705601214",
+   "rating": 1,
+   "title": "Tacking audios down",
+   "body": "audios are constantly getting deleted from Instagram platform and then you can’t even access the original audio that was in your video. This is so frustrating and it keeps happening to so many reels.",
+   "author": "Hsndbdbnsjsjxbdbw",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:12:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705597342",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "Está interferindo nas eleições brasileiras",
+   "author": "Fla Liz",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:11:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705597160",
+   "rating": 5,
+   "title": "Filtros",
+   "body": "No me salen los filtros de mi Instagram porque será ayúdame",
+   "author": "Javierxeq",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:11:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705596484",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "Está interferindo nas eleições brasileiras",
+   "author": "Bananinha13",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:11:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705590411",
+   "rating": 1,
+   "title": "Manipulation",
+   "body": "Meta is manipulating Brazil’s elections. Stay out of our democracy!",
+   "author": "⭐️🇧🇷🇧🇷⭐️❤️",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:10:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705585502",
+   "rating": 1,
+   "title": "stop the AI BS",
+   "body": "meta will copy all your images, messages etc to their AI to “train” it. stop stealing our information, stop stealing artists work. we don’t want AI and we don’t want our lives to be fed into it",
+   "author": "yousuck729296",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:08:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705572367",
+   "rating": 1,
+   "title": "Everything you post will be used against you (for AI)",
+   "body": "Starting Nov 20, every business account will get scraped to train AI, including DMs and everything on your linked websites. This is should worry creatives, artists, business owners, or really anyone who values their privacy. EU users can object in the settings before Nov 20 - please do! US users can leave reviews like mine and then leave all Meta platforms if this is indeed implemented.",
+   "author": "everythingstakenplsacceptthis",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:05:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705569226",
+   "rating": 1,
+   "title": "Privacy Policy",
+   "body": "Meta Is Profiting From Creators’ Work Without Their Consent.\n\nBeginning October 30, 2026, Instagram is reportedly expanding its use of business account content to train artificial intelligence, while denying U.S. creators the opt-out protections available in other countries.\n\nMy creativity is not Meta’s property. My work is not free training material. And my privacy is not theirs to exploit.\n\nI have invested countless hours building my audience, creating original content, and earning the trust of my followers. Now Meta intends to extract even more value from that work without my meaningful consent, compensation, or control.\n\nMeta gets the data. Meta trains the AI. Meta collects the profits.\n\nWhat do creators get? Nothing. Not even a choice.\n\nThis is an exploitation of the very people whose creativity helped build Instagram into a multibillion-dollar platform.\n\nCreators deserve transparency, meaningful consent, the right to opt out, and fair compensation when their work is used commercially.\n\nOur content has value. Our consent matters. And Meta should not get to decide otherwise.\n\nOne star.",
+   "author": "Edssis",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:04:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705568738",
+   "rating": 1,
+   "title": "Not optimized on iPhone duo (yet (hopefully))",
+   "body": "Ui on the duo is terrible it’s like scroll on ig on a fake phone huge black cutout bar on the side. Probably just delete the app off my phone again tbh",
+   "author": "LokiNESS",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:04:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705554150",
+   "rating": 5,
+   "title": "Watch out for scammers selling stuff. A lot of are  a complete rip off!",
+   "body": "I have finally learned my lesson no more Instagram buys! Instagram should get after them. There should be a place where you could list the scammers!!  😱",
+   "author": "Linna P.",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:00:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705552358",
+   "rating": 1,
+   "title": "Hands off our IP, Mark",
+   "body": "No one gave you permission to violate intellectual property laws and scrape our links data, especially not to prop up your garbage AI that no one with more than two brain cells even wants. Instagram needs to go or Mark needs to go.",
+   "author": "Elledesgner",
+   "version": "452.0.0",
+   "date": "2026-10-24T07:00:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705548122",
+   "rating": 1,
+   "title": "Villainous, profit-gorging, AI shills",
+   "body": "Instagram, as with all other Meta subsidiaries, has become entirely, sickeningly engrossed in their willing self-enslavement to mindless AI usage. This is not a platform for creativity. It is a platform for creativity to be stolen, harvested by AI platforms. Your privacy? Does not exist, AI will scrape all of it for “training”. Nothing you do can opt out of it, such is their desperation to pander to the “fad” of Artificial Intelligence. You will have your private details observed, even business information, all taken by artificial intelligence. Those of us who are already on the platform and have been for many years are too late to escape; many feel trapped and at a loss, horrified that their work has been stolen and fed into a machine without their consent. Meta does not deserve your patronage. They will certainly not respect it if you give it to them.",
+   "author": "Corporal_Heath45",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:59:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705543097",
+   "rating": 1,
+   "title": "Democracy at risk",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Mati2015",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:57:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705538546",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "Instagram and Meta are actively interfering with the Brazilian presidential elections. It is unacceptable and another strong reason for social media regulation.",
+   "author": "PriNovaes",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:56:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705536703",
+   "rating": 1,
+   "title": "Interferência no processo eleitoral",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicado a democracia!",
+   "author": "Jasonlk88",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:55:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705516507",
+   "rating": 1,
+   "title": "New terms and conditions",
+   "body": "Changing terms and conditions for business accounts to allow their ai to use everything on your account including your website like to train their ai models. Absolutely disgusting",
+   "author": "💜🥺🥀",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:50:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705512997",
+   "rating": 1,
+   "title": "AI Policy",
+   "body": "Adding a policy that you can’t opt out of to scrape art and data for its AI. Absolutely disgusting.",
+   "author": "Tilt24.",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:49:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705506004",
+   "rating": 1,
+   "title": "Eleições Brasil",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Carol149",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:47:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705479773",
+   "rating": 1,
+   "title": "If I could give it 0 stars I would",
+   "body": "I am SO tired of being forced in AI products and \"Meta accounts\". As an illustrator I do NOT want my artwork scraped. As a human being with a desire for privacy, I do NOT want my personal messages scraped!!! NO ONE IS ASKING FOR THESE UPDATES META/INSTAGRAM.",
+   "author": "Asiabearx",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:40:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705473011",
+   "rating": 1,
+   "title": "interferindo no processo eleitoral do meu país",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "Bruno Helliton",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:38:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705468128",
+   "rating": 1,
+   "title": "Threat to Democracy",
+   "body": "The app is influencing Brazil’s elections by amplifying misinformation and political manipulation. Meta should be more transparent, enforce its rules consistently, and protect the integrity of democratic processes.",
+   "author": "Mxusnev",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:37:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705465776",
+   "rating": 1,
+   "title": "Banned n suspended",
+   "body": "I was banned suspended under new guidelines of meta and had nothing bad once so ever n even created new ig fresh from scratch not even profile pic and I was automatically banned or suspended",
+   "author": "acmag221994",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:37:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705465013",
+   "rating": 3,
+   "title": "stop banning people",
+   "body": "i’ve got banned more than i can count i love your app but if everyone gets banned then we’re not going to be able to use it.",
+   "author": "johnnyslime",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:36:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705462011",
+   "rating": 1,
+   "title": "Está interferindo nas eleições",
+   "body": "Interfere no processo eleitora dos países prejudicando a democracia no mundo",
+   "author": "Killing democracy",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:35:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705457684",
+   "rating": 5,
+   "title": "Nunca lo he usado tanto pero espero tener muchos seguidores y que me encante esta página",
+   "body": "Recomienden cosas para tener muchos seguidores para serguirla usando",
+   "author": "Rodríguez 22",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:34:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705436776",
+   "rating": 1,
+   "title": "meta get rid of ai",
+   "body": "ive been using instagram since i was 12 years old, but i will delete this app if this update goes through with my meta being allowed to scrape all accounts to train their generative AI, that is ridiculous and pathetic, a way to strip people of their autonomy",
+   "author": "Vclink182",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:29:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705436692",
+   "rating": 1,
+   "title": "no more ai",
+   "body": "QUIT SELLING YOUR USERS TO AI",
+   "author": "Ghozzzzzzzzt",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:29:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705430206",
+   "rating": 1,
+   "title": "Not good",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia \n\n\n“You are interfering in my country’s electoral process and undermining democracy.”",
+   "author": "saaaaaaahabu",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:27:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705423703",
+   "rating": 1,
+   "title": "STOP IT WITH THE AI",
+   "body": "everyday is a senseless update of how AI is going to be updated for my “experience”. The language in the policies is misleading and impossible or tedious to opt out of. I don’t wanna see the muse creature, I don’t want the AI search engines. I want the picture sharing app that Instagram began as. 1 star. Reassess your intentions Instagram.",
+   "author": "Gaglebop",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:25:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705417502",
+   "rating": 1,
+   "title": "interfering in the democracies of Latin America",
+   "body": "Pages that support Lula in Brazil barely appear in search results when his name is entered. When I \"like\" left-leaning posts that advocate for democracy, the \"like\" or \"reshare\" disappears from the post, and I have to repeat the action for it to stick. Meanwhile, pro-Bolsonaro lawmakers benefit from promoted content and gain more followers than Beyoncé.",
+   "author": "fferdi.-",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:24:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705417379",
+   "rating": 1,
+   "title": "too much AI, can’t opt out",
+   "body": "scrape all your content for AI",
+   "author": "GamerHeadShark",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:23:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705413733",
+   "rating": 1,
+   "title": "Wrongful political interference",
+   "body": "Interfering in elections to favor far right candidates",
+   "author": "mari2ramos",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:22:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705395058",
+   "rating": 1,
+   "title": "Too much AI",
+   "body": "Entire app is taken over by ai",
+   "author": "coolgoose45",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:17:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705394517",
+   "rating": 1,
+   "title": "Stop AI scraping",
+   "body": "Stop AI scraping",
+   "author": "LeaveUsAlonekow",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:17:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705390374",
+   "rating": 1,
+   "title": "Interferência Eleitoral no Brasil",
+   "body": "Meta e seus apps estão cometendo interferência eleitoral no Brasil. Isso eh um absurdo e um atentado contra a democracia Brasileira.  O poder da mídia\nSocial não pode ser usado dessa forma em lugar nenhum do mundo.",
+   "author": "DanTheManBR",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:16:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705385596",
+   "rating": 1,
+   "title": "No AI",
+   "body": "Really sick and tired of the ai scraping and theft. As an artist, sharing my work to instagram is part of networking. Now considering deleting my account altogether and I hope others do too.",
+   "author": "bilboFragginses",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:15:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705378465",
+   "rating": 1,
+   "title": "Coup-de-état",
+   "body": "Interfering with the election process in Brazil!!!",
+   "author": "AlexHuette",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:13:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705376481",
+   "rating": 1,
+   "title": "Bias",
+   "body": "Instagram is interfering on Brazil election",
+   "author": "AlSpFe",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:12:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705369965",
+   "rating": 1,
+   "title": "Não se Meta, Meta",
+   "body": "Está interferindo nas eleições Brasileiras…",
+   "author": "NandaNandes",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:11:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705366862",
+   "rating": 1,
+   "title": "No me deja borrar mis datos de la aplicación las guarda y no importa que haga para borrarlo",
+   "body": "Se quedará con toda tu info asta con perfiles viejos y no te deja borrar del cell si alguien baja la aplicación puede entrar a tu cuenta como si nada",
+   "author": "a madre tu ya",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:10:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705366243",
+   "rating": 1,
+   "title": "It’s interfering in Brazil’s elections.",
+   "body": "Está interferindo no processo eleitoral do meu pais e prejudicando a democracia.",
+   "author": "Tatyanadepaula",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:09:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705362670",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "This app is manipulating the election in Brazil’s election against the current president.",
+   "author": "Dea ⭐️",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:09:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705358908",
+   "rating": 1,
+   "title": "Too much slop",
+   "body": "The AI integration and policies are so gross!! Makes the app unusable. What happened to caring about art made by people? Photos posted by your friends and family? I’m not here to see or partake in fake images and videos. Nor do I want my content scraped for use elsewhere.",
+   "author": "lainz1",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:07:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705358184",
+   "rating": 1,
+   "title": "Dangerously invasive",
+   "body": "Instagram is now aggressively overstepping with AI scraping and forcing AI features on users. The new pay tiers now require you to pay even more money to get access to a human agent. The reporting feature is dangerously neglected as I’ve had to report multiple comments from at risk people multiple times because the AI doesn’t recognize and register self harm language. Posts are being incorrectly labeled as AI generated which is subjecting real artists to cancellation. IG is a serious problem and doesn’t care.",
+   "author": "Alyc V",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:07:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705357410",
+   "rating": 1,
+   "title": "Meta AI",
+   "body": "This app scrapes data to train their generative Al program and provides no way for users to opt out. Images, captions, DMs and even data from linked sites will be fed to their AI. Artists and creators are highly at risk. Business accounts are at risk. They don't care about users or consent. This is a major breach of privacy. These changes are coming November 20. Spread awareness. Delete your account.",
+   "author": "Ace Dor",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:07:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705354090",
+   "rating": 1,
+   "title": "Can’t Login",
+   "body": "This thing keeps giving me a I/O fizzy client error thing and I can’t login.",
+   "author": "Baylorchad",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:06:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705340404",
+   "rating": 1,
+   "title": "Democracia",
+   "body": "Está interferindo no processo eleitoral do meu pai e prejudicando a DEMOCRACIA, tentando eleger na FORCA alguem que nao ira regulamentar as redes sociais no meu país",
+   "author": "Nara Neiva",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:02:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705340033",
+   "rating": 1,
+   "title": "Horrível",
+   "body": "Muito ruim pois está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Natwink33",
+   "version": "452.0.0",
+   "date": "2026-10-24T06:02:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705325576",
+   "rating": 1,
+   "title": "Ad Display App",
+   "body": "Do you want to see photos of your friends or followers? Well you might want to find another app to do so. Instagram on average shows 50-60% ads on its application. You will spend more time looking at ads than looking or seeing the people YOU follow. From here on out I will use Ai to write 1 star reviews daily until the rating drops on multiple platforms",
+   "author": "Black Satellite",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:58:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705318705",
+   "rating": 1,
+   "title": "AI everywhere.",
+   "body": "Not only is there a ton of AI - they are about to allow AI to scrape images, comments, and links.",
+   "author": "PavementGirl",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:56:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705317786",
+   "rating": 1,
+   "title": "I hate you AI and Meta",
+   "body": "I don’t want my post, images, or whatever to train your stupid AI!",
+   "author": "NO TO AI!!!",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:56:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705316577",
+   "rating": 1,
+   "title": "Manipulators",
+   "body": "Through Instagram algorithms Meta is interfering in Brazil’s election hurting our democracy, through blatant bias. Beware!!!",
+   "author": "_Carol_SC",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:56:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705293359",
+   "rating": 1,
+   "title": "Interfere nas eleições",
+   "body": "Interfere nas eleições democráticas de outros países",
+   "author": "Marijjh",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:49:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705288965",
+   "rating": 1,
+   "title": "AI",
+   "body": "Opting out of ai features is impossible. I’ve scoured through the security and privacy settings and read through their policies. I can’t find a way to opt out of participating in ai training.",
+   "author": "—m—m—",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:48:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705270635",
+   "rating": 1,
+   "title": "Brazil’s elections interference",
+   "body": "App is interfering with the presidential elections in my country and harming the democracy by trying to promote only ONE party.",
+   "author": "Leletma",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:43:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705249804",
+   "rating": 1,
+   "title": "Interfering with democracy in Brasil",
+   "body": "Meta is controlling the news about one of the candidates, benefiting the other. Shame on you!",
+   "author": "Musashi11",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:37:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705234868",
+   "rating": 1,
+   "title": "Complain",
+   "body": "My personal account was hacked and I needed help getting it back and I didn’t get any response. No communication at all",
+   "author": "Vdudhfj",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:32:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705233815",
+   "rating": 1,
+   "title": "Parcial e manipulador",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Wendycastrofernandes",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:32:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705216336",
+   "rating": 1,
+   "title": "Antidemocrático",
+   "body": "Interfere nos processos democráticos de países mundo afora enviesando os algoritmos.",
+   "author": "Marcelo Noah",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:27:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705198888",
+   "rating": 1,
+   "title": "Meta não se meta!",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Qubit66",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:22:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705197605",
+   "rating": 1,
+   "title": "No opting out for AI theft?",
+   "body": "I really did enjoy using this app and posting my artwork. Unfortunately with their upcoming and already in place policies, all that hard work is going to be scraped and put into AI without my consent after using this app for so many years. If us in the U.S. had the ability to opt out, that’d be something, but as it is there’s no way to do that. And that makes this app horrible in the end.",
+   "author": "Drawlynn",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:21:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705185434",
+   "rating": 2,
+   "title": "Don’t scrape my account!",
+   "body": "They want to scrape our accounts to train their AI and we don’t have a way to opt out. The hours of research and design we’ve poured into content just to have it stolen is criminal.",
+   "author": "BookshopRake",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:18:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705181371",
+   "rating": 5,
+   "title": "Instagram",
+   "body": "I love instagram",
+   "author": "mario plush",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:17:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705169939",
+   "rating": 5,
+   "title": "Great",
+   "body": "The best app",
+   "author": "ljluna",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:13:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705168628",
+   "rating": 1,
+   "title": "Terrible app used for data mining",
+   "body": "I refuse to be willingly consumed by AI",
+   "author": "S.M.265",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:13:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705163433",
+   "rating": 1,
+   "title": "Brasil",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país.",
+   "author": "Marta@l13",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:11:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705150312",
+   "rating": 1,
+   "title": "very upset with meta",
+   "body": "tired of seeing bad news and bad ai every time i open the app. also, very disappointed that there is not opt out option from having meta ai scrape all of my photos. do NOT want the meta ai update implemented and am disappointed that it only got pushed back instead of being reconsidered.",
+   "author": "Rose (*´∇｀*)",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:07:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705136517",
+   "rating": 1,
+   "title": "Transparencia no processo eleitoral",
+   "body": "Esta interferindo no processo eleitoral do meu pais",
+   "author": "Viviane Prado",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:03:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705136085",
+   "rating": 1,
+   "title": "STOP META AI",
+   "body": "not letting users opt out of AI scraping by META is disgusting and borderline predatory behavior. DO. BETTER.",
+   "author": "STOP META AI",
+   "version": "452.0.0",
+   "date": "2026-10-24T05:03:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705124052",
+   "rating": 1,
+   "title": "Shame!!",
+   "body": "It’s interfering in my country’s electoral process and harming democracy.",
+   "author": "Fernando Albano Neto",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:59:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705106472",
+   "rating": 1,
+   "title": "Democracy interference",
+   "body": "Meta and Instagram are actively interfering in my countries democracy by silencing people and propelling others disproportionally. Terrible algorithm",
+   "author": "Schauffert3",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:53:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705105784",
+   "rating": 1,
+   "title": "Brasil",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país\".",
+   "author": "Dri0313",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:53:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705101864",
+   "rating": 5,
+   "title": "Account disable",
+   "body": "Hello Instagram Support,\n\nMy Instagram account @_ab1xnn was disabled on 7 October 2026 for an Account Integrity violation. I believe this may have been a mistake.\n\nI respectfully request that you please review my account and the decision again. I am willing to follow all Instagram Community Standards and account-integrity policies. If there was any activity that caused the violation, I would appreciate knowing what happened so I can make sure it does not happen again.\n\nPlease consider manually reviewing @_ab1xnn and restoring my account if possible. This account is important to me, and I would genuinely appreciate your help.\n\nThank you.",
+   "author": "I belive my insta",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:52:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705084052",
+   "rating": 1,
+   "title": "No Customer Service",
+   "body": "I need help with a disabled account under false claims of actions I never did, yet the only help they can provide is AI and no direct customer service options to help. Please Instagram give me options that can actually help me instead of empty suggestions.",
+   "author": "Neitodesu",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:46:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705066804",
+   "rating": 1,
+   "title": "they banned me for age restriction",
+   "body": "i’m well over 13 i showed my id and i did the facial video and still got banned and i cant even make myself a new account and meta is being useless",
+   "author": "nopeeerr4408",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:41:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705058205",
+   "rating": 1,
+   "title": "AI slop",
+   "body": "Giving meta full reign of artists’ work to train AI to make garbage with no option to opt out?? 🤮",
+   "author": "kenmach123",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:38:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705034003",
+   "rating": 1,
+   "title": "O golpe tá aí",
+   "body": "Interferindo na democracia do meu país",
+   "author": "BabiBrendel",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:30:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705033947",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "Pessimos e corruptos sempre, Interferiram nas eleições do meu país.",
+   "author": "Aquamariiiina",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:30:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14705012074",
+   "rating": 1,
+   "title": "meta ai",
+   "body": "no option to opt out of meta ai, this app is now trash ai slop, dead internet is following closely behind",
+   "author": "fix AR mode :(",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:23:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704996360",
+   "rating": 1,
+   "title": "Eleiçoes",
+   "body": "Estão interferindo nas eleições do meu país, prejudicando a democracia do Brasil.",
+   "author": "Geis3333",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:18:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704985616",
+   "rating": 1,
+   "title": "Vicente",
+   "body": "The App is interfering with national elections, with unfair distribution of content and selective suggestions. It is endangering democracies worldwide and should be overseen by international organizations.",
+   "author": "Vik Muniz",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:14:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704972104",
+   "rating": 1,
+   "title": "Interferência política no Brasil",
+   "body": "A Meta está interferindo no processo eleitoral brasileiro.",
+   "author": "Marinababreu",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:10:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704963806",
+   "rating": 5,
+   "title": "How I enjoy and like Ig",
+   "body": "I like ig and have been using this platform for about 12 yrs now but what I hate about it about it and why I hate it is you guys block me a lot on this platform looks like you always watching my way to wherever I am I am not a spalm or anything like that please solve my accounts for me Instagram pleaseeeeeeeeeeeee",
+   "author": "Mohammed Shamsudeen",
+   "version": "452.0.0",
+   "date": "2026-10-24T04:07:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704908797",
+   "rating": 1,
+   "title": "Predatory AI updates",
+   "body": "Meta has been making their AI model training updates more and more predatory. Their most recent update doesn’t even let you opt out of having everything on your account scraped unless you have a personal privated account. They even will scrape things that you LINKED! It’s not even on their websites and they say they have the right to access and scrape it???",
+   "author": "Tak3 A Stand",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:48:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704888150",
+   "rating": 1,
+   "title": "Днище",
+   "body": "Если заднеприводный автомобиль в инстаграм назвпть заднеприводным , то ваш комментарий удалят из за разжигания негависти . Даже после проверки своё решение здесь не меняют . Большего маразма нет нигде .",
+   "author": "Ургалук",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:41:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704867886",
+   "rating": 1,
+   "title": "Não é justo!",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia!!!!!",
+   "author": "Jujunerale",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:33:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704857169",
+   "rating": 1,
+   "title": "You are the product.",
+   "body": "Companies like Meta are using you for their own gain by collecting waaay too much of your info and data just to sell it to advertisers, or feed it into AI. Sad that this has become the new normal, and nobody cares for some reason.",
+   "author": "Minerwizard",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:29:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704852452",
+   "rating": 1,
+   "title": "Interference",
+   "body": "The app is interfering in the Brazilian elections and that is not acceptable",
+   "author": "Assdrubal",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:28:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704850596",
+   "rating": 1,
+   "title": "AI Training App",
+   "body": "They’re using this to train AI with our stolen information, and no opt-out option.",
+   "author": "LacyMitcham",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:27:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704843001",
+   "rating": 1,
+   "title": "Meta não se meta",
+   "body": "esse app interferiu no processo eleitoral do meu país e prejudicou a democracia",
+   "author": "julia sait",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:24:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704823430",
+   "rating": 1,
+   "title": "Meddling in Brazilian Elections 2026",
+   "body": "Instagram, WhatsApp, Facebook, META are censoring people like me, who are posting pro-Lula. Instagram is the worst CENSOR. It’s been preventing me to FOLLOW anyone who has posted in favor of the Brazilian Left, and PT Worker Party which is the Country’s President’s Party in power now. #shameoninstagramforcensorshipinbrazilianelections2026",
+   "author": "Walrus Freire",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:17:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704819741",
+   "rating": 1,
+   "title": "Elections interference",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Democracyisinegotiable",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:16:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704788677",
+   "rating": 5,
+   "title": "Appreciate YOU",
+   "body": "Thank you for giving us the opportunity to share bits and pieces off my life. I really appreciate it and thank you for all the support. Grateful for you and Instagram.",
+   "author": "FMughal01",
+   "version": "452.0.0",
+   "date": "2026-10-24T03:04:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704763545",
+   "rating": 1,
+   "title": "Glitching during Brazilian election",
+   "body": "Glitching during Brazilian election",
+   "author": "Reviews7890",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:55:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704760703",
+   "rating": 1,
+   "title": "Despicable political interference",
+   "body": "Instagram (or Meta) has heavily interfered with the Brazilian elections in 2026, promoting far-right (fascist) candidates over centre and left (and sane) ones. Not your job. Do the right thing for once.",
+   "author": "Ani Dempsey",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:54:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704742177",
+   "rating": 1,
+   "title": "Uso político",
+   "body": "Está interferindo nas eleições do meu país - Brasil.",
+   "author": "Mademoiselle 12",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:47:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704727102",
+   "rating": 1,
+   "title": "Interfere with elections",
+   "body": "Be careful. It interfered with elections in my country (Brazil, 2026) by promoting one candidate and restricting the other one.",
+   "author": "Giucomport",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:41:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704697305",
+   "rating": 1,
+   "title": "Updates/Meta",
+   "body": "It is very frustrating that Instagram is not allowing you to opt out of these new ai updates, and that you cannot get rid of that meta creature. Generative ai is not something that everyone should be forced to be a part of. Instagram used to be a fun way to share art and photography…it is now filled with disgusting ai videos with no way to filter these out, and an ai ‘assistant’ that you cannot not get rid of or mute. (The only option is just to ignore it) Now I see that meta ai is linking accounts? And that come this next update they will be running everyone’s content including private messages, peoples art and photos and posts of their children through ai? Consumers have no way to express their frustrations except through an ai chatbot? \nI’m sure this review will also only be checked by ai.",
+   "author": "Nothanks-again",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:30:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704668912",
+   "rating": 1,
+   "title": "Interferência nas eleições brasileiras",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na campanha eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos. Exigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "Lgpmartins",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:19:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704649174",
+   "rating": 3,
+   "title": "I can’t use a feature",
+   "body": "I don’t know why I can’t use a certain feature on instagram. Like everyone can repost. They have that option but I don’t. It’d be nice if I could use that feature",
+   "author": "Yuki Nakamura22",
+   "version": "452.0.0",
+   "date": "2026-10-24T02:11:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704618268",
+   "rating": 1,
+   "title": "election interference",
+   "body": "meta is interfering with the electoral process in brazil and contributing to the fall of democracy worldwide.",
+   "author": "kdgvds",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:59:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704617539",
+   "rating": 1,
+   "title": "Forced AI/Meta",
+   "body": "Taking our own right to choose or object from an extractive tool like AI is horrible. A terrible app for artists, creatives and business owners. This move was incredibly tacky.",
+   "author": "LBustillo",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:59:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704609597",
+   "rating": 1,
+   "title": "Bad AI Policy",
+   "body": "New AI update is abysmal for creatives and also incredibly shady.",
+   "author": "CasIsSoTired",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:56:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704600747",
+   "rating": 1,
+   "title": "insta",
+   "body": "straight bums",
+   "author": "fat big oll",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:52:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704599470",
+   "rating": 1,
+   "title": "INFLUENCIA NAS ELEIÇÕES",
+   "body": "A empresa está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país.",
+   "author": "Demetriusrs",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:52:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704571804",
+   "rating": 5,
+   "title": "ok",
+   "body": "yep",
+   "author": "ajsperry",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:41:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704529647",
+   "rating": 1,
+   "title": "AI Slop Takeover",
+   "body": "starting November 20tg all business accounts will have our data scraped for ai with no way for American users to opt out. i genuinely hate generative ai so much and will be deleting the app if this change goes through. everyone abandon social media and make a neocities site or something. return to tumblr",
+   "author": "kaiamai",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:24:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704518939",
+   "rating": 1,
+   "title": "Ai needs to be stopped",
+   "body": "Accounts are not tools for Ai. You can’t claim you’re “training” ai when you’re stealing and feeding to ai.",
+   "author": "YoMama-.-",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:20:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704515630",
+   "rating": 5,
+   "title": "666",
+   "body": "6",
+   "author": "Ops12knock",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:19:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704485314",
+   "rating": 5,
+   "title": "Instagram, We Need to Talk! 😤📉",
+   "body": "I’m frustrated that my posts aren’t reaching the Explore page, no matter how much time, creativity, and effort I put into them. 😔 My content deserves a chance to reach new audiences. Please help creators get the visibility they deserve! #Instagram #ExplorePage #SupportCreators",
+   "author": "maryjamhagh",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:07:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704473833",
+   "rating": 1,
+   "title": "Imparcialidade",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos. Exigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "sollemos",
+   "version": "452.0.0",
+   "date": "2026-10-24T01:02:29-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704448352",
+   "rating": 1,
+   "title": "pushing ai slop",
+   "body": "cant exit out of meta ai it does not have the option to opt out",
+   "author": "do not like ai",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:52:11-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704406488",
+   "rating": 1,
+   "title": "Disappointed",
+   "body": "This site is interfering on the election in my country. Respect our democracy.",
+   "author": "Patinhars",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:35:23-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14704405295",
+   "rating": 1,
+   "title": "Can’t opt out of ai training",
+   "body": "Going to delete my account if they go through and try training their ai using my content without my permission and there’s no way to opt out of it. Screw you meta",
+   "author": "Guava14098",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:34:55-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704378064",
+   "rating": 1,
+   "title": "AI Slop and Constant UI Errors",
+   "body": "not a fan of trying to implement generative AI. kinda insane to scrape the hardwork of artists and creators to train you AI when theyve been a huge part of giving instagram the platform it has today.. will probably delete this app and unfortunately my accounts which is unfortunate because I've had a lot of good memories kept on them.",
+   "author": "Clancy.is.insane",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:23:49-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704370450",
+   "rating": 1,
+   "title": "Suspending accounts out of nowhere",
+   "body": "I was minding my own business and my account got suspended for no reason it didn’t tell me the reason many people are getting the same thing as me",
+   "author": "Jh_989",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:20:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704364150",
+   "rating": 1,
+   "title": "You can't opt out of AI",
+   "body": "With Meta's upcoming policy you won't be able to opt out of AI scraping business accounts which essentially makes an art account on their site impossible to maintain. It is not fair at all to loyal users to claim a space for artists and then plagarize and steal your patrons work. Incredibly disappointed in Meta and Instagram.",
+   "author": "Gbitsf",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:18:12-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704347336",
+   "rating": 1,
+   "title": "AI policy",
+   "body": "All Meta accounts will scrape business accounts with AI to use for training. This is horrible for artists who can’t opt out. I plan to discontinue posting any photos unless this changes.",
+   "author": "adamellite",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:11:18-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704330522",
+   "rating": 1,
+   "title": "Electoral interference",
+   "body": "Meta s interfering with my country's electoral process and undermining democracy by trying to forcefully elect someone who will not regulate Instagram in my country",
+   "author": "thalorusso",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:04:27-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704319973",
+   "rating": 5,
+   "title": "Mamentalni efekiti chiqmaya",
+   "body": "Mamentalni efekitlari chiqmaya",
+   "author": "Vd larim reka chiqmaya",
+   "version": "452.0.0",
+   "date": "2026-10-24T00:00:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704318943",
+   "rating": 1,
+   "title": "This app is malicious",
+   "body": "This app is interfering in the Brazilian elections",
+   "author": "Barbara ARAO",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:59:42-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704317006",
+   "rating": 1,
+   "title": "Why it’s a 1 star",
+   "body": "Cause instagram keeps banning my account when i didn’t do anything to went over theyre rules",
+   "author": "SHAKABOOM84",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:58:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704276430",
+   "rating": 1,
+   "title": "GEN-AI IN INSTAGRAM SUX!",
+   "body": "i HATE generative ai!! EVERYONE hates gen ai, its the BEST way to turn your app into literal pile of burning trash! Companies, do you LIKE to burn your products into the ground? Everyone has been on a consistent downhill slope of hating every new feature instagram implements, because they all absolutely suck and are not beneficial in anyway! Ai will never be universally liked, nor accepted, so quit while you’re ahead? The new feature to use business profiles to train gen-ai, and allowing absolutely no option to opt out in the US is beyond horrifying and absolutely disgusting. Go rot Meta, while knowing you’re a joke and everyone hates you like beyond comprehension 😭 wack as hell man..",
+   "author": "zucksuckbutt",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:41:55-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14704273683",
+   "rating": 1,
+   "title": "Politically Biased",
+   "body": "I’m giving 1 star because there’s been conclusive proof that Meta is interfering in the 2026 presidential election in Brazil.",
+   "author": "Brenno Baldo",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:40:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704249093",
+   "rating": 1,
+   "title": "AI POLICY",
+   "body": "The new AI policy for business accounts is such trash. You'll never make me use or like AI. All they do is steal and they have no respect for their users. Can't wait for this bubble to pop already.",
+   "author": "soupheist",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:30:25-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704225197",
+   "rating": 1,
+   "title": "Stop the Use of AI",
+   "body": "I have used Instagram for 10 years now and it used to be one of my favorite apps. But now the push for AI and invasion of your privacy is too much for me. Instagram/Meta keeps adding updates which makes it harder and harder to protect your data and privacy. I wish I could back to Instagram before its huge push for AI.",
+   "author": "rowan49572",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:20:14-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704214616",
+   "rating": 1,
+   "title": "Interfere",
+   "body": "Please do not interfere in the Brazilian elections",
+   "author": "Rosangela Stone",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:15:44-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704202317",
+   "rating": 1,
+   "title": "Censorship?",
+   "body": "What’s up with the fake engagement numbers for political figures!???",
+   "author": "Gabrieksp",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:10:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704201124",
+   "rating": 1,
+   "title": "Anti- democrática",
+   "body": "Está interferindo nas eleições do Brasil, limitou conteúdos da esquerda e engajou o da Direita.",
+   "author": "Sui Bulcao",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:09:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704199817",
+   "rating": 1,
+   "title": "Review",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na manipulação de dados alguém que não irá regulamentar as big techs no meu país e que atenta contra nossa democracia.\n\nYou are interfering in my country's electoral process and harming democracy by trying, through data manipulation, to elect someone who will not regulate the big tech companies in my country and who poses a threat to our democracy.",
+   "author": "Daniela Peixoto de Toledo",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:09:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704182088",
+   "rating": 1,
+   "title": ".",
+   "body": "Últimamente tiene muchos fallas",
+   "author": ",.829",
+   "version": "452.0.0",
+   "date": "2026-10-23T23:01:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704171757",
+   "rating": 1,
+   "title": "Political influence manipulation on algorithm",
+   "body": "Meta is suspected of favoring Flávio Bolsonaro in the Brazilian electoral role. A foreign company should not have the power to influence the political direction of Brazil through its algorithms.\nWe demand transparency, impartiality, and respect for Brazilian democracy!",
+   "author": "Thaees",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:57:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704168868",
+   "rating": 2,
+   "title": "está interferindo no processo eleitoral",
+   "body": "está interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "jessicafochetto",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:56:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704165582",
+   "rating": 1,
+   "title": "AI and Far Right Politics are Antisocial",
+   "body": "Mr. Zuckerberg is forcing his misguided agenda on his users so it may be time to find our way out of Meta. He seems to think he’s the most important part of the equation but without users, his platforms are useless.",
+   "author": "KingOfAmerica",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:54:40-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14704160450",
+   "rating": 1,
+   "title": "Interferência Política",
+   "body": "Está interferindo no processo eleitoral do meu país e \nprejudicando a democracia",
+   "author": "toliveira11",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:52:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704158342",
+   "rating": 1,
+   "title": "Can’t opt out of AI scraping your business account material",
+   "body": "Instagram has declined heavily since its purchase by meta.\nMy engagement has significantly decreased and the business I’ve been able to do through Instagram has drastically declined since their take over.\nIt’s not even worth it to advertise through them or try to maintain my account with them anymore.\nBrimming with AI ads, fake AI accounts, that deplorable Muse AI bs.\nNow they’re making it impossible to opt out of AI scraping business accounts. \n\nThe app is now not enjoyable, barely usable, and not worth the effort of engaging with.\nWhich is a shame because it used to be my favorite app back in the day.",
+   "author": "but why…why",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:51:29-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704141582",
+   "rating": 1,
+   "title": "ELECTIONS INTERFERENCE",
+   "body": "Title says it all",
+   "author": "anandaantonelli",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:44:17-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704137382",
+   "rating": 1,
+   "title": "Interferem nas eleiçoes",
+   "body": "⭐ 1/5\n\nInterferência nas eleições brasileiras é inaceitável!\n\nÉ extremamente preocupante a forma como o Instagram vem conduzindo a moderação de conteúdos políticos relacionados às eleições no Brasil. A percepção de censura, falta de transparência e tratamento desigual de publicações levanta sérias dúvidas sobre a neutralidade da plataforma. Uma rede social com tamanha influência não pode comprometer o debate democrático. Exijo transparência, critérios justos e respeito à liberdade de expressão e à democracia brasileira!",
+   "author": "Guimomessodias",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:42:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704122175",
+   "rating": 1,
+   "title": "Political interference in Brazil",
+   "body": "Meta não se meta",
+   "author": "Democracy13",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:35:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704121734",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "Aplicativo facista, interferindo nas eleições democráticas do Brasil. Ferramenta do regime proxy de Israel para a instauração de golpe de estado no Brasil.",
+   "author": "Guara Tutskima",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:35:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704113771",
+   "rating": 1,
+   "title": "Against Scraping Our Data!",
+   "body": "Meta/Instagram will be implementing data scrapping via AI tech next month. \nWe are BEGGING for you to not do this, or at the VERY LEAST give users in the US to opt out of this.",
+   "author": "Leeeeeeeesa",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:32:17-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704104377",
+   "rating": 1,
+   "title": "Instagram contra a democracia!!!",
+   "body": "Está interferindo no processo eleitoral do Brasil, meu país, e portanto desrespeitando a democracia!",
+   "author": "Lari Bee",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:28:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704103844",
+   "rating": 1,
+   "title": "AI trainer",
+   "body": "As of October 2026 Meta has decided to use all your images to train its AI, with no way to opt out. This is an extreme breach of user trust and as an artist I do not consent to my art being stolen and replicated with AI.",
+   "author": "min987_6",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:27:55-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704089073",
+   "rating": 1,
+   "title": "ESTÁ INTERFERINDO NAS ELEIÇÕES BRASILEIRAS",
+   "body": "sempre usei o app, mas infelizmente tenho acompanhado a fraude eleitoral que está ocorrendo e não passo pano pra bigtech, censurando e influenciando nas eleições brasileiras. O Brasil não é quintal de ninguém!!!",
+   "author": "Luannasouza13",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:21:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704085040",
+   "rating": 1,
+   "title": "🇧🇷",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia!!",
+   "author": "tatianebogea",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:19:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704080517",
+   "rating": 1,
+   "title": "Don’t scrape sites for AI please",
+   "body": "As an artist, I find it disgusting that not only are you rolling out an update to scrape professional and business accounts to train your AI models, have it scrape external links, but you are also not letting users in the US opt out of it if we do not feel comfortable with our posts being used to train model. Disgusting behavior from a site many people use to reach wider audiences.",
+   "author": "P. Neko",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:17:47-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704077703",
+   "rating": 1,
+   "title": "Interfering in Brazil's election",
+   "body": "Meta admittedly disabled Lula's IG account before the election and is interfering in the Brazilian election",
+   "author": "sami_12",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:16:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704077637",
+   "rating": 1,
+   "title": "Meta & Gen AI",
+   "body": "So they updated their AI policy to state that they're allowing generative AI to scrape all business accounts and not giving US-based customers an option to opt out. Please change that. Super unethical thanks.",
+   "author": "Let Us Opt out of Gen AI",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:16:32-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704071086",
+   "rating": 1,
+   "title": "Political influence",
+   "body": "This App is challenging the democracy in Brazil.",
+   "author": "Brazilian2026",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:13:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704046796",
+   "rating": 1,
+   "title": "Ai policy is buns - for share holders and no longer for the arts",
+   "body": "Instagram used to be for artists, sharing moments with friends, now all they care about is making money off advertisements and that’s all they care about. The only want is begging for scraps of interactions so they can have our eyes open for their advertisers. Well, I’ll never click an ad on Instagram ever again, I’ll block all paid adverts I see unless it’s from a small business.",
+   "author": "annA12348675",
+   "version": "452.0.0",
+   "date": "2026-10-23T22:03:10-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704034400",
+   "rating": 5,
+   "title": "Sound good",
+   "body": "The best app",
+   "author": "DannyBroker",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:57:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704024529",
+   "rating": 1,
+   "title": "Meta AI",
+   "body": "BOOOOOO!!!!! Opting out of AI training should always be an option!!! Do not scrape businesses without direct permission!!! Do better!!!!",
+   "author": "biggiesaur",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:53:33-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14704022833",
+   "rating": 1,
+   "title": "Repeated Suspensions, Horrible Customer Service",
+   "body": "I’m extremely disappointed with Instagram’s account recovery process. My account, @heartz4niyaa_, was permanently disabled over an age-verification issue even though I am 16 and submitted my learner’s permit to verify my age. I was then told I could not request another review, and now I can’t even create a new account because I keep getting “Something went wrong” and “Try again later” errors.\n\nI have contacted support multiple times, but I keep receiving the same explanations without a real solution. Users deserve a fair opportunity to resolve possible verification mistakes instead of being left without answers or access to support.\n\nI want this issue taken seriously. If I cannot get a fair explanation or a reasonable way to resolve this matter, I am prepared to explore my legal options, including seeking legal advice about whether I have grounds to take legal action.\n\nInstagram needs to improve its support system and provide a fair process for users who believe their accounts were disabled by mistake.",
+   "author": "Niyaaaa298",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:52:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704022340",
+   "rating": 1,
+   "title": "Horrible app",
+   "body": "App is stated as ENGAGING in the description. That is because this app’s algorithm is ADDICTIVE, and has severely affected my mental health through my life. For the sake of their wellbeing, do not let your children use this app. As an artist, it is devastating to learn of the scummy ai policies that are to come. They are the salt in the wound after the addiction I face. This app is free because YOU are the product the owners of this app are profiting from. I would not recommend this app to anyone and I especially wouldn’t recommend people giving money and their data to this disgusting platform. As long as these practices exist, I’ll feel much happier and comfortable enjoying social media through outlets like tumblr that seem to pay attention to what their users value. Hopefully through therapy I can overcome theses addictions and eventually make the switch if meta can’t change their ways",
+   "author": "Summer the artist",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:52:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14704006930",
+   "rating": 1,
+   "title": "U R meddling with democracies",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "SEBASTIAN LEAL",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:45:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703983304",
+   "rating": 1,
+   "title": "Censorship and political intervention",
+   "body": "Instagram is interfering with Brazilian election in 2026.",
+   "author": "deboraverniz",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:36:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703972194",
+   "rating": 5,
+   "title": "Noel",
+   "body": "Love him",
+   "author": "Go-BeavsOSU🦫",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:31:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703957762",
+   "rating": 1,
+   "title": "Algorithm is manipulated",
+   "body": "It’s interfering in the electoral process of Brazil!!!",
+   "author": "B. Forte",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:25:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703956368",
+   "rating": 1,
+   "title": "Intereference in Brazilian elections",
+   "body": "Meta is clearly restricting the reach of posts by the left-wing candidate and increasing the reach of post by/about the right-wing one. This is undue interference in the presidential race!!",
+   "author": "rraaffaaeell",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:24:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703949428",
+   "rating": 1,
+   "title": "Meta is interfering in Brazil’s Elections",
+   "body": "Shame on you, Meta. Stop meddling in Brasil’s elections.",
+   "author": "Déb.Oliveira",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:21:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703946866",
+   "rating": 1,
+   "title": "Election interference of a sovereign state",
+   "body": "Está interferindo na eleição presidencial do meu país soberano, o Brasil.\n\nIs interfering in the presidential election of my sovereign country, Brazil.",
+   "author": "geminibooks",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:20:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703932881",
+   "rating": 1,
+   "title": "Election interference",
+   "body": "\"A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!\"",
+   "author": "IG concerned user",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:14:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703931986",
+   "rating": 2,
+   "title": "Supports fascists candidates in south america",
+   "body": "It is interfering in my country’s election process and undermining democracy by pushing the content of extreme far right while limiting posts with leftist content.",
+   "author": "ForDemocracy",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:14:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703910738",
+   "rating": 1,
+   "title": "Interfering in Brazil elections",
+   "body": "Censoring content from one candidate and favoring content from the other",
+   "author": "Usampaio",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:05:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703904035",
+   "rating": 2,
+   "title": "Mail box or send button?",
+   "body": "I love how the mail box is the same icon as the send button.  It’s not confusing and so nice to loose your feed by navigating to the mail box by accident. I’m clearly on content I think is good enough to share, then I lose it trying to share.  Is so nice to have a button that lets me know when I’ve spent too much time on Instagram.",
+   "author": "GaXIMUS",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:02:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703903302",
+   "rating": 1,
+   "title": "Está manipulando e interferindo nas eleições do meu país.",
+   "body": "Tem promovido e sido conivente com perfis que espalham informações falsas e  tem limitado o alcance de contas que combatem esses perfis devido ao interesse particular dos estados unidos em um desfecho das eleições em que a direita bolsonarista vença.",
+   "author": "Hamletgcal",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:02:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703899818",
+   "rating": 1,
+   "title": "Unfair",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia!!!",
+   "author": "Jjjbr26",
+   "version": "452.0.0",
+   "date": "2026-10-23T21:01:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703893036",
+   "rating": 1,
+   "title": "Pushing AI garbage",
+   "body": "No one asked for META to scrape business accounts for information to train AI.",
+   "author": "lilfluffbutt",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:58:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703887781",
+   "rating": 1,
+   "title": "Antidemocrático",
+   "body": "This app is interfering in the electoral process of my country and damaging democracy.",
+   "author": "blablublablu_321",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:56:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703883185",
+   "rating": 1,
+   "title": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Kauane03",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:54:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703874810",
+   "rating": 1,
+   "title": "👎🏽",
+   "body": "Está interferindo no processo eleitoral do meu país, prejudicando a democracia",
+   "author": "Poncecarol",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:50:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703870112",
+   "rating": 4,
+   "title": "why meta.",
+   "body": "liquid so good but why my iphone 12 mini don't have, i update ios 27 too",
+   "author": "ngulonterabox",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:49:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703869053",
+   "rating": 1,
+   "title": "Censura, manipulação e intervenção em eleições",
+   "body": "Censuram postagens com razões aleatórias e falsas, promove mais conteúdo de um lado do que do outro, desligam interações (curtidas, comentários, repostagem, compartilhamento), diminuem alcance e engajamento, e ainda por cima editam o conteúdo dos outro pra censurar aquilo que é contrário ao lado que apoiam. Maior empresa de manipulação, lavagem cerebral e disseminadora de ódio e polarização.",
+   "author": "Cecixx19",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:48:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703860598",
+   "rating": 1,
+   "title": "Processo eleitoral",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Dothraki77",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:45:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703860502",
+   "rating": 1,
+   "title": "Interfered in my countries democracy",
+   "body": "Manipulated informations about Brazil elections",
+   "author": "Luisalopes92",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:45:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703827372",
+   "rating": 1,
+   "title": "Meta has ruined instagram",
+   "body": "As the title says, meta has completely ruined instagram in the last two years, culminating in the worst decision ever, muse, which now has the authority to read your PRIVATE DMs. I will be deleting this app and informing all of my friends and family to do the same.",
+   "author": "Zionists are evil",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:31:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703823066",
+   "rating": 5,
+   "title": "My Instagram account was disabled for no reason",
+   "body": "My Instagram account was disabled for no reason along with my Facebook and Threads account\nI’ve been on Instagram and Facebook for years. Never had a problem. I’d never post anything bad and they just disabled my account because they said AI detected suspicious activity. My account is so clean.",
+   "author": "Gabriel Ellis @gabrielellis",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:30:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703822477",
+   "rating": 1,
+   "title": "FORA!",
+   "body": "Está usando seu poder para influenciar a política brasileira, interferindo na soberania do nosso país e enfraquecendo a democracia para favorecer um candidato alinhado aos seus interesses e contrário à regulamentação do Instagram no Brasil.",
+   "author": "clara.om",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:29:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703820558",
+   "rating": 1,
+   "title": "Está interferindo na democracia do meu país",
+   "body": "Triste",
+   "author": "Crrrrrrrrrris",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:29:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703817641",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "author": "Nleandr",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:28:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703805892",
+   "rating": 1,
+   "title": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia.",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a nossa democracia.",
+   "author": "NoliaBessa",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:23:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703797779",
+   "rating": 1,
+   "title": "Facist company",
+   "body": "Meta is favoring a right wing candidate in the Brazilian elections! Respect our democracy!!!",
+   "author": "MrsFerdinanda",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:20:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703797381",
+   "rating": 1,
+   "title": "Manipulando eleição no Brasil",
+   "body": "Está interferindo na eleição do meu país",
+   "author": "#brazilelections",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:20:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703789012",
+   "rating": 1,
+   "title": "Elections in Brazil",
+   "body": "Instagram is interfering in Brazil’s elections by favoring the far-right side",
+   "author": "Heldercalldas",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:16:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703784068",
+   "rating": 1,
+   "title": "Estao interferindo nas eleições brasileiras",
+   "body": "Instagram e Meta estao interferindo no processo eleitoral do meu país e prejudicando a democracia tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "bernardin BR",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:14:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703782525",
+   "rating": 1,
+   "title": "Interferência",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia",
+   "author": "Hdgjdknct",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:14:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703779282",
+   "rating": 1,
+   "title": "Eleições 2026",
+   "body": "Estão interferindo no processo eleitoral do meu país, Brasil.",
+   "author": "BuniVal",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:13:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703768501",
+   "rating": 1,
+   "title": "ELECTION INTERFERING??",
+   "body": "Meta employees have literally been caught admitting that Meta is favoring pushing the conservative candidate in the upcoming Brazilian election.",
+   "author": "ecvvcsdbyyfc",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:09:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703767753",
+   "rating": 1,
+   "title": "Interference and bias",
+   "body": "This app is biased and not reliable when dealing with the truth and real facts. It interferes with people’s freedom and countries sovereignty.",
+   "author": "Marcusvrr64",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:08:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703765434",
+   "rating": 1,
+   "title": "AI Slop",
+   "body": "Make the ai scraping at LEAST optional if ur gonna do it",
+   "author": "Mrpeanut1000",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:07:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703764011",
+   "rating": 1,
+   "title": "A.I. policy",
+   "body": "I do not agree or consent to the upcoming chances to the AI policy but I now know insidious misuse of data by meta has been ongoing. Disappointed to say the least. Deleting this app for good.",
+   "author": "Sneso’s Shop",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:07:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703763989",
+   "rating": 1,
+   "title": "Instagram sucks",
+   "body": "It's annoying that they take away my account all the time because people report, Instagram doesn't check if the report is right or is false. It has already happened to me several times that Instagram takes away my account and does not return it to me for no reason. They should review the report before restricting the account.",
+   "author": "mxidx_sxn",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:07:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703762760",
+   "rating": 1,
+   "title": "AI",
+   "body": "You’re an abomination. Using AI against our will should go without saying that it is a violation against instagrams users. I hate this damn app.",
+   "author": "Swindlesnack",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:06:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703762467",
+   "rating": 1,
+   "title": "Interferindo no processo eleitoral do meu país Brasil",
+   "body": "Quer prejudicar a democracia!",
+   "author": "qualquercoisiisa",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:06:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703760355",
+   "rating": 1,
+   "title": "Give me my account back",
+   "body": "Instagram took 5 of my accounts in the late 4 months. IVE done nothing wrong",
+   "author": "Kuttt56",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:05:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703752590",
+   "rating": 1,
+   "title": "Politics",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a a democracia, tentando eleger na marra alguém que não irá regulamentar o Instagram no meu país",
+   "author": "Anacpag",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:03:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703749559",
+   "rating": 5,
+   "title": "2026",
+   "body": "As a boomer coming from Facebook and MySpace I’m still here. One of the easiest app to navigate these days.",
+   "author": "Kmac895",
+   "version": "452.0.0",
+   "date": "2026-10-23T20:01:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703741543",
+   "rating": 1,
+   "title": "Unwanted ai",
+   "body": "Forcing users in the US to use ai to steal their images, including any offsite content that is on the user’s website seems like invasion of privacy and theft",
+   "author": "Ldychem",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:58:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703737975",
+   "rating": 1,
+   "title": "Interference in my country’s elections",
+   "body": "It’s interfering in my country’s electoral process and undermining democracy.",
+   "author": "Dwoznyj",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:57:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703719790",
+   "rating": 1,
+   "title": "Meta, Hands Off Brazil's Democracy",
+   "body": "A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "Favanna13",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:50:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703708576",
+   "rating": 1,
+   "title": "Intere ferindo no processo eleitoral",
+   "body": "O Instagram está intervindo no processo eleitoral do Brasil ao derrubar páginas importantes",
+   "author": "Não lançava notas antes",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:46:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703705658",
+   "rating": 1,
+   "title": "Overwhelmed with Spam",
+   "body": "Instagram has a serious spam issue. I report at least ten spam accounts a day for following me or “viewing” my stories. Enough is enough. Please get a handle on this. Also, every other post in my feed is an ad for garbage I don’t have any interest in, and if I hide the ad, another garbage ad replaces it. Don’t even get me started in the censoring issue. A lot of artists I follow get their artwork taken down on the regular, but somehow Insta can’t keep fake accounts from pestering me several times a day. I’ve been using Instagram for many years, and I can’t stress enough how much I long for the days before Facebook bought them. It’s my preferred social media, but if ever someone manages to replace them with a similar, less trash platform, I’ll be on that boat.\n\n2026: The app has only gotten worse with more irrelevant content, an overwhelming amount of spam and ads, and less and less capabilities for finding new posts with hashtags. I rarely use it now and am amazed by just how far downhill it's gone.",
+   "author": "anotherunnecessaryopinion",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:45:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703703865",
+   "rating": 1,
+   "title": "Empresa contra a Democracia/ Company against democracy",
+   "body": "A Meta está interferindo nas eleições do meu pais./ Meta is interfering in the democratic process in my country",
+   "author": "Ferreira1704",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:44:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703695531",
+   "rating": 1,
+   "title": "Intervenção eleitoral",
+   "body": "O app está intervindo nas eleições brasileiras",
+   "author": "CMR277",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:41:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703695050",
+   "rating": 1,
+   "title": "Não se meta",
+   "body": "Nas eleições brasileiras",
+   "author": "Bobeirasa",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:41:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703683802",
+   "rating": 1,
+   "title": "META está atrapalhando a democracia do Brasil",
+   "body": "A Meta está favorecendo Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!",
+   "author": "Adilsonkleiman",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:37:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703677092",
+   "rating": 1,
+   "title": "A democracia do Brasil não está a venda",
+   "body": "\"A Meta está sob suspeita de favorecer Flávio Bolsonaro na corrida eleitoral brasileira. Uma empresa estrangeira não pode ter o poder de influenciar os rumos políticos do Brasil por meio de seus algoritmos.\nExigimos transparência, imparcialidade e respeito à democracia brasileira!\"",
+   "author": "G2020io",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:34:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703673511",
+   "rating": 1,
+   "title": "Biased",
+   "body": "The app has a biased algorithm, in other words, it promotes a specific political agenda and fails to deliver content that doesn't align with it.",
+   "author": "feransaraiva",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:33:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703650273",
+   "rating": 5,
+   "title": "Please help me",
+   "body": "Title: Missing Instants Feature\n\nReview:\n\nI have updated Instagram to the latest version, but the new Instants photo feature is still not available on my account. I would really like to use this feature. Please make it available to my account as soon as possible. Thank you.",
+   "author": "ola salah jabar",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:24:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703649148",
+   "rating": 1,
+   "title": "AI scraping??!",
+   "body": "I find this such a violation. Please do not do this! I am a small artist and the idea of training META AI with my livelihood is absolutely abhorrent! I have spent years of work and thousands of dollars worth of schooling to create the work that I create, what gives you the right to steal that intellectual property for your own gains? You’re already farming my data and making me jump through hoops to be seen- how much will be enough? Booo",
+   "author": "Mir de S",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:24:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703646354",
+   "rating": 1,
+   "title": "latest update drains battery",
+   "body": "the latest update 452 is messing with my battery in the background. tho background activities is off. unistalled it = blessed.",
+   "author": "Roger Rosli",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:23:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703637533",
+   "rating": 1,
+   "title": "Bad for Brazil’s democracy",
+   "body": "It’s interfering in my country’s electoral process and harming democracy",
+   "author": "LulluPimentel",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:20:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703628249",
+   "rating": 1,
+   "title": "Interferindo na política",
+   "body": "Esse app está interferindo na política do Brasil .",
+   "author": "sarasilmen",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:16:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703627042",
+   "rating": 1,
+   "title": "META INTERFERE NAS ELEIÇÕES BRASILEIRAS",
+   "body": "A verdade que a empresa Meta interfere nas eleições brasileiras beneficiando o algoritmo de candidatos fascistas para enfraquecimento da democracia brasileira! A META INTERFERE NAS ELEIÇÕES BRASILEIRAS!!",
+   "author": "BOTAFOGO DE FUTEBOL E REGATAS",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:16:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703625194",
+   "rating": 1,
+   "title": "Content preference",
+   "body": "I put a specific thing that I don’t want to see in my algorithm on the content preference and it still shows and a lot. It didn’t even try to take it away.",
+   "author": "Elizabethgarcia2000",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:15:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14703621924",
+   "rating": 1,
+   "title": "Vergonhoso",
+   "body": "Está interferindo no processo eleitoral do meu país e prejudicando a democracia! Inaceitável!",
+   "author": "revoltada2",
+   "version": "452.0.0",
+   "date": "2026-10-23T19:14:27-07:00",
+   "votes": 0
+  },
   {
    "id": "14679623707",
    "rating": 1,

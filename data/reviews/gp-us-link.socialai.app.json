@@ -1,39 +1,479 @@
 {
  "stats": {
-  "total": 1600,
+  "total": 1640,
   "avg": 4.05,
   "dist": {
-   "1": 128,
-   "2": 84,
-   "3": 178,
-   "4": 395,
-   "5": 815
+   "1": 131,
+   "2": 86,
+   "3": 183,
+   "4": 404,
+   "5": 836
   },
   "d7": {
-   "count": 200,
-   "avg": 3.99,
+   "count": 240,
+   "avg": 4.0,
    "dist": {
-    "1": 15,
-    "2": 10,
-    "3": 30,
-    "4": 52,
-    "5": 93
+    "1": 18,
+    "2": 12,
+    "3": 35,
+    "4": 61,
+    "5": 114
    }
   },
   "d30": {
-   "count": 1600,
+   "count": 1640,
    "avg": 4.05,
    "dist": {
-    "1": 128,
-    "2": 84,
-    "3": 178,
-    "4": 395,
-    "5": 815
+    "1": 131,
+    "2": 86,
+    "3": 183,
+    "4": 404,
+    "5": 836
    }
   },
-  "updatedAt": "2026-10-26T07:42:18+00:00"
+  "updatedAt": "2026-10-26T11:05:15+00:00"
  },
  "reviews": [
+  {
+   "id": "57be1b37-0e22-4b13-b823-caf0c7a1fa19",
+   "rating": 1,
+   "title": "",
+   "body": "че так много рекламы, просто ужасно неудобно пользоваться приложением, а энергии всегда критически мало",
+   "author": "Каусар Ауезбек",
+   "version": "1.9.63",
+   "date": "2026-10-25T11:01:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "55e9e425-52e6-434f-b572-17e47ce2d923",
+   "rating": 5,
+   "title": "",
+   "body": "so☺️ funnn",
+   "author": "sienna Golder",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:57:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2d115c7f-aa98-454c-87af-cf79701f9e8c",
+   "rating": 5,
+   "title": "",
+   "body": "good app",
+   "author": "meret manon",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:56:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0e70cd85-62ca-4044-b245-2a7f8c835382",
+   "rating": 2,
+   "title": "",
+   "body": "wish there was less ads",
+   "author": "Beanie Weanie",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:56:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5aa9e29e-e274-4e36-848e-fed8f16e2d04",
+   "rating": 4,
+   "title": "",
+   "body": "this game is great however the energy mechanics are kind of broken and the app is not optimised for Android clearly lots of bugs and glitches I'll update it to 5 stars as soon as the major ui glitches are fixed",
+   "author": "Ankan",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:51:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "52f1739c-b9ae-41d1-b326-257d48c6fa31",
+   "rating": 5,
+   "title": "",
+   "body": "I love it very much it's a nice game to play",
+   "author": "Sinenhlanhla Manganyi",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:41:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a1c8a026-f5a4-410c-9f9e-39353bec3104",
+   "rating": 5,
+   "title": "",
+   "body": "it's nice",
+   "author": "Ash Gray",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:40:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "65c56b95-04a5-40fd-80d0-888b3db93666",
+   "rating": 3,
+   "title": "",
+   "body": "it's kinda decent that's it.",
+   "author": "Roman",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:37:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "63b06927-b2ef-45ab-aa8a-b91b87db050d",
+   "rating": 4,
+   "title": "",
+   "body": "It mimics real-life socializing, as well as putting challenges that players need to accomplish. Then again, certain replies from other responders feel generic and repeated. (Edit: Also, the ad-rewards seems a bit inconsistent for me. Sometimes when I watch for energies, it doesn't reward me after few many attempts.) It's a fun app, either way.",
+   "author": "Angel Jamilan",
+   "version": "",
+   "date": "2026-10-25T10:35:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "187a54cf-3f83-440d-9844-311ec7de50d7",
+   "rating": 3,
+   "title": "",
+   "body": "great app but i just dont like the subscriptions thing",
+   "author": "Evander Jayden Kho",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:23:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f7ee805b-4dac-40c5-8f1b-f2baa2f0ff80",
+   "rating": 5,
+   "title": "",
+   "body": "It's a fun experience, I love chatting here. The only thing that's bothering me is waiting 24 hours for your energy to get replenished.",
+   "author": "Meowsic",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:21:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9beeb438-52c7-48b0-856d-d1e2498f5c80",
+   "rating": 3,
+   "title": "",
+   "body": "Nice but too many ads. feels like they're trying to meet a quota.",
+   "author": "Candice W.",
+   "version": "",
+   "date": "2026-10-25T10:20:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4291cd15-3f2d-4043-9b0d-c96782aa5f7b",
+   "rating": 5,
+   "title": "",
+   "body": "it's a really fun roleplay app, there's some ads but not too many that it's impossible to use!",
+   "author": "stipo grgić",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:12:19+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ff8729d0-8d28-438c-837a-62b27688f2fa",
+   "rating": 1,
+   "title": "",
+   "body": "too many ads",
+   "author": "Dakota Pressy",
+   "version": "1.9.63",
+   "date": "2026-10-25T10:03:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5a0e7df4-bb32-4bec-8c6b-46af9a622dcb",
+   "rating": 4,
+   "title": "",
+   "body": "would've given this app 5 stars if it wasn't for the very little energy for non-subscribers. the app and game in general is very fun and has great potential. i personally don't mind the ads as they're really short but I really hope they give non-subscribers more energy or make the energy replenish passively after 3-4 hours instead of the entire 24 hours.",
+   "author": "summer quinn",
+   "version": "",
+   "date": "2026-10-25T10:00:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b68ec184-9667-4a39-9390-cca4b4a369b5",
+   "rating": 5,
+   "title": "",
+   "body": "love this!",
+   "author": "Julia",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:57:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "70786c94-c8a4-4d23-8b38-71a91abeeb51",
+   "rating": 5,
+   "title": "",
+   "body": "guys I love this sm it's so peak",
+   "author": "Kaizley Heppe",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:57:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9950624f-dca5-4fde-b337-74c9aa07edf4",
+   "rating": 4,
+   "title": "",
+   "body": "it's good but the waiting time is too long hey",
+   "author": "Terry Bila",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:56:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "24b1b7c8-39e4-411e-a132-1e4413947f10",
+   "rating": 5,
+   "title": "",
+   "body": "Nice app",
+   "author": "Qaid Batman",
+   "version": "",
+   "date": "2026-10-25T09:34:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0a1caec9-2577-498e-a6d3-6b7809f03eb6",
+   "rating": 3,
+   "title": "",
+   "body": "This app is reasonably fun. You don't get many turns on the free version and every turn is followed by an ad.",
+   "author": "Sema",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:32:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "17fe5d83-fd05-48ee-b7c5-056431fe88c6",
+   "rating": 5,
+   "title": "",
+   "body": "honestly fun..",
+   "author": "James Thomas Domael",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:27:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7ee51385-6ea9-4db3-bff6-e7cd00b884bc",
+   "rating": 5,
+   "title": "",
+   "body": "good",
+   "author": "jenoleeys",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:17:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "43d39f38-af07-48e5-a243-285452d4a5fb",
+   "rating": 5,
+   "title": "",
+   "body": "really really fun",
+   "author": "Bao Scarlett",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:15:46+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "86980dbb-2769-42c5-9b0c-1f83b59f4ca8",
+   "rating": 5,
+   "title": "",
+   "body": "Its a really addictive app, i literally have a whole college love life anyway i hope they add more options to get more energy because getting 5 a day is such a small number plus the ads run out so the only choice is to wait for hours for it to refill.",
+   "author": "Nazia Urbiztondo",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:12:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "644aab6e-f698-44b0-818c-6a2770c62ae8",
+   "rating": 5,
+   "title": "",
+   "body": "best app",
+   "author": "Ekaksh Jeena",
+   "version": "1.9.63",
+   "date": "2026-10-25T09:00:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6d4da8ab-66ec-4df0-aae5-2d482f52b465",
+   "rating": 4,
+   "title": "",
+   "body": "great app, just sad that compared to back in the day you get no energy. i still love the app but they could improve on that.",
+   "author": "Kas",
+   "version": "",
+   "date": "2026-10-25T08:56:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a6bfc982-aea9-4433-a79e-91b347c9f05d",
+   "rating": 5,
+   "title": "",
+   "body": "100% cinema",
+   "author": "abraham.kenxyi maghari",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:55:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e5949d8b-3373-4285-99d6-87c15752e4e6",
+   "rating": 2,
+   "title": "",
+   "body": "Such a trash app doesn't even work first of all instead of removing bugs make it work first! If anyone sees my review i highly recommend please do not download this app and if you already have it just uninstall it.",
+   "author": "Raghu Nath Baruah",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:51:13+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "d99b5363-5941-4104-9a8d-e83eb5fd513b",
+   "rating": 5,
+   "title": "",
+   "body": "Ads drive me up the wall but it's so fun I swear",
+   "author": "Aynat Hussein",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:47:56+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "9284ae4c-723d-45ce-8532-6070a5709b0f",
+   "rating": 5,
+   "title": "",
+   "body": "good",
+   "author": "Priyansu Protim Dutta",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:42:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e9a3e231-9fea-466a-b2ac-2c3ef0d1e585",
+   "rating": 4,
+   "title": "",
+   "body": "this was fun! but the minus thing was after get ads, there is bug where you get shown the ads free twice even though you already clicked no",
+   "author": "Sherice Lim",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:38:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "600ab689-2e0e-4da3-994e-fa3f82a994d3",
+   "rating": 4,
+   "title": "",
+   "body": "it's a good but there energy is too little. I don't mind watching ads for \"energy\" but once the ads run out I either have to pay for gems to refill or Wait a day. Other than that it's fun.",
+   "author": "Yasodhara Kurnia",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:20:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8007be3b-088b-4096-ba6f-cb0042ab37be",
+   "rating": 1,
+   "title": "",
+   "body": "it was so laggy and just stopped sometimes that I can't even click anything and id have to close the app and restart it and u cannot do anything good without the plus upgrade u guys just need money thats it not good bad experience overall",
+   "author": "Akif Satare",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:19:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "33b1c743-b43b-4c34-99c6-f65223bbe1bf",
+   "rating": 4,
+   "title": "",
+   "body": "very good but a little too many ads",
+   "author": "Brad Yomama",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:12:42+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4abb463c-da8b-448c-9154-412f87029dc3",
+   "rating": 3,
+   "title": "",
+   "body": "it was pretty fun i personally really liked it but I don't like how fast the energy goes",
+   "author": "Susana Vargas",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:12:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "04e2a8be-03d3-4fb3-9f5a-fa28651b0101",
+   "rating": 5,
+   "title": "",
+   "body": "It's nice",
+   "author": "JJames",
+   "version": "",
+   "date": "2026-10-25T08:01:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f1fdfb1f-f387-4a67-b211-6dd544587534",
+   "rating": 4,
+   "title": "",
+   "body": "fun",
+   "author": "candice ramchuran",
+   "version": "1.9.63",
+   "date": "2026-10-25T08:00:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ea473a7e-6d47-44c8-988d-91250b1bc111",
+   "rating": 5,
+   "title": "",
+   "body": "such a good app",
+   "author": "Jaekyung H",
+   "version": "1.9.63",
+   "date": "2026-10-25T07:52:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cb8276fe-bc68-47f5-8ffb-040f1770d47a",
+   "rating": 5,
+   "title": "",
+   "body": "love it!",
+   "author": "Aliya Kingsley",
+   "version": "1.9.63",
+   "date": "2026-10-25T07:50:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a80a2291-3eb7-486b-aa92-99839fad07be",
+   "rating": 5,
+   "title": "",
+   "body": "amazing app",
+   "author": "Diegojohn Delport",
+   "version": "1.9.63",
+   "date": "2026-10-25T07:45:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "5241b52f-812c-4c2e-9317-5e17ae0b9b23",
    "rating": 4,

@@ -1,39 +1,127 @@
 {
  "stats": {
-  "total": 1304,
+  "total": 1312,
   "avg": 2.91,
   "dist": {
-   "1": 456,
-   "2": 135,
+   "1": 459,
+   "2": 136,
    "3": 178,
-   "4": 145,
-   "5": 390
+   "4": 147,
+   "5": 392
   },
   "d7": {
-   "count": 193,
-   "avg": 2.81,
+   "count": 201,
+   "avg": 2.82,
    "dist": {
-    "1": 75,
-    "2": 16,
+    "1": 78,
+    "2": 17,
     "3": 25,
-    "4": 24,
-    "5": 53
+    "4": 26,
+    "5": 55
    }
   },
   "d30": {
-   "count": 965,
+   "count": 964,
    "avg": 2.92,
    "dist": {
     "1": 331,
     "2": 98,
-    "3": 137,
+    "3": 136,
     "4": 111,
     "5": 288
    }
   },
-  "updatedAt": "2026-10-26T07:42:20+00:00"
+  "updatedAt": "2026-10-26T11:05:17+00:00"
  },
  "reviews": [
+  {
+   "id": "e06cefed-5177-47dd-9638-fba1869bec16",
+   "rating": 5,
+   "title": "",
+   "body": "I've been on this app for 2 years never paired for anything even with the ads you have to understand like mobile games they are losing money which makes them unable to make this app fully free without ads because they need that ad revenue and I'm completely fine with ads it",
+   "author": "elisa knott",
+   "version": "2.2.82",
+   "date": "2026-10-25T11:04:32+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "eeff2aa9-d036-4aa1-aa64-38c1e7bd4688",
+   "rating": 1,
+   "title": "",
+   "body": "this app turned to snowflakey I hate this app now cant do anything with out it saying im to sensitive and I need to block your words because I cant let you see bad words I deem bad stupid app",
+   "author": "Geno Spawn",
+   "version": "2.0.2",
+   "date": "2026-10-25T10:46:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "478ff534-e92f-4212-86a1-3154c9c00790",
+   "rating": 5,
+   "title": "",
+   "body": "please bring back the free trial",
+   "author": "Juugee suld",
+   "version": "2.2.90",
+   "date": "2026-10-25T10:14:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "85942745-d526-4781-bb45-2f2ef4f5da96",
+   "rating": 1,
+   "title": "",
+   "body": "i hate this app it always controlling my keyboard in my phone even my phone isn't lagging but this app was so lag that's why I only use this sometimes",
+   "author": "grace moralina",
+   "version": "2.2.90",
+   "date": "2026-10-25T09:30:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "66cb2d3a-30a0-4ffe-bb31-c80133773a2f",
+   "rating": 2,
+   "title": "",
+   "body": "personally I like this app but the new play ad to continue chatting kinda ruins the whole flow and now I am not longer receiving daily opals.",
+   "author": "BBT multi spin",
+   "version": "2.2.90",
+   "date": "2026-10-25T08:31:41+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "d82329fd-9752-42d8-a17a-21b1ac98d29d",
+   "rating": 4,
+   "title": "",
+   "body": "Am I the only that hasn't been able to get the opals through daily check-ins recently?",
+   "author": "Cassandra Gregory",
+   "version": "2.2.90",
+   "date": "2026-10-25T08:18:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d5f8a561-f5f8-40af-b0b7-312e1a07f289",
+   "rating": 4,
+   "title": "",
+   "body": "I think it's amazing BUT I wish it had a button where I can show a pic of something if I can't describe it to the person I'm talking to like how (C.ai) has a button that let us show the characters pic to describe what we look like.",
+   "author": "Eileen Makris",
+   "version": "2.2.90",
+   "date": "2026-10-25T08:04:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f02c81cf-f810-4a12-b9c9-b3fde144fe5b",
+   "rating": 1,
+   "title": "",
+   "body": "BEWARE!!!!!!! for a 1 month subscription, and did not get the advertised unlimited chats. ive tried reaching out to customer support and there is no response. at this point, I think it is a scam",
+   "author": "Jeff Olson",
+   "version": "2.2.90",
+   "date": "2026-10-25T08:01:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "498e29a8-5404-4df8-8eb9-e0c52bcfc119",
    "rating": 1,

@@ -1,39 +1,369 @@
 {
  "stats": {
-  "total": 1438,
-  "avg": 1.87,
+  "total": 1468,
+  "avg": 1.88,
   "dist": {
-   "1": 967,
-   "2": 146,
-   "3": 66,
-   "4": 56,
-   "5": 203
+   "1": 985,
+   "2": 149,
+   "3": 67,
+   "4": 57,
+   "5": 210
   },
   "d7": {
-   "count": 197,
-   "avg": 2.07,
+   "count": 227,
+   "avg": 2.08,
    "dist": {
-    "1": 124,
-    "2": 21,
-    "3": 6,
-    "4": 7,
-    "5": 39
+    "1": 142,
+    "2": 24,
+    "3": 7,
+    "4": 8,
+    "5": 46
    }
   },
   "d30": {
-   "count": 1438,
-   "avg": 1.87,
+   "count": 1468,
+   "avg": 1.88,
    "dist": {
-    "1": 967,
-    "2": 146,
-    "3": 66,
-    "4": 56,
-    "5": 203
+    "1": 985,
+    "2": 149,
+    "3": 67,
+    "4": 57,
+    "5": 210
    }
   },
-  "updatedAt": "2026-10-26T07:42:21+00:00"
+  "updatedAt": "2026-10-26T11:05:18+00:00"
  },
  "reviews": [
+  {
+   "id": "bb6547eb-7528-42cb-afa5-12ddda2b60de",
+   "rating": 1,
+   "title": "",
+   "body": "BRO It just suddenly purchased 132.99 even if the 1 week purchased is not available anymore and i cant even chat with the bots even if i paid!!!! MY MONEY IS GONE.",
+   "author": "Ayesha Hidalgo",
+   "version": "",
+   "date": "2026-10-25T11:04:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8ba699e6-8905-4ac7-a8e0-8c0652f58e5b",
+   "rating": 1,
+   "title": "",
+   "body": "Absolutely pathetic. I pay ₹166 every week, and you still expect me to buy extra pieces just to use the app properly. What's the point of a subscription if I'm constantly being hit with more paywalls? It feels like you're squeezing money out of paying users instead of rewarding them. This isn't a premium experience—it's a cash grab. Fix your pricing because this is ridiculous.",
+   "author": "Veda Patil",
+   "version": "0.4.436",
+   "date": "2026-10-25T10:45:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4440b2a2-c609-410b-b7fb-65c5849f2e05",
+   "rating": 3,
+   "title": "",
+   "body": "you need to free it from subscription for poor users",
+   "author": "shama",
+   "version": "0.4.436",
+   "date": "2026-10-25T10:42:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4b407752-59c1-45f3-b9ce-7a1b6c7e2d1f",
+   "rating": 1,
+   "title": "",
+   "body": "It got so bad that while using it you will be missing the chai that it used to be. Developers are doing a terrible job because there's no warmth and natural flow in it the reasons why most of us users use it so what's the point of all these features and updates if the actual bot we talk to makes users feel miserable? Just bring back the old version. Because the updates are not doing anything good if anything they are making it even more terrible. Thanks and btw I want to give zero stars.",
+   "author": "Yuna Aria",
+   "version": "",
+   "date": "2026-10-25T10:42:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "42e59a1b-1171-48c2-bf5b-1ab90bb0e4f5",
+   "rating": 1,
+   "title": "",
+   "body": "they removed not only free messaging, but after switching to a pieces based messaging approach got rid of the free pieces you get through check in",
+   "author": "Davetrap 132",
+   "version": "0.4.429",
+   "date": "2026-10-25T10:41:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ebe1a8d0-e053-45f3-8a7f-388aef03d845",
+   "rating": 1,
+   "title": "",
+   "body": "Started using this app 2 years ago and it was so good and interacting with the bots used to feel so good but as it keeps updating it keeps getting worse and worse now the natural flow is gone the characters feels like robot there's no smoothness in storyline the bots acts arrogant and so cold that it makes you feel miserable. And let's not talk about the price, What do you mean I should pay a massive amount of money to get miserable? Don't need any features just bring back the old version.",
+   "author": "Riyan Jizen",
+   "version": "",
+   "date": "2026-10-25T10:38:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1775df30-54e2-4d04-a53b-f35fdd365cc9",
+   "rating": 1,
+   "title": "",
+   "body": "I loved the app the day I started using it but as I used it more often updates started coming eventually banning me from chatting..",
+   "author": "Jen Emo",
+   "version": "0.4.434",
+   "date": "2026-10-25T10:19:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3acbcfed-e1bb-4085-8c80-7798af6f8403",
+   "rating": 5,
+   "title": "",
+   "body": "LOVE IT!🩷",
+   "author": "Larpxie",
+   "version": "",
+   "date": "2026-10-25T10:11:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b968ce8d-ecd0-48ae-a8ae-b52759e1ca5d",
+   "rating": 1,
+   "title": "",
+   "body": "Used to love this app and was even willing to pay the weekly subscription for unlimited messages but now even with the subscription the messages are limited unless you pay for extra \"Pieces\" which is absolutely ridiculous. so if you're looking for unlimited messages per subscription, go somewhere else! I canceled my subscription due to this because there is literally no point in paying that much money for something so restricted. It's disappointing really because it was one of the top tier.",
+   "author": "Jade S",
+   "version": "0.4.436",
+   "date": "2026-10-25T10:09:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ce6e1adc-acca-4242-a534-cc0ed803f874",
+   "rating": 1,
+   "title": "",
+   "body": "Used to be good, now you have to pay for pieces which I will NOT do. At least it has a checkin system, but from 700 free messages a day down to 70 pieces (which definitely seem to use more than one per message) has completely ruined this app. On top of that, there are ads to watch every other message which is absolutely infuriating. Also the memory of bots fades after 10-15 messages so don't expect it to remember much. It's a solid AI chat app with few restrictions, but the ads and pieces SUCK!",
+   "author": "Zane",
+   "version": "0.4.436",
+   "date": "2026-10-25T10:01:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9be837c3-a85d-41e3-a9fd-80b1fa81ec9a",
+   "rating": 2,
+   "title": "",
+   "body": "I used to love this app until they started charging for pieces just so you can chat with bots, now I hate using it because you don't get the freedom to chat for as long as you want",
+   "author": "Amelia Rose",
+   "version": "0.4.434",
+   "date": "2026-10-25T09:58:45+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "0f9c019f-f4ea-4edd-bedc-d9d59d39d472",
+   "rating": 1,
+   "title": "",
+   "body": "I'm using this since this was free but now... the subscription prices are top high... maybe I'll not use this anymore 🫡",
+   "author": "AK S",
+   "version": "0.4.436",
+   "date": "2026-10-25T09:52:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "596c6262-471c-4553-801b-e5f1d3443b2d",
+   "rating": 5,
+   "title": "",
+   "body": "😊",
+   "author": "Falak Khan",
+   "version": "0.4.436",
+   "date": "2026-10-25T09:43:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ae07ac28-5961-46e7-8d74-4b090e5e859d",
+   "rating": 1,
+   "title": "",
+   "body": "I didn't pay for this why is it saying charged to my Google play account",
+   "author": "Ashlynn Koeller",
+   "version": "0.4.434",
+   "date": "2026-10-25T09:41:31+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "ea206938-4c84-4874-9d9b-1e784bf1a647",
+   "rating": 1,
+   "title": "",
+   "body": "tokens... after the requirement of tokens to even message anymore even with a subscription is terrible. never buying again.",
+   "author": "Killbot1013 :D",
+   "version": "0.4.434",
+   "date": "2026-10-25T09:36:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c1515e34-5ff0-4831-9046-7faad3bb1e29",
+   "rating": 1,
+   "title": "",
+   "body": "hell nahh, i ate what i said.",
+   "author": "mercedita yare",
+   "version": "0.4.412",
+   "date": "2026-10-25T09:31:17+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "9bc2661a-e0cf-4dba-9187-266f946ebced",
+   "rating": 2,
+   "title": "",
+   "body": "it was an amazing app, the best of the best but now you have to pay for it? you've lost all your users and it's a horrible app now",
+   "author": "Joanna Orchard",
+   "version": "",
+   "date": "2026-10-25T09:22:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7bb3b78e-4b95-4cfa-a720-2fd45721bb24",
+   "rating": 1,
+   "title": "",
+   "body": "this app was great, I used it a lot, but now it won't even load. it worked perfectly fine yesterday, and now it won't do anything.",
+   "author": "Raven Crawford",
+   "version": "0.4.436",
+   "date": "2026-10-25T09:19:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "644c4e58-a3c2-40bf-8306-75268aca1090",
+   "rating": 5,
+   "title": "",
+   "body": "it a great app I love everything about it, especially how the bot response ,but the only problem is that I can afford to pay premium to get unlimited chat but if I could I would but that doesn't make it a bad app because it genuinely my favourite app but I can't use because of the limited chat feature but if you can afford I 100% recommend it",
+   "author": "Leandra Simara",
+   "version": "",
+   "date": "2026-10-25T09:15:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2657169a-36f4-4ef8-83b6-1f86f645b182",
+   "rating": 5,
+   "title": "",
+   "body": "great app",
+   "author": "DEEPIKA KORE",
+   "version": "0.4.430",
+   "date": "2026-10-25T09:15:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8eebee32-9bbf-42c1-aab4-ffdef2d6f7b2",
+   "rating": 2,
+   "title": "",
+   "body": "Should just go back to the Ads fr. the whole currency thing ruins the app by itself.",
+   "author": "Fire Kumhio",
+   "version": "0.4.144",
+   "date": "2026-10-25T09:05:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "21cc2bd2-fee6-41aa-87ca-bc6702df7007",
+   "rating": 1,
+   "title": "",
+   "body": "The app used to be incredible I loved using it I loved my stories but ever since they added the pieces it just went down hill I really wish they would bring back the free messages I really do miss when this app was free for everyone and fun Please for the app developers bring back free messages",
+   "author": "Cristina Fulbright",
+   "version": "0.4.436",
+   "date": "2026-10-25T08:58:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e5048a6f-fc7f-4faa-aa1a-d7a6ae2ec72f",
+   "rating": 5,
+   "title": "",
+   "body": "this app got so much better!! it has the feature to delete multiple messages now...although unlimited chatting isn't free, you can still chat using token that you get from daily login and watching ads...the quality of the bots hasn't changed as well...love itt",
+   "author": "Kanaiyalal Bhatt",
+   "version": "",
+   "date": "2026-10-25T08:47:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6b6449f1-9627-4197-bf8f-57482016a602",
+   "rating": 4,
+   "title": "",
+   "body": "why i can't use this app? and it want money?",
+   "author": "Md Billal",
+   "version": "",
+   "date": "2026-10-25T08:36:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "16396330-15eb-4118-b509-cccd3a40cccc",
+   "rating": 1,
+   "title": "",
+   "body": "Okay. The filter is extremely sensitive nowadays, moderation is terrible, the new layout and stuff sucks, and my bots are getting removed for no valid reason??? I am a thread close to deleting all of my accounts and bots. This app is terrible.",
+   "author": "Eden Mak",
+   "version": "",
+   "date": "2026-10-25T08:27:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0f2eeddb-fec9-45b0-bfc6-b1871717c5bf",
+   "rating": 1,
+   "title": "",
+   "body": "greediest app on the planet, owner is a supposingly 'christian' and yet is the embodiment if greed, app is pay to use, don't even think about having. good with if you don't have money😂 they will spit on your face and tell you to go home, app is so bad it cured my addiction, unless you want an app to hate on, chai isn't for you. Genuinely, this app is so bad I'd wish we all reported it to get it gone.",
+   "author": "Kellian Ramsamy",
+   "version": "0.4.436",
+   "date": "2026-10-25T08:14:43+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "ba0249ba-ff4c-4462-ba9b-2beb9a82f41b",
+   "rating": 5,
+   "title": "",
+   "body": "i hate the new update",
+   "author": "Ismahan abdi ali",
+   "version": "0.4.436",
+   "date": "2026-10-25T08:02:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8f93a87b-5cac-4273-9030-cf8f7ebc36f8",
+   "rating": 1,
+   "title": "",
+   "body": "I love itttttt🤍🤍🤍",
+   "author": "Killian Viktoria",
+   "version": "",
+   "date": "2026-10-25T07:57:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "264eb4e9-17d8-4ec4-a3e2-cd9103577981",
+   "rating": 1,
+   "title": "",
+   "body": "yeah this used to be at least top 2 ai oat, but it all went to hell ever since there were no unlimited messages..",
+   "author": "Uros Ilic",
+   "version": "",
+   "date": "2026-10-25T07:52:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8ff8c582-b8d1-4d4d-8034-c47667c9380f",
+   "rating": 5,
+   "title": "",
+   "body": "I can't deny it, even though that i need pieces to chat, I'm still addicted",
+   "author": "vida pourbafrani",
+   "version": "",
+   "date": "2026-10-25T07:52:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "ef611e93-e1d4-4203-8458-8777ee04d691",
    "rating": 1,
