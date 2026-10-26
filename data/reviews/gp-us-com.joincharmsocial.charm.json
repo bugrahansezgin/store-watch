@@ -1,39 +1,94 @@
 {
  "stats": {
-  "total": 25,
-  "avg": 4.04,
+  "total": 30,
+  "avg": 3.97,
   "dist": {
-   "1": 3,
+   "1": 4,
    "2": 2,
-   "3": 1,
-   "4": 4,
-   "5": 15
+   "3": 2,
+   "4": 5,
+   "5": 17
   },
   "d7": {
-   "count": 2,
-   "avg": 5.0,
+   "count": 5,
+   "avg": 3.6,
    "dist": {
-    "1": 0,
+    "1": 1,
     "2": 0,
-    "3": 0,
-    "4": 0,
+    "3": 1,
+    "4": 1,
     "5": 2
    }
   },
   "d30": {
-   "count": 10,
-   "avg": 4.2,
+   "count": 11,
+   "avg": 4.0,
    "dist": {
     "1": 1,
     "2": 1,
-    "3": 0,
-    "4": 1,
-    "5": 7
+    "3": 1,
+    "4": 2,
+    "5": 6
    }
   },
-  "updatedAt": "2026-10-19T10:44:52+00:00"
+  "updatedAt": "2026-10-26T07:42:20+00:00"
  },
  "reviews": [
+  {
+   "id": "3eef1f26-034f-4121-884b-47616b96259a",
+   "rating": 5,
+   "title": "",
+   "body": "An idea: It would be really cool if Charm had an option where we could upload our face so the AI knows which person in a photo is actually us. Sometimes I post photos of another person but the AI comments assume that person is me because it doesn't know the difference. Maybe there could be a face recognition or character profile feature where we can mark, “This is me,” and add other recurring people's faces or characters too. That way, the AI could recognise different faces.",
+   "author": "Tenille Sims",
+   "version": "0.2.2610080",
+   "date": "2026-10-23T01:35:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "21caff9d-d879-47af-a545-c8a04eb11104",
+   "rating": 1,
+   "title": "",
+   "body": "It would've been fun, but free posts are too limited, and too many basic features are locked behind the paywall.",
+   "author": "Starianna 79",
+   "version": "0.2.2610080",
+   "date": "2026-10-21T17:55:54+00:00",
+   "votes": 0,
+   "reply": "Sorry to hear the free limits have been frustrating. Every AI interaction has a cost we need to cover to keep Charm running. You can still chat and post for free every day, while Pro offers unlimited access. We appreciate your feedback and are always looking for ways to improve the free experience!"
+  },
+  {
+   "id": "0f5d1e42-f60d-4728-8689-a579003308e2",
+   "rating": 3,
+   "title": "",
+   "body": "great app needs to be more feasible to free users",
+   "author": "Hunter",
+   "version": "0.2.2610080",
+   "date": "2026-10-21T00:55:18+00:00",
+   "votes": 0,
+   "reply": "Glad you're enjoying Charm! We understand wanting more flexibility with the free version. AI interactions have real costs, so some limits are necessary to keep the app running. We appreciate your feedback and are always looking for ways to make the free experience better!"
+  },
+  {
+   "id": "e059e8ab-c343-4f65-97d9-7204cbec81fa",
+   "rating": 4,
+   "title": "",
+   "body": "okay I love this app it's amazing but one post a day is irritating for a app this good like what.. also I think maybe a limit of three posts or two would be fine.. uhm and 5stories atleast. also it's so hard to blow up like I know step by step but I rarely get followers and likes this app is a 10/10 and if y'all won't mind sometimes make the characters text first depending on a level of relationship like you get it okay thank youu anyways I love this app it's good",
+   "author": "Halley Nishimura",
+   "version": "0.2.2610080",
+   "date": "2026-10-20T12:06:29+00:00",
+   "votes": 0,
+   "reply": "Love hearing how much you're enjoying Charm! We understand wanting more free posts and stories, but AI interactions have costs we need to cover. Your ideas are great suggestions. Feel free to submit them through our in-app feature requests so others can vote too. Thanks for the support!"
+  },
+  {
+   "id": "0d827f50-c541-43c5-893b-54fc63b7f118",
+   "rating": 5,
+   "title": "",
+   "body": "Of all the apps of this type, this one best fits what I'm looking for in a game like this. I really liked it and paid for the whole year's premium subscription because I see that this app is one of the best social media apps on the market, and I hope it keeps improving by adding more features. One point I would add is the option to switch between conversation and roleplay, that would be really cool. And I understand the gold thing so, amazing app.",
+   "author": "Moon NS",
+   "version": "0.2.2610080",
+   "date": "2026-10-20T00:51:33+00:00",
+   "votes": 0,
+   "reply": "Thank you for the 5 stars and for supporting Charm with an annual subscription! It means a lot to hear that you're enjoying the experience. Being able to switch between conversation and roleplay is a great suggestion. We're always working to make Charm even better!"
+  },
   {
    "id": "19e369c1-6ed9-46b6-82a4-fa7209272d86",
    "rating": 5,

@@ -1,5 +1,142 @@
 [
  {
+  "id": "2026-10-26-us-6502742786-release",
+  "type": "release",
+  "app": "us-6502742786",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.118",
+  "summary": "1.117 → 1.118",
+  "before": "1.117",
+  "after": "1.118",
+  "notes": "bug fixes"
+ },
+ {
+  "id": "2026-10-26-us-6502742786-icon",
+  "type": "icon",
+  "app": "us-6502742786",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Aspect: AI-Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/45/b4/4145b44e-9676-8599-f0c3-21c68559f0e3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/3b/02/583b0239-241e-fb42-83bf-480a090a79c3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-26-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Instagram shipped version 452.0.0",
+  "summary": "451.0.0 → 452.0.0",
+  "before": "451.0.0",
+  "after": "452.0.0",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-10-26-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/41/0a/41410ad0-b22e-c93c-d4b1-7f14f8494e06/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2d/b1/012db1a7-249a-86e8-f025-72491c2a6475/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-26-us-6753083338-release",
+  "type": "release",
+  "app": "us-6753083338",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610241",
+  "summary": "0.2.2610120 → 0.2.2610241",
+  "before": "0.2.2610120",
+  "after": "0.2.2610241",
+  "notes": "This update includes bug fixes and improvements to your AI world experience!\n\nHave a question or feedback? Reach out anytime at hello@joincharmsocial.com"
+ },
+ {
+  "id": "2026-10-26-us-6753083338-icon",
+  "type": "icon",
+  "app": "us-6753083338",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Charm: AI Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/91/92/2b919284-8f17-7d4c-ccc4-4016c8a78d06/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3a/08/ea3a0841-d853-0d59-3cdc-f90e47e92f84/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-10-26-gp-us-com.instagram.android-release",
+  "type": "release",
+  "app": "gp-us-com.instagram.android",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Instagram shipped an update",
+  "summary": "Updated 2026-10-22",
+  "before": "2026-10-13",
+  "after": "2026-10-22",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-26-gp-us-xyz.aspectapp.aspect-release",
+  "type": "release",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.118",
+  "summary": "1.117.1 → 1.118",
+  "before": "1.117.1",
+  "after": "1.118",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-26-gp-us-xyz.aspectapp.aspect-price",
+  "type": "price",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Aspect: AI-Only Social Media changed its price",
+  "summary": "Free · IAP $1.99 - $99.99 per item → Free · IAP $1.99 - $129.99 per item",
+  "before": "Free · IAP $1.99 - $99.99 per item",
+  "after": "Free · IAP $1.99 - $129.99 per item"
+ },
+ {
+  "id": "2026-10-26-gp-us-xyz.aspectapp.aspect-rating",
+  "type": "rating",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Aspect: AI-Only Social Media dropped to 4.25 stars",
+  "summary": "-0.06 from 4.31",
+  "before": 4.31,
+  "after": 4.25
+ },
+ {
+  "id": "2026-10-26-gp-us-ai.socialapps.speakmaster-release",
+  "type": "release",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "PolyBuzz: Chat with AI Friends shipped version 2.2.90",
+  "summary": "2.2.82 → 2.2.90",
+  "before": "2.2.82",
+  "after": "2.2.90",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-26-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.434",
+  "summary": "0.4.430 → 0.4.434",
+  "before": "0.4.430",
+  "after": "0.4.434",
+  "notes": ""
+ },
+ {
+  "id": "2026-10-26-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-10-26T07:42:00+00:00",
+  "title": "Chai: Chat AI Platform rose to 2.39 stars",
+  "summary": "+0.07 from 2.32",
+  "before": 2.32,
+  "after": 2.39
+ },
+ {
   "id": "2026-10-19-us-389801252-release",
   "type": "release",
   "app": "us-389801252",

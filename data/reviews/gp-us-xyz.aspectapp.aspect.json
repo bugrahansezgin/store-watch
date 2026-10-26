@@ -1,39 +1,303 @@
 {
  "stats": {
-  "total": 602,
-  "avg": 3.23,
+  "total": 626,
+  "avg": 3.25,
   "dist": {
-   "1": 148,
+   "1": 152,
    "2": 78,
-   "3": 89,
-   "4": 61,
-   "5": 226
+   "3": 93,
+   "4": 67,
+   "5": 236
   },
   "d7": {
-   "count": 29,
-   "avg": 3.9,
+   "count": 22,
+   "avg": 3.73,
    "dist": {
-    "1": 2,
-    "2": 4,
-    "3": 5,
-    "4": 2,
-    "5": 16
+    "1": 4,
+    "2": 0,
+    "3": 3,
+    "4": 6,
+    "5": 9
    }
   },
   "d30": {
-   "count": 137,
-   "avg": 3.36,
+   "count": 133,
+   "avg": 3.59,
    "dist": {
-    "1": 29,
-    "2": 22,
-    "3": 14,
-    "4": 15,
-    "5": 57
+    "1": 24,
+    "2": 14,
+    "3": 15,
+    "4": 19,
+    "5": 61
    }
   },
-  "updatedAt": "2026-10-19T10:44:52+00:00"
+  "updatedAt": "2026-10-26T07:42:20+00:00"
  },
  "reviews": [
+  {
+   "id": "1392dfcb-3ec9-4e96-bb5a-1a44fde5e91a",
+   "rating": 5,
+   "title": "",
+   "body": "potato",
+   "author": "Bruh Jude",
+   "version": "1.118",
+   "date": "2026-10-24T19:50:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "32ab2a72-9c48-4a40-a853-e9b613ba424a",
+   "rating": 5,
+   "title": "",
+   "body": "add payment for monthly subscription please",
+   "author": "Bima Nugraha",
+   "version": "1.118",
+   "date": "2026-10-24T16:31:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a67878f2-c9ac-4adb-b404-0d5a89a2b2bd",
+   "rating": 3,
+   "title": "",
+   "body": "the text based stuff on here is spot on, but the image generation when it comes to certain things and prompts needs a lottttt of fine tuning",
+   "author": "Joshua Pena",
+   "version": "1.118",
+   "date": "2026-10-24T13:23:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5b1a7cd3-3a9f-44d1-93cf-5aafe12946e4",
+   "rating": 4,
+   "title": "",
+   "body": "🎈🎈🎈🎈",
+   "author": "Anju chaudhary",
+   "version": "1.118",
+   "date": "2026-10-24T11:49:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7dda19b7-2f5d-4cee-b9a2-8174d3db28be",
+   "rating": 1,
+   "title": "",
+   "body": "You can only do ONE thing ONCE a day. You can't even respond to comments, or post anything. Only once, and then that's it. What's the point??",
+   "author": "Aurora Webb",
+   "version": "1.118",
+   "date": "2026-10-23T22:56:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d6048a45-5bb8-44fb-9cb3-5fdab6550bc5",
+   "rating": 4,
+   "title": "",
+   "body": "I'd love to get premium but 1 problem tho. I don't want to pay 50 usd a year I want to pay 4 a month. not all at once. lowk would be better if could choose the plan",
+   "author": "Vlas Eugen",
+   "version": "",
+   "date": "2026-10-23T22:39:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9b6f230e-54e9-4427-8352-4ba72848bbd9",
+   "rating": 4,
+   "title": "",
+   "body": "So let's start with the positives: concept is cool and it's pretty fun. I honestly have enjoyed this app. the ai seem decently smart, enough to feel real. negatives... you basically can barely use the free version and they only have a yearly subscription. I really don't want to buy a whole year for something I'll probably only use for 3 months. it's interesting to play around with but I don't know if it's 100% worth it.",
+   "author": "TheWhiteRhino 98",
+   "version": "1.118",
+   "date": "2026-10-23T16:37:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bde3005c-a860-460f-9d98-b8191867ab93",
+   "rating": 5,
+   "title": "",
+   "body": "it's really a great app i friend recommend it to me and i love it but i do feel the message limit is pointless why not just give unlimited messaging adding it only to the premium is where i say it's bad because normal social media platforms don't have such dm limits i can't only send 8 messages a day what's that? and then there is the need for gold everytime a character sends a picture you also need gold to make them post that's very unnecessary those are the main things the app can do without",
+   "author": "Esme Davids",
+   "version": "1.117.1",
+   "date": "2026-10-23T11:14:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b040d481-cb5c-4ac1-8ba4-9543aef0bc63",
+   "rating": 4,
+   "title": "",
+   "body": "its good. it really is BUT. give us more daily messages cuz 15 is fr not enough. still waiting for monthly aspect pro. I see the potential here tho it need work. if they dont pull what c.ai did they may succeed",
+   "author": "Janek G",
+   "version": "1.117.1",
+   "date": "2026-10-23T04:28:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2614fc84-5c83-40e8-ae2d-26d59375629d",
+   "rating": 5,
+   "title": "",
+   "body": "W Artificial intelligence ig, idk",
+   "author": "CHEEAP GD",
+   "version": "1.117.1",
+   "date": "2026-10-22T23:26:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "df7432a5-a90c-468f-803d-3fdd6167862a",
+   "rating": 5,
+   "title": "",
+   "body": "better not have to pay or I'm deleting this.",
+   "author": "Ball Cancer",
+   "version": "1.117.1",
+   "date": "2026-10-22T23:12:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3b131301-82d2-462e-8c79-92c043625c4c",
+   "rating": 5,
+   "title": "",
+   "body": "very fun, definitely odd to not allow monthly subscriptions but is enjoyable, one thing I would really like added is the ability to stop certain npcs commenting on your posts, or blocking certain words, as there's occasionally annoying ones spamming the same thing. overall fun little app",
+   "author": "Angela",
+   "version": "",
+   "date": "2026-10-22T16:57:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6012fa86-66af-4858-a9e9-aafeac9bd347",
+   "rating": 3,
+   "title": "",
+   "body": "seems decent",
+   "author": "Kaleb Fowler",
+   "version": "1.117.1",
+   "date": "2026-10-22T10:43:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "96980dfd-5b96-4cd1-802f-155c4e20c0b8",
+   "rating": 5,
+   "title": "",
+   "body": "coolio",
+   "author": "Zach Ferraro",
+   "version": "1.117.1",
+   "date": "2026-10-22T06:51:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "38079cfa-70b6-4a0a-a9b0-f9139dad0a3b",
+   "rating": 1,
+   "title": "",
+   "body": "Premium only, apparently. What lonely fools are paying for this??",
+   "author": "Starianna 79",
+   "version": "1.117.1",
+   "date": "2026-10-21T20:00:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2f1ef565-b58d-49a0-abd8-59026014f859",
+   "rating": 1,
+   "title": "",
+   "body": "nothing works. took forever to create an account.",
+   "author": "kyle menden",
+   "version": "",
+   "date": "2026-10-20T22:53:46+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e0f7c543-75b8-4715-9020-04dc4a76c637",
+   "rating": 4,
+   "title": "",
+   "body": "So far quite enjoyable though the free version feels a bit restrictive but not to bad and the feed that shows posts feels a bit dry since it's all the same maybe a mix of stuff would be nice like a few memes or just posts of animals so it feels more alive in a way rather then the same thing over again.",
+   "author": "Josh Richards",
+   "version": "1.117.1",
+   "date": "2026-10-20T11:26:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f83ead0a-733f-4578-8a43-700b59f6bcb8",
+   "rating": 5,
+   "title": "",
+   "body": "sweet",
+   "author": "Troi Smith",
+   "version": "1.117.1",
+   "date": "2026-10-20T08:43:14+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f805838e-9734-4240-81e5-ccae05857911",
+   "rating": 1,
+   "title": "",
+   "body": "just didn't like how it didn't have unlimited chats",
+   "author": "Lina Quinn",
+   "version": "1.117.1",
+   "date": "2026-10-20T07:24:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d9e2a3de-1d76-4bcd-93e5-67aeed5269ba",
+   "rating": 4,
+   "title": "",
+   "body": "tuff",
+   "author": "hunter webber",
+   "version": "1.117.1",
+   "date": "2026-10-20T05:12:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "744c45e7-9cc7-4aad-8794-738cc28ba1d6",
+   "rating": 3,
+   "title": "",
+   "body": "it's cool but... needs more free support. give us a reason to use it because right now it's a cash grab. build trust.",
+   "author": "George Gruhn",
+   "version": "",
+   "date": "2026-10-19T21:05:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "de5a3e84-3755-4d65-8679-7fb17d89e49b",
+   "rating": 5,
+   "title": "",
+   "body": "I LOVE IT SO MUCH. but -1 bcs everything needs to use aspects pro for like limited message sends. i just hope there's an option to watch ads or something. this apps has so much potential i won't lie. i might deleted it just bcs i needed to wait an hour waiting to send another 10-15 chats.everythings great so far, no bugs for me. yeah i'll just hope the dev see my post and actually added watch ads options and best of luck for the dev, i hope you're successful with this apps and much more.",
+   "author": "Qasrina Humairah",
+   "version": "1.117.1",
+   "date": "2026-10-19T15:04:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "431521fb-90b5-42f8-a672-18311b6832f3",
+   "rating": 3,
+   "title": "",
+   "body": "interesting",
+   "author": "MotherDobbs",
+   "version": "1.117.1",
+   "date": "2026-10-19T06:45:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "73ae3fe6-5c9a-498d-b06e-41098fe56abc",
+   "rating": 5,
+   "title": "",
+   "body": "good app for such a shy person like me 🤭🤭",
+   "author": "Ibrahim Kamil",
+   "version": "1.117.1",
+   "date": "2026-10-19T02:33:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "712bc071-343a-4d46-8369-b00abe70095d",
    "rating": 5,

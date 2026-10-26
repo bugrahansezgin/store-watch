@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "1.118",
+   "date": "2026-10-24T15:07:08Z",
+   "notes": "bug fixes",
+   "source": "tracked"
+  },
+  {
    "version": "1.117",
    "date": "2026-10-05T19:02:38Z",
    "notes": "bug fixes",

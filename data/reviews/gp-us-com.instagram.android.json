@@ -1,37 +1,37 @@
 {
  "stats": {
-  "total": 1649,
-  "avg": 3.99,
+  "total": 1660,
+  "avg": 4.0,
   "dist": {
    "1": 325,
    "2": 55,
-   "3": 44,
+   "3": 45,
    "4": 107,
-   "5": 1118
+   "5": 1128
   },
   "d7": {
-   "count": 202,
-   "avg": 3.74,
+   "count": 0,
+   "avg": null,
    "dist": {
-    "1": 48,
-    "2": 11,
-    "3": 6,
-    "4": 17,
-    "5": 120
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
    }
   },
   "d30": {
-   "count": 1649,
-   "avg": 3.99,
+   "count": 1660,
+   "avg": 4.0,
    "dist": {
     "1": 325,
     "2": 55,
-    "3": 44,
+    "3": 45,
     "4": 107,
-    "5": 1118
+    "5": 1128
    }
   },
-  "updatedAt": "2026-10-19T10:44:51+00:00"
+  "updatedAt": "2026-10-26T07:42:19+00:00"
  },
  "reviews": [
   {
@@ -2254,6 +2254,127 @@
    "version": "449.0.0.52.84",
    "date": "2026-10-13T20:05:29+00:00",
    "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fcba4964-b641-4b8a-a5bf-4182ac6e5065",
+   "rating": 3,
+   "title": "",
+   "body": "So cool",
+   "author": "malvine Smith",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T20:04:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "efffdbc5-1692-4611-99f8-9ecc96a276f5",
+   "rating": 5,
+   "title": "",
+   "body": "good",
+   "author": "naga chandra",
+   "version": "390.0.0.43.81",
+   "date": "2026-10-13T20:02:59+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "d711b9dd-57d9-457b-8343-06eef352659a",
+   "rating": 5,
+   "title": "",
+   "body": "nice app",
+   "author": "hihi hu",
+   "version": "448.0.0.52.84",
+   "date": "2026-10-13T20:02:52+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "865917a5-7415-448d-934b-82958e1b84b9",
+   "rating": 5,
+   "title": "",
+   "body": "aimrsonu",
+   "author": "Mr Sonu",
+   "version": "451.0.0.53.80",
+   "date": "2026-10-13T20:02:33+00:00",
+   "votes": 6,
+   "reply": ""
+  },
+  {
+   "id": "6e6dd46b-c8d6-4e56-8b81-dc898bf47926",
+   "rating": 5,
+   "title": "",
+   "body": "I love it ,, I made a account to talk to my bf and I love it cause it's the only way that I can talk you him",
+   "author": "Ishaan Hoobala",
+   "version": "436.0.0.41.73",
+   "date": "2026-10-13T20:01:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c91c4752-071a-443c-b25c-b172b7d95ada",
+   "rating": 5,
+   "title": "",
+   "body": "amazing app",
+   "author": "Reshma Khan",
+   "version": "354.2.0.47.100",
+   "date": "2026-10-13T20:00:19+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "ffb11cb2-5faf-4237-ab29-7c6fba98fbe3",
+   "rating": 5,
+   "title": "",
+   "body": "😍😍",
+   "author": "Adam Chdn",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T20:00:06+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "c9f27828-68b9-4251-97f7-7bf77ad408dc",
+   "rating": 5,
+   "title": "",
+   "body": "instagram bhut kharb He bina wja me id ud diya sb account totally 20 isko download krna bear😠🤯🤡",
+   "author": "Md Ramzan",
+   "version": "442.0.0.46.79",
+   "date": "2026-10-13T19:57:27+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "c8eebfc8-df3a-4f3f-ad87-ed586c8f6683",
+   "rating": 5,
+   "title": "",
+   "body": "Instragram is best app for entertaiment like reel etc",
+   "author": "Syed Ibtesam",
+   "version": "",
+   "date": "2026-10-13T19:57:14+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "690fcbb4-60de-4074-aee6-71d25e870448",
+   "rating": 5,
+   "title": "",
+   "body": "Nice app for myself 👍❤️",
+   "author": "Sabbir Rahman Shikdar",
+   "version": "368.0.0.45.96",
+   "date": "2026-10-13T19:57:11+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2b605fb7-df1f-4792-a1ea-849dc62bfb1d",
+   "rating": 5,
+   "title": "",
+   "body": "im happy",
+   "author": "Prince Indora",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T19:56:48+00:00",
+   "votes": 1,
    "reply": ""
   },
   {

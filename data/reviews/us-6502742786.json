@@ -1,39 +1,119 @@
 {
  "stats": {
-  "total": 516,
-  "avg": 2.8,
+  "total": 524,
+  "avg": 2.79,
   "dist": {
-   "1": 151,
-   "2": 77,
-   "3": 108,
+   "1": 154,
+   "2": 78,
+   "3": 111,
    "4": 84,
-   "5": 96
+   "5": 97
   },
   "d7": {
-   "count": 4,
-   "avg": 1.5,
+   "count": 5,
+   "avg": 2.4,
    "dist": {
-    "1": 3,
-    "2": 0,
-    "3": 1,
+    "1": 1,
+    "2": 1,
+    "3": 3,
     "4": 0,
     "5": 0
    }
   },
   "d30": {
-   "count": 21,
-   "avg": 2.9,
+   "count": 25,
+   "avg": 2.64,
    "dist": {
-    "1": 7,
-    "2": 2,
-    "3": 3,
-    "4": 4,
+    "1": 9,
+    "2": 3,
+    "3": 6,
+    "4": 2,
     "5": 5
    }
   },
-  "updatedAt": "2026-10-19T10:44:42+00:00"
+  "updatedAt": "2026-10-26T07:42:18+00:00"
  },
  "reviews": [
+  {
+   "id": "14707409544",
+   "rating": 2,
+   "title": "Can’t do nothing",
+   "body": "I honestly can’t really do anything without subscribing. And it’s so annoying because I’m not paying money on an app that is literally full of ai bots, other than that the app is good.",
+   "author": "Like broski cmon now gng",
+   "version": "1.118",
+   "date": "2026-10-24T16:48:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14687768673",
+   "rating": 3,
+   "title": "charging wrong?",
+   "body": "first, i love this app. the free version needs some more tweaks but i did buy the $3.33/month plan, which is what im leading up to. every time i try to buy gold (either the $4.99 or the $1.99 one), my card is declined and im alerted that i was being charged $42.79 each time. is there any way this can be fixed?? i’ve also created another character to try to get more gold but its not updating to give me my gold. soooo i’m very lost.",
+   "author": "kayde !!",
+   "version": "1.117",
+   "date": "2026-10-19T19:47:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14687692068",
+   "rating": 3,
+   "title": "Its chill but the free version not it",
+   "body": "Atleast inf messages 10 posts a day inf replies thats all",
+   "author": "Ryylanbanx",
+   "version": "1.117",
+   "date": "2026-10-19T19:15:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14685271492",
+   "rating": 3,
+   "title": "Very small message limit for the day",
+   "body": "The app is good, I like the character but they give an unreasonably low message count limit. It’s only 10 messages. \nI suspect this is to encourage more people to buy pro but it’s a move that I find in poor taste. \n\nI think a 100 or even a 50 message limit would suffice for a daily limit if there HAS to be one, though there are plenty of ai apps that don’t have a message limit and they are doing just fine. \n\nI think we should be able to post more than once, and for there to be higher comment limit as it seems to be tied with the message limit. \n\nOtherwise it’s a decent app, but very money hungry, and I find myself turned away from this.",
+   "author": "Kingston my darling horse",
+   "version": "1.117",
+   "date": "2026-10-19T05:23:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14684707437",
+   "rating": 1,
+   "title": "Why one a day",
+   "body": "Why can’t I respond to anyone who comments to my post that should have a limit like the talking has but you can’t comment at all back",
+   "author": "Hhahhhjahahbcnd",
+   "version": "1.117",
+   "date": "2026-10-19T01:50:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14684294250",
+   "rating": 1,
+   "title": "This app is cool but!",
+   "body": "If you want people using this app don’t limit the post to 24hr that going to make people walk away from it cuz you can barely do anything like add ads or something like every 3 post watch an ad or every 20 comments you post do an ad don’t make us wait 24s to just do one little thing like I’m about to just delete the app because it just sits their on my phone taking up space",
+   "author": "Skyler_xoxo_",
+   "version": "1.117",
+   "date": "2026-10-18T22:33:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14682578325",
+   "rating": 1,
+   "title": "Anti human",
+   "body": "Who approved this. It’s horrible, please take it down.",
+   "author": "Jonahum",
+   "version": "1.117",
+   "date": "2026-10-18T11:11:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14682249896",
+   "rating": 5,
+   "title": "Noice",
+   "body": "Noice",
+   "author": "Bchovan15",
+   "version": "1.117",
+   "date": "2026-10-18T09:33:52-07:00",
+   "votes": 0
+  },
   {
    "id": "14678149983",
    "rating": 1,
