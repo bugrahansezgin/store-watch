@@ -11,14 +11,14 @@
   }
  },
  "cadence": {
-  "text": "15 releases in the last 90 days, typically every 4 days",
-  "last90": 15,
+  "text": "13 releases in the last 90 days, typically every 4 days",
+  "last90": 13,
   "medianDays": 4,
   "lastRelease": "2026-10-07T17:03:05+00:00"
  },
  "lastError": {
-  "ts": "2026-10-26T11:05:23+00:00",
+  "ts": "2026-11-02T07:28:06+00:00",
   "message": "<urlopen error [Errno -2] Name or service not known>"
  },
- "lastRun": "2026-10-26T11:05:23+00:00"
+ "lastRun": "2026-11-02T07:28:06+00:00"
 }

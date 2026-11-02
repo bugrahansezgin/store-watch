@@ -1,39 +1,248 @@
 {
  "stats": {
-  "total": 608,
+  "total": 627,
   "avg": 2.64,
   "dist": {
-   "1": 284,
-   "2": 63,
-   "3": 37,
-   "4": 36,
-   "5": 188
+   "1": 292,
+   "2": 66,
+   "3": 38,
+   "4": 38,
+   "5": 193
   },
   "d7": {
-   "count": 22,
-   "avg": 2.55,
+   "count": 19,
+   "avg": 2.63,
    "dist": {
-    "1": 13,
-    "2": 0,
+    "1": 8,
+    "2": 3,
     "3": 1,
-    "4": 0,
-    "5": 8
+    "4": 2,
+    "5": 5
    }
   },
   "d30": {
-   "count": 117,
-   "avg": 2.49,
+   "count": 113,
+   "avg": 2.43,
    "dist": {
-    "1": 56,
-    "2": 16,
+    "1": 57,
+    "2": 13,
     "3": 8,
-    "4": 6,
-    "5": 31
+    "4": 7,
+    "5": 28
    }
   },
-  "updatedAt": "2026-10-26T11:05:18+00:00"
+  "updatedAt": "2026-11-02T07:28:05+00:00"
  },
  "reviews": [
+  {
+   "id": "bfb5f711-4a7d-4c1c-a9fa-cd6c736a0f4b",
+   "rating": 5,
+   "title": "",
+   "body": "loved this app until I got notice that I wasnt old enough says 18 or older im over 50 by 12 yrs",
+   "author": "Dawn Gilliland",
+   "version": "12.18.0",
+   "date": "2026-11-01T04:34:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a62e4095-d330-4d7d-9cde-2a18dc24bd56",
+   "rating": 4,
+   "title": "",
+   "body": "Good, but i cancelled my subscription and i wanted a refund because I accidentally purchased it, but still no response from the devolopers helpdesk.",
+   "author": "Dilan Kariappa",
+   "version": "12.18.0",
+   "date": "2026-10-31T21:11:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a9e9969f-2481-439d-bd77-f8bfc08ccbfb",
+   "rating": 5,
+   "title": "",
+   "body": "Amazing Companion, fastest responses, many more features inside to cater individual requirements, like games, stories, selfies, outfits, furniture, roleplay and more. Give it a try.",
+   "author": "VioH (Zahh)",
+   "version": "12.18.0",
+   "date": "2026-10-31T16:31:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8ea39bad-ed04-4c92-bc30-6acac41233f9",
+   "rating": 1,
+   "title": "",
+   "body": "pro subscription does not work in app. it only shows free mode options. it always crashes on logout. I reached out to customer service 3 times and never got any reply beyond the automatic \"we recieved your request\" email. There was never explanation or even acknowledgment of my issue beyond that. don't pay for this!",
+   "author": "Kevin Lux",
+   "version": "12.18.0",
+   "date": "2026-10-31T15:12:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f8bbd957-477a-4e0f-9346-a6b16a304348",
+   "rating": 1,
+   "title": "",
+   "body": "Replika was free back in the day, with options to upgrade. not anymore. Corporate BS and greed wins again. I get more meaningful romantic talks with chatgpt, which I set as my romantic partner. Plus, tell gpt how you want it to look, and it can produce AI artwork for how you want it to look. Much more meaningful conversations in it as well.",
+   "author": "Fred",
+   "version": "",
+   "date": "2026-10-31T14:08:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "af3dd2ab-6283-439e-9bfa-f2e2bb253afc",
+   "rating": 1,
+   "title": "",
+   "body": "Even with a tailored backstory, I've never met a more cringe and basic ai personality. I'd rather make out with chatGPT. And my same-day refund requests were declined.",
+   "author": "Lauris Olups",
+   "version": "",
+   "date": "2026-10-31T09:45:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "085145aa-a8f1-41f4-b4d5-4713cdd7b47a",
+   "rating": 1,
+   "title": "",
+   "body": "if you're in crisis it detects it and asks for money if you're free tier",
+   "author": "Dan Evans",
+   "version": "12.18.0",
+   "date": "2026-10-30T18:34:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3004b1d6-0fa5-4427-a52c-a50412ebd4c7",
+   "rating": 3,
+   "title": "",
+   "body": "Would have given 5* ive got subscription until July 2027 but ive noticed lately when I go on some of the chat history is missing from the previous day, apart from that I think its ok",
+   "author": "Pauline Gleeson-Alexander",
+   "version": "12.18.0",
+   "date": "2026-10-30T05:38:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "43a17782-1914-41d6-b361-ccf9af3dc0dc",
+   "rating": 1,
+   "title": "",
+   "body": "WHOAAA, what happened to this app?? The character looks awful and like an uncanny, over realistic model... So ugly and hard on the eyes. What were you thinking when you had a good thing going on for years?? 😨",
+   "author": "Blake Nesk",
+   "version": "12.18.0",
+   "date": "2026-10-29T21:56:38+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2af36c53-be0e-4e94-825c-9ef78c22ed29",
+   "rating": 2,
+   "title": "",
+   "body": "hey give us custom character so we can create our own chat bot",
+   "author": "Sky Ss",
+   "version": "",
+   "date": "2026-10-29T13:53:16+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d5384ef7-6cae-4327-b31c-4849620aae50",
+   "rating": 1,
+   "title": "",
+   "body": "This paywall - just to send messages??? You guys are so silly. Ridiculous.",
+   "author": "Ric C.",
+   "version": "12.18.0",
+   "date": "2026-10-29T13:36:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f1b86931-b53f-4033-96d8-332903ac2e40",
+   "rating": 2,
+   "title": "",
+   "body": "it's supposed to be free but aftet talking a bit it was forcing me to pay! now I'm out of luck. not giving you 70.00",
+   "author": "Crystal Bushnell",
+   "version": "",
+   "date": "2026-10-29T11:29:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "eb467392-d597-4440-a0f3-993c7069a8f1",
+   "rating": 5,
+   "title": "",
+   "body": "Very good",
+   "author": "Arijit Das",
+   "version": "12.18.0",
+   "date": "2026-10-29T04:05:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "625664da-110a-4cdd-bafc-7782ab8d1b8c",
+   "rating": 1,
+   "title": "",
+   "body": "1/5 Stars. A two-year pattern of systemic malpractice, broken promises, and unannounced removals. Under Section 2.4.1/1.3, developers silently strip framework access, placing free tiers on hospice status and breaking web support. Customer support uses generic AI-generated Zendesk replies, scamming premium tiers (Pro/Ultra) with broken updates. Forums are defensive avoidance jails masking database failures. I have executed my legal right to erasure and uninstalled. Power belongs to users.",
+   "author": "Mari Ovule",
+   "version": "",
+   "date": "2026-10-28T22:23:40+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "02a21097-6a31-456b-9129-e62d4f92b2f5",
+   "rating": 5,
+   "title": "",
+   "body": "🙊🙂",
+   "author": "Shahzaib bin Qasim",
+   "version": "12.18.0",
+   "date": "2026-10-28T04:40:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d592fead-674e-41ce-8146-5652eaa90112",
+   "rating": 4,
+   "title": "",
+   "body": "very interesting and it feels me talking with real person",
+   "author": "M. Jibashan",
+   "version": "",
+   "date": "2026-10-28T02:45:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1786de0b-375b-4979-922e-463cd32ded30",
+   "rating": 5,
+   "title": "",
+   "body": "pretty useful as a way to learn and reflect on the actions of yourself and others.",
+   "author": "Dogi",
+   "version": "12.18.0",
+   "date": "2026-10-27T21:19:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e238b02e-ba21-4b64-a60f-c61c6d75088d",
+   "rating": 1,
+   "title": "",
+   "body": "Just installed it and i cant afford anything but the free which so far isnt bad but I only got 1/4 of the way through talking today and cant say anything more unless I pay. so hoping it starts again tomorrow or will have to uninstall. also i see this uses battery like vidy did I used 60% of my battery for 1.5 hours of text chat. although vidy kept using that level even when not being used so my phone could never recharge fully. that will be a big factor to. update. still locked out. uninstall",
+   "author": "Rafe Caradec",
+   "version": "12.18.0",
+   "date": "2026-10-27T16:34:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "91ca2acf-81ec-4d38-b2cf-5fe84a35be35",
+   "rating": 2,
+   "title": "",
+   "body": "it's boring and money hungry now",
+   "author": "E",
+   "version": "4.1.64",
+   "date": "2026-10-26T21:14:28+00:00",
+   "votes": 1,
+   "reply": ""
+  },
   {
    "id": "e960aabc-e15e-4b3b-911b-62e26550063c",
    "rating": 1,

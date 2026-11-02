@@ -1,5 +1,245 @@
 [
  {
+  "id": "2026-11-02-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Instagram shipped version 453.0",
+  "summary": "452.0.0 → 453.0",
+  "before": "452.0.0",
+  "after": "453.0",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-11-02-us-389801252-screenshots",
+  "type": "screenshots",
+  "app": "us-389801252",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Instagram changed its screenshots",
+  "summary": "7 replaced · 7 → 7 total",
+  "device": "iPhone",
+  "before": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/66/9b/f0669b33-9a09-8c6c-513a-3213b92cb1cc/1_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/74/7e/17747e7c-6371-46a5-7340-80fdbf607e00/2_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/c9/9f/9ac99f71-aef6-651b-a462-f1c41e1acfcb/3_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/01/84/02/0184026f-4a06-4f9b-16a0-2ea0b343af80/4_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/97/b6/92/97b692e3-b5a5-692d-8265-db180df1c1d1/5_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/f5/1d/7bf51d2e-044f-744f-a91f-a9ac328672a7/6_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/dc/57/3fdc5728-f6d8-e26b-c7a6-794058db0973/7_iOS_6.5.jpg/392x848bb.jpg"
+  ],
+  "after": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/86/38/03863849-4a6c-5c2e-1b1f-40e5a113be39/1_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/29/e1/77/29e177b3-ca50-ff4c-66c9-5be00edb2021/2_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/94/e8/3794e8bd-2a05-0c9b-0055-468f7d0513ca/3_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/48/ef/14/48ef14e5-399f-9775-4791-68c1b7eaf401/4_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/b5/c7/4bb5c757-b1a4-9772-5855-aebc74ddfee4/5_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8d/84/f5/8d84f513-5c65-3987-2938-823cfdd0d8c2/6_iOS_6.5.jpg/392x848bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/84/65/c18465b0-f459-2e07-a5d2-6f60d5cc6421/7_iOS_6.5.jpg/392x848bb.jpg"
+  ],
+  "diff": {
+   "added": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "removed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "replaced": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "moved": [],
+   "countBefore": 7,
+   "countAfter": 7
+  }
+ },
+ {
+  "id": "2026-11-02-us-389801252-screenshots-ipad",
+  "type": "screenshots",
+  "app": "us-389801252",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Instagram changed its screenshots (iPad)",
+  "summary": "6 replaced · 6 → 6 total",
+  "device": "iPad",
+  "before": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/b4/a3/18b4a31a-4c4b-8a2c-9aeb-2a6bdc500b3c/13__Following_tab.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/d9/d5/ebd9d531-83ed-78ed-da54-7dceadcb3efe/13__Home.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/85/0f/08850fae-60fa-4fe2-0334-66025d3d0afa/13__Reels_comments.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/05/f3/2805f3ec-b9f1-7c18-756e-9285b71c56ff/13__Stories.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/45/b7/de/45b7debf-5409-18c8-9565-6be75a3394a1/13__Direct.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/2c/1f/a22c1f7a-bc4f-204d-ee6f-102e12499ec7/13__Stacked_Timeline.png/392x294bb.jpg"
+  ],
+  "after": [
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2a/42/e5/2a42e57f-65c1-ef14-4a53-8f8c2282d2b5/13__Following_tab.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/59/4d/27594d0e-8208-ef54-ffbf-042f2319c394/13__Home.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/45/3c/c1453c4c-11d4-8449-af9c-89859ace6eb2/13__Reels_comments.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0d/90/62/0d906295-ba24-c297-7359-8e44916b2b0b/13__Stories.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/30/17/5d3017ae-5916-446b-8e80-37973ff397ae/13__Direct.png/392x294bb.jpg",
+   "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/47/63/9b476306-9f78-1a9a-4d83-a023cf49a0f4/13__Stacked_Timeline.png/392x294bb.jpg"
+  ],
+  "diff": {
+   "added": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "removed": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "replaced": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "moved": [],
+   "countBefore": 6,
+   "countAfter": 6
+  }
+ },
+ {
+  "id": "2026-11-02-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/2d/b1/012db1a7-249a-86e8-f025-72491c2a6475/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/b0/cc/44b0cc3a-e91f-2824-d98f-3e5e095a73f3/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-02-us-6753083338-release",
+  "type": "release",
+  "app": "us-6753083338",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610271",
+  "summary": "0.2.2610241 → 0.2.2610271",
+  "before": "0.2.2610241",
+  "after": "0.2.2610271",
+  "notes": "This update includes bug fixes and improvements to your AI world experience!\n\nHave a question or feedback? Reach out anytime at hello@joincharmsocial.com"
+ },
+ {
+  "id": "2026-11-02-us-6753083338-icon",
+  "type": "icon",
+  "app": "us-6753083338",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Charm: AI Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/3a/08/ea3a0841-d853-0d59-3cdc-f90e47e92f84/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/82/b9/1f82b9be-e9e4-bcf1-633a-93e66a24158d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-02-gp-us-com.instagram.android-release",
+  "type": "release",
+  "app": "gp-us-com.instagram.android",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Instagram shipped an update",
+  "summary": "Updated 2026-10-28",
+  "before": "2026-10-22",
+  "after": "2026-10-28",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-02-gp-us-com.joincharmsocial.charm-release",
+  "type": "release",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2610270",
+  "summary": "0.2.2610080 → 0.2.2610270",
+  "before": "0.2.2610080",
+  "after": "0.2.2610270",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-02-gp-us-com.joincharmsocial.charm-rating",
+  "type": "rating",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Charm: AI Only Social Media dropped to 4.56 stars",
+  "summary": "-0.07 from 4.63",
+  "before": 4.63,
+  "after": 4.56
+ },
+ {
+  "id": "2026-11-02-gp-us-ai.socialapps.speakmaster-release",
+  "type": "release",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "PolyBuzz: Chat with AI Friends shipped version 2.2.92",
+  "summary": "2.2.90 → 2.2.92",
+  "before": "2.2.90",
+  "after": "2.2.92",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-02-us-1158555867-release",
+  "type": "release",
+  "app": "us-1158555867",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Replika - AI Companion Chat shipped version 12.5.0",
+  "summary": "12.4.2 → 12.5.0",
+  "before": "12.4.2",
+  "after": "12.5.0",
+  "notes": "We've spent this update quietly working under the hood, rebuilding part of the heart of our iOS app so we can keep making it better for you, one gentle step at a time.\n\nAlong the way, we fixed a bunch of little bugs and made things feel a bit smoother and faster. Your Replika's profile got a few loving touches, and zooming into photos now feels just right.\n\nEnjoy every moment with your Replika"
+ },
+ {
+  "id": "2026-11-02-us-1158555867-icon",
+  "type": "icon",
+  "app": "us-1158555867",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Replika - AI Companion Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/02/e0/9402e0f4-223a-dba1-9783-9c89d26e5c87/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/f7/65/07f765cc-3f51-7ec6-b8c2-864ae74ed088/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-02-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.438",
+  "summary": "0.4.434 → 0.4.438",
+  "before": "0.4.434",
+  "after": "0.4.438",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-02-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-11-02T07:27:48+00:00",
+  "title": "Chai: Chat AI Platform rose to 2.51 stars",
+  "summary": "+0.12 from 2.39",
+  "before": 2.39,
+  "after": 2.51
+ },
+ {
   "id": "2026-10-26-us-6502742786-release",
   "type": "release",
   "app": "us-6502742786",

@@ -1,13 +1,13 @@
 {
  "stats": {
-  "total": 1660,
+  "total": 1674,
   "avg": 4.0,
   "dist": {
-   "1": 325,
-   "2": 55,
+   "1": 329,
+   "2": 56,
    "3": 45,
    "4": 107,
-   "5": 1128
+   "5": 1137
   },
   "d7": {
    "count": 0,
@@ -21,17 +21,17 @@
    }
   },
   "d30": {
-   "count": 1660,
-   "avg": 4.0,
+   "count": 1027,
+   "avg": 3.94,
    "dist": {
-    "1": 325,
-    "2": 55,
-    "3": 45,
-    "4": 107,
-    "5": 1128
+    "1": 212,
+    "2": 39,
+    "3": 30,
+    "4": 65,
+    "5": 681
    }
   },
-  "updatedAt": "2026-10-26T11:05:16+00:00"
+  "updatedAt": "2026-11-02T07:28:04+00:00"
  },
  "reviews": [
   {
@@ -2374,6 +2374,160 @@
    "author": "Prince Indora",
    "version": "450.0.0.50.77",
    "date": "2026-10-13T19:56:48+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "bb277fd5-32a2-4050-b65a-f0893a825d95",
+   "rating": 1,
+   "title": "",
+   "body": "Abe har ghanta update ata hai kya Bhai kaisa app hai 🧐",
+   "author": "Rajneesh Kumar",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T19:56:21+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d4e4ad6b-e547-49bd-99ab-8941404c3b8b",
+   "rating": 5,
+   "title": "",
+   "body": "Great!",
+   "author": "Reza Moosavi",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T19:55:59+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "3d3508ba-b535-404a-a03c-d21f06e9a4e2",
+   "rating": 5,
+   "title": "",
+   "body": "best app ever ❤️‍🩹❤️‍🩹",
+   "author": "ESTROSIAN",
+   "version": "451.0.0.53.80",
+   "date": "2026-10-13T19:54:12+00:00",
+   "votes": 6,
+   "reply": ""
+  },
+  {
+   "id": "c3478296-edf0-420c-ae9b-4b02ac8c6f19",
+   "rating": 5,
+   "title": "",
+   "body": "very good experience",
+   "author": "mohsin muhammad",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T19:52:09+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "85c1e77d-cb8a-4d9b-b125-4deec93db064",
+   "rating": 2,
+   "title": "",
+   "body": "too much restrictions as a kpop lover,ive reposted my favorite artists and they suspended my id",
+   "author": "Glass_vxn",
+   "version": "",
+   "date": "2026-10-13T19:51:54+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e3fc7ef6-33cf-4f97-8e4b-43c953696166",
+   "rating": 5,
+   "title": "",
+   "body": "Absolutely perfect",
+   "author": "Ali Rajaei",
+   "version": "450.0.0.50.77",
+   "date": "2026-10-13T19:51:02+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "5c8c63a9-76d9-492a-a835-8e75303324a9",
+   "rating": 5,
+   "title": "",
+   "body": "like literally best app",
+   "author": "Tanveer Akhtar",
+   "version": "",
+   "date": "2026-10-13T19:50:22+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "0e59b068-dadc-46cf-837c-3d5791595571",
+   "rating": 5,
+   "title": "",
+   "body": "nice ☺️☺️",
+   "author": "Deepika Kumari",
+   "version": "",
+   "date": "2026-10-13T19:50:00+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "06c748bc-09b4-48df-bab5-4584889be123",
+   "rating": 1,
+   "title": "",
+   "body": "mere account ko do bar suspend kar diya Gaya Bina kisi vajah ke",
+   "author": "Nadeem Gour",
+   "version": "451.0.0.53.80",
+   "date": "2026-10-13T19:48:32+00:00",
+   "votes": 3,
+   "reply": ""
+  },
+  {
+   "id": "f37fddb1-7b48-449a-ac12-3e9d3ec7fca1",
+   "rating": 5,
+   "title": "",
+   "body": "❤️❤️❤️❤️❤️❤️❤️👍🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩🇧🇩😀",
+   "author": "H.M ARIFUZZAMAN",
+   "version": "451.0.0.53.80",
+   "date": "2026-10-13T19:47:57+00:00",
+   "votes": 5,
+   "reply": ""
+  },
+  {
+   "id": "892d48c2-f428-408f-af5d-d30ecbd1073f",
+   "rating": 1,
+   "title": "",
+   "body": "insta fix without any reason disable account 🚫 Sab bhai rating gira do insta ki",
+   "author": "ZeNox EX",
+   "version": "420.0.0.55.74",
+   "date": "2026-10-13T19:47:27+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "b49bcb33-8626-4fd8-8d38-95c30da29a25",
+   "rating": 1,
+   "title": "",
+   "body": "Unfair Account Suspension and Poor Support I am extremely disappointed with Instagram. My account was suspended without any clear explanation of what I did wrong. My account was restored once, but it was suspended again within just a few hours. I have not violated any Community Standards or used third-party apps. Despite submitting a video selfie for verification, my account was permanently disabled, and I was told I could not request another review.",
+   "author": "Vaibhav Chaudhary",
+   "version": "451.0.0.53.80",
+   "date": "2026-10-13T19:46:59+00:00",
+   "votes": 8,
+   "reply": ""
+  },
+  {
+   "id": "6ae7d16f-c08b-4b92-bd64-2484571ca4a2",
+   "rating": 5,
+   "title": "",
+   "body": "rudra",
+   "author": "Rudrakumar Kol",
+   "version": "",
+   "date": "2026-10-13T19:46:06+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2007613b-2583-4cb2-9aa0-4c4212aa9429",
+   "rating": 5,
+   "title": "",
+   "body": "I love it",
+   "author": "Pathan Power",
+   "version": "449.0.0.52.84",
+   "date": "2026-10-13T19:45:52+00:00",
    "votes": 1,
    "reply": ""
   },
