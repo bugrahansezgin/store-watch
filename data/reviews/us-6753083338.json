@@ -1,39 +1,59 @@
 {
  "stats": {
-  "total": 21,
-  "avg": 3.67,
+  "total": 23,
+  "avg": 3.74,
   "dist": {
    "1": 2,
    "2": 3,
    "3": 4,
-   "4": 3,
-   "5": 9
+   "4": 4,
+   "5": 10
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 2,
+   "avg": 4.5,
    "dist": {
     "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   }
-  },
-  "d30": {
-   "count": 3,
-   "avg": 3.33,
-   "dist": {
-    "1": 1,
     "2": 0,
     "3": 0,
     "4": 1,
     "5": 1
    }
   },
-  "updatedAt": "2026-11-02T07:28:03+00:00"
+  "d30": {
+   "count": 5,
+   "avg": 3.8,
+   "dist": {
+    "1": 1,
+    "2": 0,
+    "3": 0,
+    "4": 2,
+    "5": 2
+   }
+  },
+  "updatedAt": "2026-11-02T13:28:45+00:00"
  },
  "reviews": [
+  {
+   "id": "14728634301",
+   "rating": 5,
+   "title": "Nice",
+   "body": "I treat this like a game to become the most famous with the most followers on the platform.",
+   "author": "Stacy Deon Manning",
+   "version": "0.2.2610271",
+   "date": "2026-10-30T00:41:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14722252419",
+   "rating": 4,
+   "title": "Games good",
+   "body": "It’s good I just really wish there was a way that for the ones that can’t afford the free plan of the game can have the same things that you can do on p",
+   "author": "Shahassssssssss",
+   "version": "0.2.2610241",
+   "date": "2026-10-28T09:02:38-07:00",
+   "votes": 0
+  },
   {
    "id": "14664543550",
    "rating": 4,

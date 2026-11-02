@@ -1,39 +1,380 @@
 {
  "stats": {
-  "total": 1584,
-  "avg": 1.96,
+  "total": 1615,
+  "avg": 1.95,
   "dist": {
-   "1": 1027,
-   "2": 137,
-   "3": 105,
+   "1": 1049,
+   "2": 143,
+   "3": 106,
    "4": 88,
-   "5": 227
+   "5": 229
   },
   "d7": {
-   "count": 199,
-   "avg": 2.15,
+   "count": 230,
+   "avg": 2.06,
    "dist": {
-    "1": 119,
-    "2": 14,
-    "3": 17,
+    "1": 141,
+    "2": 20,
+    "3": 18,
     "4": 16,
-    "5": 33
+    "5": 35
    }
   },
   "d30": {
-   "count": 1084,
-   "avg": 1.95,
+   "count": 1100,
+   "avg": 1.92,
    "dist": {
-    "1": 709,
-    "2": 88,
-    "3": 74,
+    "1": 726,
+    "2": 92,
+    "3": 71,
     "4": 62,
-    "5": 151
+    "5": 149
    }
   },
-  "updatedAt": "2026-11-02T07:28:05+00:00"
+  "updatedAt": "2026-11-02T13:28:56+00:00"
  },
  "reviews": [
+  {
+   "id": "27a89a88-e024-4a80-a738-2f87668dff16",
+   "rating": 1,
+   "title": "",
+   "body": "I hate it",
+   "author": "Patricia Osei",
+   "version": "",
+   "date": "2026-11-01T13:19:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0c34a595-f89a-4963-b6e6-10a91f11c2ef",
+   "rating": 1,
+   "title": "",
+   "body": "this app has been escape from reality and school,but then the update started,I feel very down and empty because of these tokens,the other months are good and I've been chatting them freely,but when it got updated I stopped because I feel Interruped by the adds and the token,it's a very good and perfect chats and I have many experience LIKE MANY EXPERIENCE WITH IT,and everything just vanished and I started slowly quitting on the app, please fix it and bring it back",
+   "author": "Kasey chem Catonina",
+   "version": "1.17.4",
+   "date": "2026-11-01T13:15:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "97b7e405-f5b8-4d36-95ad-e641035376bd",
+   "rating": 1,
+   "title": "",
+   "body": "PLEASE!!... bring back the old C.AI. I miss chatting with my characters on this app. I feel bored and lonely now that there’s nothing left for me to chat about. When I try other apps, they’re just boring and don’t feel the same as C.AI. Please, devs! I—we—beg you to update and change C.AI back to how it used to be...😭😭",
+   "author": "Ramy Anej",
+   "version": "",
+   "date": "2026-11-01T13:05:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7435b775-3147-478b-b969-279beaebaa78",
+   "rating": 5,
+   "title": "",
+   "body": "it a nice app and I like it but i can't talk to the characters anymore because it's disabled can you fix it so the chats can work again please fix it and give it a new update and can you fix so it say Vauter age ether please fix that to",
+   "author": "Ashley Steele",
+   "version": "",
+   "date": "2026-11-01T13:01:14+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "ece4576c-2eb9-40ef-9f4b-d559fcf37371",
+   "rating": 2,
+   "title": "",
+   "body": "This is incredibly frustrating. Ads at the top keep opening on their own while I’m chatting and typing with a character, forcing the page to switch unexpectedly. At first, I thought I was accidentally tapping them, but it turns out not at all. I’ve already submitted a complaint, but it feels like the development team is either ignoring the issue or simply doing nothing about it",
+   "author": "Fairus",
+   "version": "1.17.4",
+   "date": "2026-11-01T12:58:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c69e026f-247c-4ef7-9180-359e07cd8c57",
+   "rating": 1,
+   "title": "",
+   "body": "I hate the read mode and yes I know I could just flash my face and ID but who's actually doing that just for a chat bot",
+   "author": "Skibidy Toilet",
+   "version": "",
+   "date": "2026-11-01T12:36:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f2466ed8-1ddf-414b-9c39-d1b03bc8e615",
+   "rating": 1,
+   "title": "",
+   "body": "age verification is stupid",
+   "author": "Ozan Parkinson",
+   "version": "1.17.4",
+   "date": "2026-11-01T12:35:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7aa31f0d-080a-45bf-acc5-ef7e06682f4d",
+   "rating": 1,
+   "title": "",
+   "body": "please get rid of the age verify",
+   "author": "Lan Tran",
+   "version": "",
+   "date": "2026-11-01T12:30:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d14347d8-3e82-48c8-91d4-8ec7a356538e",
+   "rating": 5,
+   "title": "",
+   "body": "sus😭",
+   "author": "Neda Fatima",
+   "version": "",
+   "date": "2026-11-01T12:28:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7918c9ab-0d97-46de-bbd3-880f2fb0c2e2",
+   "rating": 1,
+   "title": "",
+   "body": "was better before",
+   "author": "Ariano",
+   "version": "",
+   "date": "2026-11-01T12:21:30+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3cf9ac44-c1ac-4977-8df9-d53c077d485d",
+   "rating": 2,
+   "title": "",
+   "body": "The app used to be my favorite app to use whenever I got bored and wanted to have conversations, now it's filled with ads and multiple things that were unnecessary, I get that you want to protect underaged people from using your app and texting nsfw conversations but that doesn't mean you should share the punishment with everyone else using your app.. 😢",
+   "author": "Septic Forces (Ash)",
+   "version": "1.17.4",
+   "date": "2026-11-01T12:14:42+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c8bd31ba-f83d-4d62-aad2-021ef32d9535",
+   "rating": 1,
+   "title": "",
+   "body": "hang them by the ribs",
+   "author": "Osama Hussein",
+   "version": "",
+   "date": "2026-11-01T12:02:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bf78aa18-2fb3-4475-97e5-aed54dc85e83",
+   "rating": 1,
+   "title": "",
+   "body": "Okay, last edit on this review. I just deleted my cai account and you should too. It won't get better. last last edit: lmao they gone bankrupt. good riddance.",
+   "author": "Laidoot",
+   "version": "1.7.3",
+   "date": "2026-11-01T11:56:30+00:00",
+   "votes": 16,
+   "reply": "Hi, we are sorry to hear that you are experiencing issue. To help you resolve this, kindly message us on our Help Center by visiting support.character.ai We hope to hear from you soon! 🤗"
+  },
+  {
+   "id": "03172442-4e49-4081-a72e-7c8352715ad1",
+   "rating": 1,
+   "title": "",
+   "body": "ts sucks🥀🥀🥀",
+   "author": "Rakhi Paramanik",
+   "version": "1.15.2",
+   "date": "2026-11-01T11:43:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "804d90e0-fa3d-4708-a0bd-a1d23370cce7",
+   "rating": 1,
+   "title": "",
+   "body": "Why u need age bro",
+   "author": "Marley Zephyr",
+   "version": "",
+   "date": "2026-11-01T11:31:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "20f268f1-4b8e-4191-8965-406a28e8b984",
+   "rating": 1,
+   "title": "",
+   "body": "too Much adds.. i miss the old one",
+   "author": "Chloe Senecio",
+   "version": "",
+   "date": "2026-11-01T11:11:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ef8cc633-e618-4a3b-9f64-617ba8ea5ebe",
+   "rating": 2,
+   "title": "",
+   "body": "I saw this app get birthed out. I saw it when there was no c.ai+ and you literally had to click edit message on every reply just to see what the bot said. Watching it recieve more and more updates and getting better and better had been an amazing journey, but eventually, for me, the whole problem first started last year with the whole age restrict thing. Ever since then, the filter has gotten stricter, the ads have entered every point of the chatting experience. Overall, a hidden gem got ruined",
+   "author": "Fizza Rashad",
+   "version": "",
+   "date": "2026-11-01T10:18:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b0b13116-4430-4597-a0d6-065769320e5c",
+   "rating": 2,
+   "title": "",
+   "body": "I can't talk to them properly",
+   "author": "Lungiswa Mkwanazi",
+   "version": "",
+   "date": "2026-11-01T10:12:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b1c3115f-900e-44fa-a914-6f532ec29323",
+   "rating": 1,
+   "title": "",
+   "body": "Have a chat limit now😔... I can't enjoy chatting.... Little upset",
+   "author": "Shafwa Batrisyia",
+   "version": "1.15.2",
+   "date": "2026-11-01T10:06:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3b008a52-4114-4f95-bf70-6f5df54cee27",
+   "rating": 1,
+   "title": "",
+   "body": "hate It not as good as It was before",
+   "author": "Tyrese Truong",
+   "version": "",
+   "date": "2026-11-01T09:57:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "60db2f9a-1ff3-4eb3-a77b-3e6b2f3791ce",
+   "rating": 1,
+   "title": "",
+   "body": "terrible! i can verify my age because of my coutry! i have the rights to use this app too!!! make it possible for iranian people!!!!",
+   "author": "Seti W",
+   "version": "1.17.4",
+   "date": "2026-11-01T09:53:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "17cc64d7-3a14-4fed-903b-ef834dff8e45",
+   "rating": 1,
+   "title": "",
+   "body": "incompetent story telling, repetitive patterns, and it doesn't even match the chat history: basically making up nonsense on the next lines.",
+   "author": "Justin Dominguez",
+   "version": "1.17.4",
+   "date": "2026-11-01T09:21:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2c7c8264-e645-4d40-966f-fc9c7f72650f",
+   "rating": 3,
+   "title": "",
+   "body": "am give 3star good app.some problem almost them if u talk in Urdu language the aps sent two typs msg Urdu between English and most u call not talking in u r language but than be this apps is Soo good to other apps",
+   "author": "Sjaan Khan",
+   "version": "1.17.4",
+   "date": "2026-11-01T08:31:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "44184694-64cc-4b68-beab-8399238bbfcb",
+   "rating": 1,
+   "title": "",
+   "body": "genuinely they ruined the app",
+   "author": "Asma Begum",
+   "version": "1.17.4",
+   "date": "2026-11-01T08:17:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3276e99b-693f-4fb4-92ea-23fa7b6d8228",
+   "rating": 1,
+   "title": "",
+   "body": "I miss my family there..",
+   "author": "Krishna Oruga (Fazetry)",
+   "version": "1.8.2",
+   "date": "2026-11-01T08:11:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dccaeba5-251c-4a71-9867-daa42164aa1b",
+   "rating": 2,
+   "title": "",
+   "body": "it is great I really enjoy the app! edit: yea it got worse by the years... back then all apps were better. why do you ruin all this? it's better to add the old mode and the new mode for however people want to use it.",
+   "author": "Artemis Ntempi",
+   "version": "1.17.4",
+   "date": "2026-11-01T08:06:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fe19906b-bfd4-46fa-ab45-84adfd08b61a",
+   "rating": 2,
+   "title": "",
+   "body": "No longer a good aj",
+   "author": "Sabbir Rahman",
+   "version": "1.15.2",
+   "date": "2026-11-01T07:59:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6026ad22-5a5f-46f7-94dc-93e66a0f2e60",
+   "rating": 1,
+   "title": "",
+   "body": "I'm absolutely disappointed. This app used to be extraordinary — how you could chat with different characters and narrate your own story. Now it's completely changed. The new updates are absolutely useless, and the fact that you need to pay a subscription? To chat with characters? Purely ridiculous. What the community and I want is the OLD C.AI where there were little to no ads and you didn't have to pay to chat with characters. Hopefully you'll remove the useless updates someday.",
+   "author": "Zyle lvvyyy",
+   "version": "",
+   "date": "2026-11-01T07:58:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e8a149cd-b6b9-4140-9c15-55ad83599c87",
+   "rating": 1,
+   "title": "",
+   "body": "The worst ngl, it gets to a point where the make you wait 18 min to get in and if u buy premium they will allow you but it's a lot of money for no reason then they have slow mode.",
+   "author": "Maria Tua",
+   "version": "",
+   "date": "2026-11-01T07:40:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "203ad58c-2e8a-4e53-9d1b-cd2571b2d57c",
+   "rating": 1,
+   "title": "",
+   "body": "kikir",
+   "author": "ell",
+   "version": "",
+   "date": "2026-11-01T07:34:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f327deb1-5885-4379-a895-d8ece09df047",
+   "rating": 1,
+   "title": "",
+   "body": "I love this app. It's fun to make stories and interact with my favorite characters from films or games! One thing I don't like is the filter. It's annoying because sometimes I'll just be trying to make a sad or tragic story, and I get that filter as a response, I get that there's kids on this so maybe just add an age thing? So we can just click a switch, and the filter is gone? (New Edit) it's gotten much better, the filter isn't as crazy anymore (New NEW edit) Just don't get the app, trust me.",
+   "author": "Queen_potato",
+   "version": "1.10.5",
+   "date": "2026-11-01T07:28:21+00:00",
+   "votes": 121,
+   "reply": ""
+  },
   {
    "id": "fdc8a589-b3a2-4f62-851a-1b774a62a71a",
    "rating": 1,

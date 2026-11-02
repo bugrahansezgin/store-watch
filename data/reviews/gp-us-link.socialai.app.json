@@ -1,39 +1,127 @@
 {
  "stats": {
-  "total": 1836,
-  "avg": 3.92,
+  "total": 1844,
+  "avg": 3.91,
   "dist": {
    "1": 192,
-   "2": 109,
-   "3": 225,
-   "4": 440,
+   "2": 112,
+   "3": 229,
+   "4": 441,
    "5": 870
   },
   "d7": {
-   "count": 196,
+   "count": 204,
    "avg": 2.79,
    "dist": {
     "1": 61,
-    "2": 23,
-    "3": 42,
-    "4": 36,
+    "2": 26,
+    "3": 46,
+    "4": 37,
     "5": 34
    }
   },
   "d30": {
-   "count": 1312,
-   "avg": 3.87,
+   "count": 1320,
+   "avg": 3.86,
    "dist": {
     "1": 145,
-    "2": 78,
-    "3": 172,
-    "4": 323,
+    "2": 81,
+    "3": 176,
+    "4": 324,
     "5": 594
    }
   },
-  "updatedAt": "2026-11-02T07:28:03+00:00"
+  "updatedAt": "2026-11-02T13:28:52+00:00"
  },
  "reviews": [
+  {
+   "id": "1b97674a-864d-4903-89e0-fb393d3678e6",
+   "rating": 4,
+   "title": "",
+   "body": "It's very good, I used it for an hour. The only problem was the amount of ads, I get that it needs funding via ads but it's so much. Another problem is the lack of energy for conversations with bots, if it was three energy per ad it would be worth it. Again it's a very good app and I recommend it well for entertainment",
+   "author": "D SONGS",
+   "version": "1.9.63",
+   "date": "2026-11-01T12:55:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "94e2a80b-abbb-4fa7-ae37-7f5cc7421b0e",
+   "rating": 2,
+   "title": "",
+   "body": "what pisses me off is the fact that you need energy to chat with them, its really frustrating LOL. maybe people will get addicted to this app if you were to temove the energy stuff. There were too many ads, which i dont like. But overall, it is a good app if it weren't for alot of ads and the energy problem.",
+   "author": "Intan Dalilah",
+   "version": "1.9.63",
+   "date": "2026-11-01T12:37:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4462fa7c-a3fc-48c6-8024-6b777004e8c8",
+   "rating": 2,
+   "title": "",
+   "body": "too many ads",
+   "author": "Yunnie Garay",
+   "version": "1.8.8",
+   "date": "2026-11-01T12:29:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4c31ae88-ea02-462d-bed9-ae02ba65fb91",
+   "rating": 3,
+   "title": "",
+   "body": "Great app but not happy with the energy refills, atleast we should get daily refills but no, it does not refills itself, I'm really disappointed since it mostly pay to play. also the watch ad was pointless, it stops working after and sometimes it just doesn't give any energy. overall the app should be atleast free so we could play daily without paying. update: Now we get refills everyday but I still have one problem. It’s stops working after one activity like I can post more than one.",
+   "author": "Sukusri Basumatary",
+   "version": "1.9.63",
+   "date": "2026-11-01T12:16:20+00:00",
+   "votes": 18,
+   "reply": ""
+  },
+  {
+   "id": "575ddb46-9e64-4c97-b782-ad75a331f434",
+   "rating": 3,
+   "title": "",
+   "body": "I had an enjoyable immersive experience. About the free plan, I'm js so sad that there's only five energy points per day. I hope it could at least be ten. I hope there are unlimited ads for us to refill the energy and continue using the app. And when I skip the premium plan offer, I hope it doesn't appear again til I close and reopen the app.",
+   "author": "Maria Lorrea Luna Tanio",
+   "version": "1.9.63",
+   "date": "2026-11-01T10:54:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6eb4828d-b3b0-43af-9c20-dcb32b6152d8",
+   "rating": 3,
+   "title": "",
+   "body": "i love this app, a few lags but it’s probably my phone. it’s just that it’s kinda pay to play. i mean that in order to play smoothly, you need to pay and i’m broke. i definitely don’t hate the free version, it’s just that i’m too impatient for ads.",
+   "author": "Hannah Mae Salum",
+   "version": "1.9.63",
+   "date": "2026-11-01T10:34:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2d3a2db0-b198-4207-8740-a3d8a028f23a",
+   "rating": 3,
+   "title": "",
+   "body": "Been a premium user for some time. The amount of nerves I lost on this unoptimized AI is ridiculous. It constantly breaks story and giving bad suggestions. Ai should be able to understand what the user wants to hear from the context. That is the whole point. If I write \"person x and y fight and the main character is silent\" then he should be silent and the Ai should take my words as a holy grail, not try do defuse the fight and offer truce. Otherwise, this game has a lot of potential.",
+   "author": "Adriana Mezzalira",
+   "version": "1.9.63",
+   "date": "2026-11-01T10:05:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d96dda76-3ee7-43fa-b2e4-099a59a0e04b",
+   "rating": 2,
+   "title": "",
+   "body": "i like it when i used it for the first time bc it was feeding my delusions towards my ship, but the second time i used it, it didn't refill my energy & when i watched the ads so i could get 1 energy, i didn't get it, and it also lags which fruatates me. My patience keeps getting thinner every second i use it",
+   "author": "Gwen Ysabella Baliton",
+   "version": "1.9.63",
+   "date": "2026-11-01T09:33:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "1b04a42d-f90b-47da-8514-a545e9cea58c",
    "rating": 1,

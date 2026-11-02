@@ -1,39 +1,127 @@
 {
  "stats": {
-  "total": 1498,
+  "total": 1506,
   "avg": 2.9,
   "dist": {
-   "1": 526,
+   "1": 527,
    "2": 155,
-   "3": 210,
-   "4": 164,
-   "5": 443
+   "3": 211,
+   "4": 166,
+   "5": 447
   },
   "d7": {
-   "count": 186,
-   "avg": 2.82,
+   "count": 194,
+   "avg": 2.87,
    "dist": {
-    "1": 67,
+    "1": 68,
     "2": 19,
-    "3": 32,
-    "4": 17,
-    "5": 51
+    "3": 33,
+    "4": 19,
+    "5": 55
    }
   },
   "d30": {
-   "count": 849,
-   "avg": 2.89,
+   "count": 846,
+   "avg": 2.9,
    "dist": {
-    "1": 301,
-    "2": 87,
-    "3": 116,
-    "4": 96,
-    "5": 249
+    "1": 298,
+    "2": 86,
+    "3": 114,
+    "4": 97,
+    "5": 251
    }
   },
-  "updatedAt": "2026-11-02T07:28:04+00:00"
+  "updatedAt": "2026-11-02T13:28:53+00:00"
  },
  "reviews": [
+  {
+   "id": "6eb498c6-66fa-4344-95cb-41a0fd6b3bd2",
+   "rating": 5,
+   "title": "",
+   "body": "it's worth my time that's for sure",
+   "author": "Sarah Mino",
+   "version": "2.2.92",
+   "date": "2026-11-01T12:55:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5b7f232b-20ea-4e00-ad9e-a4d18edbb66d",
+   "rating": 5,
+   "title": "",
+   "body": "I thought it's just a normal Ai not rolplay 😬",
+   "author": "Nilay Hashemi",
+   "version": "2.2.92",
+   "date": "2026-11-01T12:45:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4184667a-8f3d-43f1-9588-b77addc2b145",
+   "rating": 3,
+   "title": "",
+   "body": "the app is okay like I wish while making characters you could have more words and it not allowing anatomy correctly terms. and it has way to many ads and like this app is made for 18+ yet it literally says stuff like oh you can't say that that, bruh are you actually kidding me!? and I also hate when your on a ad and you try click the x and it just takes you to another ad! and you have to pay for everything like I am not watching thousands of ads to get coins or logging in every single day.",
+   "author": "Evie",
+   "version": "2.2.92",
+   "date": "2026-11-01T11:54:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6f4b8531-bb49-42c5-b2a6-f1b5b367457e",
+   "rating": 5,
+   "title": "",
+   "body": "amazing but should remove adds that's all I ask please",
+   "author": "Pheonix Norman",
+   "version": "",
+   "date": "2026-11-01T10:30:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4569a730-61c6-45f8-a484-979f2d5fcfdb",
+   "rating": 1,
+   "title": "",
+   "body": "bad i can't even make group chats or characters because it keeps saying violations even tho thete are perfectly normal like do better polybuzz im very disappointed also get back onto the apple play store",
+   "author": "Jacob Schaad",
+   "version": "2.2.92",
+   "date": "2026-11-01T10:20:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fa500d66-7138-4be6-88b5-8a9c552ca8c9",
+   "rating": 5,
+   "title": "",
+   "body": "really good",
+   "author": "Sigma Boy",
+   "version": "2.2.92",
+   "date": "2026-11-01T09:44:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "684d7bdc-c452-485f-93bc-6eb23361e27a",
+   "rating": 4,
+   "title": "",
+   "body": "I did like this alot, but now it's just not letting me look up some characters and keeps saying \"Put in a code for free stuff\" or something.",
+   "author": "Issa",
+   "version": "2.2.92",
+   "date": "2026-11-01T09:01:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f94e3490-e9ce-4495-a011-3f40c953c582",
+   "rating": 4,
+   "title": "",
+   "body": "this app is good just that my comments keep getting censored",
+   "author": "Roy X",
+   "version": "",
+   "date": "2026-11-01T08:54:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "6b1fd896-03c6-41bd-8bef-b4855910127f",
    "rating": 1,
