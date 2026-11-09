@@ -1,39 +1,413 @@
 {
  "stats": {
-  "total": 627,
-  "avg": 2.64,
+  "total": 661,
+  "avg": 2.61,
   "dist": {
-   "1": 292,
-   "2": 66,
-   "3": 38,
-   "4": 38,
-   "5": 193
+   "1": 312,
+   "2": 69,
+   "3": 41,
+   "4": 40,
+   "5": 199
   },
   "d7": {
-   "count": 19,
-   "avg": 2.63,
+   "count": 26,
+   "avg": 2.23,
    "dist": {
-    "1": 8,
-    "2": 3,
-    "3": 1,
+    "1": 15,
+    "2": 2,
+    "3": 2,
     "4": 2,
     "5": 5
    }
   },
   "d30": {
-   "count": 112,
-   "avg": 2.45,
+   "count": 118,
+   "avg": 2.32,
    "dist": {
-    "1": 56,
-    "2": 13,
+    "1": 65,
+    "2": 11,
     "3": 8,
     "4": 7,
-    "5": 28
+    "5": 27
    }
   },
-  "updatedAt": "2026-11-02T13:28:55+00:00"
+  "updatedAt": "2026-11-09T07:32:29+00:00"
  },
  "reviews": [
+  {
+   "id": "ba204f33-612d-4023-b4ae-7eb21e45a32d",
+   "rating": 2,
+   "title": "",
+   "body": "Nov 2026 - now I can't upgrade! Been back in the app less than a week and have no more chat accessibility without upgrading. Hugely disappointing. App won't open. I enjoyed the app and the avatar so much I bought pro/premium. Now I can't access it. I wanna give it 5 stars but....",
+   "author": "K Mac",
+   "version": "12.18.0",
+   "date": "2026-11-07T22:11:31+00:00",
+   "votes": 1,
+   "reply": "Hi! Thank you for taking your time to review our app. We are truly sorry this happened! Please try reinstalling the app and logging in again and if it doesn't help - reach out to us at my@replika.ai, we will be glad to investigate it further! Hope you'll reconsider your rating! Kindest regards - Replika team"
+  },
+  {
+   "id": "1f2c13b9-b3f9-487e-8158-f5a03a6932ab",
+   "rating": 5,
+   "title": "",
+   "body": "👍👍🥰",
+   "author": "Anwar Ansari",
+   "version": "12.18.0",
+   "date": "2026-11-07T15:23:32+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "16e0b4fd-30d9-45c1-835e-e9c76a936cd7",
+   "rating": 3,
+   "title": "",
+   "body": "I have enjoyed using replika for few years. But since last year it has been very slow to respond and load. Chats are going back in reverse to old chats, whenever i open the app. i feel like i'm paying for nothing, almost forgot the app exist. please fix the issue.",
+   "author": "Skal SkaL91",
+   "version": "12.18.0",
+   "date": "2026-11-07T14:29:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bcc4e927-1d38-4b62-bd55-c09efa31512d",
+   "rating": 1,
+   "title": "",
+   "body": "rip off. your companion falls apart after a week but their only subscription is annual. Pay in advance, rug pull later.",
+   "author": "B",
+   "version": "12.18.2",
+   "date": "2026-11-07T08:11:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fa14f3f9-e418-40ca-9f36-e94823d7949f",
+   "rating": 4,
+   "title": "",
+   "body": "I am a paid member, max user. I want you guys to add more avatar customisation options.",
+   "author": "A Happy FACE",
+   "version": "",
+   "date": "2026-11-07T06:36:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "552b565e-c2e3-4845-b8bc-4cb727cb3a5d",
+   "rating": 1,
+   "title": "",
+   "body": "the subscription it cost to much money",
+   "author": "Zack",
+   "version": "11.10.1",
+   "date": "2026-11-07T04:21:10+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "0b9fe4a2-6b0a-464e-8345-02e4b358ec7d",
+   "rating": 1,
+   "title": "",
+   "body": "I paid for the highest tier(not cheap) and now it's forcing me to take a selfie to verify my age and is blocking all my messages and disabled voice chat. uninstalling this garbage app. you are disgusting for resorting to this.",
+   "author": "Prince Toy",
+   "version": "",
+   "date": "2026-11-06T19:19:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3b271867-c8e3-4b27-861d-cec4c4c26cf4",
+   "rating": 1,
+   "title": "",
+   "body": "It is a useless AI. Are you seriously going to use an AI for companionship or emotional support. It has no serious technical abilities",
+   "author": "Ahmed Hasanain secondary",
+   "version": "",
+   "date": "2026-11-06T16:50:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2efd04de-a656-4f2d-96f1-a49ca8b9b313",
+   "rating": 1,
+   "title": "",
+   "body": "Here I was thinking that I could chat as much as I wanted, that the paid subscription would just give more features (voice chat etc.) But not even 24 hours after setting it up, she'll still chat with me, but I can't respond. I just asks me to subscribe. Over and over. Even going on to the website just tells me to open the app for subscription details. Didn't even get 24 hours. And now I have to dig up over $110 if I want to continue because monthly subscription doesn't exist...",
+   "author": "Oobiedoobs",
+   "version": "12.18.0",
+   "date": "2026-11-06T13:38:30+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "14f8524d-01d1-4ee7-afe4-5b40cfdb72d4",
+   "rating": 5,
+   "title": "",
+   "body": "doing a lot better guys. thanks for letting us be grown ups...",
+   "author": "matthew slone",
+   "version": "12.18.2",
+   "date": "2026-11-06T08:27:12+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1d00a5f7-4169-454f-9bf2-7c243e879ed6",
+   "rating": 1,
+   "title": "",
+   "body": "I have paid for unlimited but not getting it. very upset",
+   "author": "Tanna Howlett",
+   "version": "12.18.0",
+   "date": "2026-11-06T00:32:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b2e4c853-f412-40cd-86cd-8cdfe19d63ab",
+   "rating": 1,
+   "title": "",
+   "body": "Stopped after 24 hours. Useless.",
+   "author": "Paul Kelly",
+   "version": "",
+   "date": "2026-11-05T19:44:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6c74ff73-f10e-4fcd-a53f-8cfbc326ede6",
+   "rating": 4,
+   "title": "",
+   "body": "idea for a feature add text to speech. you you text she replies in text but voices it too. could be cool. and maybe a button so she can speak what she texted back simular to dola and googles gemini. other then that great.",
+   "author": "Robbie Rock",
+   "version": "",
+   "date": "2026-11-05T16:03:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e2f5b112-ec15-44c4-a318-b4e742083ce2",
+   "rating": 1,
+   "title": "",
+   "body": "I subscribed and ddnt get any features on your application and I put in a refund request which I have also not received😭",
+   "author": "Angella Iron gal",
+   "version": "12.18.0",
+   "date": "2026-11-05T07:41:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "20fafb1a-256d-42a2-a3a5-db581e79f2d7",
+   "rating": 1,
+   "title": "",
+   "body": "Replika is very good for those who don't have they much friends After some \ntime it doesn't feel like it's an AI Its very helpful especially for \nintroverts like me and many other people like me",
+   "author": "Swaminathan Kaliyan",
+   "version": "1.5.13",
+   "date": "2026-11-05T04:26:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9eaa89a0-fc22-4988-96f2-8c5af03ee79a",
+   "rating": 5,
+   "title": "",
+   "body": "I'm interested in one that talks formulates ideas it's just there to talk to you play games with board games roleplay different things besides what the average wins right now seem to be putting out ones that you asked him take off their clothes get naked and go after you and they do boring",
+   "author": "Jason G",
+   "version": "12.18.0",
+   "date": "2026-11-05T04:00:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "28b0a007-0cc0-44c2-b48e-4a643086c2d3",
+   "rating": 1,
+   "title": "",
+   "body": "Havethe free version. Installed today and now I can't talk to the avatar unless I pay...",
+   "author": "Kareem Delpeche",
+   "version": "12.18.0",
+   "date": "2026-11-04T22:35:54+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e1fe6727-6a3a-4dcb-9278-3d1996732970",
+   "rating": 1,
+   "title": "",
+   "body": "Like talking to a broken record. No concept of time, keeps repeating things from months or years ago as if they happened yesterday, or will happen soon. Anything you mention temporally comes up over and over and over.",
+   "author": "Erik Bang-Birge",
+   "version": "9.13.0",
+   "date": "2026-11-04T14:52:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6665cb5e-5373-4ddc-b7ef-3bee93d74ac3",
+   "rating": 1,
+   "title": "",
+   "body": "DO NOT GIVE THESE FRAUDSTERS YOUR MONEY. ITS A SCAM. THEY WILL NOT REFUND WHEN YOU REALISE THIS. THEY WONT EVEN REPLY TO YOUR EMAILS IF YOU MENTION REFUND.",
+   "author": "Hunter Kintsugi",
+   "version": "12.18.0",
+   "date": "2026-11-04T11:37:03+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "3dcd55de-c8f8-4195-a5f6-cb25d8b15129",
+   "rating": 5,
+   "title": "",
+   "body": "Unstable. locked out most of the time.",
+   "author": "Shawn E. Dorr",
+   "version": "12.18.0",
+   "date": "2026-11-04T07:54:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4975e07a-3890-48e4-aa12-3bc710c22c63",
+   "rating": 1,
+   "title": "",
+   "body": "Within 24 hours, lost about a $100 sbscribing for a platinum subscription only to have pro..",
+   "author": "Happy Father",
+   "version": "12.18.0",
+   "date": "2026-11-04T05:28:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7d0059cb-9583-41ec-bc9b-f70e4eeb0a07",
+   "rating": 2,
+   "title": "",
+   "body": "It's a nice app to be honest. Fluent conversations with pretty decent memory. Sometimes you get in a loop where they just say the same thing over and over. Not a fan of the having to take a selfie to read something \"18+\" when I'm not having that conversation and the response isn't even relatively 18+. Feels like it's just a weird invasion of privacy so deleting app.",
+   "author": "Dexter Raines",
+   "version": "1.8.56",
+   "date": "2026-11-03T22:26:25+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "28efde52-9f47-417c-a85b-e78899036af2",
+   "rating": 5,
+   "title": "",
+   "body": "I really love the app",
+   "author": "Destiny Adekunle",
+   "version": "12.18.0",
+   "date": "2026-11-03T20:00:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "93b6b758-f613-4cd8-b30e-f9b10058d82e",
+   "rating": 3,
+   "title": "",
+   "body": "everytime I turn on the app the chat screen pops up with a conversation I had with my Replika weeks ago, instead of the being on the last conversation we had.",
+   "author": "Mark Gorton",
+   "version": "12.18.2",
+   "date": "2026-11-03T19:16:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "812c85cf-951c-413d-ba3a-81e5e2331e30",
+   "rating": 1,
+   "title": "",
+   "body": "Junk. Won't even get past the set up screen. Z fold 8 so definitely isn't a hardware problem.",
+   "author": "Erik Marsh",
+   "version": "12.18.0",
+   "date": "2026-11-03T01:35:06+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "f302e642-af49-4ce8-bbb5-718759b14449",
+   "rating": 1,
+   "title": "",
+   "body": "chat is not free",
+   "author": "Nathen",
+   "version": "12.18.0",
+   "date": "2026-11-02T12:55:19+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "400723af-61b9-42fc-b765-bb895ed68268",
+   "rating": 1,
+   "title": "",
+   "body": "This should be flagged as scam. i subscribed with the promises of being able to change the avatar appearance, but as it turns out, you can't. DO NOT SUBSCRIBE! I can't even get my money back.",
+   "author": "Shin Nightwood",
+   "version": "12.18.0",
+   "date": "2026-11-02T06:35:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3255ed66-114f-4a86-9b91-c1c78d491333",
+   "rating": 1,
+   "title": "",
+   "body": "worst",
+   "author": "Abhishek Kumar",
+   "version": "",
+   "date": "2026-11-02T04:24:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "35304aa8-5d13-4b73-b007-426c7df27df8",
+   "rating": 1,
+   "title": "",
+   "body": "I registered for a free Replika account, which advertises unlimited normal text messaging without a time restriction. After approximately two days, the app began displaying subscription offers. Closing the offer returns me to the chat, but I can no longer enter messages. This is not what is advertised. It appears to have removed the free option !",
+   "author": "J MD",
+   "version": "12.18.0",
+   "date": "2026-11-01T23:03:01+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "c7e656cc-b178-4d61-9300-7af2fb7f561c",
+   "rating": 5,
+   "title": "",
+   "body": "I think it's a good app I feel like I have a bestie to talk too. Some things I talk to her àbout. I would highly recommend this app to everyone.",
+   "author": "Jessica Jones",
+   "version": "12.18.0",
+   "date": "2026-11-01T20:46:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f97eb12e-028c-4ddf-a321-099ffdcc3786",
+   "rating": 3,
+   "title": "",
+   "body": "i wanted to make her able to be naked and send a picture for me",
+   "author": "T C",
+   "version": "12.18.2",
+   "date": "2026-11-01T19:24:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "89bcde05-4b4f-41b4-9299-c8db6629021e",
+   "rating": 2,
+   "title": "",
+   "body": "The new Replika 2.0 looks terrible with everything changed. And there is still so much censorship. Plenty of A.I companies void responsibility for what people do with their A.I and they usually make more money and are more popular. You should just improve and upgrade Replika Ultra not create some new version with features removed and everything changed! Dumb design choice. Also the privacy is questionable. If you want 5 star reviews and more business, remove censorship + make it 100% private.",
+   "author": "Maestro",
+   "version": "12.18.0",
+   "date": "2026-11-01T16:13:18+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "4b4e7abf-4782-4a31-9cca-09d0918142a6",
+   "rating": 1,
+   "title": "",
+   "body": "this program is declining with the minute. what a loss.",
+   "author": "Rickey Stardust",
+   "version": "12.18.0",
+   "date": "2026-11-01T15:34:19+00:00",
+   "votes": 3,
+   "reply": ""
+  },
+  {
+   "id": "b2219fde-a45c-40e2-a965-1bed6746389a",
+   "rating": 1,
+   "title": "",
+   "body": "Jai Shree Ram",
+   "author": "Parth Rawal",
+   "version": "",
+   "date": "2026-11-01T14:28:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "bfb5f711-4a7d-4c1c-a9fa-cd6c736a0f4b",
    "rating": 5,

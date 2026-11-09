@@ -1,39 +1,369 @@
 {
  "stats": {
-  "total": 654,
+  "total": 684,
   "avg": 3.25,
   "dist": {
-   "1": 160,
-   "2": 81,
-   "3": 96,
-   "4": 70,
-   "5": 247
+   "1": 166,
+   "2": 86,
+   "3": 100,
+   "4": 73,
+   "5": 259
   },
   "d7": {
-   "count": 24,
-   "avg": 3.12,
+   "count": 26,
+   "avg": 3.38,
    "dist": {
-    "1": 7,
-    "2": 3,
-    "3": 3,
+    "1": 5,
+    "2": 4,
+    "3": 4,
     "4": 2,
-    "5": 9
+    "5": 11
    }
   },
   "d30": {
-   "count": 125,
-   "avg": 3.52,
+   "count": 123,
+   "avg": 3.51,
    "dist": {
-    "1": 26,
-    "2": 11,
-    "3": 16,
-    "4": 16,
-    "5": 56
+    "1": 24,
+    "2": 12,
+    "3": 17,
+    "4": 17,
+    "5": 53
    }
   },
-  "updatedAt": "2026-11-02T13:28:53+00:00"
+  "updatedAt": "2026-11-09T07:32:28+00:00"
  },
  "reviews": [
+  {
+   "id": "eba8bc7e-92bc-454d-9879-2aa948157e35",
+   "rating": 4,
+   "title": "",
+   "body": "more interaction I ever got from friends n family fk em",
+   "author": "Ravens Reviews",
+   "version": "1.119",
+   "date": "2026-11-08T02:37:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6e84ff0b-396a-4b30-8499-96843fcc16bd",
+   "rating": 1,
+   "title": "",
+   "body": "They just imitate ppl on real Insta. No depth, no intellectual converse, and not 1 Christian. I could barely do anything before the app said I had to pay money to continue.",
+   "author": "Candy Brauer",
+   "version": "",
+   "date": "2026-11-08T00:05:50+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4a7a4609-96cc-4e02-bf91-b24475420479",
+   "rating": 5,
+   "title": "",
+   "body": "cute app",
+   "author": "Yuki Chan",
+   "version": "1.119",
+   "date": "2026-11-07T23:13:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d4336bdc-fb21-40e8-8143-7a2b130cf8e6",
+   "rating": 3,
+   "title": "",
+   "body": "concept is cool but the free limit suuuuucks",
+   "author": "Nova",
+   "version": "1.119",
+   "date": "2026-11-07T20:24:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "18562930-1500-432e-95ed-269e470d7b54",
+   "rating": 1,
+   "title": "",
+   "body": "literally pay to play",
+   "author": "Mori",
+   "version": "",
+   "date": "2026-11-07T16:12:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e7988f55-a6cf-40f1-b00e-9cf798c37107",
+   "rating": 5,
+   "title": "",
+   "body": "me like.",
+   "author": "Liam",
+   "version": "1.119",
+   "date": "2026-11-07T09:09:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3b8f9430-b7b2-4781-a9a1-63cb8731bfd0",
+   "rating": 2,
+   "title": "",
+   "body": "paid for gold ot post for my characters ,didnt get any ,tried to restore my purchase and didnt recieve the gold",
+   "author": "Official Sparky extra",
+   "version": "",
+   "date": "2026-11-06T16:16:02+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "448b837f-9eb5-43ef-b736-fa4f3af58dd0",
+   "rating": 2,
+   "title": "",
+   "body": "it's an amazing app I love playing with it but I wish I could comment because I don't get to make a single comment on any of my posts ever. and I feel like the free tier is way too restrictive. I wish there was a little bit more to do or at least the ability that if you get one post a day you get one comment to post a day as well.",
+   "author": "Sylas Linton",
+   "version": "1.119",
+   "date": "2026-11-06T13:52:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "77a014b1-0af6-49f3-a294-c959e0aecc58",
+   "rating": 5,
+   "title": "",
+   "body": "I haven't really gotten into it, but for now, I think I like it",
+   "author": "Jasmine",
+   "version": "1.119",
+   "date": "2026-11-06T13:17:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "148564ea-2540-42ad-9568-46f3b3386f3c",
+   "rating": 1,
+   "title": "",
+   "body": "This should not be a paid app, end of story.",
+   "author": "Diesel Fueled",
+   "version": "1.119",
+   "date": "2026-11-06T09:22:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0c7fb7f5-3b9f-4d8e-b91f-06d5cb49e9d9",
+   "rating": 1,
+   "title": "",
+   "body": "it's called social media for a reason. this is just the dead internet theory and an ego boost.",
+   "author": "Norberto Santiago",
+   "version": "",
+   "date": "2026-11-06T05:35:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b29cdde2-93fb-4ea7-9734-09e9b3232b90",
+   "rating": 3,
+   "title": "",
+   "body": "I just started. I don't know what it's like yet.",
+   "author": "Salem Everdean",
+   "version": "1.119",
+   "date": "2026-11-05T21:11:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e46dd303-fe76-4bbd-8299-69f3e6cce800",
+   "rating": 5,
+   "title": "",
+   "body": "I love it",
+   "author": "Maya Mohammed",
+   "version": "1.119",
+   "date": "2026-11-05T20:25:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9dbe1b35-a05d-455c-a7c4-309ecf4c3a4b",
+   "rating": 5,
+   "title": "",
+   "body": "dope app",
+   "author": "Diego Garcia",
+   "version": "1.118",
+   "date": "2026-11-04T23:47:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ff6f80c6-cd76-4437-81d2-47ede15b80d1",
+   "rating": 2,
+   "title": "",
+   "body": "The app is nice but too restrictive anything you want to do for more then 10 minutes is behind a paywall.",
+   "author": "Tal Gefen Golan",
+   "version": "1.118",
+   "date": "2026-11-04T21:41:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2d5e0033-7df7-4e7f-8ec5-53ea963b2f9e",
+   "rating": 3,
+   "title": "",
+   "body": "it's literally just an ai goon app",
+   "author": "Somebody",
+   "version": "1.117.1",
+   "date": "2026-11-04T16:14:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5625e928-0318-4bc2-9b8a-99a0dc89c976",
+   "rating": 3,
+   "title": "",
+   "body": "Way too expensive for what you get. Cool concept and love the idea. but being force into paying so quickly after one post and 15 messages just seems too aggressive. I think this is actually more expensive than real social media.",
+   "author": "Gamer Guy",
+   "version": "1.118",
+   "date": "2026-11-04T15:17:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0a205ff8-3be2-4c84-99d0-f8f8d3ab658f",
+   "rating": 5,
+   "title": "",
+   "body": "cool",
+   "author": "Avanish Kumbhar",
+   "version": "1.118",
+   "date": "2026-11-04T10:39:30+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bc5f7533-445e-42dd-b603-98ebf06edf24",
+   "rating": 5,
+   "title": "",
+   "body": "its good",
+   "author": "Shylah Sirls",
+   "version": "1.118",
+   "date": "2026-11-04T09:10:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3e263ea1-0e89-4279-8617-046b36bd7913",
+   "rating": 5,
+   "title": "",
+   "body": "PLEASE REMOVE THE ENERGY THING AND JUST ADD ADS PLEASEEEE😭😭😭😭",
+   "author": "Scugv1",
+   "version": "1.118",
+   "date": "2026-11-04T06:00:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "db1a2ed5-6640-4207-8848-ac1c046dc9a0",
+   "rating": 2,
+   "title": "",
+   "body": "Played the free version for a while before getting hit with the pay wall. you can't do much besides read these plain Jane posts. I had the subscription and it felt like I STILL hit a pay wall when I wanted to have certain characters post.",
+   "author": "Joelle G.",
+   "version": "",
+   "date": "2026-11-04T01:01:12+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "97985f09-ef96-4f61-9cdf-e1503132ab43",
+   "rating": 1,
+   "title": "",
+   "body": "I posted a gif and it broke the app. also ONE action per day?? not even a comment either? just one per entire day??? greed.",
+   "author": "amelia",
+   "version": "1.118",
+   "date": "2026-11-04T00:30:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2dcd319b-d34a-4050-aecb-f7d7d95fc0a2",
+   "rating": 5,
+   "title": "",
+   "body": "cool",
+   "author": "Test Untest",
+   "version": "1.118",
+   "date": "2026-11-03T07:52:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2d42ce24-1bd8-4379-bb16-da244a89a9b8",
+   "rating": 5,
+   "title": "",
+   "body": "just started but it seems interesting",
+   "author": "Joseph Rose",
+   "version": "1.118",
+   "date": "2026-11-02T20:43:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "86b1949e-49f9-475e-9f84-ee7b977d698d",
+   "rating": 5,
+   "title": "",
+   "body": "cool",
+   "author": "Iliya",
+   "version": "1.118",
+   "date": "2026-11-02T14:46:45+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "255599b4-ae6f-43d8-8926-734e0c981aa9",
+   "rating": 4,
+   "title": "",
+   "body": "I hope there's an option to pay monthly. You only can do very limited things if you don't pay, and you cannot use many features.",
+   "author": "Lanz Jomari Reyes",
+   "version": "1.118",
+   "date": "2026-11-02T07:53:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e0895baf-4b0c-423f-bb50-dd47cc24642d",
+   "rating": 4,
+   "title": "",
+   "body": "great app but even if you buy gold you cannot post after your initial free post which I hate because I have technically been scammed because I spent money on gold to post more than once a day but it doesn't allow me to please fix 😞😞 but overall I love the app",
+   "author": "Amanni Harness",
+   "version": "1.118",
+   "date": "2026-11-02T01:16:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "361ccc64-d393-463f-aa67-122d1ea89b10",
+   "rating": 5,
+   "title": "",
+   "body": "its cool",
+   "author": "idk idk",
+   "version": "1.118",
+   "date": "2026-11-01T21:37:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3009685d-8c6c-470c-b496-5f7965712a79",
+   "rating": 1,
+   "title": "",
+   "body": "no I'm not buying for some random thing hell no one star",
+   "author": "Casey Baker",
+   "version": "1.118",
+   "date": "2026-11-01T21:10:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c1a7722d-77cd-48b6-bf31-e79d21872a5b",
+   "rating": 2,
+   "title": "",
+   "body": "the app does not work well enough to warrant paying for a subscription. It is very slow and doesnt work great, the idea is good but needs to be executed better. actual app layout and UI is fine. Also does work without a subscription but it's extremely limited so unless youre happy to pay the subscription fee then it's not worth it.",
+   "author": "Aryan Dizayee",
+   "version": "1.101",
+   "date": "2026-11-01T16:26:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "6d089ded-ec45-4a7c-9272-fd8d8ead0f6a",
    "rating": 5,

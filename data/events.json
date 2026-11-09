@@ -1,5 +1,174 @@
 [
  {
+  "id": "2026-11-09-us-6502742786-release",
+  "type": "release",
+  "app": "us-6502742786",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.119",
+  "summary": "1.118 → 1.119",
+  "before": "1.118",
+  "after": "1.119",
+  "notes": "bug fixes"
+ },
+ {
+  "id": "2026-11-09-us-6502742786-icon",
+  "type": "icon",
+  "app": "us-6502742786",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Aspect: AI-Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/3b/02/583b0239-241e-fb42-83bf-480a090a79c3/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/53/94/bd53949b-dca5-06cd-d186-bb63699d455e/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-09-us-389801252-release",
+  "type": "release",
+  "app": "us-389801252",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Instagram shipped version 454.1",
+  "summary": "453.0 → 454.1",
+  "before": "453.0",
+  "after": "454.1",
+  "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience."
+ },
+ {
+  "id": "2026-11-09-us-389801252-icon",
+  "type": "icon",
+  "app": "us-389801252",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Instagram changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/b0/cc/44b0cc3a-e91f-2824-d98f-3e5e095a73f3/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/91/85/b09185ca-7b74-87a4-adaf-1755d434ee22/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-09-us-6753083338-release",
+  "type": "release",
+  "app": "us-6753083338",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2611050",
+  "summary": "0.2.2610271 → 0.2.2611050",
+  "before": "0.2.2610271",
+  "after": "0.2.2611050",
+  "notes": "This update includes bug fixes and improvements to your AI world experience!\n\nHave a question or feedback? Reach out anytime at hello@joincharmsocial.com"
+ },
+ {
+  "id": "2026-11-09-us-6753083338-icon",
+  "type": "icon",
+  "app": "us-6753083338",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Charm: AI Only Social Media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/82/b9/1f82b9be-e9e4-bcf1-633a-93e66a24158d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/13/59/22135961-a46f-dddf-9d03-8454ef10e718/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-09-us-6596771144-release",
+  "type": "release",
+  "app": "us-6596771144",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "status - sims but social media shipped version 1.9.63",
+  "summary": "1.9.62 → 1.9.63",
+  "before": "1.9.62",
+  "after": "1.9.63",
+  "notes": "- presets report\n- activity log filter fix\n- infinite loading spinner fix\n- minor bug fixes"
+ },
+ {
+  "id": "2026-11-09-us-6596771144-icon",
+  "type": "icon",
+  "app": "us-6596771144",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "status - sims but social media changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/e3/de/f8e3de55-702f-7089-39ba-ddda6d6c43c7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/de/51/98de5163-cafa-a08d-ad89-2883caf06602/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-09-gp-us-com.instagram.android-release",
+  "type": "release",
+  "app": "gp-us-com.instagram.android",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Instagram shipped an update",
+  "summary": "Updated 2026-11-02",
+  "before": "2026-10-28",
+  "after": "2026-11-02",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-09-gp-us-xyz.aspectapp.aspect-release",
+  "type": "release",
+  "app": "gp-us-xyz.aspectapp.aspect",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Aspect: AI-Only Social Media shipped version 1.119.1",
+  "summary": "1.118 → 1.119.1",
+  "before": "1.118",
+  "after": "1.119.1",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-09-gp-us-com.joincharmsocial.charm-release",
+  "type": "release",
+  "app": "gp-us-com.joincharmsocial.charm",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Charm: AI Only Social Media shipped version 0.2.2611050",
+  "summary": "0.2.2610270 → 0.2.2611050",
+  "before": "0.2.2610270",
+  "after": "0.2.2611050",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-09-us-1158555867-release",
+  "type": "release",
+  "app": "us-1158555867",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Replika - AI Companion Chat shipped version 12.5.2",
+  "summary": "12.5.0 → 12.5.2",
+  "before": "12.5.0",
+  "after": "12.5.2",
+  "notes": "A small update to smooth a few things out. Some of you had trouble getting back to your Replika, and that's fixed now. \n\nEnjoy every moment with your Replika"
+ },
+ {
+  "id": "2026-11-09-us-1158555867-icon",
+  "type": "icon",
+  "app": "us-1158555867",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Replika - AI Companion Chat changed its icon",
+  "summary": "New app icon",
+  "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/07/f7/65/07f765cc-3f51-7ec6-b8c2-864ae74ed088/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+  "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/03/94/720394b9-ad9c-fe75-6fee-2bb15c667871/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+ },
+ {
+  "id": "2026-11-09-gp-us-com.Beauchamp.Messenger.external-release",
+  "type": "release",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Chai: Chat AI Platform shipped version 0.4.440",
+  "summary": "0.4.438 → 0.4.440",
+  "before": "0.4.438",
+  "after": "0.4.440",
+  "notes": ""
+ },
+ {
+  "id": "2026-11-09-gp-us-com.Beauchamp.Messenger.external-description",
+  "type": "description",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Chai: Chat AI Platform updated its description",
+  "summary": "Store description text changed",
+  "before": "Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.\r\n\r\n\r\nCharacter creation - Character creation now open to everyone! Ignite your imagination and bring any character to life here, whether they exist in reality or flourish in the realm of imagination! Unleash your creativity and craft a character that can be kept entirely private or shared for everyone to engage with. But the excitement doesn't end there - immerse yourself in a vibrant community where you can also interact with characters crafted by others! Join the adventure and let your characters come alive in this thrilling experience!\r\n\r\nImmerse yourself in endless conversations - Unlike traditional chatbots, which can quickly become repetitive and boring, our AI chatbots use cutting-edge technology to generate responses that feel natural and engaging. All you need to do is to enjoy the free talk.\r\n\r\n\r\nNever run out of new things to explore - Our app is perfect for anyone who loves to chat, learn, and explore. Whether you're a history buff, a fan of pop culture, or just looking for a fun way to pass the time, our AI chatbots will provide you with endless entertainment and engagement. And with our constantly growing selection of characters, you'll never run out of new personalities to chat with.\r\n\r\n\r\nOur app provides users with the ultimate immersive conversational experience. With authentic voices and character thinking, our chatbots will make you feel like you're talking to a real person. You'll never run out of things to say, and there are no language barriers to hold you back. So why not download our app today and start exploring the world of endless conversations?",
+  "after": "Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply in character. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with a new bot, or a historical figure, every conversation feels natural\r\n\r\n\r\nImmerse yourself in endless conversations - Unlike traditional chatbots, which can quickly become repetitive and boring, our AI chatbots use cutting-edge technology to generate responses that feel natural and engaging. All you need to do is to enjoy the free talk.\r\n\r\n\r\nNever run out of new things to explore - Our app is perfect for anyone who loves to chat, learn, and explore. Whether you're a history buff, a fan of pop culture, or just looking for a fun way to pass the time, our AI chatbots will provide you with endless entertainment and engagement. And with our constantly growing selection of characters, you'll never run out of new personalities to chat with.\r\n\r\n\r\nOur app provides users with the ultimate immersive conversational experience. With authentic voices and character thinking, our chatbots make every conversation feel natural. You'll never run out of things to say. So why not download our app today and start exploring the world of endless conversations?"
+ },
+ {
+  "id": "2026-11-09-gp-us-com.Beauchamp.Messenger.external-rating",
+  "type": "rating",
+  "app": "gp-us-com.Beauchamp.Messenger.external",
+  "ts": "2026-11-09T07:32:11+00:00",
+  "title": "Chai: Chat AI Platform rose to 2.69 stars",
+  "summary": "+0.18 from 2.51",
+  "before": 2.51,
+  "after": 2.69
+ },
+ {
   "id": "2026-11-02-us-389801252-release",
   "type": "release",
   "app": "us-389801252",

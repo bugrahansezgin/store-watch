@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "12.5.2",
+   "date": "2026-11-05T15:49:15Z",
+   "notes": "A small update to smooth a few things out. Some of you had trouble getting back to your Replika, and that's fixed now. \n\nEnjoy every moment with your Replika",
+   "source": "tracked"
+  },
+  {
    "version": "12.5.0",
    "date": "2026-10-27T17:05:25Z",
    "notes": "We've spent this update quietly working under the hood, rebuilding part of the heart of our iOS app so we can keep making it better for you, one gentle step at a time.\n\nAlong the way, we fixed a bunch of little bugs and made things feel a bit smoother and faster. Your Replika's profile got a few loving touches, and zooming into photos now feels just right.\n\nEnjoy every moment with your Replika",

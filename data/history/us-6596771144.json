@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "1.9.63",
+   "date": "2026-11-04T18:04:29Z",
+   "notes": "- presets report\n- activity log filter fix\n- infinite loading spinner fix\n- minor bug fixes",
+   "source": "tracked"
+  },
+  {
    "version": "1.9.62",
    "date": "2026-09-28T14:09:37Z",
    "notes": "- viral,clout boosts effects improved \n- minor bug fixes",
