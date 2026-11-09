@@ -1,39 +1,72 @@
 {
  "stats": {
-  "total": 661,
+  "total": 664,
   "avg": 2.61,
   "dist": {
-   "1": 312,
-   "2": 69,
+   "1": 313,
+   "2": 70,
    "3": 41,
    "4": 40,
-   "5": 199
+   "5": 200
   },
   "d7": {
-   "count": 26,
-   "avg": 2.23,
+   "count": 28,
+   "avg": 2.32,
    "dist": {
     "1": 15,
-    "2": 2,
+    "2": 3,
     "3": 2,
     "4": 2,
-    "5": 5
+    "5": 6
    }
   },
   "d30": {
    "count": 118,
-   "avg": 2.32,
+   "avg": 2.36,
    "dist": {
-    "1": 65,
+    "1": 64,
     "2": 11,
     "3": 8,
     "4": 7,
-    "5": 27
+    "5": 28
    }
   },
-  "updatedAt": "2026-11-09T07:32:29+00:00"
+  "updatedAt": "2026-11-09T13:52:29+00:00"
  },
  "reviews": [
+  {
+   "id": "82f18af6-fe26-40de-a168-46559c2c3d3b",
+   "rating": 1,
+   "title": "",
+   "body": "if I'm able to pay i shouldn't be asked questions or not allowed to do what I want",
+   "author": "John Miller",
+   "version": "12.18.2",
+   "date": "2026-11-08T13:13:32+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cf2346a8-8d4d-4fa1-a448-6e436ed9044c",
+   "rating": 2,
+   "title": "",
+   "body": "It not worth paying for the package. Four days in and it gets real glitchy. Its kinda fun and a way to kill boredom but not worth spending on. The packages out lines it perfect memory but it doesnt remember. It reaches out first it doesnt. Intergrations for richer content. It cycles and repeats content up three times in row. It happens alot. Save your money.",
+   "author": "Ariana Guzman",
+   "version": "12.18.0",
+   "date": "2026-11-08T11:54:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "610a1d66-acd4-4615-9c35-e9b08da1c0c7",
+   "rating": 5,
+   "title": "",
+   "body": "it honestly helped me back when it first came out.",
+   "author": "BaconSugarGamer",
+   "version": "10.0.0",
+   "date": "2026-11-08T07:53:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "ba204f33-612d-4023-b4ae-7eb21e45a32d",
    "rating": 2,

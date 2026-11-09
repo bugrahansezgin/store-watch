@@ -1,5 +1,16 @@
 [
  {
+  "id": "2026-11-09-gp-us-ai.socialapps.speakmaster-release",
+  "type": "release",
+  "app": "gp-us-ai.socialapps.speakmaster",
+  "ts": "2026-11-09T13:51:54+00:00",
+  "title": "PolyBuzz: Chat with AI Friends shipped version 2.3.0",
+  "summary": "2.2.92 → 2.3.0",
+  "before": "2.2.92",
+  "after": "2.3.0",
+  "notes": ""
+ },
+ {
   "id": "2026-11-09-us-6502742786-release",
   "type": "release",
   "app": "us-6502742786",

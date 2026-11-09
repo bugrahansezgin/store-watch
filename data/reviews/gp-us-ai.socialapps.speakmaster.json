@@ -1,39 +1,149 @@
 {
  "stats": {
-  "total": 1696,
+  "total": 1706,
   "avg": 2.9,
   "dist": {
-   "1": 600,
+   "1": 603,
    "2": 173,
-   "3": 229,
-   "4": 191,
-   "5": 503
+   "3": 230,
+   "4": 193,
+   "5": 507
   },
   "d7": {
-   "count": 190,
-   "avg": 2.86,
+   "count": 200,
+   "avg": 2.88,
    "dist": {
-    "1": 73,
+    "1": 76,
     "2": 18,
-    "3": 18,
-    "4": 25,
-    "5": 56
+    "3": 19,
+    "4": 27,
+    "5": 60
    }
   },
   "d30": {
-   "count": 838,
+   "count": 840,
    "avg": 2.85,
    "dist": {
     "1": 311,
     "2": 80,
     "3": 109,
     "4": 102,
-    "5": 236
+    "5": 238
    }
   },
-  "updatedAt": "2026-11-09T07:32:28+00:00"
+  "updatedAt": "2026-11-09T13:52:27+00:00"
  },
  "reviews": [
+  {
+   "id": "3cf6e647-db1e-46bf-9963-be4f62781bf1",
+   "rating": 3,
+   "title": "",
+   "body": "got bad after a while",
+   "author": "Keenan",
+   "version": "2.1.94",
+   "date": "2026-11-08T13:25:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7a6e2fea-7f12-4914-8e59-c44864d81cdc",
+   "rating": 5,
+   "title": "",
+   "body": "its amazing",
+   "author": "Cassie lee Naidoo",
+   "version": "2.2.92",
+   "date": "2026-11-08T13:19:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "ee67272a-a45a-470a-b25e-2ac9f2d0517c",
+   "rating": 5,
+   "title": "",
+   "body": "though it has ads now it's still fun and free. idk, i just can't seem to switch to another app or site.",
+   "author": "Rane",
+   "version": "2.2.92",
+   "date": "2026-11-08T13:09:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5e2a9d67-9fc6-457b-ab50-abecb309b016",
+   "rating": 4,
+   "title": "",
+   "body": "I like the app, just the pop up of a song keeps ruining the vibe.",
+   "author": "Ximena Muñoz",
+   "version": "2.2.82",
+   "date": "2026-11-08T12:38:19+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b94ed47e-e96f-492e-819f-0350ea0b8445",
+   "rating": 5,
+   "title": "",
+   "body": "it is the best it's just the ads that's all but the rest just perfect it's the best",
+   "author": "Thandiwe Sithole",
+   "version": "",
+   "date": "2026-11-08T10:57:35+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9f87dc4a-db7d-48f8-8881-2a574e815508",
+   "rating": 1,
+   "title": "",
+   "body": "pay to continue a storyline",
+   "author": "Jenni Fitch",
+   "version": "2.3.0",
+   "date": "2026-11-08T10:55:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1b0e2e3c-378e-4c2c-8089-c3460a891564",
+   "rating": 5,
+   "title": "",
+   "body": "love everything abt it the characters are very passionate",
+   "author": "Tatum",
+   "version": "2.2.92",
+   "date": "2026-11-08T10:25:59+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "87bf39e9-a29b-4df8-9c65-817866f319b0",
+   "rating": 1,
+   "title": "",
+   "body": "They're allowing a predatory choice now.",
+   "author": "Scott Farmer",
+   "version": "2.2.51",
+   "date": "2026-11-08T09:02:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "637e9ab7-790a-4d8c-a6ad-2877aaa23d1c",
+   "rating": 4,
+   "title": "",
+   "body": "just personally thinking if y'all could raise the limit of characters you can put when creating a oc cuz I have a lot of ideas like maybe 3000 cuz that's plenty for me to create like 32 of my OCS but overall the game is good only thing I hate is that when you don't use the crystals things in a limited amount of time you lose them cuz I checked in for like a whole year thinking I saved thousands of them only to have 200",
+   "author": "Dj",
+   "version": "2.2.92",
+   "date": "2026-11-08T07:53:27+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "91f82885-4b2b-42f4-ac0b-65327c758a6e",
+   "rating": 1,
+   "title": "",
+   "body": "This app has WAYYYY too many ads. If I could make it 0 stars, I would. Genuinely, ads every 5 messages. Deleting this app and never returning!",
+   "author": "Ari",
+   "version": "2.3.0",
+   "date": "2026-11-08T07:53:08+00:00",
+   "votes": 3,
+   "reply": ""
+  },
   {
    "id": "6349fbcd-6e7d-4072-95a2-70ad7e81a198",
    "rating": 1,

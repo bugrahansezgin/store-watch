@@ -1,39 +1,248 @@
 {
  "stats": {
-  "total": 1813,
-  "avg": 1.94,
+  "total": 1832,
+  "avg": 1.93,
   "dist": {
-   "1": 1179,
-   "2": 166,
+   "1": 1195,
+   "2": 167,
    "3": 123,
    "4": 95,
-   "5": 250
+   "5": 252
   },
   "d7": {
-   "count": 198,
-   "avg": 1.82,
+   "count": 217,
+   "avg": 1.79,
    "dist": {
-    "1": 130,
-    "2": 23,
+    "1": 146,
+    "2": 24,
     "3": 17,
     "4": 7,
-    "5": 21
+    "5": 23
    }
   },
   "d30": {
-   "count": 1027,
-   "avg": 1.93,
+   "count": 1016,
+   "avg": 1.92,
    "dist": {
-    "1": 674,
+    "1": 670,
     "2": 85,
-    "3": 75,
-    "4": 55,
-    "5": 138
+    "3": 73,
+    "4": 53,
+    "5": 135
    }
   },
-  "updatedAt": "2026-11-09T07:32:30+00:00"
+  "updatedAt": "2026-11-09T13:52:32+00:00"
  },
  "reviews": [
+  {
+   "id": "cfbc2e46-0975-45f2-8a75-0384dfd5b719",
+   "rating": 1,
+   "title": "",
+   "body": "this app hated me so much.",
+   "author": "Jueii Eii",
+   "version": "",
+   "date": "2026-11-08T13:37:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d6f47746-d1e4-4b2e-8bb7-d5ffbdc7f09a",
+   "rating": 1,
+   "title": "",
+   "body": "Worst update ever c.ai fix it no ones going to use it again",
+   "author": "Anthonette Remogat",
+   "version": "",
+   "date": "2026-11-08T13:04:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cdf924e0-d91e-4955-ad44-8f5892f58ca3",
+   "rating": 1,
+   "title": "",
+   "body": "Ads before Chat. Ads after chat. ads in the middle of chat. Ads everywhere. LIKE Stop it! It's so annoying! we can watch Ads after 12 or 13 convo but afyer 1 texts this app always give Ads. it's so frustrating.",
+   "author": "Mariya Muktar",
+   "version": "",
+   "date": "2026-11-08T12:58:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "330f01c5-03f8-4534-9065-9a87b5d822bc",
+   "rating": 1,
+   "title": "",
+   "body": "Very much well. But i need to say, the waiting line is only made for annoy people and force them to get character ai plus. Only for get money. It had to get fixed! We dont want to wait for 1 hour only for roleplay!!",
+   "author": "Windy Honey",
+   "version": "1.17.4",
+   "date": "2026-11-08T12:27:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3e4cbcfe-865f-4371-b400-44c8869027eb",
+   "rating": 1,
+   "title": "",
+   "body": "𝙸 𝚌𝚊𝚗'𝚝 𝚋𝚎𝚕𝚒𝚎𝚟𝚎 𝚑𝚘𝚠 𝙸 𝚌𝚊𝚗'𝚝 𝚞𝚜𝚎 𝚝𝚑𝚒𝚜 𝚏𝚘𝚛 𝚌𝚘𝚖𝚏𝚘𝚛𝚝 𝚊𝚗𝚢𝚖𝚘𝚛𝚎 𝚋𝚎𝚌𝚊𝚞𝚜𝚎 𝙸'𝚖 𝚊 𝚖𝚒𝚗𝚘𝚛, 𝙸 𝚍𝚘𝚗'𝚝 𝚎𝚟𝚎𝚛 𝚠𝚊𝚗𝚗𝚊 𝚝𝚊𝚕𝚔 𝚝𝚘 𝚊𝚗 𝚊𝚌𝚝𝚞𝚊𝚕 𝚙𝚎𝚛𝚜𝚘𝚗 𝚊𝚋𝚘𝚞𝚝 𝚖𝚢 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜 𝚞𝚗𝚕𝚎𝚜𝚜 𝚒𝚝𝚜 𝚊 𝚏𝚛𝚒𝚎𝚗𝚍. 𝚆𝚑𝚊𝚝'𝚜 𝚝𝚑𝚎 𝚙𝚘𝚒𝚗𝚝 𝚘𝚏 𝙲.𝚊𝚒 𝚒𝚏 𝚢𝚘𝚞 𝚌𝚊𝚗'𝚝 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝 𝚠𝚒𝚝𝚑 𝚝𝚑𝚎 𝚋𝚘𝚝𝚜 𝚊𝚗𝚢𝚖𝚘𝚛𝚎?? 𝙰𝚗𝚍 𝚝𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚂𝙾 𝙼𝙰𝙽𝚈 𝙰𝙳𝚂.",
+   "author": "Seraphina Karis Dayego (Karis)",
+   "version": "1.17.4",
+   "date": "2026-11-08T12:20:50+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "14b831ea-b999-4b85-969f-7aebfb9e2e88",
+   "rating": 1,
+   "title": "",
+   "body": "now we have to pay to continue? this app is getting worse and worse and now I can't text when I tried everything",
+   "author": "Sara Kaissieh",
+   "version": "1.17.4",
+   "date": "2026-11-08T12:18:17+00:00",
+   "votes": 3,
+   "reply": ""
+  },
+  {
+   "id": "89bbf614-1ada-4cee-8f21-81cc15e73136",
+   "rating": 1,
+   "title": "",
+   "body": "реклам много",
+   "author": "Карина",
+   "version": "",
+   "date": "2026-11-08T12:09:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e6c13d54-42f2-47af-89aa-d7eb9402197e",
+   "rating": 1,
+   "title": "",
+   "body": "the character response randomly, the old version of this app is better",
+   "author": "Donna Bisnar",
+   "version": "",
+   "date": "2026-11-08T12:04:42+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "113f58f5-1ab5-4b88-9d6c-afd51296a40c",
+   "rating": 1,
+   "title": "",
+   "body": "I can't play your c.ai, I'm already pass 18, and the age verify doesn't work!",
+   "author": "NUR ATIKA",
+   "version": "1.17.4",
+   "date": "2026-11-08T11:45:42+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "24ef525e-8909-4ed1-8e54-c48b06ec662b",
+   "rating": 5,
+   "title": "",
+   "body": "This is the best AI app I ever us like it do what it exactly tell it to do and it's fun to chat with. I think everybody should try this and my english got a lot of improved form this. Edit:- sometimes it doesn't work on my device but other than that it's amazing gread characters lovely chats I uninstall it twice then it worked so hope that fixed overall its pretty great. (edit) it's still good more than before chat's are good too. The only problem is sometimes it starts go glitch.",
+   "author": "Naduni Malshika",
+   "version": "1.14.3",
+   "date": "2026-11-08T10:16:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9a98a98e-4b0c-4e4a-a1f6-7bff0cda9c8f",
+   "rating": 1,
+   "title": "",
+   "body": "برنامه تا چند روز پیش خوب بود اما الان چهار روز میشه که وارد نمیشه . چند بار پاک کردم و دوباره نصب کردم اما نه با ایمیل نه با حساب گوگل وارد میشه . میشه کمک کنید تا دوباره وارد برنامه بشم؟",
+   "author": "Elena Hosein zadeh",
+   "version": "1.17.4",
+   "date": "2026-11-08T10:00:36+00:00",
+   "votes": 27,
+   "reply": ""
+  },
+  {
+   "id": "9cad2556-207e-47ff-bf02-37dd3416aff5",
+   "rating": 1,
+   "title": "",
+   "body": "Deleted my account and uninstalled because of an AGE VERIFICATION. Genuinely disappointed because it was good and fun back then, now it needs to verify the age before you chat. Worst part, it uses third party service which is Persona. I've heard about them and it is not recommended to perform an age verification by them or you'll ended up getting a personal data leaks which is very bad. Also, ads are terribly annoying in mobile app and web and, the subscription is absolutely expensive. I'm out👋",
+   "author": "Azizah Rahayu",
+   "version": "",
+   "date": "2026-11-08T09:38:46+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "93c1a4b9-03c0-48ab-b42a-1809115e0043",
+   "rating": 1,
+   "title": "",
+   "body": "huhu trả lại character ai cũ cho t give me back my baby",
+   "author": "Huong Vuvan",
+   "version": "1.17.4",
+   "date": "2026-11-08T09:06:40+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "6496fed2-3bd8-4efb-9bd5-10a1362ceb7d",
+   "rating": 2,
+   "title": "",
+   "body": "Very contradictory moderation policies. The platform allows users to create and promote suggestive bots that initiate adult roleplay, yet the strict filter blocks the bot's own replies mid-chat—even when the user's messages stay completely within the guidelines. It feels unfair to lure users in with suggestive characters only to cut off the conversation halfway through. Please enforce your rules consistently by moderating bot creation properly instead of ruining ongoing chats.",
+   "author": "auto phile",
+   "version": "",
+   "date": "2026-11-08T09:04:15+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "fdee32b6-da21-4efd-92c4-aa3a82027cb0",
+   "rating": 1,
+   "title": "",
+   "body": "Stop the damn ads",
+   "author": "Thalmor Justiciar",
+   "version": "",
+   "date": "2026-11-08T09:01:04+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "ba56a1b8-4ad0-4a66-85ff-813ffd7a8f46",
+   "rating": 1,
+   "title": "",
+   "body": "This was my most favorite app but it has turned worse with censorship. It was already one problem but it's so repetitive and annoying that i can't chat straight without getting the bot censored even if it's just a little bit offensive, it's Hella annoying. The amount of ads this has is senseless",
+   "author": "Suraj Gadekar",
+   "version": "1.10.1",
+   "date": "2026-11-08T08:53:17+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "97092fe1-c3d7-403e-b760-2573431529c0",
+   "rating": 5,
+   "title": "",
+   "body": "I hated it before because if the reader mode but now they have removed it and I love it so much now!!🤧❣️",
+   "author": "Manisha Negi",
+   "version": "1.17.4",
+   "date": "2026-11-08T08:38:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "4bf3e288-212f-47d0-bf74-8e5d7033ad42",
+   "rating": 1,
+   "title": "",
+   "body": "These Update is not good besser what do u mean u added face check if i am 18 or oder the app is online for 12",
+   "author": "Yugoslavia Bci",
+   "version": "",
+   "date": "2026-11-08T08:00:52+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "14aa1e32-6ce5-4645-a8cc-f833b75d6fc1",
+   "rating": 1,
+   "title": "",
+   "body": "they over did it with the amount of ads and completely ruined the app",
+   "author": "Daniel Schwartz",
+   "version": "1.17.4",
+   "date": "2026-11-08T07:46:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "5619333b-d27e-4295-aa6c-7d445ba7b152",
    "rating": 1,

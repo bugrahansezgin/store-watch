@@ -1,39 +1,169 @@
 {
  "stats": {
-  "total": 524,
-  "avg": 2.79,
+  "total": 537,
+  "avg": 2.81,
   "dist": {
-   "1": 154,
-   "2": 78,
-   "3": 111,
-   "4": 84,
-   "5": 97
+   "1": 156,
+   "2": 80,
+   "3": 113,
+   "4": 87,
+   "5": 101
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 6,
+   "avg": 4.17,
    "dist": {
     "1": 0,
     "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   }
-  },
-  "d30": {
-   "count": 17,
-   "avg": 2.29,
-   "dist": {
-    "1": 7,
-    "2": 3,
-    "3": 4,
-    "4": 1,
+    "3": 1,
+    "4": 3,
     "5": 2
    }
   },
-  "updatedAt": "2026-11-09T07:32:26+00:00"
+  "d30": {
+   "count": 30,
+   "avg": 2.77,
+   "dist": {
+    "1": 9,
+    "2": 5,
+    "3": 6,
+    "4": 4,
+    "5": 6
+   }
+  },
+  "updatedAt": "2026-11-09T13:52:11+00:00"
  },
  "reviews": [
+  {
+   "id": "14753075645",
+   "rating": 5,
+   "title": "Bro I don’t even know",
+   "body": "I have a SMALLL feeling I’m bouta get absolutely flamed for just existing 😭✌️",
+   "author": "Peroxide342",
+   "version": "1.118",
+   "date": "2026-11-05T02:04:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14752266663",
+   "rating": 4,
+   "title": "I love it but it’s missing some things",
+   "body": "I really do love the app and think it has so much potential. I think adding these things would make it well beyond 5 stars:\n\n-relationship bars for each character. I find it weird how a lot of characters have their own idea of who I am like I just met you and I’m already your roommate or girlfriend? Also would just love to be able to see it being built.\n\n-character memory, characters don’t seem to remember what you talk about or your relationship when switching to comments, posts, to DMs \n\n-characters comments don’t fit their personality until you respond to them or unless you’re commenting first (like why are all the men asking me what lipstick I’m wearing and the “mean” ones are commenting yes queen)\n\n-being able to have a different section for in person meet ups would be fun for roleplaying and for group stuff with other characters\n\n-the 100 gold per post for characters you make feels really expensive when you’re trying to establish a new character, especially multiple characters, and especially when gold is so hard to get\n\n-I’d also like to be able to just post one of my own pictures for my characters like if I’m basing it off a real person I’d rather real photos of them than an unpredictable ai version that chances not looking right and 100 gold is wasted\n\n-I’d like to be able to tag characters in posts because even if you say their name and @ them they comment like they have no clue they’re involved\n\n-I’d also like to see the ai characters have relations with each other so it feels more real",
+   "author": "Ginabobina175",
+   "version": "1.118",
+   "date": "2026-11-04T19:54:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14748634122",
+   "rating": 4,
+   "title": "Love it but",
+   "body": "I really like this app but i wish you could actually tag them in posts and they also respond to you in your DMs when you mention them on a status or in the comments section.",
+   "author": "Rae500!",
+   "version": "1.118",
+   "date": "2026-11-03T22:22:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14745765625",
+   "rating": 5,
+   "title": "Awesome!",
+   "body": "I love it!",
+   "author": "IDK…?!",
+   "version": "1.118",
+   "date": "2026-11-03T05:38:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14745167351",
+   "rating": 3,
+   "title": "Created characters not posting photos",
+   "body": "It would be nice every time I spent 100 of the currency for a post on a character I created why do they never post an actual photo? This app was kind of expensive to even really get started on just to play around with it.",
+   "author": "Mr.Areagon",
+   "version": "1.118",
+   "date": "2026-11-03T02:26:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14743449478",
+   "rating": 4,
+   "title": "add music to posts",
+   "body": "great app but i wish we could add music to our posts, edit our captions and it would be nice if we could interact and follow our other accounts.",
+   "author": "alicesubs",
+   "version": "1.118",
+   "date": "2026-11-02T14:36:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14739012838",
+   "rating": 3,
+   "title": "too much money",
+   "body": "it’s a perfect happen everything I just do not want to spend that much money and like it’s like a money paste the app you can only processes our amount of times until you pay for it",
+   "author": "NotLEXY",
+   "version": "1.118",
+   "date": "2026-11-01T11:40:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14731133443",
+   "rating": 1,
+   "title": "Trash. Can’t actually use it.",
+   "body": "As a tile suggest you can’t even use this app you get your first post which is part of the demo, but then you can’t actually interact with anyone you can’t comment you can’t message. You can only post once a day which is just dumb. This should ideally be free and there should not be a pro version for this. At least give us more daily posts and unlimited comments not just one comment/post/anything else per day. This is ridiculous. This app is trash. Waste of digital space.",
+   "author": "space exploration bug",
+   "version": "1.118",
+   "date": "2026-10-30T14:13:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14723016630",
+   "rating": 5,
+   "title": "China user",
+   "body": "Can this app run without VPN in China?",
+   "author": "ZGWS2027",
+   "version": "1.118",
+   "date": "2026-10-28T13:06:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14721951449",
+   "rating": 1,
+   "title": "Money grab",
+   "body": "The free daily reward gives you 1, MAYBE 2 posts. After that, you gotta pay. Not worth the download, was looking for something better than Status but this is just pay to play. L.",
+   "author": "Jickjjjsjdjd",
+   "version": "1.118",
+   "date": "2026-10-28T07:35:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14716331601",
+   "rating": 2,
+   "title": "Amazing except for the limit",
+   "body": "I absolutely love this app, it’s realistic. Well made and well detailed. I would use it every day and become addicted to it if it didn’t have a limit. The limit is causing everyone else to dislike the app, and it deters them from your app. The app is supposed to be fun, to escape reality and be who you want, but that makes it hard with the limits. If the limits were gone, it would make the app improve amazingly, gather so many more people, and it wouldn’t flop. Please consider fixing this and taking the limit away as soon as possible. I’d love to use the app more often. Thanks!",
+   "author": "Malainatargaryen",
+   "version": "1.118",
+   "date": "2026-10-26T21:34:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14716126011",
+   "rating": 5,
+   "title": "Memebership",
+   "body": "I’m so in love with this game it’s not funny, but may we please get a weekly membership? I can’t afford the yearly right now, but I really want to play this game with pro!!",
+   "author": "ermmmmmmmmmmjdjddijdjdjdk",
+   "version": "1.118",
+   "date": "2026-10-26T20:04:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14714292599",
+   "rating": 2,
+   "title": "Good but bad",
+   "body": "Good idea for an app but they the price is a bit  out there for an app like this the bad is well idk",
+   "author": "HajglharjjjaJAjqjrah",
+   "version": "1.118",
+   "date": "2026-10-26T09:35:25-07:00",
+   "votes": 0
+  },
   {
    "id": "14707409544",
    "rating": 2,

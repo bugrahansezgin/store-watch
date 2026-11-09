@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T07:32:31+00:00",
+ "generatedAt": "2026-11-09T13:52:34+00:00",
  "apps": [
   {
    "id": "6502742786",
@@ -12,7 +12,7 @@
    "versionDate": "2026-11-05T17:50:51Z",
    "price": "Free",
    "rating": 4.49,
-   "ratingCount": 10711,
+   "ratingCount": 10718,
    "genre": "Social Networking",
    "descriptionHash": "ca67ea567c4c",
    "screenshots": [
@@ -25,42 +25,42 @@
    "ipadScreenshots": [],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-29T14:28:27+00:00",
    "key": "us-6502742786",
    "reviewStats": {
-    "total": 524,
-    "avg": 2.79,
+    "total": 537,
+    "avg": 2.81,
     "dist": {
-     "1": 154,
-     "2": 78,
-     "3": 111,
-     "4": 84,
-     "5": 97
+     "1": 156,
+     "2": 80,
+     "3": 113,
+     "4": 87,
+     "5": 101
     },
     "d7": {
-     "count": 0,
-     "avg": null,
+     "count": 6,
+     "avg": 4.17,
      "dist": {
       "1": 0,
       "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0
-     }
-    },
-    "d30": {
-     "count": 17,
-     "avg": 2.29,
-     "dist": {
-      "1": 7,
-      "2": 3,
-      "3": 4,
-      "4": 1,
+      "3": 1,
+      "4": 3,
       "5": 2
      }
     },
-    "updatedAt": "2026-11-09T07:32:26+00:00"
+    "d30": {
+     "count": 30,
+     "avg": 2.77,
+     "dist": {
+      "1": 9,
+      "2": 5,
+      "3": 6,
+      "4": 4,
+      "5": 6
+     }
+    },
+    "updatedAt": "2026-11-09T13:52:11+00:00"
    }
   },
   {
@@ -97,7 +97,7 @@
    "screenshotSource": "page",
    "lastChecked": "2026-10-12T13:09:02+00:00",
    "trackedSince": "2026-09-29T14:28:27+00:00",
-   "lastError": "2026-11-09T07:32:11+00:00",
+   "lastError": "2026-11-09T13:51:54+00:00",
    "key": "us-6449190344",
    "reviewStats": {
     "total": 925,
@@ -121,17 +121,17 @@
      }
     },
     "d30": {
-     "count": 28,
-     "avg": 2.86,
+     "count": 22,
+     "avg": 3.0,
      "dist": {
-      "1": 11,
+      "1": 7,
       "2": 2,
       "3": 3,
       "4": 4,
-      "5": 8
+      "5": 6
      }
     },
-    "updatedAt": "2026-11-09T07:32:26+00:00"
+    "updatedAt": "2026-11-09T13:52:11+00:00"
    }
   },
   {
@@ -145,7 +145,7 @@
    "versionDate": "2026-11-04T14:29:10Z",
    "price": "Free",
    "rating": 4.69,
-   "ratingCount": 29690085,
+   "ratingCount": 29691168,
    "genre": "Photo & Video",
    "descriptionHash": "64faded9033f",
    "screenshots": [
@@ -167,42 +167,42 @@
    ],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-29T14:28:27+00:00",
    "key": "us-389801252",
    "reviewStats": {
-    "total": 1638,
-    "avg": 2.33,
+    "total": 2138,
+    "avg": 2.39,
     "dist": {
-     "1": 985,
-     "2": 89,
-     "3": 62,
-     "4": 50,
-     "5": 452
+     "1": 1236,
+     "2": 127,
+     "3": 99,
+     "4": 66,
+     "5": 610
     },
     "d7": {
-     "count": 0,
-     "avg": null,
+     "count": 500,
+     "avg": 2.58,
      "dist": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0
+      "1": 251,
+      "2": 38,
+      "3": 37,
+      "4": 16,
+      "5": 158
      }
     },
     "d30": {
-     "count": 1050,
-     "avg": 2.05,
+     "count": 1550,
+     "avg": 2.22,
      "dist": {
-      "1": 712,
-      "2": 51,
-      "3": 35,
-      "4": 24,
-      "5": 228
+      "1": 963,
+      "2": 89,
+      "3": 72,
+      "4": 40,
+      "5": 386
      }
     },
-    "updatedAt": "2026-11-09T07:32:27+00:00"
+    "updatedAt": "2026-11-09T13:52:24+00:00"
    }
   },
   {
@@ -230,7 +230,7 @@
    "ipadScreenshots": [],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-29T14:31:19+00:00",
    "key": "us-6753083338",
    "reviewStats": {
@@ -265,7 +265,7 @@
       "5": 1
      }
     },
-    "updatedAt": "2026-11-09T07:32:27+00:00"
+    "updatedAt": "2026-11-09T13:52:24+00:00"
    }
   },
   {
@@ -291,42 +291,42 @@
    "ipadScreenshots": [],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-29T14:40:27+00:00",
    "key": "us-6596771144",
    "reviewStats": {
-    "total": 2558,
-    "avg": 4.29,
+    "total": 2651,
+    "avg": 4.25,
     "dist": {
-     "1": 101,
-     "2": 72,
-     "3": 306,
-     "4": 586,
-     "5": 1493
+     "1": 120,
+     "2": 84,
+     "3": 330,
+     "4": 604,
+     "5": 1513
     },
     "d7": {
-     "count": 0,
-     "avg": null,
+     "count": 73,
+     "avg": 2.97,
      "dist": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0
+      "1": 16,
+      "2": 12,
+      "3": 19,
+      "4": 10,
+      "5": 16
      }
     },
     "d30": {
-     "count": 1550,
-     "avg": 4.31,
+     "count": 1643,
+     "avg": 4.24,
      "dist": {
-      "1": 60,
-      "2": 45,
-      "3": 167,
-      "4": 364,
-      "5": 914
+      "1": 79,
+      "2": 57,
+      "3": 191,
+      "4": 382,
+      "5": 934
      }
     },
-    "updatedAt": "2026-11-09T07:32:27+00:00"
+    "updatedAt": "2026-11-09T13:52:26+00:00"
    }
   },
   {
@@ -341,7 +341,7 @@
    "versionDate": "2026-11-04T00:41:40+00:00",
    "price": "Free · IAP $0.99 - $199.99 per item",
    "rating": 4.17,
-   "ratingCount": 584216,
+   "ratingCount": 584342,
    "installs": "1,000,000+",
    "genre": "Lifestyle",
    "descriptionHash": "15a3f06606c7",
@@ -361,42 +361,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:07:20+00:00",
    "key": "gp-us-link.socialai.app",
    "reviewStats": {
-    "total": 2043,
+    "total": 2093,
     "avg": 3.94,
     "dist": {
-     "1": 203,
-     "2": 123,
-     "3": 248,
-     "4": 490,
-     "5": 979
+     "1": 208,
+     "2": 126,
+     "3": 254,
+     "4": 501,
+     "5": 1004
     },
     "d7": {
-     "count": 199,
-     "avg": 4.18,
+     "count": 249,
+     "avg": 4.13,
      "dist": {
-      "1": 11,
-      "2": 11,
-      "3": 19,
-      "4": 49,
-      "5": 109
+      "1": 16,
+      "2": 14,
+      "3": 25,
+      "4": 60,
+      "5": 134
      }
     },
     "d30": {
-     "count": 1182,
-     "avg": 3.86,
+     "count": 1232,
+     "avg": 3.87,
      "dist": {
-      "1": 125,
-      "2": 75,
-      "3": 164,
-      "4": 290,
-      "5": 528
+      "1": 130,
+      "2": 78,
+      "3": 170,
+      "4": 301,
+      "5": 553
      }
     },
-    "updatedAt": "2026-11-09T07:32:27+00:00"
+    "updatedAt": "2026-11-09T13:52:26+00:00"
    }
   },
   {
@@ -410,8 +410,8 @@
    "version": "Varies with device",
    "versionDate": "2026-11-02T16:18:16+00:00",
    "price": "Free · IAP $0.19 - $10,000.00 per item",
-   "rating": 3.99,
-   "ratingCount": 169959362,
+   "rating": 3.98,
+   "ratingCount": 169962056,
    "installs": "5,000,000,000+",
    "genre": "Social",
    "descriptionHash": "1e9b2e304c15",
@@ -438,42 +438,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:08:23+00:00",
    "key": "gp-us-com.instagram.android",
    "reviewStats": {
-    "total": 1874,
+    "total": 2072,
     "avg": 3.99,
     "dist": {
-     "1": 367,
-     "2": 67,
-     "3": 53,
-     "4": 121,
-     "5": 1266
+     "1": 407,
+     "2": 70,
+     "3": 58,
+     "4": 133,
+     "5": 1404
     },
     "d7": {
-     "count": 200,
-     "avg": 3.92,
+     "count": 398,
+     "avg": 3.98,
      "dist": {
-      "1": 38,
-      "2": 11,
-      "3": 8,
-      "4": 14,
-      "5": 129
+      "1": 78,
+      "2": 14,
+      "3": 13,
+      "4": 26,
+      "5": 267
      }
     },
     "d30": {
-     "count": 827,
-     "avg": 3.93,
+     "count": 1025,
+     "avg": 3.95,
      "dist": {
-      "1": 169,
-      "2": 36,
-      "3": 27,
-      "4": 51,
-      "5": 544
+      "1": 209,
+      "2": 39,
+      "3": 32,
+      "4": 63,
+      "5": 682
      }
     },
-    "updatedAt": "2026-11-09T07:32:28+00:00"
+    "updatedAt": "2026-11-09T13:52:26+00:00"
    }
   },
   {
@@ -487,8 +487,8 @@
    "version": "1.119.1",
    "versionDate": "2026-11-08T09:30:05+00:00",
    "price": "Free · IAP $1.99 - $129.99 per item",
-   "rating": 4.28,
-   "ratingCount": 21507,
+   "rating": 4.27,
+   "ratingCount": 21491,
    "installs": "500,000+",
    "genre": "Social",
    "descriptionHash": "a764e6fb85e3",
@@ -511,42 +511,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:14:09+00:00",
    "key": "gp-us-xyz.aspectapp.aspect",
    "reviewStats": {
-    "total": 684,
-    "avg": 3.25,
+    "total": 686,
+    "avg": 3.26,
     "dist": {
      "1": 166,
      "2": 86,
      "3": 100,
      "4": 73,
-     "5": 259
+     "5": 261
     },
     "d7": {
-     "count": 26,
-     "avg": 3.38,
+     "count": 27,
+     "avg": 3.48,
      "dist": {
       "1": 5,
       "2": 4,
       "3": 4,
-      "4": 2,
-      "5": 11
+      "4": 1,
+      "5": 13
      }
     },
     "d30": {
-     "count": 123,
-     "avg": 3.51,
+     "count": 125,
+     "avg": 3.54,
      "dist": {
       "1": 24,
       "2": 12,
       "3": 17,
       "4": 17,
-      "5": 53
+      "5": 55
      }
     },
-    "updatedAt": "2026-11-09T07:32:28+00:00"
+    "updatedAt": "2026-11-09T13:52:26+00:00"
    }
   },
   {
@@ -587,7 +587,7 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:14:42+00:00",
    "key": "gp-us-com.joincharmsocial.charm",
    "reviewStats": {
@@ -622,7 +622,7 @@
       "5": 7
      }
     },
-    "updatedAt": "2026-11-09T07:32:28+00:00"
+    "updatedAt": "2026-11-09T13:52:27+00:00"
    }
   },
   {
@@ -633,11 +633,11 @@
    "developer": "CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.",
    "url": "https://play.google.com/store/apps/details?id=ai.socialapps.speakmaster&gl=us",
    "icon": "https://play-lh.googleusercontent.com/w6j4BXhnJm7Atki9psCVHBopdNiV_B8vOtyTcHUnp3DWTg3nbfUXEDQvmm1BnxUtNdUelr20PRzsmtlGb6Klf3A=w512",
-   "version": "2.2.92",
+   "version": "2.3.0",
    "versionDate": "2026-11-05T11:52:03+00:00",
    "price": "Free · IAP $0.05 - $599.00 per item",
    "rating": 3.99,
-   "ratingCount": 1204486,
+   "ratingCount": 1204488,
    "installs": "50,000,000+",
    "genre": "Entertainment",
    "descriptionHash": "e73adbff21ef",
@@ -663,42 +663,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:15:13+00:00",
    "key": "gp-us-ai.socialapps.speakmaster",
    "reviewStats": {
-    "total": 1696,
+    "total": 1706,
     "avg": 2.9,
     "dist": {
-     "1": 600,
+     "1": 603,
      "2": 173,
-     "3": 229,
-     "4": 191,
-     "5": 503
+     "3": 230,
+     "4": 193,
+     "5": 507
     },
     "d7": {
-     "count": 190,
-     "avg": 2.86,
+     "count": 200,
+     "avg": 2.88,
      "dist": {
-      "1": 73,
+      "1": 76,
       "2": 18,
-      "3": 18,
-      "4": 25,
-      "5": 56
+      "3": 19,
+      "4": 27,
+      "5": 60
      }
     },
     "d30": {
-     "count": 838,
+     "count": 840,
      "avg": 2.85,
      "dist": {
       "1": 311,
       "2": 80,
       "3": 109,
       "4": 102,
-      "5": 236
+      "5": 238
      }
     },
-    "updatedAt": "2026-11-09T07:32:28+00:00"
+    "updatedAt": "2026-11-09T13:52:27+00:00"
    }
   },
   {
@@ -712,7 +712,7 @@
    "versionDate": "2026-11-05T15:49:15Z",
    "price": "Free",
    "rating": 4.44,
-   "ratingCount": 227658,
+   "ratingCount": 227660,
    "genre": "Health & Fitness",
    "descriptionHash": "b84dcc0bacfb",
    "screenshots": [
@@ -727,42 +727,42 @@
    "ipadScreenshots": [],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T07:59:12+00:00",
    "key": "us-1158555867",
    "reviewStats": {
-    "total": 536,
-    "avg": 2.46,
+    "total": 554,
+    "avg": 2.47,
     "dist": {
-     "1": 274,
-     "2": 61,
-     "3": 30,
-     "4": 20,
-     "5": 151
+     "1": 281,
+     "2": 64,
+     "3": 32,
+     "4": 21,
+     "5": 156
     },
     "d7": {
-     "count": 0,
-     "avg": null,
+     "count": 14,
+     "avg": 3.07,
      "dist": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0
+      "1": 4,
+      "2": 2,
+      "3": 2,
+      "4": 1,
+      "5": 5
      }
     },
     "d30": {
-     "count": 63,
-     "avg": 2.54,
+     "count": 80,
+     "avg": 2.59,
      "dist": {
-      "1": 27,
-      "2": 12,
-      "3": 4,
-      "4": 3,
-      "5": 17
+      "1": 33,
+      "2": 15,
+      "3": 6,
+      "4": 4,
+      "5": 22
      }
     },
-    "updatedAt": "2026-11-09T07:32:29+00:00"
+    "updatedAt": "2026-11-09T13:52:28+00:00"
    }
   },
   {
@@ -794,7 +794,7 @@
    "screenshotSource": "page",
    "lastChecked": "2026-10-19T10:44:24+00:00",
    "trackedSince": "2026-09-30T08:01:56+00:00",
-   "lastError": "2026-11-09T07:32:11+00:00",
+   "lastError": "2026-11-09T13:51:54+00:00",
    "key": "us-1544750895",
    "reviewStats": {
     "total": 800,
@@ -828,7 +828,7 @@
       "5": 121
      }
     },
-    "updatedAt": "2026-11-09T07:32:29+00:00"
+    "updatedAt": "2026-11-09T13:52:28+00:00"
    }
   },
   {
@@ -843,7 +843,7 @@
    "versionDate": "2026-11-07T06:11:18+00:00",
    "price": "Free · IAP $0.99 - $899.99 per item",
    "rating": 2.69,
-   "ratingCount": 856996,
+   "ratingCount": 856987,
    "installs": "10,000,000+",
    "genre": "Entertainment",
    "descriptionHash": "3f564a289bdd",
@@ -861,42 +861,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T08:02:40+00:00",
    "key": "gp-us-com.Beauchamp.Messenger.external",
    "reviewStats": {
-    "total": 1913,
-    "avg": 2.01,
+    "total": 1974,
+    "avg": 2.02,
     "dist": {
-     "1": 1226,
-     "2": 181,
-     "3": 94,
-     "4": 88,
-     "5": 324
+     "1": 1259,
+     "2": 186,
+     "3": 96,
+     "4": 94,
+     "5": 339
     },
     "d7": {
-     "count": 195,
-     "avg": 2.19,
+     "count": 256,
+     "avg": 2.25,
      "dist": {
-      "1": 118,
-      "2": 14,
-      "3": 11,
-      "4": 11,
-      "5": 41
+      "1": 151,
+      "2": 19,
+      "3": 13,
+      "4": 17,
+      "5": 56
      }
     },
     "d30": {
-     "count": 1170,
+     "count": 1231,
      "avg": 2.33,
      "dist": {
-      "1": 666,
-      "2": 93,
-      "3": 57,
-      "4": 68,
-      "5": 286
+      "1": 699,
+      "2": 98,
+      "3": 59,
+      "4": 74,
+      "5": 301
      }
     },
-    "updatedAt": "2026-11-09T07:32:29+00:00"
+    "updatedAt": "2026-11-09T13:52:28+00:00"
    }
   },
   {
@@ -911,7 +911,7 @@
    "versionDate": "2026-10-31T09:29:12+00:00",
    "price": "Free · IAP $0.99 - $299.99 per item",
    "rating": 4.25,
-   "ratingCount": 525368,
+   "ratingCount": 525366,
    "installs": "10,000,000+",
    "genre": "Health & Fitness",
    "descriptionHash": "de0d5938abbc",
@@ -926,42 +926,42 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T08:03:17+00:00",
    "key": "gp-us-ai.replika.app",
    "reviewStats": {
-    "total": 661,
+    "total": 664,
     "avg": 2.61,
     "dist": {
-     "1": 312,
-     "2": 69,
+     "1": 313,
+     "2": 70,
      "3": 41,
      "4": 40,
-     "5": 199
+     "5": 200
     },
     "d7": {
-     "count": 26,
-     "avg": 2.23,
+     "count": 28,
+     "avg": 2.32,
      "dist": {
       "1": 15,
-      "2": 2,
+      "2": 3,
       "3": 2,
       "4": 2,
-      "5": 5
+      "5": 6
      }
     },
     "d30": {
      "count": 118,
-     "avg": 2.32,
+     "avg": 2.36,
      "dist": {
-      "1": 65,
+      "1": 64,
       "2": 11,
       "3": 8,
       "4": 7,
-      "5": 27
+      "5": 28
      }
     },
-    "updatedAt": "2026-11-09T07:32:29+00:00"
+    "updatedAt": "2026-11-09T13:52:29+00:00"
    }
   },
   {
@@ -991,42 +991,42 @@
    "ipadScreenshots": [],
    "platform": "ios",
    "screenshotSource": "page",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T08:16:24+00:00",
    "key": "us-1671705818",
    "reviewStats": {
-    "total": 900,
-    "avg": 2.22,
+    "total": 1066,
+    "avg": 2.2,
     "dist": {
-     "1": 438,
-     "2": 141,
-     "3": 133,
-     "4": 62,
-     "5": 126
+     "1": 520,
+     "2": 176,
+     "3": 155,
+     "4": 70,
+     "5": 145
     },
     "d7": {
-     "count": 0,
-     "avg": null,
+     "count": 136,
+     "avg": 2.01,
      "dist": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0
+      "1": 71,
+      "2": 27,
+      "3": 19,
+      "4": 4,
+      "5": 15
      }
     },
     "d30": {
-     "count": 387,
-     "avg": 2.21,
+     "count": 544,
+     "avg": 2.17,
      "dist": {
-      "1": 188,
-      "2": 66,
-      "3": 49,
-      "4": 31,
-      "5": 53
+      "1": 267,
+      "2": 99,
+      "3": 67,
+      "4": 39,
+      "5": 72
      }
     },
-    "updatedAt": "2026-11-09T07:32:29+00:00"
+    "updatedAt": "2026-11-09T13:52:32+00:00"
    }
   },
   {
@@ -1041,7 +1041,7 @@
    "versionDate": "2026-09-29T19:34:22+00:00",
    "price": "Free · IAP $0.99 - $99.99 per item",
    "rating": 2.25,
-   "ratingCount": 2457446,
+   "ratingCount": 2457399,
    "installs": "50,000,000+",
    "genre": "Entertainment",
    "descriptionHash": "9ce2fffa78b6",
@@ -1073,46 +1073,57 @@
    ],
    "ipadScreenshots": [],
    "screenshotSource": "play",
-   "lastChecked": "2026-11-09T07:32:11+00:00",
+   "lastChecked": "2026-11-09T13:51:54+00:00",
    "trackedSince": "2026-09-30T08:17:05+00:00",
    "key": "gp-us-ai.character.app",
    "reviewStats": {
-    "total": 1813,
-    "avg": 1.94,
+    "total": 1832,
+    "avg": 1.93,
     "dist": {
-     "1": 1179,
-     "2": 166,
+     "1": 1195,
+     "2": 167,
      "3": 123,
      "4": 95,
-     "5": 250
+     "5": 252
     },
     "d7": {
-     "count": 198,
-     "avg": 1.82,
+     "count": 217,
+     "avg": 1.79,
      "dist": {
-      "1": 130,
-      "2": 23,
+      "1": 146,
+      "2": 24,
       "3": 17,
       "4": 7,
-      "5": 21
+      "5": 23
      }
     },
     "d30": {
-     "count": 1027,
-     "avg": 1.93,
+     "count": 1016,
+     "avg": 1.92,
      "dist": {
-      "1": 674,
+      "1": 670,
       "2": 85,
-      "3": 75,
-      "4": 55,
-      "5": 138
+      "3": 73,
+      "4": 53,
+      "5": 135
      }
     },
-    "updatedAt": "2026-11-09T07:32:30+00:00"
+    "updatedAt": "2026-11-09T13:52:32+00:00"
    }
   }
  ],
  "events": [
+  {
+   "id": "2026-11-09-gp-us-ai.socialapps.speakmaster-release",
+   "type": "release",
+   "app": "gp-us-ai.socialapps.speakmaster",
+   "ts": "2026-11-09T13:51:54+00:00",
+   "title": "PolyBuzz: Chat with AI Friends shipped version 2.3.0",
+   "summary": "2.2.92 → 2.3.0",
+   "before": "2.2.92",
+   "after": "2.3.0",
+   "notes": ""
+  },
   {
    "id": "2026-11-09-us-6502742786-release",
    "type": "release",
