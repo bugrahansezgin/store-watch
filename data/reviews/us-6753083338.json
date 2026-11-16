@@ -1,39 +1,49 @@
 {
  "stats": {
-  "total": 23,
-  "avg": 3.74,
+  "total": 24,
+  "avg": 3.75,
   "dist": {
    "1": 2,
    "2": 3,
    "3": 4,
-   "4": 4,
+   "4": 5,
    "5": 10
   },
   "d7": {
-   "count": 0,
-   "avg": null,
-   "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
-   }
-  },
-  "d30": {
-   "count": 2,
-   "avg": 4.5,
+   "count": 1,
+   "avg": 4.0,
    "dist": {
     "1": 0,
     "2": 0,
     "3": 0,
     "4": 1,
+    "5": 0
+   }
+  },
+  "d30": {
+   "count": 3,
+   "avg": 4.33,
+   "dist": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 2,
     "5": 1
    }
   },
-  "updatedAt": "2026-11-16T07:42:21+00:00"
+  "updatedAt": "2026-11-16T13:37:30+00:00"
  },
  "reviews": [
+  {
+   "id": "14772310505",
+   "rating": 4,
+   "title": "fix the bots please",
+   "body": "everything about this app is great and i love it. my problem is with my commenters / followers. i have had to block literal ai accounts because of how creepy & disgusting they get. i cannot believe i am dealing with AI PREDATORS!! a lot of these accounts say the most disgusting & inappropriate things on my post have links to CP (which i know is not the developers fault, it’s whoever is creating these bots) but it is deeply disturbing and upsetting. there are also creepy old men ai accounts. please try and do something about this, because why is ai making me uncomfortable.",
+   "author": "takashi.tashi",
+   "version": "0.2.2611050",
+   "date": "2026-11-09T21:33:51-07:00",
+   "votes": 0
+  },
   {
    "id": "14728634301",
    "rating": 5,

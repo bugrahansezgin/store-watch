@@ -1,39 +1,94 @@
 {
  "stats": {
-  "total": 761,
+  "total": 766,
   "avg": 3.32,
   "dist": {
-   "1": 172,
+   "1": 173,
    "2": 94,
-   "3": 113,
-   "4": 85,
-   "5": 297
+   "3": 114,
+   "4": 86,
+   "5": 299
   },
   "d7": {
-   "count": 73,
-   "avg": 3.88,
+   "count": 78,
+   "avg": 3.86,
    "dist": {
-    "1": 5,
+    "1": 6,
     "2": 8,
-    "3": 13,
-    "4": 12,
-    "5": 35
+    "3": 14,
+    "4": 13,
+    "5": 37
    }
   },
   "d30": {
-   "count": 165,
-   "avg": 3.67,
+   "count": 167,
+   "avg": 3.64,
    "dist": {
-    "1": 24,
+    "1": 25,
     "2": 17,
-    "3": 24,
-    "4": 25,
-    "5": 75
+    "3": 25,
+    "4": 26,
+    "5": 74
    }
   },
-  "updatedAt": "2026-11-16T07:42:22+00:00"
+  "updatedAt": "2026-11-16T13:37:34+00:00"
  },
  "reviews": [
+  {
+   "id": "a2a6467d-aa58-4c49-8951-ed6cbfebf8fa",
+   "rating": 5,
+   "title": "",
+   "body": "awesome",
+   "author": "Jhon lloyd Albarico",
+   "version": "1.121",
+   "date": "2026-11-15T13:29:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cee29b5c-6d30-4619-8dac-f0e68c59fd6a",
+   "rating": 5,
+   "title": "",
+   "body": "I like the comments",
+   "author": "Aliah Athazia Canasa",
+   "version": "1.120",
+   "date": "2026-11-15T12:26:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "027522d5-2e42-4822-84e5-6ed55ec3ec1a",
+   "rating": 4,
+   "title": "",
+   "body": "The app is great and Engaging. But i have no money for Premium, but the app is good though.",
+   "author": "Ceide Rivera",
+   "version": "",
+   "date": "2026-11-15T10:39:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b1d69776-284d-4407-93c0-765b1bb3f5e7",
+   "rating": 3,
+   "title": "",
+   "body": "its okay",
+   "author": "Sunny Xplr",
+   "version": "1.121",
+   "date": "2026-11-15T09:48:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bc84bae1-8504-440f-a89e-c6d5f736732e",
+   "rating": 1,
+   "title": "",
+   "body": "bruh where's my reward for sharing, and why is this app so goddam expensive. I wish i could've gave this app 0 stars but wtv. waste of time.",
+   "author": "27 Ni Made Amy Ari Trott",
+   "version": "1.121",
+   "date": "2026-11-15T08:56:49+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "6b6e154c-96bc-46c6-add1-893388db62e6",
    "rating": 4,

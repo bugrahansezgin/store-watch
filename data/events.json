@@ -1,5 +1,16 @@
 [
  {
+  "id": "2026-11-16-gp-us-link.socialai.app-release",
+  "type": "release",
+  "app": "gp-us-link.socialai.app",
+  "ts": "2026-11-16T13:36:53+00:00",
+  "title": "status - sims but social media shipped version 1.9.65",
+  "summary": "1.9.64 → 1.9.65",
+  "before": "1.9.64",
+  "after": "1.9.65",
+  "notes": ""
+ },
+ {
   "id": "2026-11-16-us-6502742786-release",
   "type": "release",
   "app": "us-6502742786",
@@ -82,17 +93,6 @@
   "summary": "New app icon",
   "before": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/98/de/51/98de5163-cafa-a08d-ad89-2883caf06602/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
   "after": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7d/3e/0e/7d3e0e8e-306f-d671-90c8-7e417767189b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg"
- },
- {
-  "id": "2026-11-16-gp-us-link.socialai.app-release",
-  "type": "release",
-  "app": "gp-us-link.socialai.app",
-  "ts": "2026-11-16T07:42:03+00:00",
-  "title": "status - sims but social media shipped version 1.9.64",
-  "summary": "1.9.63 → 1.9.64",
-  "before": "1.9.63",
-  "after": "1.9.64",
-  "notes": ""
  },
  {
   "id": "2026-11-16-gp-us-com.instagram.android-release",

@@ -1,39 +1,389 @@
 {
  "stats": {
-  "total": 2188,
-  "avg": 2.4,
+  "total": 2638,
+  "avg": 2.45,
   "dist": {
-   "1": 1255,
-   "2": 129,
-   "3": 104,
-   "4": 69,
-   "5": 631
+   "1": 1464,
+   "2": 170,
+   "3": 133,
+   "4": 83,
+   "5": 788
   },
   "d7": {
-   "count": 50,
-   "avg": 3.1,
+   "count": 500,
+   "avg": 2.75,
    "dist": {
-    "1": 19,
-    "2": 2,
-    "3": 5,
-    "4": 3,
-    "5": 21
+    "1": 228,
+    "2": 43,
+    "3": 34,
+    "4": 17,
+    "5": 178
    }
   },
   "d30": {
-   "count": 1550,
-   "avg": 2.24,
+   "count": 2000,
+   "avg": 2.35,
    "dist": {
-    "1": 956,
-    "2": 89,
-    "3": 73,
-    "4": 42,
-    "5": 390
+    "1": 1165,
+    "2": 130,
+    "3": 102,
+    "4": 56,
+    "5": 547
    }
   },
-  "updatedAt": "2026-11-16T07:42:21+00:00"
+  "updatedAt": "2026-11-16T13:37:29+00:00"
  },
  "reviews": [
+  {
+   "id": "14792908729",
+   "rating": 1,
+   "title": "Hold to pause removed",
+   "body": "Removing the hold to pause feature on reels has truly ruined the user experience. I can no longer analyze sports highlights, fight videos, filmmaking techniques, or any of the other videos I see that have fast action that is hard to comprehend without slowing down. Fix it, it’s horrible and I can’t imagine anyone is actually making use of the useless menu that pops up when you hold your finger down on a reel now. Why would I need a menu option for full screen when there is already a mechanic that allows you to do that with fewer touches. I hate it, I want it to go back please fix it devs.",
+   "author": "Nickvzw",
+   "version": "455.0.0",
+   "date": "2026-11-15T01:21:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792758893",
+   "rating": 1,
+   "title": "Horrible app",
+   "body": "Instagram has honestly become one of the most frustrating and disappointing platforms. I am tired of having my accounts repeatedly banned for things I have not done. What makes it even worse is being falsely accused of something extremely serious and horrible without being given a fair opportunity to explain myself or properly defend my account.\n\nIt is incredibly upsetting to lose accounts, memories, followers, and connections because of decisions that seem to be made without properly reviewing the situation. Instagram needs to do a better job at reviewing reports, improving its automated moderation system, and allowing users to appeal unfair decisions.\n\nPeople should not have to keep creating new accounts out of fear that they will randomly lose them again. I deserve an explanation, a fair review, and accountability. At this point, Instagram has made using its platform more stressful than enjoyable. Do better, Instagram.",
+   "author": "Cri8@0",
+   "version": "455.0.0",
+   "date": "2026-11-15T00:21:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792726516",
+   "rating": 1,
+   "title": "Bad app",
+   "body": "Instagram has been a terrible experience lately. My account keeps getting suspended over and over again, I’m so tired of dealing with it.Its frustrating because I haven’t done anything wrong, yet I keep losing access to my accounts. Instagram needs to do better job reviewing accounts instead of repeatedly suspending people for no reason. Please fix your system and stop suspending innocent users. This is unacceptable, and I’m extremely disappointed.",
+   "author": "S.8539@",
+   "version": "455.0.0",
+   "date": "2026-11-15T00:08:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792660490",
+   "rating": 5,
+   "title": "Good job",
+   "body": "Fast and reliable",
+   "author": "Alvo Alvin",
+   "version": "455.0.0",
+   "date": "2026-11-14T23:41:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792596566",
+   "rating": 1,
+   "title": "Реклама",
+   "body": "Последнее обновление просто ужас. Реклама через видео. Тредс из всех щелей пихается. Можно же не так много рекламы делать?!",
+   "author": "Реехани",
+   "version": "455.0.0",
+   "date": "2026-11-14T23:14:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792549802",
+   "rating": 1,
+   "title": "STOP",
+   "body": "STOP CHANGING YOUR FORMAT AND RUINING THE APP!!!",
+   "author": "L0F2",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:55:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792514384",
+   "rating": 1,
+   "title": "Wrongful banned and suspended on other accounts for no reason",
+   "body": "They need more help and real people on instagram because i can’t get my account back at all and i can’t make a new one because you guys banned that to so we need some change",
+   "author": "J0hnnye",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:40:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792512428",
+   "rating": 2,
+   "title": "Username",
+   "body": "The app is good but when I want to change my username I can’t because “this one is already used” like I know there’s not that many people with the letter Q in their name and even if there was none of the names should be taken, another thing is I had to keep redoing it because “this one is already used” so I did and then I got a 30 minute wait because I “used up all the time” or whatever. Like that makes no sense, why make me choose a different name because another is taken and then tell me i have to wait 30 minutes because I used too much time like what?",
+   "author": "quierstin",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:39:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792507548",
+   "rating": 1,
+   "title": "Paused Reels shimmering with AI nonsense",
+   "body": "If I pause a Reel, it starts doing this nonsense where it starts to AI scan the image so start selling me stuff from the screen. \n\nI paused the reel for a reason, I didn’t want the terrible AI tool to take over the screen. Horrible feature and no way to turn it off.",
+   "author": "KCalifornia19",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:37:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792496279",
+   "rating": 1,
+   "title": "Hate the new update",
+   "body": "Hate the new update where on reels you can no longer press and hold to pause, you have to lift your finger or else you get this extremely annoying pop up menu with settings I never use",
+   "author": "fhanabkeh",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:32:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792480153",
+   "rating": 5,
+   "title": "Instagram is honestly my favorite app!",
+   "body": "I use it every single day, not just for entertainment but also for my work as a content creator. Most of my work, creativity, and collaborations happen here. I love sharing my experiences, connecting with my audience, and discovering new inspiration. Instagram has become a big part of my daily life, both personally and professionally. Absolutely love it! ⭐️",
+   "author": "mkshamri",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:25:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792474359",
+   "rating": 5,
+   "title": "INSTAGRAM ⭐️⭐️⭐️⭐️⭐️",
+   "body": "Instagram unlike some other Apps is harassment FREE! No suspensions because some HATER submitted a FAKE 🥸 COMPLAINT about your content!?",
+   "author": "XFL DAN",
+   "version": "455.0.0",
+   "date": "2026-11-14T22:22:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792411087",
+   "rating": 1,
+   "title": "Protest vote",
+   "body": "Can’t pause reels anymore with a press and if you tap it has that big play button in the middle.\n\nOther issue is since Facebook took over this app sucks still and lost its charm…",
+   "author": "Singesabre",
+   "version": "455.0.0",
+   "date": "2026-11-14T21:55:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792400046",
+   "rating": 1,
+   "title": "Comments on posts",
+   "body": "So how many times do i have to delete a comment from a post for it to be permanent?!? You gonna grow up and act like adults and fix your app the right way?",
+   "author": "the one who exposes",
+   "version": "455.0.0",
+   "date": "2026-11-14T21:51:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792369977",
+   "rating": 1,
+   "title": "Restricciones",
+   "body": "Te restringe sin razón alguna, súper mal, me quitaron las instantáneas, y no puedo ver los likes de mis amigos, no tengo muchas opciones, después de lo que me han hecho no se merecen ni una estrella! gxsell_rdz",
+   "author": "gisell_rodriguez07",
+   "version": "455.0.0",
+   "date": "2026-11-14T21:38:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792365863",
+   "rating": 1,
+   "title": "New update automatically pauses music",
+   "body": "New update turns off your music so they can feed you ads better, absolute slop",
+   "author": "eczw",
+   "version": "455.0.0",
+   "date": "2026-11-14T21:36:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792265009",
+   "rating": 1,
+   "title": "Restrictions",
+   "body": "Lately instagram has been giving restrictions when rules aren’t broken I don’t understand it’s ruining my page engagement",
+   "author": "Snow baby 2.0",
+   "version": "455.0.0",
+   "date": "2026-11-14T20:54:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792209394",
+   "rating": 1,
+   "title": "Instants",
+   "body": "I don’t have instants and everyone else does",
+   "author": "Lalo-1904",
+   "version": "455.0.0",
+   "date": "2026-11-14T20:31:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792190601",
+   "rating": 5,
+   "title": "✨",
+   "body": "👍🏼",
+   "author": "The tuning cat",
+   "version": "455.0.0",
+   "date": "2026-11-14T20:24:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792132295",
+   "rating": 1,
+   "title": "Instagram sucks",
+   "body": "15 dollars a month just for a blue badge????  Corporate greed at its finest , don’t get this app",
+   "author": "JonathanStupid36",
+   "version": "455.0.0",
+   "date": "2026-11-14T20:01:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792092809",
+   "rating": 1,
+   "title": "Censor facts with lies",
+   "body": "Your censoring facts with lies and refuse to fix your mistake is suspect and unprofessional Especially when it’s news reels and you calling child nudity which is obviously a lie cause there was no child nudity and more lies to continue censor news facts on multiple reels being shared with all on this platform is outrageous and violation of the 2nd amendment. Covering up your violation with lies with no evidence to support your actions has gotten all of our attention. It is your unprofessionalism with no cause and lack of and no evidence with fabricated nonsense is distasteful to say the least. We are keeping receipts and evidence to prove your actions wrongfully. Continue to violate our 2nd amendment with no evidence and fabrication will be taking place to higher",
+   "author": "Frank/ie",
+   "version": "455.0.0",
+   "date": "2026-11-14T19:45:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792075217",
+   "rating": 4,
+   "title": "posting mixed ratios",
+   "body": "love instagram obviously but idk why i can’t always make posts on my profile with the mixed ratios. most of my pics are either horizontal or vertical and it makes it soooo hard to post!!!!",
+   "author": "yam2220",
+   "version": "455.0.0",
+   "date": "2026-11-14T19:39:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791994932",
+   "rating": 5,
+   "title": "Terrible",
+   "body": "So even having an account for years and then someone with beef comes and mass reports me for something not even on my page… then I get perma banned?? Are we serious? How hard is it to program ur ai to have to actually find wrongdoing? You like just banning accounts for no reason??",
+   "author": "THElilman999",
+   "version": "455.0.0",
+   "date": "2026-11-14T19:09:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791973271",
+   "rating": 1,
+   "title": "Roar",
+   "body": "This event was the worst runevet I have ever been to.  We had nowhere to sit every time we sat in the vip area we were-threaten to be removed.  Security look like state police and carried guns  they were almost like the gastopo of Germany World War Two\nThe building was very unsafe broken tiles in floor no guardrails steps painted black and no lights on them",
+   "author": "999jansmith",
+   "version": "455.0.0",
+   "date": "2026-11-14T19:01:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791971607",
+   "rating": 3,
+   "title": "Not that good",
+   "body": "I had an account with yall and a business one I didn’t know I coulf have it for a amount of time until they report my account of stealing money from ppl when I used to sell snacks to ppl i moved nn I didn’t use my account while im here I was goin to open an other account for baking but yall kept on saying im stealing",
+   "author": "the.1nonlylizz",
+   "version": "455.0.0",
+   "date": "2026-11-14T19:01:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791925601",
+   "rating": 1,
+   "title": "A lot of ads",
+   "body": "Ads, a lot of ads. You can watch two reels then get two ads. The feed is ads every other post. To many ads.",
+   "author": "RezDirt",
+   "version": "455.0.0",
+   "date": "2026-11-14T18:44:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791919628",
+   "rating": 4,
+   "title": "Pretty good",
+   "body": "This is where I can connect with my closest friends and I love it",
+   "author": "gcj UV jvvnv",
+   "version": "455.0.0",
+   "date": "2026-11-14T18:42:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791910663",
+   "rating": 1,
+   "title": "Suspended for no reason",
+   "body": "This app is like a total trash they suspended you from no reason they ban people over the age of 13 and still proceed to do it It ai ai ruin the world",
+   "author": "Jackson jacson",
+   "version": "455.0.0",
+   "date": "2026-11-14T18:38:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791879143",
+   "rating": 5,
+   "title": "dead cat wants a spotlight",
+   "body": "i love instagram i been here since middle school but it’s always crowded i wish there was a way they’d help understand artist stand out and create a fanbase idk someone help me blow up plz",
+   "author": "cockypunk",
+   "version": "455.0.0",
+   "date": "2026-11-14T18:27:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791732877",
+   "rating": 5,
+   "title": "Viewers glitch can’t see my viewers",
+   "body": "Please help",
+   "author": "Ghgeddfyhbh",
+   "version": "455.0.0",
+   "date": "2026-11-14T17:35:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791633994",
+   "rating": 5,
+   "title": "Review",
+   "body": "Instagram is the best social media app. I think you should download it.",
+   "author": "The biggest ￼",
+   "version": "455.0.0",
+   "date": "2026-11-14T16:59:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791537442",
+   "rating": 5,
+   "title": "Love the app",
+   "body": "Love everything about this app",
+   "author": "Geekink82",
+   "version": "455.0.0",
+   "date": "2026-11-14T16:24:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791533478",
+   "rating": 1,
+   "title": "More ads than ever",
+   "body": "This has become such a terrible app, I really can’t believe how many ads and constant pushing of other meta apps are forced down our throats.",
+   "author": "pvrgatorivm",
+   "version": "455.0.0",
+   "date": "2026-11-14T16:22:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791453042",
+   "rating": 1,
+   "title": "instagram",
+   "body": "they aren't letting me get account back i need it back now please I don’t understand what I did wrong I never posted anything bad please let me get it back",
+   "author": "follower apps",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:52:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791442707",
+   "rating": 3,
+   "title": "Problem",
+   "body": "The time my messages show is wrong like when I send something a minute ago it shows 3hours ago",
+   "author": "Dshaay",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:48:36-07:00",
+   "votes": 0
+  },
   {
    "id": "14791375205",
    "rating": 1,
@@ -82,6 +432,16 @@
    "author": "Latte7500",
    "version": "455.0.0",
    "date": "2026-11-14T14:58:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791268476",
+   "rating": 5,
+   "title": "In Lamar we trust",
+   "body": "Here is the unfiltered truth: Lamar Jackson is the single greatest offensive weapon in Baltimore Ravens history, a guy who single-handedly dragged a dinosaur franchise into the modern NFL—yet his entire legacy is trapped in a high-stakes tug-of-war between regular-season magic and January heartbreak.",
+   "author": "Lamar earned blank check",
+   "version": "455.0.0",
+   "date": "2026-11-14T14:41:58-07:00",
    "votes": 0
   },
   {
@@ -532,6 +892,4146 @@
    "author": "Bam-Bam Kennels",
    "version": "455.0.0",
    "date": "2026-11-14T06:21:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789631698",
+   "rating": 1,
+   "title": "Banned because AI verification.",
+   "body": "I had an Instagram account where I posted photography and artwork. Instagram’s AI determined it somehow sexualized Minors. Despite children never being a subject of my work. After appealing the Ban the AI processed for about 9 minutes and decided that it still sexualized minors, when it did not. Account permanently banned and deleted. No way to recover my photos. I will not be using Instagram again.",
+   "author": "C20540",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:14:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789613127",
+   "rating": 5,
+   "title": "Community Building",
+   "body": "I LOVE the community I’m able to build around self-care thanks in large part to Instagram and Threads!",
+   "author": "Lyrical Jeanous",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:09:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789601915",
+   "rating": 1,
+   "title": "False Serious Bans",
+   "body": "Serious accusations and bans. Just look it up",
+   "author": "Thejohn237",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:06:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789587099",
+   "rating": 5,
+   "title": "It great",
+   "body": "I like it a lot",
+   "author": "Geppeddo",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:02:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789336466",
+   "rating": 1,
+   "title": "Lions",
+   "body": "Could a problem please be fixed from permanently suspended accounts back I already had 4 accounts made that got suspended or deleted and it need to be fixed asap",
+   "author": "off-road player",
+   "version": "455.0.0",
+   "date": "2026-11-14T04:50:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789323711",
+   "rating": 1,
+   "title": "Antisemitism",
+   "body": "Very weird how I’m not allowed to comment that someone that scammed people “is a scammer”,  but if I want to comment “hes a jew”, it allows that comment. Thats called antisemitism",
+   "author": "dheoshzbrbe",
+   "version": "455.0.0",
+   "date": "2026-11-14T04:46:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789290007",
+   "rating": 5,
+   "title": "Sarupa",
+   "body": "Desai",
+   "author": "Sarupa Desai",
+   "version": "455.0.0",
+   "date": "2026-11-14T04:36:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789280971",
+   "rating": 1,
+   "title": "Annoying ads!",
+   "body": "Too many ads for someone who’s paying a subscription! Cut it out!",
+   "author": "NickXBro",
+   "version": "455.0.0",
+   "date": "2026-11-14T04:33:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789133027",
+   "rating": 5,
+   "title": "Instagram",
+   "body": "I think it’s amazing. U can make money and laugh what’s more to ask!",
+   "author": "JerySilCrack",
+   "version": "455.0.0",
+   "date": "2026-11-14T03:45:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789084037",
+   "rating": 1,
+   "title": "Keep disabling my accounts",
+   "body": "Disabling my accounts for literally no reason",
+   "author": "yalbabynuuu",
+   "version": "455.0.0",
+   "date": "2026-11-14T03:29:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788993860",
+   "rating": 4,
+   "title": "This is funny as heck",
+   "body": "Very Entertaining",
+   "author": "Bur quinoa",
+   "version": "455.0.0",
+   "date": "2026-11-14T02:57:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788944839",
+   "rating": 5,
+   "title": "Connection through form",
+   "body": "Instagram has brought so many people together and beautiful connections \nIt really is a way for medium to be shown and flow to take form.",
+   "author": "BestwishesPitt",
+   "version": "455.0.0",
+   "date": "2026-11-14T02:39:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788744003",
+   "rating": 5,
+   "title": "response",
+   "body": "i’m posting regularly but i guess it’s not reaching to the lot..",
+   "author": "RehaanRasul",
+   "version": "455.0.0",
+   "date": "2026-11-14T01:22:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788732858",
+   "rating": 1,
+   "title": "Falsely accused of cse !!!",
+   "body": "For the past couple months, I was accused of CSC each time I appealed. They said they made a mistake this last time, on September 28, I was falsely accused of it again. I tried to appeal it and it was denied less than 24 hours later and was told that all my information will be permanently deleted , (I only post my car on my page, and I have a few pictures of myself on my highlights ) & (my dog) . I run a gold plating business  , I’ve lost thousands of dollars in one month. because of this. I’ve lost connections with friends and family. I’ve lost memories of friends who have passed already and family members who have passed all our audio messages and conversations are gone , I’ve contacted Meta. I’ve sent a demand letter. I am a Meta verified member. I’ve talked to a live agent and nothing was resolved it now has been over a month without my account and I haven’t heard anything back , I will be suing Meta for breach of contract, false accusations , and for all the money I lost this past month in talks with my lawyer. I’ve had this account for more then 10 years !!! @cashonly.86",
+   "author": "yungg.ju",
+   "version": "455.0.0",
+   "date": "2026-11-14T01:18:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788590581",
+   "rating": 1,
+   "title": "advertising",
+   "body": "Do you think it’s normal to insert an ad after every single Reels?",
+   "author": "Ahmdaniiii",
+   "version": "455.0.0",
+   "date": "2026-11-14T00:22:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788512785",
+   "rating": 1,
+   "title": "Can’t recover account",
+   "body": "Got a new phone and couldn’t log in for some reason. Tried the “forgot my password” with my phone number and it pulled up a completely different profile that wasn’t mine. Did the “account might be hacked” and did a live video recovery to get a password reset link and it confirmed my identity, but the link sent me to the instagram login screen to either login or create a new profile. Can’t get any help past that because the support is all Ai generated…",
+   "author": "Jezeuss",
+   "version": "455.0.0",
+   "date": "2026-11-13T23:51:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788439254",
+   "rating": 5,
+   "title": "Enjoying Instagram",
+   "body": "Kudos to the team",
+   "author": "Fresh YK",
+   "version": "455.0.0",
+   "date": "2026-11-13T23:21:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788327756",
+   "rating": 1,
+   "title": "MAD",
+   "body": "I got disabled after a while bc I guess I wasn’t following the rules when all my friends do the same and am 14 and this decision was made by an AI",
+   "author": "MADNIGGA",
+   "version": "455.0.0",
+   "date": "2026-11-13T22:33:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788251620",
+   "rating": 5,
+   "title": "Way out",
+   "body": "Instagram give you a platform to express ideas and possibly lead to employment sharing is caring",
+   "author": "A grandmom plead",
+   "version": "455.0.0",
+   "date": "2026-11-13T22:01:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788208168",
+   "rating": 1,
+   "title": "Late Great Source",
+   "body": "of slop, and over-abundant ads. No chance to see the actual content you care about. This used to be the standard.",
+   "author": "Colorscentsound",
+   "version": "455.0.0",
+   "date": "2026-11-13T21:42:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788145543",
+   "rating": 1,
+   "title": "Injustos",
+   "body": "Solo publico sobre Dios y me restrigen la cuenta y no dicen porque",
+   "author": "Bullshut1111",
+   "version": "455.0.0",
+   "date": "2026-11-13T21:15:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788108119",
+   "rating": 1,
+   "title": "Cuenta inhabilitada por error y sin apelación real",
+   "body": "Inhabilitaron mi cuenta sin que yo hubiera infringido ninguna norma. Seguí el proceso de apelación completo y no recibí ninguna respuesta. Al intentar verificar mi identidad con documentos y video selfie desde otra cuenta, el sistema los rechaza sin explicación. Pido que revisen mi caso de forma manual y que ofrezcan un canal de soporte real.\"",
+   "author": "Caso sin resolver",
+   "version": "455.0.0",
+   "date": "2026-11-13T20:59:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788031226",
+   "rating": 1,
+   "title": "Bad instagram",
+   "body": "Insta is so bad they suspend everybody’s account including mine for absolutely zero reason and then also not letting u do a appeal properly so please don’t use this app because it’s really bad",
+   "author": "xtSHADOW",
+   "version": "455.0.0",
+   "date": "2026-11-13T20:27:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788012277",
+   "rating": 1,
+   "title": "Too many Israeli ads",
+   "body": "I have over 50 screenshots of over saturated Israeli or Jew ad bots flooding my feed. Why is Israel spending so much money to do such petty stuff? It’s the highest display of ontological constipation.",
+   "author": "Disruptor of Paradigms",
+   "version": "455.0.0",
+   "date": "2026-11-13T20:19:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788006504",
+   "rating": 5,
+   "title": "Freezes",
+   "body": "It’s a great app but please fix these freezes! Everytime I try to like scroll away sometimes it won’t let me. Plus the ai assistance should be taken away I feel like it takes too much energy from the app. PLS FIX MY INSTAGRAM THO!",
+   "author": "Ketchup lover!",
+   "version": "455.0.0",
+   "date": "2026-11-13T20:17:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787999639",
+   "rating": 5,
+   "title": "Yep",
+   "body": "Code rot",
+   "author": "12333rjdhxjd",
+   "version": "455.0.0",
+   "date": "2026-11-13T20:14:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787927644",
+   "rating": 5,
+   "title": "🫶🏽",
+   "body": "i love instagram, i can do so much on it , even talk to the ppl i cant on messages , i love instagram",
+   "author": "123wavy",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:46:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787923032",
+   "rating": 5,
+   "title": "Such an awesome app",
+   "body": "I love it I’ve been using it for a few years and I love it thank you! I love you instagram!",
+   "author": "me vs trainer",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:44:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787893326",
+   "rating": 1,
+   "title": "bad review….",
+   "body": "this app is just something else i had my instagram account for 5 years for it to get banned for absolutely no reason couldn’t even say why it got banned no warning or nothing I’m very upset and won’t get the app again after the fact i don’t need to make a new account because there’s nothing wrong with the one that they decided to ban.",
+   "author": "ânonymouş",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:33:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787874589",
+   "rating": 5,
+   "title": "Comentario:",
+   "body": "Oigan lean esto, esq quiero descargar la app pero anda cargando desde hace un mes",
+   "author": "Déjenme porfa",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:26:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787833983",
+   "rating": 1,
+   "title": "Not optimized for duo",
+   "body": "Doesn’t work for posting on the duo",
+   "author": "jezzi345",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:11:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787810512",
+   "rating": 1,
+   "title": "AI stealing all your data",
+   "body": "You can’t opt out and can’t delete your account",
+   "author": "Bad AI policy",
+   "version": "455.0.0",
+   "date": "2026-11-13T19:02:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787642644",
+   "rating": 5,
+   "title": "🐝ing different",
+   "body": "i am happy 😃",
+   "author": "Rigby1776",
+   "version": "455.0.0",
+   "date": "2026-11-13T18:01:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787629636",
+   "rating": 1,
+   "title": "Irrelevant content",
+   "body": "Why does this app constantly show me accounts I don’t follow. I just want to see my friends and people I follow not random accounts of famous people or meme accounts",
+   "author": "jolynnejohnston",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:56:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787593153",
+   "rating": 1,
+   "title": "Too many ads.",
+   "body": "Meta has opened the floodgates with the ads on IG, and it's annoying as all get out.",
+   "author": "KennyXReno",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:43:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787580502",
+   "rating": 1,
+   "title": "Soooooo stupid 👎",
+   "body": "It’s not a social media app. It’s a marketing platform. Everything MZ touches turns to garbage. Save yourself. Avoid.",
+   "author": "CincyCRH",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:38:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787559696",
+   "rating": 1,
+   "title": "It’s a slop machine",
+   "body": "Remember when we saw our friends? And now all our work is stolen from us? The TOS are predatory. Don’t download.",
+   "author": "Teacher Gardner",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:31:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787529589",
+   "rating": 1,
+   "title": "Too glitchy and unusable",
+   "body": "After the last update, the app became so glitchy that it's unusable at this point. If I open a reel, I can't go back, like, or comment. I constantly have to reload the app to view my feed again, and it's getting on my nerves.",
+   "author": "Elunary",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:20:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787503291",
+   "rating": 1,
+   "title": "Te quitan la cuenta",
+   "body": "Tenía ya casi 3 años con mi cuenta sin ningún problema hasta que me la inhabilitaron de la nada y ya mandé apelación tras apelación y nada aún no lo pueden resolver, y no es solo a mí le esta pasando a mucha gente y no solo a mi me gustaría que me regresaran mi cuenta y a todos los que se la quitaron",
+   "author": "xxx.rd.snx",
+   "version": "455.0.0",
+   "date": "2026-11-13T17:11:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787452553",
+   "rating": 5,
+   "title": "I love instagram",
+   "body": "Instagram is the best!",
+   "author": "Whytho1861",
+   "version": "455.0.0",
+   "date": "2026-11-13T16:52:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787437335",
+   "rating": 4,
+   "title": "Intuitiva",
+   "body": "No es tan intuitiva y amigable como Facebook",
+   "author": "Mejorard",
+   "version": "455.0.0",
+   "date": "2026-11-13T16:47:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787367185",
+   "rating": 2,
+   "title": "It’s okay",
+   "body": "it’s a good and fun app I won’t lie. Just recently for no reason I’ve been getting banned and getting called a scam every new account I made. It’s ridiculous because I rarely even post and I’m getting suspended for being a “scam”. And when I’m suspended I can never get my account back.",
+   "author": "bella 01296",
+   "version": "455.0.0",
+   "date": "2026-11-13T16:21:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787309359",
+   "rating": 1,
+   "title": "No me llega las actualizaciones",
+   "body": "Está calidad y todo pero no me caen qlitos😢y además no tengo los filtros de las instantáneas 😔",
+   "author": "patukiguate",
+   "version": "455.0.0",
+   "date": "2026-11-13T16:01:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787301863",
+   "rating": 1,
+   "title": "AI bans and no recourse",
+   "body": "I used Instagram every day - but recently my account was with an incredibly stressful and harsh permanent ban for something I didn’t do. There’s no recourse for support - the AI chatbots just run you around in circles. 10 years of my life - friends, family, memories - all gone in an instant. I’d be satisfied if there was a way to talk with a human being - but sadly that’s not the case. Seems like Meta has really gone downhill with the application of AI moderators.",
+   "author": "Nick Crone",
+   "version": "455.0.0",
+   "date": "2026-11-13T15:58:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787236925",
+   "rating": 1,
+   "title": "Disturbing",
+   "body": "Instagram thinks it's antisemitic to speak out against grooming children.",
+   "author": "ThatRyGuy5",
+   "version": "455.0.0",
+   "date": "2026-11-13T15:33:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787218808",
+   "rating": 1,
+   "title": "Update",
+   "body": "Hate the new update. It's awful, more difficult to navigate. Wish I hadn't.",
+   "author": "Roxanne60",
+   "version": "368.0.0",
+   "date": "2026-11-13T15:26:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787163910",
+   "rating": 5,
+   "title": "La mejor aplicación",
+   "body": "❤️",
+   "author": "Realidad y crecimiento",
+   "version": "455.0.0",
+   "date": "2026-11-13T15:06:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787139924",
+   "rating": 2,
+   "title": "Anthony",
+   "body": "Instagram can’t update to the new liquid glass UI when my iPhone is on the new software update 😭😡",
+   "author": "Anthony Ssenteza",
+   "version": "455.0.0",
+   "date": "2026-11-13T14:57:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787115414",
+   "rating": 5,
+   "title": "Liquid Glass",
+   "body": "I don’t have Liquid Glass on my instagram",
+   "author": "tjontop_1",
+   "version": "455.0.0",
+   "date": "2026-11-13T14:47:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787078625",
+   "rating": 2,
+   "title": "INSTAGRAM",
+   "body": "The app has been so jumpy. I’m convinced they intentionally screw up my reels during editing & after posting, solely because I edited it without the app editor they’ve been trying to push onto me for the past 6 months. It’s just not a fun user experience anymore.",
+   "author": "Rhiannlee23",
+   "version": "455.0.0",
+   "date": "2026-11-13T14:34:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787013225",
+   "rating": 1,
+   "title": "Soooo",
+   "body": "Bad",
+   "author": "نينينينميمينيىيىىس",
+   "version": "455.0.0",
+   "date": "2026-11-13T14:09:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786937739",
+   "rating": 5,
+   "title": "Disabled",
+   "body": "Ig said I was deleted or banned, 30 days, who waited 30 days made a new one. I was fine for 4 to 5 months., then I was deleted I don’t worry, saying that it was connected to my old account was deleted, so how long do I have to wait before I make a new one, meta is not helping",
+   "author": "Eastlbc",
+   "version": "455.0.0",
+   "date": "2026-11-13T13:42:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786914910",
+   "rating": 1,
+   "title": "Lame",
+   "body": "Their logo is a camera but their tagline is “Videos, creators & friends”. It’s not about sharing photos. It’s about reels.",
+   "author": "samsambosammy",
+   "version": "455.0.0",
+   "date": "2026-11-13T13:33:35-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14786911631",
+   "rating": 5,
+   "title": "Do more say less",
+   "body": "Instagram has allowed me to tap into my true creativity and just be me we and can all win on the gram",
+   "author": "JerzyMikke",
+   "version": "455.0.0",
+   "date": "2026-11-13T13:32:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786885952",
+   "rating": 1,
+   "title": "Just constantly getting worse and worse",
+   "body": "How dare you turn off my music. Who do you think you are? You’re not above Spotify, not even close actually.",
+   "author": "5$68@$:S",
+   "version": "455.0.0",
+   "date": "2026-11-13T13:23:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786780635",
+   "rating": 1,
+   "title": "Review",
+   "body": "Every time I make a account I get banned for no reason 😒",
+   "author": "Bryce✌🏾",
+   "version": "455.0.0",
+   "date": "2026-11-13T12:44:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786776121",
+   "rating": 3,
+   "title": ".",
+   "body": "instagram isn’t that bad of a social media platform. It’s just you basically can’t talk to people without randomly being restricted from chatting, FOR NO REASON. it’s a mid social media platform, but if you’re willing to be able to barely chat, you should go for it. Instagram, yall do too much and need to fix your app.",
+   "author": "Zaida Rogers",
+   "version": "455.0.0",
+   "date": "2026-11-13T12:43:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786732060",
+   "rating": 3,
+   "title": "Necesitan más cosas mejoradas",
+   "body": "Sería mejor que en las instantáneas se pudiera usar audio",
+   "author": "Ttittten",
+   "version": "455.0.0",
+   "date": "2026-11-13T12:27:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786693863",
+   "rating": 2,
+   "title": "RATING FOR POSTING PROCESS - Editing, Posting, Music, Ect.",
+   "body": "Instagram is terrible at editing. Every second clip that you add to your video gets cut off audio wise at the end. Like what?",
+   "author": "HenryMB11",
+   "version": "455.0.0",
+   "date": "2026-11-13T12:14:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786636252",
+   "rating": 1,
+   "title": "No schedule option",
+   "body": "After a few weeks my schedule for later option dissapear",
+   "author": "Fernanda Socias",
+   "version": "455.0.0",
+   "date": "2026-11-13T11:53:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786634710",
+   "rating": 2,
+   "title": "Review",
+   "body": "My iPhone instincts doesnt have filters.",
+   "author": "Rewiewwwwwwwwomg",
+   "version": "455.0.0",
+   "date": "2026-11-13T11:53:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786600306",
+   "rating": 4,
+   "title": "It’s okay",
+   "body": "I love insta but is there a way to make it so that it doesn’t pause my music whenever I open it?",
+   "author": "Nicknamewastaken132",
+   "version": "455.0.0",
+   "date": "2026-11-13T11:41:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786523976",
+   "rating": 5,
+   "title": "Yay",
+   "body": "Just snapping pictures on the gram!",
+   "author": "Natalis-a",
+   "version": "455.0.0",
+   "date": "2026-11-13T11:15:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786469395",
+   "rating": 1,
+   "title": "Garbage",
+   "body": "Keeps shoving garbage ai, muse, in my face for no good reason all the while rearranging ui and adding more layers to ui just to do so. Worthless clanker thumpers",
+   "author": "대박냥이",
+   "version": "455.0.0",
+   "date": "2026-11-13T10:57:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786453915",
+   "rating": 2,
+   "title": "Instagram is falling their users",
+   "body": "The app is very simple and easy to use, lots of ways to connect to friends and family and post online and reach many. The app is one of the best pieces of media, but this app and the people behind it are terrible at being reliable, or caring about their customers in times of mistakes or even when their AI false flagging accounts for little reason. You can’t reach out and recover accounts. Trying to get in touch with reliable people who can help you is non existent now. This app took pride in making sure the experience was smooth and easy. AI is the future however the devs and all oversight as far rules and what they teach their AI is staggering and frustrating.  navigating a app that doesn’t even care about the user experience or properly fixing issues on its platform is terrible and needs correction.",
+   "author": "{Shadow}445",
+   "version": "455.0.0",
+   "date": "2026-11-13T10:51:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786329283",
+   "rating": 5,
+   "title": "🫀🕊️",
+   "body": "🫀🕊️",
+   "author": "Sk Ahmad ￼",
+   "version": "455.0.0",
+   "date": "2026-11-13T10:11:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786260626",
+   "rating": 3,
+   "title": "Bugs in the saved and collections need fixed",
+   "body": "Fix",
+   "author": "djjrhjrhr",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:49:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786212899",
+   "rating": 1,
+   "title": "bad app",
+   "body": "MİLAN ÖNDER krala ss atamiyorum birileri bisey yapsin",
+   "author": "toynio",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:34:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786198458",
+   "rating": 5,
+   "title": "Great app",
+   "body": "Best one",
+   "author": "Danny-484",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:30:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786191554",
+   "rating": 5,
+   "title": "Big Fan",
+   "body": "Shout out to Instagram for being an innovator in the social media space",
+   "author": "Screw City Wrestling",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:28:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786184025",
+   "rating": 5,
+   "title": "Streetcanvassers",
+   "body": "Thank you Instagram for bringing the opportunities $$$$$$$$$$$$$$$$$$",
+   "author": "Streetcanvasser",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:25:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786180609",
+   "rating": 5,
+   "title": "Children’s Revolution of America",
+   "body": "We The People do Declare Revolution🚂🛤️🛤️🛤️✨✨✨🇺🇸🌍🌏🌎",
+   "author": "Childrensrevolutions.com",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:24:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786170440",
+   "rating": 1,
+   "title": "Let me see the people I follow?",
+   "body": "App would rather push ai slop nobody wants than show me posts from the people I chose to follow.",
+   "author": "heres one",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:21:35-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14786112101",
+   "rating": 2,
+   "title": "Insta update",
+   "body": "i can’t upload stories with any audio since the update. videos i recorded with my camera have audio on all other apps but when i go to post on insta it doesn’t have audio. i then tried to add music to another post and the audio doesn’t work for that either. if it doesn’t get fixed soon im probably just going to delete the app.",
+   "author": "Crazy person 12345678910",
+   "version": "455.0.0",
+   "date": "2026-11-13T09:03:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786077492",
+   "rating": 1,
+   "title": "Id any reason disable",
+   "body": "Very bad",
+   "author": "@saddd__10",
+   "version": "455.0.0",
+   "date": "2026-11-13T08:53:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786056597",
+   "rating": 3,
+   "title": "suspending active accounts",
+   "body": "I have one account and can’t make another one without it being immediately suspended, regardless of what it is despite me, putting in some of the best photos of my ID to appeal it. It’s never accepted and it does make the Instagram experience a little irritating. Please fix this issue.",
+   "author": "darcyreigns",
+   "version": "455.0.0",
+   "date": "2026-11-13T08:47:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786020392",
+   "rating": 2,
+   "title": "Forced update",
+   "body": "Instagram forced me to update then got rid of every draft I had saved to my account. Infuriating.",
+   "author": "alexisgarner34",
+   "version": "455.0.0",
+   "date": "2026-11-13T08:36:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785923287",
+   "rating": 5,
+   "title": "_little_xi_",
+   "body": "Hi, my live option is not showing on my account. I tried restart and update. Can you please help?\"",
+   "author": "Cgjdjkdksbab",
+   "version": "455.0.0",
+   "date": "2026-11-13T08:07:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785894966",
+   "rating": 5,
+   "title": "the greatest app ever",
+   "body": "Truly love this app better than anywhere else. Creators post with intention to help others become better, people engage and interact. A community through social media that is felt in my heart. ♥️",
+   "author": "Suki ✨🎀",
+   "version": "455.0.0",
+   "date": "2026-11-13T07:59:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785838859",
+   "rating": 1,
+   "title": "Collections are not sharing",
+   "body": "As of Nov 2026 Collections are not sending join requests to the person selected. The collection does not show up in their list of collections and they are unable to add to the collection (the three dots in the upper right do nothing). Really frustrating. I’ve also had a message alert that I can not clear. I’ve checked messages, requests, spam, notifications and comments and nothing is pending. I have logged out and back in, I’ve updated to the latest version, I’ve uninstalled and reinstalled the app but the pending message notice persists. I’m currently looking at other apps to be able to share content. I’ve also tried to report this issue in the app. Please assess this.",
+   "author": "Wow_me_26",
+   "version": "455.0.0",
+   "date": "2026-11-13T07:43:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785750720",
+   "rating": 1,
+   "title": "People Getting Banned for no Reason",
+   "body": "Meta has been facing problems where they deactivate several accounts for no reason including my own, cant get a hold of a human in meta support, and they delete all your memories and profiles and theres nothing you can do about it. I recommend everyone files a lawsuit against meta",
+   "author": "Aldo Azua",
+   "version": "455.0.0",
+   "date": "2026-11-13T07:17:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785733822",
+   "rating": 2,
+   "title": "It's just bad.",
+   "body": "99% Reels and everything kicks you out of the app anyway. Plus, mostly AI or bots.",
+   "author": "svensls",
+   "version": "455.0.0",
+   "date": "2026-11-13T07:13:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785726982",
+   "rating": 1,
+   "title": "Banned my account for no reason",
+   "body": "I hope meta is happy after banning my account for no reason after years of using their app cause I won’t EVER use instagram again cause I had many important people there. Worst app ever seen",
+   "author": "Hanzo.21",
+   "version": "455.0.0",
+   "date": "2026-11-13T07:11:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785658958",
+   "rating": 5,
+   "title": "Best app",
+   "body": "I love instagram get to express myself on this app",
+   "author": "Meckaa12",
+   "version": "455.0.0",
+   "date": "2026-11-13T06:52:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785578909",
+   "rating": 1,
+   "title": "Single tap pause sucks!",
+   "body": "Hating the single pause button. When you pause that stupid pause icon blocks the screen. GO BACK TO HOLD AND PAUSE feature!!!!",
+   "author": "idcdude2222",
+   "version": "455.0.0",
+   "date": "2026-11-13T06:29:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785537801",
+   "rating": 1,
+   "title": "Suspended Accounts",
+   "body": "My Instagram account keeps getting blocked for reasons I don’t understand. I haven’t posted anything wrong, and there’s no easy way to reach a real person for help. It feels unfair to lose access, especially when I don’t know what rule I supposedly broke. I’d really like clearer explanations and a way to actually appeal.",
+   "author": "Youngedlin",
+   "version": "455.0.0",
+   "date": "2026-11-13T06:18:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785430899",
+   "rating": 1,
+   "title": "Curse of the IG….",
+   "body": "Did you know that Instagram is mostly designed to drain battery life on iOS, leak all your sensitive data, and makes you exceptionally vulnerable if you’re not “cool enough”? Be careful, you probably only know 7% or less of the posts you see there… that can end up on Facebook, in the hands of enemies that think I’m just a POS victim; let them succumb to the reality I wrote Dr. Phil and Dr. Oz and now everyone knows too much because the data stayed forever over in nowhere land :D",
+   "author": "Unlisted&Twisted",
+   "version": "455.0.0",
+   "date": "2026-11-13T05:48:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785326159",
+   "rating": 1,
+   "title": "New Ad Feature Made Me Delete and Too Much AI",
+   "body": "You cannot get away from a video without clicking something that brings you an ad for the product with the new update. I am already sick of the AI and ads, this is ridiculous",
+   "author": "Cassandrab143",
+   "version": "455.0.0",
+   "date": "2026-11-13T05:18:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785312810",
+   "rating": 1,
+   "title": "Story video quality",
+   "body": "Instagram is a platform that is for pictures and videos and I hate that when I post a high quality video on my story the quality is awful even with high quality settings!!!",
+   "author": "Toni0505",
+   "version": "455.0.0",
+   "date": "2026-11-13T05:14:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785253786",
+   "rating": 1,
+   "title": "Please stop changing features which are already amazing",
+   "body": "It was all great until you all went ahead and removed the long hold pause on a reel and not to read something you to pause and then long hold to stop the reel at one place not user friendly at all",
+   "author": "SSuchit",
+   "version": "455.0.0",
+   "date": "2026-11-13T04:56:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785221178",
+   "rating": 2,
+   "title": "FIX YOUR APP",
+   "body": "I don’t know what update you made lately but now when I open the app it interrupts any other app I’m running in the background. So if I’m listening to Spotify or TuneIn, it stops and I have to reopen and listen to ads. FIX THIS!!! Also, why can’t you figure out a way to get all these pornographic bots out of my stories?",
+   "author": "ldh9603",
+   "version": "455.0.0",
+   "date": "2026-11-13T04:47:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785118011",
+   "rating": 5,
+   "title": "Fix your banning issue.",
+   "body": "The worst app in the world. For some reason their AI System (Meta) took initiative to completely ban me, and I am unable to even make a new account without constant suspending, disabling, and taking away my ability to mention. I’ve lost countless communication with friends across the world, online friends, and communities. And of course, you need to pay for their verification check to get any amount of respect and help with this issue. Mega has ruined this app, it is unusable for me LITERALLY because they keep banning me over and over again. This has happened to so many people and they’re doing absolutely nothing to fix it. Don’t even bother with this app.",
+   "author": "Claire Littleton",
+   "version": "455.0.0",
+   "date": "2026-11-13T04:15:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785061938",
+   "rating": 1,
+   "title": "complain",
+   "body": "I used to enjoy sharing photos and memories on Instagram. About a year ago, Meta closed my Instagram and Facebook accounts without an explanation I could understand. I opened a new Instagram account, and now I can’t change the password. The saved password is rejected, and tapping “Forgot your password?” immediately brings up “Something went wrong, please try again.”\n\nI’m still signed in on my phone, but I’m afraid to rely on Instagram for photos I care about. If I lose access again, I don’t know how I’ll get them back. I haven’t found a support option that helps me resolve this. Meta needs a password reset that works and a way to reach someone when it fails.",
+   "author": "edesland",
+   "version": "455.0.0",
+   "date": "2026-11-13T03:57:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784997723",
+   "rating": 5,
+   "title": "god verified badge on all social media accounts and account sign on on arianagrande especially",
+   "body": "i definitely know i was born god.",
+   "author": "holyonnnnn",
+   "version": "455.0.0",
+   "date": "2026-11-13T03:36:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784977737",
+   "rating": 1,
+   "title": "bs",
+   "body": "My account had no problems and they just took my messages",
+   "author": "Auri08055",
+   "version": "455.0.0",
+   "date": "2026-11-13T03:29:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784841955",
+   "rating": 1,
+   "title": "AI bans are the cancer of this app",
+   "body": "Dont even bother trying to get your account back after getting suspended by the brainless cheap stupid AI they implemented",
+   "author": "Omfgtiss",
+   "version": "455.0.0",
+   "date": "2026-11-13T02:39:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784688722",
+   "rating": 2,
+   "title": "Unwanted Gay ads",
+   "body": "Not to be political but I don’t want to keep seeing gay ads on my feed. I don’t interact with gay stuff and I went to constantly change my content preference and ad preferences and they just keep coming. I’m not sure why I see gay ads. I don’t interact with lgbtq agendas. So it’s irrelevant and not useful in anyway. Please fix the issue.",
+   "author": "Night dad b da",
+   "version": "455.0.0",
+   "date": "2026-11-13T01:38:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784596027",
+   "rating": 1,
+   "title": "Free Brayden Vallencoutt",
+   "body": "Ish wack",
+   "author": "Damandamyth",
+   "version": "455.0.0",
+   "date": "2026-11-13T00:59:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784584335",
+   "rating": 2,
+   "title": "Reels are horrible",
+   "body": "Horrendous algorithm, constantly recommending things that I actively click ‘not interested’ on while never showing things that I actively like, interact with, and click ‘interested’ on. The only reason you should have this app is if you avoid Reels altogether.",
+   "author": "Hdudienefifkdkejrjf",
+   "version": "455.0.0",
+   "date": "2026-11-13T00:53:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784563544",
+   "rating": 1,
+   "title": ".",
+   "body": ".",
+   "author": "imehrsa97",
+   "version": "455.0.0",
+   "date": "2026-11-13T00:44:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784361141",
+   "rating": 1,
+   "title": "My account",
+   "body": "They keep disabling my accounts for no reason",
+   "author": ".XOTTIC",
+   "version": "455.0.0",
+   "date": "2026-11-12T23:13:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784323699",
+   "rating": 1,
+   "title": "Disgusting Corporation",
+   "body": "1 star👎🏻. Disgraceful App. Not because of all of the reels, but yes that as well. They sell all of your information. They track you. And they feed the young generations mind with terrible no truth slop. Terrible App. Do NOT I repeat do NOT let your children use this App it will change their brain Chemistry 😞",
+   "author": "Insta is evil🙏",
+   "version": "455.0.0",
+   "date": "2026-11-12T22:56:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784170256",
+   "rating": 5,
+   "title": "Hermoso",
+   "body": "Es hermoso",
+   "author": "Chiquita mami, ￼￼",
+   "version": "455.0.0",
+   "date": "2026-11-12T21:44:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784161384",
+   "rating": 5,
+   "title": "Instagram",
+   "body": "I want to update my Instagram app but it can’t",
+   "author": "wadenggg",
+   "version": "410.1.0",
+   "date": "2026-11-12T21:40:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784140428",
+   "rating": 1,
+   "title": "Ads",
+   "body": "Why is it sending random ads in my dms??? The direct message button DOES NOT WORK it sends random ads that HAVE NOT appeared ONCE on my feed\nMake it make sense",
+   "author": "Xwasputhere",
+   "version": "455.0.0",
+   "date": "2026-11-12T21:30:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784089004",
+   "rating": 2,
+   "title": "Sad Christmas 2026. Thanks for nothing.",
+   "body": "Once a hub and resource for artists, Instagram is now a threat to our continued existence.",
+   "author": "Fk off!",
+   "version": "455.0.0",
+   "date": "2026-11-12T21:06:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784086324",
+   "rating": 1,
+   "title": "Duo optimization.",
+   "body": "Duo optimization for small screen is terrible. Still has a massive gap on the side should run clear interface with widgets that pop up when you slide left",
+   "author": "BigpapaupaPR",
+   "version": "455.0.0",
+   "date": "2026-11-12T21:05:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784066152",
+   "rating": 1,
+   "title": "They don't listen to the public and their request.",
+   "body": "They don't listen to the public and their request.",
+   "author": "Daniel 0718",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:55:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784061915",
+   "rating": 1,
+   "title": "They banned my accounts for no reason",
+   "body": "They banned my accounts for no reason",
+   "author": "A4_thebaddestbih",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:53:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784021857",
+   "rating": 5,
+   "title": "Kings auto detail",
+   "body": "Recomiendo esta página! Es la mejor.",
+   "author": "kings detail",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:35:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784013982",
+   "rating": 5,
+   "title": "Best",
+   "body": "Best of the best",
+   "author": "Dr. Ayin",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:32:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783997362",
+   "rating": 1,
+   "title": "weird algorithm update?",
+   "body": "i don’t know when the algorithm changed but my feed is no longer showing my friends post in chronological order to the point where i don’t see friends posts until days later??? same goes for my posts where they get no views anymore including from my closest friends who i interact with a lot. get rid of this new feed that is full of recommended posts and ads and bring back following being the main focus. instagram is losing their main point",
+   "author": "Tyty5949",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:24:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783991101",
+   "rating": 5,
+   "title": "Best platform to communicate",
+   "body": "I love the new feature of IG ❤️",
+   "author": "Yessi finanzas",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:22:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783943466",
+   "rating": 2,
+   "title": "Always glitching",
+   "body": "There are always random glitches on this app. For a very long time, when I would click on a reel to expand it on my main timeline and then come out of it, the sound would go out. That’s just one example of many but the current issue that I have is that I’m not able to scroll all the way down on my saved posts and view them. I recently found out I can make collections with my saved posts so I wanted to start sorting them out but it won’t let me view my old saved posts. I scroll and scroll and scroll all the way down and when I click on the older post, it jumps me back all the way to the top so I can’t look at any of my old saved posts. What’s the point of saving posts if I can’t even view them later??!! Please fix this ASAP.",
+   "author": "dnsidix2839",
+   "version": "455.0.0",
+   "date": "2026-11-12T20:01:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783883593",
+   "rating": 1,
+   "title": "GIVE ME INSTANTS PLEASE",
+   "body": "ive been having instagram for the longest and i was so excited to use the instants update when it came out but i never even got it, i ended up making a spam account and it  is able to do and see instants yet on my main account it’s not ive redownloaded instagram and updated multiple times and still nothing INSTAGRAM PLEASE GIVE ME INSTANTS.",
+   "author": "mela.8765",
+   "version": "455.0.0",
+   "date": "2026-11-12T19:35:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783840072",
+   "rating": 1,
+   "title": "Stop changing things nobody asked you to change",
+   "body": "👍🏼",
+   "author": "Deducting siwixbforofndndjs",
+   "version": "455.0.0",
+   "date": "2026-11-12T19:18:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783835070",
+   "rating": 1,
+   "title": "newest update stops apple music for no reason",
+   "body": "title",
+   "author": "bobbertius",
+   "version": "455.0.0",
+   "date": "2026-11-12T19:16:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783830552",
+   "rating": 1,
+   "title": "Locked out",
+   "body": "I’m locked out of my account. On my laptop, when it asks for 2 friends to verify, I’m unable to because it switches back to the login screen. It’s an endless loop.  It’s not recognizing my IPhone even though this is the only device I’ve used it on",
+   "author": "missing homer",
+   "version": "455.0.0",
+   "date": "2026-11-12T19:14:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783828257",
+   "rating": 1,
+   "title": "mal servicio",
+   "body": "me suspendieron mi cuenta 😔",
+   "author": "Jozzen_xd",
+   "version": "455.0.0",
+   "date": "2026-11-12T19:13:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783792080",
+   "rating": 5,
+   "title": "About me ! :)",
+   "body": "I get to be me !!💯🇺🇸",
+   "author": "El_Rojo_Gallo98",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:58:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783783467",
+   "rating": 1,
+   "title": "DISAPPOINTED",
+   "body": "am extremely disappointed and frustrated with Instagram and the way they are handling their age verification system. At this point, this is becoming completely unacceptable. Instagram keeps flagging my account because of its AI age detection system, claiming that I may be underage, even though I have repeatedly provided identification to verify my age. What exactly is the point of having an ID verification process if the platform is going to ignore the verification and continue restricting or banning accounts anyway?\n\nI understand that Instagram has rules and policies regarding age restrictions, and I understand that protecting younger users is important. However, there is a major difference between enforcing safety policies and repeatedly punishing users because an automated system keeps making mistakes. AI is not perfect, and it should not have the power to repeatedly flag, restrict, or disable someone’s account without a proper human review.\n\nThe most frustrating part is that I am actually trying to cooperate with the verification process. I am doing what Instagram asks me to do. I am submitting identification when requested, following the instructions, and trying to resolve the issue. Yet somehow, I continue running into the exact same problem. It feels like I am going in circles with a system that does not actually listen to its users or properly recognize the information being submitted.\n\nInstagram needs to understand how frustrating this experience is. People put time, effort, memories, conversations, and personal content into their accounts. Having an account repeatedly disabled or banned because of an automated age detection system is not a small inconvenience. It can mean losing access to important messages, pictures, connections, and years of content. Users should not have to constantly worry about losing access to their accounts when they have already followed every verification step requested of them.\n\nAnother major issue is the lack of proper customer support. When something like this happens, users deserve a clear explanation of what went wrong and an actual opportunity to speak with someone who can review the situation. Sending people through the same automated process over and over again is not a real solution. If Instagram is going to use AI to make decisions that affect people’s accounts, there needs to be a reliable way to challenge those decisions and have an actual human investigate the issue.\n\nI am asking Instagram to seriously reconsider how its age verification and account enforcement systems work. Stop relying entirely on automated decisions when those decisions can clearly be incorrect. Improve the verification process, provide better customer support, and make sure that submitted identification is actually reviewed properly.\n\nUsers should not have to repeatedly prove themselves just to keep an account they have already verified. If someone submits the requested documentation, Instagram should provide a clear response instead of continuing to flag and disable the account without properly explaining why.\n\nThis is not just about one account. It is about how Instagram treats its users and how little control people seem to have when automated systems make mistakes. A platform with millions of users should have a much better system in place than this.\n\nI genuinely hope Instagram takes complaints like this seriously because the current experience is unacceptable. Please improve the AI age detection system, provide real human support, review accounts fairly, and stop repeatedly penalizing users for errors made by your own automated systems.\n\nAt this point, I am beyond frustrated. I should not have to keep submitting my identification all day long just to have the same issue happen again. DO BETTER, INSTAGRAM.",
+   "author": "Kilie.",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:55:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783783367",
+   "rating": 5,
+   "title": "Instagram you reeled me in. ♥️",
+   "body": "After many years of Facebook. I’m lingering with Instagram. I may be almost there. 😘",
+   "author": "Bayrooti",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:55:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783748531",
+   "rating": 5,
+   "title": "Me sirve",
+   "body": "Buena",
+   "author": "Me sirve 67",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:41:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783716377",
+   "rating": 5,
+   "title": "Great",
+   "body": "This app is the best thing ever",
+   "author": "Huddyzuddy",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:29:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783714626",
+   "rating": 5,
+   "title": "Tuff",
+   "body": "There is so much things to do",
+   "author": "5$&347broker tenement for",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:28:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783682864",
+   "rating": 3,
+   "title": "weird",
+   "body": "I was trying to comment on my friends picture and they did not let my comment post and it wasn’t even nothing graphic or inappropriate or bad.",
+   "author": "Angie084249",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:16:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783678964",
+   "rating": 5,
+   "title": "Business Boom",
+   "body": "Thx for growing my business",
+   "author": "Benjamin Elijah N",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:15:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783660396",
+   "rating": 1,
+   "title": "Stop having ur app ran by AI",
+   "body": "im now blacklisted. Because of something I didn’t do",
+   "author": "Hai >.<",
+   "version": "455.0.0",
+   "date": "2026-11-12T18:08:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783602598",
+   "rating": 5,
+   "title": "Espectacular",
+   "body": "Instagram está diseñado para la creación de contenido y todo es súper dinámico fácil de hacer me encant esta plataforma",
+   "author": "Yuyis2704",
+   "version": "455.0.0",
+   "date": "2026-11-12T17:46:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783563343",
+   "rating": 5,
+   "title": "Lo mejorrr",
+   "body": "Lo mejor de lo mejor",
+   "author": "Lori12346",
+   "version": "455.0.0",
+   "date": "2026-11-12T17:32:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783525390",
+   "rating": 3,
+   "title": "Pls stop",
+   "body": "I got restricted from messaging for haveing an acc that attemps to sell goods or services. Literally had no bio, highlights or anything. My only TWO posts had no captions and were just a way to showcase my photography. Pls genuinely have a human team review these things, i cannot believe the amou of times ive been banned over things that my account(s) have 0 association with.",
+   "author": "giclouds",
+   "version": "455.0.0",
+   "date": "2026-11-12T17:17:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783423481",
+   "rating": 2,
+   "title": ".",
+   "body": "No se actializa la aplicación y las istantaneas tampoco",
+   "author": "Sofia 543",
+   "version": "455.0.0",
+   "date": "2026-11-12T16:39:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783363108",
+   "rating": 1,
+   "title": "Engagement tanking",
+   "body": "My engagement is tanking for seemingly no reason when I have 93,000 followers. 40 reposts on my original song last night and 5000 views? Disgusting",
+   "author": "Crapppp terrible",
+   "version": "455.0.0",
+   "date": "2026-11-12T16:16:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783356918",
+   "rating": 5,
+   "title": "Great",
+   "body": "Love",
+   "author": "Mwakatumbula",
+   "version": "455.0.0",
+   "date": "2026-11-12T16:14:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783300513",
+   "rating": 2,
+   "title": ".",
+   "body": "Why my account isn’t work? And I’d tried again, and isn’t work ether",
+   "author": "세릴 좋아",
+   "version": "455.0.0",
+   "date": "2026-11-12T15:53:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783215241",
+   "rating": 1,
+   "title": "It's always crashing",
+   "body": "Why can’t I move my emojis around anymore ????",
+   "author": "Sara Aqel",
+   "version": "455.0.0",
+   "date": "2026-11-12T15:19:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783109244",
+   "rating": 1,
+   "title": "Stop!",
+   "body": "Stop changing the UI features. Use to be able to pause by tap and hold now that's gone the UX design of this app should be fired",
+   "author": "djmason9",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:39:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783104716",
+   "rating": 5,
+   "title": "2k",
+   "body": "2m",
+   "author": "Mashes h",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:37:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783100616",
+   "rating": 1,
+   "title": "I can’t even message people",
+   "body": "I swear to god, I sent a real picture of myself for the id and it still wouldn’t take it. I’m so done.",
+   "author": "MaryHelsing",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:35:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783081685",
+   "rating": 5,
+   "title": "Honest review",
+   "body": "I love how Instagram let’s you express yourself",
+   "author": "Ms. Mica 47!!",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:28:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783073421",
+   "rating": 5,
+   "title": "Deucemamba",
+   "body": "Great platform, great company &easy to work with!!!",
+   "author": "kobegkruse",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:25:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783052461",
+   "rating": 1,
+   "title": "Removed sort by most viewed",
+   "body": "You no longer have control.",
+   "author": "KaiSensei",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:17:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783046157",
+   "rating": 2,
+   "title": "Post disappeared",
+   "body": "I had posted something one day ago and I just went to check on it and it was doing good , I close the app and come back and it was gone , I don’t know why it got deleted or why it’s gone but I’m disappointed",
+   "author": "Samiyah_grady",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:15:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783044426",
+   "rating": 1,
+   "title": "Pause",
+   "body": "Bring back hold to pause.",
+   "author": "The Sly One 007",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:14:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783029845",
+   "rating": 1,
+   "title": "“AI Content” when that’s not true",
+   "body": "Ridiculous. Every time I post it keeps on saying ai content when it’s just normal photos of me and my friends. Insta DO BETTER.",
+   "author": "/--A—/",
+   "version": "455.0.0",
+   "date": "2026-11-12T14:09:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782979473",
+   "rating": 5,
+   "title": "I love IG",
+   "body": "Instagram is dope",
+   "author": "Kbvogueclips",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:50:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782963229",
+   "rating": 2,
+   "title": "Volume 2 high can’t lower it further",
+   "body": "For some reason the last update has the volume far 2 high at the lowest setting. I can’t turn it down further. This is with headphones.  \n\nAs for the app content, like what you want to see more of and your feed will be decent. Dislike things u don’t want to see.",
+   "author": "Ekim68",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:44:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782939716",
+   "rating": 3,
+   "title": "Banned account",
+   "body": "My account is banned it’s possible to Recover my Account",
+   "author": "Christofer Kyle biado",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:35:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782921725",
+   "rating": 2,
+   "title": "Stop suspending my account",
+   "body": "I am 13 and they keep suspending my account asking for an ID IM 13 I DON’T HAVE ONE  I’ve made 3 different accounts",
+   "author": "Bigmack2254",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:28:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782919523",
+   "rating": 5,
+   "title": "I love it!",
+   "body": "Easy to navigate around and very entertaining",
+   "author": "degrawkc11",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:27:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782918702",
+   "rating": 1,
+   "title": "All AI garbage",
+   "body": "It’s just straight garbage at this point. Cannot get help from customer service as that’s all AI. You cannot get rid of all the garbage AI advertising that pops up. Just very disappointing  and clearly they do not care about their users at all",
+   "author": "Sick of AI 🗑️",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:27:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782870835",
+   "rating": 5,
+   "title": "Love it",
+   "body": "Love",
+   "author": "app at boo da to hi",
+   "version": "455.0.0",
+   "date": "2026-11-12T13:09:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782796638",
+   "rating": 1,
+   "title": "New aggressive AI Moderation",
+   "body": "They’ll just ban your account for no reason due to the new AI moderation picking up non existent offenses, I’ve had this done 20+ times even on accounts with 0 posts or story’s",
+   "author": "Lu WIK",
+   "version": "455.0.0",
+   "date": "2026-11-12T12:42:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782793545",
+   "rating": 1,
+   "title": "Devoid of Value",
+   "body": "Pointless, time wasting ad-scrolling app. Destroys white brain matter. Use with extreme caution and moderation.",
+   "author": "msnshbss",
+   "version": "455.0.0",
+   "date": "2026-11-12T12:41:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782786128",
+   "rating": 5,
+   "title": "9/10",
+   "body": "It was amazing until it logged me out and won’t let me back in 🫪",
+   "author": "Don’t get, not worth it",
+   "version": "455.0.0",
+   "date": "2026-11-12T12:38:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782725392",
+   "rating": 5,
+   "title": "Muito bom",
+   "body": "Excelente",
+   "author": "lupyter",
+   "version": "455.0.0",
+   "date": "2026-11-12T12:17:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782708798",
+   "rating": 5,
+   "title": "Lo mejor del mejor modo de uso",
+   "body": "Me en cantaría para publisoda",
+   "author": "pillulles dj",
+   "version": "455.0.0",
+   "date": "2026-11-12T12:11:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782674228",
+   "rating": 5,
+   "title": "Great job",
+   "body": "Thank you",
+   "author": "chess storm",
+   "version": "455.0.0",
+   "date": "2026-11-12T11:59:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782655985",
+   "rating": 1,
+   "title": "Get better",
+   "body": "Yall AI overview sucks banning people left and right",
+   "author": "John Doe 1365",
+   "version": "455.0.0",
+   "date": "2026-11-12T11:52:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782624575",
+   "rating": 5,
+   "title": "Cuchucho2",
+   "body": "Cuchucho2",
+   "author": "Cuchucho2",
+   "version": "455.0.0",
+   "date": "2026-11-12T11:41:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782623943",
+   "rating": 2,
+   "title": "So confused",
+   "body": "I was deactivated from my account due to a petty teenage boy. I have tried making a new one and I have appealed so many times. It would allow me to make a new account but suspend me because I apparently “interact with people who go against guidelines.” Instagram was my favorite app and now I am really frustrated because I have changed my number and my email many times to be able to make an account but for no reason I get it suspended or deactivated. I don’t even be following other people and yet it still won’t allow me to have an account. What is the reasoning for this? It has been this way for me for two going on three months. Nothing I have ever posted went against guidelines and neither have I. I want answers",
+   "author": "Manuela Beltran",
+   "version": "455.0.0",
+   "date": "2026-11-12T11:41:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782562916",
+   "rating": 2,
+   "title": "Algorithm is trash",
+   "body": "How is it that I set up my algorithm so I don’t see certain videos then three videos later I get the same type of videos? Literally asked for no DIY videos still, I’m receiving an overwhelming amount of DIY videos. This app is getting more and more trash by the day.",
+   "author": "Turbo2252",
+   "version": "455.0.0",
+   "date": "2026-11-12T11:20:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782451857",
+   "rating": 4,
+   "title": "Editing",
+   "body": "We should be allowed to edit our photos after posting .",
+   "author": "helllooooooo3",
+   "version": "455.0.0",
+   "date": "2026-11-12T10:43:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782399471",
+   "rating": 5,
+   "title": "Hi",
+   "body": "Thank you guys for everything.",
+   "author": "SOLALEXASCH",
+   "version": "455.0.0",
+   "date": "2026-11-12T10:25:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782395775",
+   "rating": 5,
+   "title": "Love on Sight",
+   "body": "Instagram is a place I go when I am feeling a little lonely. I go there knowing that I will fall instantly in Love with the Beauty that is there in such volumes. No other online platform even comes close to being able to discover and interact with so many beautiful people. Every single time I visit these pages of absolutely stunning photos and videos I fall in Love yet Again and Again and Again. The cost of admission is simply an irresistible tap on my Instagram app! How cool is that \n❤️❤️❤️❤️❤️❤️❤️🌹",
+   "author": "Love Additiction",
+   "version": "455.0.0",
+   "date": "2026-11-12T10:24:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782311257",
+   "rating": 2,
+   "title": "I’m mad",
+   "body": "It barely let me come across new profiles and I know thousands of people know me",
+   "author": "Jsmith731",
+   "version": "455.0.0",
+   "date": "2026-11-12T09:57:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782308411",
+   "rating": 1,
+   "title": "Love ads?!",
+   "body": "Every other scroll will be one",
+   "author": "Stop and shop blows",
+   "version": "455.0.0",
+   "date": "2026-11-12T09:56:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782289331",
+   "rating": 1,
+   "title": "ai problem",
+   "body": "my main account got suspended but i didn’t do anything wrong, i created another one it got also suspended that’s a lot and there is no one to contact to solve my problem!",
+   "author": "m.amvnxx",
+   "version": "455.0.0",
+   "date": "2026-11-12T09:50:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782266373",
+   "rating": 1,
+   "title": "Hi Instagram team I need my account back or to stay please I keep getting banned for no reason",
+   "body": "Thank you",
+   "author": "Amana 4646",
+   "version": "455.0.0",
+   "date": "2026-11-12T09:42:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782111363",
+   "rating": 1,
+   "title": "Music",
+   "body": "Instagram keep pausing my music when I go into the app",
+   "author": "serious question",
+   "version": "455.0.0",
+   "date": "2026-11-12T08:54:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781887475",
+   "rating": 2,
+   "title": "USELESS APP UPDATES",
+   "body": "Why do I have to update this app IF I CAN’T EVEN USE IT EXPLAIN THAT AND EVERYTIME I SEE AN AD OF THIS APP IT PISSES ME OFF UNBAN ACCOUNTS THAT DONT VIOLATE TOS AND FIX THAT DANG AI BS….",
+   "author": "Hotknife69",
+   "version": "455.0.0",
+   "date": "2026-11-12T07:45:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781836682",
+   "rating": 5,
+   "title": "Me cerraron mi otra cuenta y no me la dan",
+   "body": "Aún estoy esperando que cambien los pasos para recuperarla",
+   "author": "youngwess_",
+   "version": "455.0.0",
+   "date": "2026-11-12T07:30:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781828099",
+   "rating": 1,
+   "title": "Dumpster fire",
+   "body": "Need a new dev team.",
+   "author": "Iancalbright",
+   "version": "455.0.0",
+   "date": "2026-11-12T07:27:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781762285",
+   "rating": 5,
+   "title": "🤙Pura Vida",
+   "body": "Amazing",
+   "author": "Pura Vida🤙🥰",
+   "version": "455.0.0",
+   "date": "2026-11-12T07:08:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781739026",
+   "rating": 1,
+   "title": "I hate instagram I can’t delete nothing I need you to delete all my my accounts",
+   "body": "Really bad I’m have problems really big problems I need to delete my account",
+   "author": "Ezequiel1275",
+   "version": "455.0.0",
+   "date": "2026-11-12T07:01:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781609556",
+   "rating": 1,
+   "title": "No sirve",
+   "body": "Me han tumbado mi cuenta alegando que no cumpli unas normas las cuales entiendo que no falte pero aún así nunca recibes respuesta de ellos . Ahora todo es un error de la meta Ai y ahí se queda sin respuesta , no me puedo crear otras cuentas porque automáticamente me las tumban y son mi fuente de ingreso",
+   "author": "Callmesiiulx",
+   "version": "455.0.0",
+   "date": "2026-11-12T06:22:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781544305",
+   "rating": 5,
+   "title": "Great",
+   "body": "- Jason Mann",
+   "author": "Jasonthemann🤙",
+   "version": "455.0.0",
+   "date": "2026-11-12T06:03:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781457758",
+   "rating": 5,
+   "title": "Kinda cool",
+   "body": "It’s cool kind of",
+   "author": "Bobby92749",
+   "version": "455.0.0",
+   "date": "2026-11-12T05:38:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781434157",
+   "rating": 1,
+   "title": "Too many ads and bots",
+   "body": "Every time you open the app you’re flooding with bots promoting gambling and fake “spicy” sites, and every second story on your friend feed is an advertisement that opens up your web browser whenever you try to scroll past it. This app used to be great for looking a friends pictures and posts and Meta has finally truly ripped it to pieces and destroyed any joy in its use.",
+   "author": "………,…………….",
+   "version": "455.0.0",
+   "date": "2026-11-12T05:31:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781340141",
+   "rating": 2,
+   "title": "Evil",
+   "body": "Its evil",
+   "author": "jaybeoeemt",
+   "version": "455.0.0",
+   "date": "2026-11-12T05:03:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781299931",
+   "rating": 2,
+   "title": "Instagram interrupts music",
+   "body": "Suddenly, Instagram stops whatever audio is coming from your device. Ig never used to do this. My phone is on mute so no audio comes out of ig anyway so my music stops and I hear nothing.",
+   "author": "patoons",
+   "version": "455.0.0",
+   "date": "2026-11-12T04:51:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781257212",
+   "rating": 4,
+   "title": "What happen to profile DM",
+   "body": "The new update remove the profile pic DM notification",
+   "author": "Valval8",
+   "version": "455.0.0",
+   "date": "2026-11-12T04:37:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781245682",
+   "rating": 5,
+   "title": "Encourage and inspire",
+   "body": "Instagram has allowed me to grow as an artist. For this I am grateful. Instagram helped me push through many tuff moments in my my life\nThank u for allowing me to improve everyday",
+   "author": "The BEaST xoxo",
+   "version": "455.0.0",
+   "date": "2026-11-12T04:34:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781190429",
+   "rating": 1,
+   "title": "App glitching",
+   "body": "It’s not showing all my followers in my storys seen even though they liked it??",
+   "author": "Nowah6",
+   "version": "455.0.0",
+   "date": "2026-11-12T04:16:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781185201",
+   "rating": 1,
+   "title": "Bring back old controls",
+   "body": "Dont know why they think change the controls is a good idea leaving one star till they bring back the old controls",
+   "author": "Royo1ne",
+   "version": "455.0.0",
+   "date": "2026-11-12T04:15:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781054061",
+   "rating": 5,
+   "title": "melall_barbershop",
+   "body": "Dear Instagram Team, my account @mellal_barbershop has been deactivated.\nI believe this is a mistake as I have always followed all community guidelines and terms of service. I request you to please review my account and reactivate it as soon as possible. Thank you for your time and assistance.\nSent from Mail app for Android",
+   "author": "Mohsen9021",
+   "version": "455.0.0",
+   "date": "2026-11-12T03:31:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780993758",
+   "rating": 5,
+   "title": "La app me ocupa mucha memoria",
+   "body": "He estado sufriendo muchísimo con la app porque como la veo mucho \nel historial de vistas de instagram me sube demasiado los megas que me consume de mi espacio del teléfono y se vuelve muy pesada y la solución que me da la ia es quitarla para liberar espacio Deben hacer algo para que no pese tanto y se convierta en un estorbo insoportable el crecimiento continuo de los gigas que me consume \neste es mi requerimiento de emergencia Necesito que la app sea de poco peso y que no ocupe tanto espacio en mi teléfono \nya que eso me obliga a irme de instagram en facebook no pasa eso Gracias",
+   "author": "amiga de youtube",
+   "version": "455.0.0",
+   "date": "2026-11-12T03:10:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780985287",
+   "rating": 5,
+   "title": "Мне все тут нравится!",
+   "body": "Я тут кайфую!Я его люблю!😀",
+   "author": "Olga _S",
+   "version": "455.0.0",
+   "date": "2026-11-12T03:06:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780949694",
+   "rating": 5,
+   "title": "Racism",
+   "body": "When there’s something educational about racism about how Mexicans were treated hanged murdered by Caucasian people who’s ever in control of this social media platform shut down my interaction with the platform. Whoever this is trying to hide the past you should be ashamed with your ancestors what they did in the past. Turning a blind eye to your ancestors mistakes, makes you just as guilty for trying to hide it.",
+   "author": "delag1414",
+   "version": "455.0.0",
+   "date": "2026-11-12T02:53:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780880348",
+   "rating": 5,
+   "title": "Instagram",
+   "body": "Bestest app im the whole world 🫶🏻🙌",
+   "author": "Hyaterriii",
+   "version": "455.0.0",
+   "date": "2026-11-12T02:26:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780872437",
+   "rating": 1,
+   "title": "Lame",
+   "body": "Now you can’t even pause a reel without that stupid pop up. And that ridiculous Comment box at the bottom of people’s profile reels has turned into and AD for their editing app ‘Edits’ - the thing that leaves a giant watermark on your video if you use it. Disgustingly pathetic. \nThey suck more and more all the time, on top of being greedy drug pushers.",
+   "author": "Annoyed by lameness",
+   "version": "455.0.0",
+   "date": "2026-11-12T02:23:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780779528",
+   "rating": 1,
+   "title": "Accountant suspend",
+   "body": "Such a bad app they are management are so bad they are banned by account without any reason when I open a new account. They are also banned this account boycott Instagram",
+   "author": "al_sadad_1",
+   "version": "455.0.0",
+   "date": "2026-11-12T01:44:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780751478",
+   "rating": 1,
+   "title": "Bots are out of control",
+   "body": "They have to do something at this point. Every post is flooded by bot comments and the material the bots post is overtly racist to stir up hatred. Besides this, there are so many AI profiles and posts. Using instagram at this point will just ruin your mental health and infuriate you.",
+   "author": "asenyak",
+   "version": "455.0.0",
+   "date": "2026-11-12T01:32:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780750172",
+   "rating": 5,
+   "title": "Wow",
+   "body": "5stars, the best one",
+   "author": "raphael califa",
+   "version": "455.0.0",
+   "date": "2026-11-12T01:32:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780707201",
+   "rating": 1,
+   "title": "horrible app",
+   "body": "ive been had instagram for a while now and it decides to randomly suspended my accounts! i didnt violate any rules or guidelines and im definitely sure as hell old enough to be on instagram. i appealed my account happy to get it back just to get suspended again for doing absolutely nothing! i hate instagram it sucks.",
+   "author": "madyyol",
+   "version": "455.0.0",
+   "date": "2026-11-12T01:13:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780525458",
+   "rating": 1,
+   "title": "Filtros nuevos",
+   "body": "Los filtros nuevos no me aparecen",
+   "author": "Filtros nuevos no aparecen",
+   "version": "455.0.0",
+   "date": "2026-11-11T23:53:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780501473",
+   "rating": 1,
+   "title": "Unfair",
+   "body": "They have suspended all my accounts constantly the second I create them even when I make the most child friendly account it still suspends all of them for no apparent reason",
+   "author": "bbutchaaddxnn",
+   "version": "455.0.0",
+   "date": "2026-11-11T23:41:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780450147",
+   "rating": 5,
+   "title": "L🥰VE",
+   "body": "GRATITUDE 🙏🏻",
+   "author": "BRUIE BKB",
+   "version": "455.0.0",
+   "date": "2026-11-11T23:17:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780421704",
+   "rating": 1,
+   "title": "تهكير حساب او انسداد",
+   "body": "حساب اخي dr_3ali_5 انغلق او انسد ارجوكم رجوعه لا اعرف هل تعرض للتهكير ام ماذا ارجوكم ان حساب عمله ورزقه",
+   "author": "منتظر محمد احمد علي",
+   "version": "455.0.0",
+   "date": "2026-11-11T23:04:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780418818",
+   "rating": 1,
+   "title": "…",
+   "body": "Meta doesn’t care about its content creators. The moment a new social media option comes into the playing field this app is toast. Any day now. Any day.",
+   "author": "mehshrugs",
+   "version": "455.0.0",
+   "date": "2026-11-11T23:03:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780402884",
+   "rating": 1,
+   "title": "Take a look at my acc",
+   "body": "Dear Meta Support Team,\n\nI am writing to formally request a manual investigation into the disabling of my Instagram account, @milano_sbl, on November 12, 2026.\n\nMy account was disabled under the Account Integrity policy. However, I genuinely believe this action was taken in error, as I have not knowingly engaged in any activity that violates Instagram’s Community Guidelines.\n\nI received no prior warning or clear explanation of the alleged violation. I was also informed that I could not request another review, leaving me without a clear opportunity to resolve this issue.\n\nThis account represents my creative identity, personal brand and work. Losing access to it has been extremely disappointing.\n\nI respectfully request that your team reconsider this decision, investigate the circumstances surrounding the suspension and restore my account if it was disabled incorrectly.\n\nI am willing to provide any information necessary to verify my identity and ownership of the account.\n\nInstagram username: @milano_sbl\n\nThank you for your time and consideration. I look forward to a favourable response.\n\nKind regards,\nAccount Owner",
+   "author": "milano__sbl",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:55:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780395847",
+   "rating": 3,
+   "title": "Please fix music pausing",
+   "body": "brooo i use to chief up and scroll while bumping trap classics now it pauses every time i open the app. lil yachty was bout to go crazy then the music paused when i opened insta.",
+   "author": "Chris P. Chicken 💯",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:52:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780375715",
+   "rating": 1,
+   "title": "Pushing Threads and ads all day, every day",
+   "body": "How many times do I have to say I don’t want to download Threads. It is an antitrust violation. Stop the self-dealing. Stop the endless barrage of stupid ads. \n\nPlease, somebody, make a visible alternative that isn’t TikTok.",
+   "author": "Htdfgifveewhii543377",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:42:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780346966",
+   "rating": 1,
+   "title": "Not great",
+   "body": "This app isn’t great it’s ran my meta ai my accounts been getting suspended well I follow all the community guidelines seems to me ai already has taken over👎🏽",
+   "author": "Ese lil JJ",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:29:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780313380",
+   "rating": 1,
+   "title": "مصر",
+   "body": "تطبيق زباله وبقفلو اكونتات من غير سبب",
+   "author": "Hdhueb Dickinson",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:13:30-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780287030",
+   "rating": 1,
+   "title": "Es una estafa que te quiten tus cuentas sin motivo",
+   "body": "Pésimo que te quitan tus cuentas sin motivo",
+   "author": "KORNEL ch",
+   "version": "455.0.0",
+   "date": "2026-11-11T22:01:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780239150",
+   "rating": 2,
+   "title": "Chat music n voice effect glitch",
+   "body": "Cant send music and voice effects ot disappeared",
+   "author": "Fullyyyyyyyyyyy",
+   "version": "455.0.0",
+   "date": "2026-11-11T21:38:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780237401",
+   "rating": 1,
+   "title": "Not happy with Instagram at all",
+   "body": "They won’t let me message after 10 years of being a user of Instagram they think since I get messages and have a lot of followers I’m spam they won’t let me message anyone on my instagram messages and I’m very disappointed in them",
+   "author": "Georgejersey2522",
+   "version": "455.0.0",
+   "date": "2026-11-11T21:37:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780192137",
+   "rating": 1,
+   "title": "Terrible",
+   "body": "5 ads in a row is a bit ridiculous if you ask me",
+   "author": "gelo9860",
+   "version": "455.0.0",
+   "date": "2026-11-11T21:16:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780160810",
+   "rating": 1,
+   "title": "Disabled account without reason",
+   "body": "They have disabled my account for no reason…I had made several accounts but they keep removing my accounts..also they have disabled my business profile with 2500+ Followers without any valid reason…Worst app",
+   "author": "Arnav Aasharma",
+   "version": "455.0.0",
+   "date": "2026-11-11T21:01:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780126200",
+   "rating": 1,
+   "title": "Yatra",
+   "body": "Don’t contact them , they are fraud at service . Take a quick exit if they contact you . Don’t waste your money .",
+   "author": "Dham yatra",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:45:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780122123",
+   "rating": 1,
+   "title": "WRONGFUL SUSPENSION",
+   "body": "Your app wrongfully, permanently and UNILATERALLY suspended my account on this app, Facebook, and meta VR! During my appeal ID upload, your system decided to permanently suspend my account accusing me of being under 13, in turn suspending my fb account that itself is older than 17 years!!!! Your customer service is NONEXISTENT! Your appeals program is abhorrent! Allowing AI so much power is driving your company straight into the ground!",
+   "author": "mamafoxy2001",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:43:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780114594",
+   "rating": 5,
+   "title": "Live life to the fullest",
+   "body": "I can’t complain. I love instagram, thank you for your service.!!!",
+   "author": "Unskianste",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:40:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780076443",
+   "rating": 3,
+   "title": "Bugs",
+   "body": "Bugs constantly. If something works don’t change it. I cant hold to read the screen anymore bc now theres constant liked/repost bubbles. I cant read content creators text bc of the bubbles and now i cant hold to pause and read to remove the bubbles?! Time to move past texted reels I guess.",
+   "author": "<33:D!",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:23:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780040709",
+   "rating": 1,
+   "title": "Bohot Bekar ho gya h ab Insta id suspend ho jati h",
+   "body": "1 percent bhi acha nhi Gussa ati h",
+   "author": "Zero insta",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:07:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780025863",
+   "rating": 1,
+   "title": "iPhone Duo",
+   "body": "Please make the app FULLY compatible with iPhone Duo, when i share or repost content the ratio is so off and does not fit the screen",
+   "author": "Chichi6678",
+   "version": "455.0.0",
+   "date": "2026-11-11T20:00:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779905098",
+   "rating": 5,
+   "title": "User friendly",
+   "body": "Enjoying IG",
+   "author": "CeceNana56",
+   "version": "455.0.0",
+   "date": "2026-11-11T19:10:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779902573",
+   "rating": 5,
+   "title": "Encantada con la app",
+   "body": "Puedo editar fotos y videos antes de publicar , compro y vendo artículos.",
+   "author": "?? Ojo ???",
+   "version": "455.0.0",
+   "date": "2026-11-11T19:09:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779900824",
+   "rating": 1,
+   "title": "Banned",
+   "body": "You banned my main Instagram account I haven’t done nothing wrong and u disabled it really isn’t right",
+   "author": "this is isnt cool",
+   "version": "455.0.0",
+   "date": "2026-11-11T19:08:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779856114",
+   "rating": 1,
+   "title": "Literal cancer on earth",
+   "body": "Cancer",
+   "author": "Tamtamcat",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:51:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779808298",
+   "rating": 1,
+   "title": "fallzarraa",
+   "body": "Hello Instagram Support,\n\nI’m reaching out because both of my Instagram accounts received messaging restrictions on November 9 and November 10, 2026, respectively.\n\nI believe these restrictions were issued in error. I have not engaged in deceptive commercial practices, attempted to obtain anyone’s personal information, or participated in activity that would violate these policies.\n\nI received no prior warnings or explanations identifying any specific activity that violated Instagram’s Community Standards.\n\nI’m requesting that both accounts be reviewed by a member of your support team and that the restrictions be reconsidered.\n\nThank you for your time and assistance.",
+   "author": "vyazarr",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:32:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779790984",
+   "rating": 5,
+   "title": "The change",
+   "body": "I love instagram but there’s something y’all have to change in there, like when you wanna change someone name they can see what you put🌚 I don’t like that cause sometimes I don’t want the person to know that I change their names or what I changed it to, it is a great app and I enjoy it",
+   "author": "Lovedalinee",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:26:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779757091",
+   "rating": 1,
+   "title": "Duo side bar",
+   "body": "Please remove the side bar on the duo’s closed screen and give us full screen content",
+   "author": "Sdice",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:13:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779752221",
+   "rating": 4,
+   "title": "good app but needs major updates",
+   "body": "i’ve been a loyal user of instagram for the past 11 years, using the same account. i’ve noticed that it doesn’t update to latest features. i still don’t have the repost button, friends tab, or mutual likes bubbles. and that’s only a few of the features i don’t have. no troubleshooting does anything to help. along with that, it has become such a nuisance to scroll reels, or even stories, without encountering an ad every scroll. 3-4 ads after each story, and an ad after each reel. it’s unbearable. i can’t say it stops me from using it, it’s a major form of entertainment and communication, but it would be so much better with these updates.",
+   "author": "reelmonger",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:11:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779722336",
+   "rating": 1,
+   "title": "Disabled accounts",
+   "body": "It constantly disables my account or suspends it and I have to wait till they want to give it back even when it was fasley taken away for things I didn’t do.",
+   "author": "disabled accs",
+   "version": "455.0.0",
+   "date": "2026-11-11T18:00:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779674817",
+   "rating": 5,
+   "title": "InterUrbanRailedTransit",
+   "body": "Expectation is that I use this to market what I do as a career to audience it has turned into my form of encompassing another language. A utility that has a multitude of purposes and potential for information acquisition.",
+   "author": "SiRi Benny",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:42:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779648857",
+   "rating": 1,
+   "title": "Terrible",
+   "body": "I haven’t been able to contact anyone to remove a restriction i got and the meta ai does not help at all. Very disappointed with instagram",
+   "author": "Anonymoussssssssssssssssssly",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:33:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779601380",
+   "rating": 5,
+   "title": "Scooby",
+   "body": "We❤️Sk8n we do every Sunday like clockwork keeps us n gd shape and all or #’s is correct doc say what r u doing your n such gd shape to be turning 70yrs young i said keeping my sk8’s on the ground…(nothing like it)",
+   "author": "hori b",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:15:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779599373",
+   "rating": 5,
+   "title": "Me encanta como trabajo con ustedes",
+   "body": "Lo recomiendo muchísimo",
+   "author": "VS VOGUE",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:14:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779592528",
+   "rating": 5,
+   "title": "Neha",
+   "body": "Ibrahimkhel",
+   "author": "Nooria ibrahimkil",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:12:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779572624",
+   "rating": 1,
+   "title": "Bloated and useless.",
+   "body": "Just like Facebook. It has far too many available functions to be able to navigate easily. Things that once did one thing now do something else. Nothing I see is from anyone I know or follow.",
+   "author": "Wiscoish",
+   "version": "455.0.0",
+   "date": "2026-11-11T17:04:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779553143",
+   "rating": 2,
+   "title": "Instagram bug",
+   "body": "So my account is in good standing and i meet guidelines however i cant message anyone it physically wont let me this needs to be looked into but ive made alot of friends on there otherwise the app is good",
+   "author": "Blackclaw64",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:57:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779513496",
+   "rating": 3,
+   "title": "Instagram review",
+   "body": "It was good while it lasted but it suspended me every time I would make a account it had no reason to suspend me and it also suspended my Facebook account because it was hooked up to it and my Facebook was very important to me it had the only things my mom said to me before she passed but it just keeps suspending me for no reason at all",
+   "author": "Sophia harden",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:42:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779496637",
+   "rating": 2,
+   "title": "iPhone duo constant glitch",
+   "body": "Every single time I leave the app or pull up certain menu windows on my iPhone duo, it makes the videos go really small, like not even front screen iPhone duo small, like thumb small.",
+   "author": "Chantzsignup",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:36:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779476310",
+   "rating": 1,
+   "title": "hate the app",
+   "body": "So ive had instagram since i was 11-12 and ive never gotten an issue about my age and now ive gotten my main and spam account deactivated for “not following the guidelines” when im now 14 and if this app is 13+ this wouldnt be an issue but it isnt letting me make another account nor letting me retrieve my other accounts so insta are we gonna fix this ??????",
+   "author": "sxtzy._",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:28:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779409013",
+   "rating": 5,
+   "title": "Clock It",
+   "body": "10 outta 10",
+   "author": "NoLimitSavannah",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:03:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779406608",
+   "rating": 1,
+   "title": "4lu pp koyma ozelligi gitti",
+   "body": "geri gelsin",
+   "author": "nanno amatayakul",
+   "version": "455.0.0",
+   "date": "2026-11-11T16:02:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779331080",
+   "rating": 5,
+   "title": "Best platform",
+   "body": "Best platform to watch reels 100%",
+   "author": "Collin_99.9",
+   "version": "455.0.0",
+   "date": "2026-11-11T15:33:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779306990",
+   "rating": 3,
+   "title": "Tech Issues",
+   "body": "I’ve been currently having issues w/ following certain accounts when I go check to see my account status it say everything meets the guidelines. I tried talking to AI and it keeps saying the same thing so I just asked for an agent it wouldn’t let me talk to one.",
+   "author": "Romello Cowan-Lucas",
+   "version": "455.0.0",
+   "date": "2026-11-11T15:24:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779253178",
+   "rating": 1,
+   "title": "Turns off your music",
+   "body": "It didn’t used to do this. Stop interrupting my music when the app is opened!",
+   "author": "Fermderlay",
+   "version": "455.0.0",
+   "date": "2026-11-11T15:04:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779244931",
+   "rating": 1,
+   "title": "Why",
+   "body": "Why would you update app so that it stops your music playing when you open it. Ruined my life.",
+   "author": "Sieger55543",
+   "version": "455.0.0",
+   "date": "2026-11-11T15:01:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779174669",
+   "rating": 1,
+   "title": "Account suspension",
+   "body": "The app keeps suspending all my account why",
+   "author": "JAIYE CODED",
+   "version": "455.0.0",
+   "date": "2026-11-11T14:34:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779162665",
+   "rating": 1,
+   "title": "Péssimo suporte",
+   "body": "Estou a mais de um mês com a conta em análise por suspensão e não consigo ter retorno do suporte técnico.",
+   "author": "Pedroajr",
+   "version": "455.0.0",
+   "date": "2026-11-11T14:30:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779107816",
+   "rating": 1,
+   "title": "Vale pura verg",
+   "body": "Ni sirve",
+   "author": "MANIACO-jusyin",
+   "version": "455.0.0",
+   "date": "2026-11-11T14:09:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779093581",
+   "rating": 5,
+   "title": "I love it",
+   "body": "I love it",
+   "author": "Anst.pav",
+   "version": "455.0.0",
+   "date": "2026-11-11T14:04:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779013427",
+   "rating": 1,
+   "title": "The Truth from a Teen",
+   "body": "Will get you addicted.",
+   "author": "Individual in the World",
+   "version": "455.0.0",
+   "date": "2026-11-11T13:35:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778969903",
+   "rating": 5,
+   "title": "IG Fan",
+   "body": "I’m a big fan of IG. It’s a tool that I find very helpful for reaching people who otherwise would never find me and the things I’m working on",
+   "author": "_FAZE.ONE_",
+   "version": "455.0.0",
+   "date": "2026-11-11T13:19:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778949265",
+   "rating": 1,
+   "title": "😡",
+   "body": "It has been several days since you told me that you were reviewing my account so I could regain access and log in, but you still haven’t restored my access. You promised that the verification process would be completed within 24 hours, especially after my account had already been suspended for several months. I honestly don’t understand how Instagram Support can provide such poor service and keep users waiting without any clear explanation.",
+   "author": "Best album🫡",
+   "version": "455.0.0",
+   "date": "2026-11-11T13:12:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778919749",
+   "rating": 5,
+   "title": "Barefoot Norm",
+   "body": "I use I-Gram all the time.  Love it",
+   "author": "3-G s.d.",
+   "version": "455.0.0",
+   "date": "2026-11-11T13:01:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778861872",
+   "rating": 5,
+   "title": "Fácil",
+   "body": "Es una red fácil de usar en donde conectar y captar clientes potenciales",
+   "author": "smshejdbdjjw",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:41:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778828346",
+   "rating": 5,
+   "title": "صوت لشعرات لو يرجعو زي قبل من اختياري",
+   "body": "خالد",
+   "author": "خالد ال صميلي",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:29:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778805873",
+   "rating": 1,
+   "title": "Follow limits",
+   "body": "The follow limits is just as annoying as the friend request limit and not being able to send requests to certain friend of friends I feel like I’m talking to a wall and hitting my head on it. Get rid of it. Also I shouldn’t give you one star there should be an option to give you a zero star rating for the stuff that your pulling and I still can’t follow people and it’s been a whole day already and I just woke up. And I don’t like it that I’m not seeing activity from my friends go back to the way it was not how it’s now.",
+   "author": "socolcandid",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:21:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778797012",
+   "rating": 1,
+   "title": "Accessibility issue",
+   "body": "Bring back the pause when holding the screen for videos!!",
+   "author": "joni haastrup",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:18:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778795360",
+   "rating": 5,
+   "title": "Sharpen your tool",
+   "body": "I use Instagram to learn Japanese. Every post has a purpose to push me towards my goal, to stay the course. Instagram is my parrot. It helps me store knowledge I want to see over and over again.",
+   "author": "Scarjkim2",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:18:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778766310",
+   "rating": 1,
+   "title": "AI flagged",
+   "body": "No support if you get wrongly flagged suspend",
+   "author": "Daisyyyyyaice",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:08:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778742736",
+   "rating": 3,
+   "title": "Arréglenlo",
+   "body": "Arreglen los recortes para crear los stickers, antes estaba bien pero ahora no se puede seleccionar toda la foto y cuando intento hacerlo se cambia la selección",
+   "author": "KriZ!hijatienerazon",
+   "version": "455.0.0",
+   "date": "2026-11-11T12:00:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778666160",
+   "rating": 5,
+   "title": "Michael Willard HUMPAL",
+   "body": "Meta conglomeration is so admired by me because it keeps safe our communities and safe guards our youth and children and safeguards true information and does not allow false information that may be of harmful effects .\nBless the USA \nBless the USMC and the IMF and the ISA of the UN human rights council , bless Apple Macintosh , bless Microsoft , bless the USA constitution . Thank you meta",
+   "author": "Michael W HUMPAL",
+   "version": "455.0.0",
+   "date": "2026-11-11T11:34:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778633348",
+   "rating": 5,
+   "title": "Love Instagram",
+   "body": "Such a great way to connect and post for any business.",
+   "author": "Reclaimed Cottage",
+   "version": "455.0.0",
+   "date": "2026-11-11T11:23:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778593329",
+   "rating": 1,
+   "title": "iPhone Duo Support",
+   "body": "Yes it’s optimized but there’s a very annoying glitch where photos are shrinking significantly on a story post, and the quality is reduced so badly that it looks pixelated. There’s another glitch with story grid posts with uploading a photo from your library and it just freezes or shows a blank screen, and you have to start over. ☹️",
+   "author": "johny1127",
+   "version": "455.0.0",
+   "date": "2026-11-11T11:10:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778561778",
+   "rating": 5,
+   "title": "Excellent app",
+   "body": "Thanks",
+   "author": "Alexandra1993co",
+   "version": "455.0.0",
+   "date": "2026-11-11T11:00:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778495176",
+   "rating": 1,
+   "title": "…",
+   "body": "Add back the option to send music in DMS NOWWW",
+   "author": "Daaaamnnn 😜😜",
+   "version": "455.0.0",
+   "date": "2026-11-11T10:39:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778436434",
+   "rating": 1,
+   "title": "Constant Shadowbanning that they deny",
+   "body": "My account has been constantly shadowbanned for the past two years for no reason. It’s the the point that I do not enjoy the app anymore. Do better Instagram! Instead of pushing new features, how about get rid of all the spam accounts, and allow your users to have the freedom that they once had!",
+   "author": "shay ann",
+   "version": "455.0.0",
+   "date": "2026-11-11T10:21:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778369915",
+   "rating": 5,
+   "title": "exelent",
+   "body": "love you",
+   "author": "Rojankhoshnevis",
+   "version": "455.0.0",
+   "date": "2026-11-11T10:01:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778354696",
+   "rating": 1,
+   "title": "Molesto",
+   "body": "Deben de dejar como eran los videos antes que pulsabas con el dedo y se pausaba el video o poner una opción a discreción. Si te gusta o no te gusta ya lo dañaron ese era lo que lo hacía especial a ustedes y gracias a eso no le puedo dar las se cinco estrellas",
+   "author": "yariel216",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:56:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778288540",
+   "rating": 2,
+   "title": "Side Bar",
+   "body": "I hate the black side bar in the duo’s screen!",
+   "author": "J500900",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:36:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778265947",
+   "rating": 1,
+   "title": "bad experience",
+   "body": "ig suspended all my business ig account for doing nothing why you make me lose all my clients poor and wicked app ever",
+   "author": "solaty829",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:29:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778261513",
+   "rating": 5,
+   "title": "I enjoy this app",
+   "body": "It’s definitely a part of how we communicate business and socially these days",
+   "author": "Aironautikz",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:28:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778257500",
+   "rating": 3,
+   "title": "Love Instagram, but there’s one flaw…",
+   "body": "As the title says, I love Instagram as an app, but there is one flaw. I enjoy posting content on this app, but I get reels recommended to me that are just junk and stuff that I don’t enjoy. I am also seeing the amounts of comments that are mean, and just flat out do not make sense sense. Honestly, I would just stick to YouTube if I was recommended to have one social platform rest of my life. Long story short, Instagram has a disgusting group of people that do not make sense. Instagram also is the platform for targeted bullying and harassment.",
+   "author": "Luigi the Archer",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:27:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778219950",
+   "rating": 5,
+   "title": "My review",
+   "body": "I I gottta say is that it’s a really good app that inspires me in my good times and hard times💙💔",
+   "author": "💗my review",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:16:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778214398",
+   "rating": 5,
+   "title": "My review.",
+   "body": "It’s awesome!",
+   "author": "stumonjr",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:14:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778200074",
+   "rating": 5,
+   "title": "Remove Ai",
+   "body": "setup persnol",
+   "author": "Singhvirq",
+   "version": "455.0.0",
+   "date": "2026-11-11T09:10:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778129340",
+   "rating": 5,
+   "title": "Nice",
+   "body": "Nice",
+   "author": "Amirhasan_",
+   "version": "455.0.0",
+   "date": "2026-11-11T08:49:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778111262",
+   "rating": 1,
+   "title": "Bug",
+   "body": "The latest Instagram update has a bug; the screen goes completely black while videos are playing. And its just videos problem , not about pictures",
+   "author": "Hastiiii1994",
+   "version": "455.0.0",
+   "date": "2026-11-11T08:44:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777968455",
+   "rating": 1,
+   "title": "That’s so funny Instagram!",
+   "body": "I didn’t tell you you could pause my music",
+   "author": "Oogaboogaaa!!",
+   "version": "455.0.0",
+   "date": "2026-11-11T08:02:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777928264",
+   "rating": 1,
+   "title": "Disabling accounts falsely",
+   "body": "I have made four accounts over span of two months and they all got suspended because of CHILD SEXUAL EXPLOITATION which is not true at all and they did not review my account let alone appeal it, y’all better stop this nonsense and take account suspensions seriously",
+   "author": "Megabunbun",
+   "version": "455.0.0",
+   "date": "2026-11-11T07:50:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777823464",
+   "rating": 1,
+   "title": "Stop pausing my music",
+   "body": "I won't be using the app until you fix this issue with it pausing music apps. Why would you think that's acceptable? Meta really is the worst. Also, stop stealing from everyone for your stupid AI and forcing everyone in to using it.",
+   "author": "Paul_M_45",
+   "version": "455.0.0",
+   "date": "2026-11-11T07:21:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777720643",
+   "rating": 5,
+   "title": "Best",
+   "body": "Nothing like Instagram 🥰",
+   "author": "JoseCompres",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:52:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777669713",
+   "rating": 1,
+   "title": "العراق",
+   "body": "التحديث الاخير كان فاشل بسبب عدم توقف اذا استمررت بلضغط على المقطع أرجو إرجاعها كما كانت",
+   "author": "علي قحطان هلال",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:37:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777629923",
+   "rating": 3,
+   "title": "It gets a little censorious",
+   "body": "If all I want to say is I don’t like something it acts like I’m a horrible human being which is ridiculous.",
+   "author": "Yellowtruck64",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:26:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777606547",
+   "rating": 5,
+   "title": "the great instagram",
+   "body": "the great instagram",
+   "author": "rajendra hadoti",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:19:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777549023",
+   "rating": 3,
+   "title": "Great but too much spam from bots",
+   "body": "Nice to keep in touch with people but bots are creating unwanted and often offensive spam with every post I make, including on stories. Blocking doesn’t seem to help. Considering dropping out for a while.",
+   "author": "Expat casual poster",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:03:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777548022",
+   "rating": 5,
+   "title": "Creciendo",
+   "body": "Vamos para arriba que Instagram es lo máximo",
+   "author": "Triple R Multiservices",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:03:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777542172",
+   "rating": 1,
+   "title": "keep getting suspended for Literally no reason",
+   "body": "2",
+   "author": "Jeliahni",
+   "version": "455.0.0",
+   "date": "2026-11-11T06:01:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777522463",
+   "rating": 5,
+   "title": "Good",
+   "body": "Very good!",
+   "author": "lito0182",
+   "version": "455.0.0",
+   "date": "2026-11-11T05:56:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777472615",
+   "rating": 5,
+   "title": "UGLYOUT",
+   "body": "Very nice picture quality during posting stays clear and very nice thanks you IG",
+   "author": "Ugly_yout",
+   "version": "455.0.0",
+   "date": "2026-11-11T05:42:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777395919",
+   "rating": 5,
+   "title": "Pizza is good",
+   "body": "Thank’s to chef Patrick",
+   "author": "N4thkanonge",
+   "version": "455.0.0",
+   "date": "2026-11-11T05:20:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777370190",
+   "rating": 1,
+   "title": "Cannot login",
+   "body": "App is asking I use an authenticator to login. I've never used one for this app before",
+   "author": "bdjsjsndbnrkemsndnene",
+   "version": "455.0.0",
+   "date": "2026-11-11T05:13:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777324678",
+   "rating": 5,
+   "title": "Excelente",
+   "body": "Excelente me encanta",
+   "author": "zaldanamercy",
+   "version": "455.0.0",
+   "date": "2026-11-11T04:59:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777250154",
+   "rating": 1,
+   "title": "For instagram company",
+   "body": "The worst application ever, they keep blocking my account for no reason!!",
+   "author": "sawsanomarr",
+   "version": "455.0.0",
+   "date": "2026-11-11T04:37:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14777248777",
+   "rating": 2,
+   "title": "Decent platform, killer bugs",
+   "body": "Instagram keeps pausing my music when I open it and will randomly block my friends without warning. Do better these are ridiculous bugs to have on such an established social media platform",
+   "author": "Bobtheslob57",
+   "version": "455.0.0",
+   "date": "2026-11-11T04:37:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776974870",
+   "rating": 1,
+   "title": "1",
+   "body": "I gave it a one because I just randomly woke up one day and my account was suspended for no reason and I have a lot of memories there with my friends I have stories on there that I can’t get back and those meant a lot to me bc I have friends I no longer see that were on those stories and for me to be suspended is crazy yall need to have a better system of who gets suspended for ACTUALLY DOING SOMETHING BAD.",
+   "author": "One 🫩",
+   "version": "455.0.0",
+   "date": "2026-11-11T03:08:03-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776971633",
+   "rating": 1,
+   "title": "app stops music",
+   "body": "never before did opening instagram pause my music and make me go back to the app im playing it from after i get off instagram but it recently started doing that i hope they fix this soon",
+   "author": "lazzlazzz",
+   "version": "455.0.0",
+   "date": "2026-11-11T03:06:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776888913",
+   "rating": 1,
+   "title": "Racist cesspool",
+   "body": "And they want it that way",
+   "author": "Warwellian",
+   "version": "455.0.0",
+   "date": "2026-11-11T02:35:45-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776736917",
+   "rating": 5,
+   "title": "Love to use instagram",
+   "body": "Can make many connections with friends",
+   "author": "Wah Wah May Nyein",
+   "version": "455.0.0",
+   "date": "2026-11-11T01:34:15-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776725330",
+   "rating": 5,
+   "title": "Moments",
+   "body": "Happy Moments",
+   "author": "lindabierend",
+   "version": "455.0.0",
+   "date": "2026-11-11T01:29:23-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776722327",
+   "rating": 4,
+   "title": "I love insta but",
+   "body": "I have no problem with the app for real but today it told me that I can’t message for 3 days because I “went against community guidelines” but then when I pressed to check the community guidelines it says that I match up with all of them. So why can’t I message for 3 days?",
+   "author": "Smenfjfjndnsnsjs",
+   "version": "455.0.0",
+   "date": "2026-11-11T01:28:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776644438",
+   "rating": 1,
+   "title": "AI SLOP",
+   "body": "i used to like this app cause i got to try hard to get nice photos and be able to edit them well. i worked hard on my photography to be able to post it on here. only for this app to by the fact that this company just tries to copy whatever is popular. copying tiktok with reels and now jumping on the AI bandwagon. the account i've worked hard to curate has now been flagged as \"ai generated\" i am an actual person putting effort and now i get grouped with idiots that can't think without fake intelligence?? fix that.",
+   "author": "gdjhfvkgedgopgeqdnvxshof",
+   "version": "455.0.0",
+   "date": "2026-11-11T00:54:35-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776618849",
+   "rating": 4,
+   "title": "Good but needs more",
+   "body": "Fun to use BUT we should be able to add a cover photo as the background at the top of the profile page. It would look more fun and engaging 😉",
+   "author": "J_Michael85",
+   "version": "455.0.0",
+   "date": "2026-11-11T00:43:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776551352",
+   "rating": 3,
+   "title": "Help",
+   "body": "I would like to request if you guys can please add instants to the people with iOS 15.8.8because we also would like to experience the new features that instagram meta has to offer",
+   "author": "tvic48",
+   "version": "410.1.0",
+   "date": "2026-11-11T00:13:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776463782",
+   "rating": 1,
+   "title": "Stop pausing my music",
+   "body": "It’s infuriating at this point.  Stop pausing my music when opening the app and stop changing the layout",
+   "author": "Koohl02",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:33:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776438897",
+   "rating": 5,
+   "title": "Perdóname",
+   "body": "Regrésame mi cuenta por favor, eres la mejor aplicación",
+   "author": "Mezaa_fabiolaaa",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:21:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776434609",
+   "rating": 1,
+   "title": "Weird",
+   "body": "Can this app stop restricting me from sending messages and asking me to confirm my identity over and over, I’m NOT A BOT. I’m human.",
+   "author": "Pop Stellas",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:20:03-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776431227",
+   "rating": 3,
+   "title": "Dystopian Hellscape that is Fun and Amusing and Connects You with Friends <3",
+   "body": "^",
+   "author": "Nat13040",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:18:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776425316",
+   "rating": 5,
+   "title": "Perfect",
+   "body": "Perfect",
+   "author": "Danialkzi",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:15:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776391774",
+   "rating": 5,
+   "title": "The best",
+   "body": "Boleeeh",
+   "author": "Rumapeaaaaindra",
+   "version": "455.0.0",
+   "date": "2026-11-10T23:00:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776370195",
+   "rating": 1,
+   "title": "Suspending & Disabling Accounts FOR NO REASON.",
+   "body": "Like this is stupid. I did not cross any community guidelines, i am over the age of 13. And it just doesnt make sense, I had my parent set up a super vision on my instagram account so that they have access on it and their account is connected to mines. so it makes no sense why it got my account disabled/suspended. i believe the detection was an error. There is no way of contacting any instagram agent or person other than an ai that does little to no help. Instagram needs to fix this now and stop letting ai manage everything, ai is good  but it still needs a manager to mange things around. This app made me loose thousands of memories and im devastated.",
+   "author": "tigerboba",
+   "version": "455.0.0",
+   "date": "2026-11-10T22:50:15-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14776241884",
+   "rating": 3,
+   "title": "Errors with saved videos",
+   "body": "I’ve loved instagram for years but for the past several days when i try to go to my saved videos it glitches. When i scroll down several videos to the one i want, and select it, it scrolls back up to a video at the top that i haven’t selected. I wish they would fix this bug. I also hate how it puts an automated search topic above some of my videos that i never asked for or wanted. If i really want to find out more about a video, i can search for videos myself. Instead, this gets in the way of videos I’m watching or subtitles I’m trying to read.",
+   "author": "reviewgirl27",
+   "version": "455.0.0",
+   "date": "2026-11-10T21:50:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776143748",
+   "rating": 3,
+   "title": "Pause",
+   "body": "Can you PLEASE stop taking away hold to pause??",
+   "author": "moooooooooonlight",
+   "version": "455.0.0",
+   "date": "2026-11-10T21:04:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776126051",
+   "rating": 2,
+   "title": "Instagram",
+   "body": "Instagram está mal está deshabilitando las cuentas por error",
+   "author": "luismarquezsan",
+   "version": "455.0.0",
+   "date": "2026-11-10T20:56:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776080526",
+   "rating": 1,
+   "title": "Since when does Instagram encourage fake accounts and impersonation???\n\nSome random guy created a fa",
+   "body": "Since when does Instagram encourage fake accounts and impersonation???\n\nSome random guy created a fake account, posts pictures of my brother, follows all of his relatives, and even shares private photos of my brother that aren’t even posted on my brother’s own profile! We have absolutely no idea where he got them!\n\nMy brother posted a Story warning everyone that this account is fake and that it’s NOT him. Nobody has any idea WHO this person is!\n\nAll of us (including his family and friends) started reporting and blocking the account for impersonating a real person. But Instagram does absolutely nothing! Their response is that this weird guy hasn’t violated any of their community guidelines!\n\nSeriously??? Isn’t this a violation of Instagram’s Terms of Service??? Since when did pretending to be someone else and stealing their photos become acceptable and completely consequence-free behavior???",
+   "author": "45776332",
+   "version": "455.0.0",
+   "date": "2026-11-10T20:35:46-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775987005",
+   "rating": 5,
+   "title": "My favorite way to stay connected",
+   "body": "I love Instagram! It’s such a fun way to keep up with friends, share my favorite moments, and discover new things. Whether I’m watching Reels, checking Stories, or finding inspiration, there’s always something I enjoy. It’s easily one of my favorite apps and one I look forward to using every day!",
+   "author": "GTSyo",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:55:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775978726",
+   "rating": 1,
+   "title": "I get lockkkk",
+   "body": "I don’t know why then you don’t say anything and I can’t create a new account",
+   "author": "🍓🍒🥭🍑🍐love you",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:51:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775942533",
+   "rating": 5,
+   "title": "Why is this bug not being fixed?",
+   "body": "This is an amazing app. Love watching videos on both my iPhone & on my Google Android Smart TV. There’s a major bug in the Google Android Smart TV version of the app. When I try to scroll through videos while watching them. The video animation doesn’t sync in with the audio. It ends up freezing the animation & then the audio from the next video, gets mixed into the current video instead while the animation itself gets frozen. If I try to fix it, by scrolling through the video player by going forward, then press play, the video stops playing & it won’t play anymore when I try to press play after I paused it. Please fix this Google Android Smart TV App bug. Sometimes it’s unplayable. The iPhone version works fine, but not the Google Android Smart TV version.",
+   "author": "Michhael Powell.",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:36:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775940937",
+   "rating": 1,
+   "title": "Remove Repost option",
+   "body": "Please add an option to disable or remove the Reshare/Repost button. It’s too easy to accidentally tap it instead of the comments button. Accidental reposts can be embarrassing. Users should be able to turn this feature off completely or require confirmation before reposting.",
+   "author": "Soum27",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:35:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775876484",
+   "rating": 3,
+   "title": "Glitch?",
+   "body": "For some reason, whenever I try to scroll down to make my profile public, it will not let me scroll down… please fix",
+   "author": "Utffhjjuyt",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:10:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775875733",
+   "rating": 5,
+   "title": "IG",
+   "body": "Wonderful!!!",
+   "author": "chrome110_",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:09:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775857723",
+   "rating": 5,
+   "title": "Insta",
+   "body": "I like it",
+   "author": "Jacky’sgugg",
+   "version": "455.0.0",
+   "date": "2026-11-10T19:02:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775823326",
+   "rating": 1,
+   "title": "Bad for humanity",
+   "body": "Caused anxiety",
+   "author": "clowncollar",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:49:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775816068",
+   "rating": 3,
+   "title": "Not good for photography",
+   "body": "You can’t post a vertical picture without it being cropped or a panorama, etc. \nAll Music content should be available to all accounts.",
+   "author": "Sebaz D",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:46:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775805481",
+   "rating": 5,
+   "title": "Me encanta",
+   "body": "Feed",
+   "author": "Bettiley",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:42:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775766214",
+   "rating": 1,
+   "title": "HORRIBLE AND DISGUSTING MODERATION",
+   "body": "On instagram, there is a sort of issue where when you search up a topic that isn’t popular they would instead show other videos that literally don’t match the topic. And these videos range from LITERAL GORE VIDEOS TO CSAM. DESPITE REPORTING THIS COUNTLESS TIMES, MODERATION DOES NOT TAKE IT DOWN DUE TO THE POST IN THEIR OWN WORDS “NOT VIOLATING POLICY”. RIDICULOUS, ESPECIALLY SINCE IN THEIR RULES THEY DO NOT ALLOW IMPLIED AND DISPLAYED CONTENT ESPECIALLY OF CHILDREN Absolutely disgusting, please be weary on this app.",
+   "author": "chivken feet",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:26:53-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775753039",
+   "rating": 2,
+   "title": "gore",
+   "body": "there is gore on this app and this app had kids on it.",
+   "author": "Zoeybuggy",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:21:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775729898",
+   "rating": 5,
+   "title": "Collaborating",
+   "body": "Not notifying ppl to accept collaborations on my post",
+   "author": "Daymaker44",
+   "version": "455.0.0",
+   "date": "2026-11-10T18:13:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775640808",
+   "rating": 5,
+   "title": "Colorido",
+   "body": "Tiene un formato amigable y fácil. Ágil y mucho color.",
+   "author": "Suyin Huerta",
+   "version": "455.0.0",
+   "date": "2026-11-10T17:39:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775614435",
+   "rating": 1,
+   "title": "instagram 0/10",
+   "body": "This app is so horrible. i been on instagram 7+ years and ever since meta ai came all of my accs got disabled for no reason .",
+   "author": "💋👶🏽barbie💋👶🏽",
+   "version": "455.0.0",
+   "date": "2026-11-10T17:30:04-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14775571546",
+   "rating": 3,
+   "title": "Stop suppressing political views",
+   "body": "I like Instagram but the censoring political post has got to stop",
+   "author": "slunalunaluna",
+   "version": "455.0.0",
+   "date": "2026-11-10T17:14:08-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775563906",
+   "rating": 5,
+   "title": "NO AI",
+   "body": "GET RID OF THE AI! BRING BACK THE ORIGINAL FORMAT FOR THE  ALGORITHM!!! CARE ABOUT THE PEOPLE THAT USE YOUR APP!!!",
+   "author": "Sakurablossom87",
+   "version": "455.0.0",
+   "date": "2026-11-10T17:11:15-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775563611",
+   "rating": 1,
+   "title": "what is happening",
+   "body": "insta just like banned me it used to be my favorite app pls unban me lily_under_lights i didnt do anything wrong",
+   "author": "lily_under_lights",
+   "version": "455.0.0",
+   "date": "2026-11-10T17:11:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775532436",
+   "rating": 1,
+   "title": "Fix it",
+   "body": "I tried to log in and it said your not old enough im 15 years old i dont have a id to prove",
+   "author": "For a geeks",
+   "version": "455.0.0",
+   "date": "2026-11-10T16:59:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775472530",
+   "rating": 5,
+   "title": "Preferred Social Media Platform",
+   "body": "Everyone has their own personal preferences when it comes to social media, but of all the platforms I’ve used, including other Meta platforms like Facebook, Instagram has been my favorite. I’ve genuinely enjoyed creating and sharing content here, connecting with people, and interacting with others who share similar interests and senses of humor. I appreciate the creative opportunities the platform offers and the community I’ve been able to engage with.",
+   "author": "ryanalansp",
+   "version": "455.0.0",
+   "date": "2026-11-10T16:36:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775404197",
+   "rating": 5,
+   "title": "CEO",
+   "body": "Best in Lauderdale near the airport near the Port Everglades",
+   "author": "Tamarindocafe",
+   "version": "455.0.0",
+   "date": "2026-11-10T16:10:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775364946",
+   "rating": 1,
+   "title": "Unenjoyable to use",
+   "body": "Has changed from a nice app to share pictures with friends to all of these unnecessary and endless ‘updates’ that are just replicas of features on other apps (e.g. stories (snapchat), reels (TikTok), threads (twitter). So overstimulating and agonizing to use. Go back to the simple OG Instagram platform.",
+   "author": "Sunshine86988",
+   "version": "455.0.0",
+   "date": "2026-11-10T15:55:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775357676",
+   "rating": 5,
+   "title": "WTTKI",
+   "body": "Great Conversations with /G\\reat Melanated Magicians",
+   "author": "MRCROUCH",
+   "version": "455.0.0",
+   "date": "2026-11-10T15:52:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775262924",
+   "rating": 2,
+   "title": "Terrible app",
+   "body": "It creates a fake media player that interrupts my music playback whenever I try to use Instagram while listening to music. This app just keeps getting worse.",
+   "author": "gael hdez",
+   "version": "455.0.0",
+   "date": "2026-11-10T15:15:47-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775225006",
+   "rating": 2,
+   "title": "Pay to win, while YouTube pays creators",
+   "body": "I post the same videos on Instagram and YouTube. On YouTube they get about 10x the views — and YouTube actually pays creators. On Instagram, the better my videos get, the worse they do, and one weaker video can drop me to single-digit views. Want a clickable link on your own reel? That's $50 a month for Meta One, mostly for a blue badge. Instagram charges creators for basic features. YouTube rewards them for the content. Pay to win vs. win to get paid.",
+   "author": "Mrs mane!",
+   "version": "455.0.0",
+   "date": "2026-11-10T15:01:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775208745",
+   "rating": 5,
+   "title": "The",
+   "body": "12k",
+   "author": "BjIahta",
+   "version": "455.0.0",
+   "date": "2026-11-10T14:55:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775196115",
+   "rating": 5,
+   "title": "😎",
+   "body": "Wow🤣🤣🤣",
+   "author": "Reward🫀🧠⚽️",
+   "version": "455.0.0",
+   "date": "2026-11-10T14:50:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775179612",
+   "rating": 1,
+   "title": "New tap pause feature is horrible",
+   "body": "Please revert to the hold for instant pause mechanic.  Tap to pause requires a full second delay, which in most Reels nowadays is 2 screens after what you want to pause for.  The old hold mechanic was instant.",
+   "author": "=Cherie=",
+   "version": "455.0.0",
+   "date": "2026-11-10T14:43:45-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14775145657",
+   "rating": 5,
+   "title": "InstaGram cool",
+   "body": "I love this platform. It allows us to express ourselves and interact with others around the world.",
+   "author": "Latasha Wilson",
+   "version": "455.0.0",
+   "date": "2026-11-10T14:30:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775052623",
+   "rating": 4,
+   "title": "New Reels Pause Update :(",
+   "body": "New update for pausing Reels leaves Play icon in middle of image. Annoying.",
+   "author": "Veganwishes",
+   "version": "455.0.0",
+   "date": "2026-11-10T13:55:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775009133",
+   "rating": 4,
+   "title": "App glitch",
+   "body": "My account continuously shows 1 unread message notification on both the DM icon and iPhone app badge. However, my inbox and message requests are completely empty. I have checked Instagram on a web browser too, restarted my phone, changed notification settings and reinstalled/refreshed the app. The notification remains. Please investigate and reset the unread message counter on my account",
+   "author": "_Wintergreen._",
+   "version": "455.0.0",
+   "date": "2026-11-10T13:39:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774953051",
+   "rating": 2,
+   "title": "Angry",
+   "body": "Instagram has really changed and is making people annoying",
+   "author": "Oseika",
+   "version": "455.0.0",
+   "date": "2026-11-10T13:18:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774920336",
+   "rating": 5,
+   "title": "no se",
+   "body": "muy malas las actualizaciones de ahora que ya no se le pueden tomar cap a la historias, por culpa de eso mi amiga ya no se puede ddiar con fotos de guapos 🙄",
+   "author": "fresayzanzudo",
+   "version": "455.0.0",
+   "date": "2026-11-10T13:06:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774836491",
+   "rating": 5,
+   "title": "Instagram has enhanced the vinyl revival!  It is fun AND great for the biz",
+   "body": "I have been selling vintage vinyl records for almost 20 years online and since I started using Instagram to further increase my span of influence, connection and marketing, the business has grown immensely . I am very excited and looking forward to the future with social media’s, potential impact on e-commerce and small business, as well as the music industry in specifically vintage vinyl records.  Thx IG!",
+   "author": "vinyl_record_rarities",
+   "version": "455.0.0",
+   "date": "2026-11-10T12:36:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774822750",
+   "rating": 1,
+   "title": "Bugs, poor development and terrible UI experience",
+   "body": "Constant bugs with all of Meta’s apps and web applications. Terrible customer service.  Unintuitive user experiences.",
+   "author": "Notconvinced1965",
+   "version": "455.0.0",
+   "date": "2026-11-10T12:31:40-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14774731773",
+   "rating": 5,
+   "title": "Santi",
+   "body": "No me bloqueé la cuenta. Instagram es lo mejor😭😭😭",
+   "author": "Mía9727",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:59:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774669165",
+   "rating": 1,
+   "title": "Privacy Hack",
+   "body": "The app accesses data originally marked as private / secure. The subsequent updates simply add more avenues for the app to violate basic privacy standards.  \n\nBeware of the online version as it’s prone to contain malicious code.  Privacy is clearly violated here and the developers glaze over all issues with blanket comments.  \n\nAll privacy notes are vague and require presumptions. \n\nThe help and support functionality is non responsive, uninformed, and simply loops you over and over with the obvious objective of getting you to just leave.\n\nAvoid.",
+   "author": "Tony Scardi",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:37:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774648277",
+   "rating": 1,
+   "title": "Stop pausing my music!!!!!",
+   "body": "Instagram keeps pausing my music when I open the app and it’s getting really old!!! Facebook does it now instagram??? PLEASE FIX THIS!!!",
+   "author": "tashco12",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:30:41-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14774631466",
+   "rating": 1,
+   "title": "Meta is just a horrible company now",
+   "body": "With how hard they push AI, scrape your data, ignore ethics and privacy, and now generate images of you without your consent (defaulting to allow it and having to opt-out does not mean consent), after 12 years I’m finally done. This app isn’t worth it, any Meta app isn’t worth it. TikTok is better than this, please use something else and stop giving Zuckerburg ad money.",
+   "author": "Mag Magazine",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:24:57-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14774601128",
+   "rating": 3,
+   "title": "Inconsistent updates",
+   "body": "I hate that one day we have a feature that's helpful and then it's only there occasionally. For example, the mixed ratio posting. When I have photos that are different ratios I can sometimes post them without an issue. Other times the option isn't there so I can't post them all together. Very frustrating. That's just one of many features that are inconsistent",
+   "author": "Havier96",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:14:38-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14774585701",
+   "rating": 5,
+   "title": "⭐️⭐️⭐️⭐️⭐️",
+   "body": "⭐️⭐️⭐️⭐️⭐️",
+   "author": "Mau🪬",
+   "version": "455.0.0",
+   "date": "2026-11-10T11:09:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774550755",
+   "rating": 2,
+   "title": "BRING BACK THE COOL FILTERS",
+   "body": "Bring back the cool, fun, interactive filters!!! Please!",
+   "author": "Diva_sans",
+   "version": "455.0.0",
+   "date": "2026-11-10T10:57:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774414942",
+   "rating": 1,
+   "title": "Advanced protection",
+   "body": "I’ve literally been locked out of my account for days over this advanced protection stuff. I didn’t try everything in the book to get into my account and they will not let me it continuously says the device that I’m on is not recognizable when this device I’ve only used for this Instagram i’m very frustrated and I don’t know how to get into my account. I’m locked out of my Facebook and my Instagram. Is there anything I can do? Who do I need to talk to to fix this problem?",
+   "author": "Why Me 41",
+   "version": "455.0.0",
+   "date": "2026-11-10T10:13:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774389322",
+   "rating": 2,
+   "title": "They got rid of the “reels sort filter”",
+   "body": "Despite it being buggy it used to pop up after navigating through the app. Now it’s gone.",
+   "author": "SoCal junkie",
+   "version": "455.0.0",
+   "date": "2026-11-10T10:04:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774367642",
+   "rating": 5,
+   "title": "Bestsellers",
+   "body": "Bestsellers",
+   "author": "Carli1960",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:57:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774360673",
+   "rating": 5,
+   "title": "The greatest app",
+   "body": "The greatest app on social media",
+   "author": "Handy1311",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:55:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774348879",
+   "rating": 5,
+   "title": "Лучшая соцсеть",
+   "body": "Лучшие",
+   "author": "Leenovsky",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:51:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774337128",
+   "rating": 2,
+   "title": "No app cache clearing",
+   "body": "Where is the option to delete cache without deleting the app?",
+   "author": "Nova Northstar",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:47:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774237663",
+   "rating": 5,
+   "title": "Love",
+   "body": "Love to post all my creative thoughts on here! 🤍 thank you",
+   "author": "Ms.Garibo",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:16:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774233430",
+   "rating": 5,
+   "title": "Cool app",
+   "body": "Thanks",
+   "author": "fatboy 187",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:15:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774203625",
+   "rating": 5,
+   "title": "Great",
+   "body": "Love it",
+   "author": "caseydahl",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:06:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774200414",
+   "rating": 3,
+   "title": "Where are the people i’m mutuals with posts??",
+   "body": "As a user of instagram for over 10 years i’m getting tired of not being able to see the people i’m mutuals with posts. I’ll even go to the following section and still get recommended accounts I don’t follow and a whole bunch of ads and big accounts posts. I really feel like there needs to be a section where I can go support the people I know instead of getting a whole bunch of ads and posts from official accounts.",
+   "author": "aliceschucker",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:05:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774184341",
+   "rating": 5,
+   "title": "plz give me monitise",
+   "body": "plese give me monitise and many many reach and milion milion flollower.",
+   "author": "Fahim Anis",
+   "version": "455.0.0",
+   "date": "2026-11-10T09:00:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774142379",
+   "rating": 5,
+   "title": "The_butcher05",
+   "body": "I love instagram and facebook ❤️😍",
+   "author": "Anfbfjfj",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:47:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774116369",
+   "rating": 1,
+   "title": "Suspension",
+   "body": "Suddenly suspended me because I was so called “underage” I put everything there that was correct and still marked underage. Then their ai help boxes doesn’t even help you with appeals and everything. So you dont even know the problem.",
+   "author": "ivvvvvvvvvv.",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:39:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774106659",
+   "rating": 5,
+   "title": "Entertaining",
+   "body": "I use instagram to take a break from political ads and overall negativity",
+   "author": "Thumbs*",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:36:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774063066",
+   "rating": 5,
+   "title": "Goood",
+   "body": "Love",
+   "author": "1:73$3",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:23:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774037017",
+   "rating": 5,
+   "title": "Good",
+   "body": "Had Video playback issues while viewing comments on the iPhone duo. It’s working now.",
+   "author": "MMan03",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:15:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774005455",
+   "rating": 5,
+   "title": "IG",
+   "body": "Fun and has many good aspects",
+   "author": "Marc 310",
+   "version": "455.0.0",
+   "date": "2026-11-10T08:05:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773901979",
+   "rating": 1,
+   "title": "Algorithms Need Serious Help",
+   "body": "IG’s algorithms are WAY too sensitive. \n\nIf I just look at something once, I then get inundated with that thing, yet I have to indicate that I’m “Not interested” numerous times to get it to back off. \n\nIt’s terribly annoying.",
+   "author": "DigiZombis",
+   "version": "455.0.0",
+   "date": "2026-11-10T07:34:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773839964",
+   "rating": 5,
+   "title": "Dr. Chalal",
+   "body": "Dr. Chalal is an orthopedic surgeon who is well known for his expertise in shoulder repair.\nDr. Chalal is is terrific!\nHe walks into the examining room with a smile  on his face and a very pleasant personality.  He asks questions -listens to my response-and responds with information that let’s you know that he listened.\nHe has helped me with a painful shoulder situation. Never making me feel that my pain was unimportant His medical staff is great.\nHis office is professional and friendly\nI am very grateful  a friend recommended Dr. Chalal to me..",
+   "author": "luvCJ",
+   "version": "455.0.0",
+   "date": "2026-11-10T07:16:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773828111",
+   "rating": 1,
+   "title": "Audio issue",
+   "body": "Opening instagram should not pause or override audio playing on a device.",
+   "author": "yzarcrazy",
+   "version": "455.0.0",
+   "date": "2026-11-10T07:13:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773827938",
+   "rating": 1,
+   "title": "Terrible AI Policies",
+   "body": "Awful upcoming update to Meta’s AI policies where they can now start training their AI using your art and business accounts’ pictures, captions, products etc. without a way to opt out of it. Literally stealing artists work!",
+   "author": "Cal3789",
+   "version": "455.0.0",
+   "date": "2026-11-10T07:13:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773784486",
+   "rating": 1,
+   "title": "Banned me for no reason and would. Even let me appeal it",
+   "body": "Awful",
+   "author": "TheOGKing123",
+   "version": "455.0.0",
+   "date": "2026-11-10T07:00:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773718779",
+   "rating": 1,
+   "title": "Hate the new update",
+   "body": "Hate the new update when the pause screen option by pressing and holding the screen no longer works.  Now it brings up options that no one cares about. Go back to the way it was.",
+   "author": "Zeengolf",
+   "version": "455.0.0",
+   "date": "2026-11-10T06:40:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773716628",
+   "rating": 1,
+   "title": "Bad update",
+   "body": "The recent update that forces Instagram to pause background music and podcasts immediately on launch completely breaks the user experience. It is a frustrating and disruptive bug that has forced me to delete the app entirely. Please fix this audio hijacking issue so users can listen to their own audio while browsing.",
+   "author": "CVM1625",
+   "version": "455.0.0",
+   "date": "2026-11-10T06:40:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773688184",
+   "rating": 1,
+   "title": "You must be exhausted",
+   "body": "Poor Instagram. You spend so much energy making sure that every other post I see is an ad. Aren’t you worn out with the effort? Just think, you could just let me see the accounts that I follow and it would save you so much effort! I even clicked on every account I follow to reset “the algorithm” but that didn’t work. Is it the best you can do to show ads every other post or MORE?! You poor thing.",
+   "author": "Fionajuliana",
+   "version": "455.0.0",
+   "date": "2026-11-10T06:31:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773545955",
+   "rating": 1,
+   "title": "They disabled my account",
+   "body": "They disabled my account for no reason I lost my daughters baby picture and memories that I save there thru out the years I have tried everything and they permanently disabled after I verified my age now it’s not letting me get any information or any pictures I have posted",
+   "author": "Melyy…099",
+   "version": "455.0.0",
+   "date": "2026-11-10T05:50:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773468839",
+   "rating": 3,
+   "title": "For Instagram",
+   "body": "I like the app but all of the  18+ adult bots need to go I keep blocking them and and restricting them along with reporting them yet they there are still more that come into my story (some may say they have gotten removed some say they didn’t ) and I want them all removed permanently if that’s possible if not no worries",
+   "author": "wildlywild",
+   "version": "455.0.0",
+   "date": "2026-11-10T05:27:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773405790",
+   "rating": 2,
+   "title": "Fix it nowwww",
+   "body": "I like Instagram but lately it's acting up for no reason I can't post and I can't even get a song for what I want  for my story. it doesn't work and my WiFi works perfectly fine it's just insta.",
+   "author": "Idkidk 23",
+   "version": "455.0.0",
+   "date": "2026-11-10T05:08:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773368716",
+   "rating": 1,
+   "title": "Instagram let’s hackers in people page",
+   "body": "Bad app that lets others scammers take your page smh",
+   "author": "Artist from nc",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:56:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773367209",
+   "rating": 1,
+   "title": "Algorithmic abuse",
+   "body": "In my city algorithmic abuse is illegal, not that methods exempt from this but somehow they figure out how to target people with disabilities and get away with it.\n\nApp is still engaging in more subtle antagonistic behaviors now, instead is being pre set to load images and behaviors the app doesn’t traditionally load. I would appreciate it if meta would stop these behaviors which are contributing negatively to my experience using the app.\n\n\nSo it seems as though there’s retaliatory act practices from the development team, or whoever might be in charge of this. I’d like to raise the concern through this post since Meta likes to ignore emails as well as better business bureau complaints regarding these issues",
+   "author": "👽🛸👾👽",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:56:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773358986",
+   "rating": 3,
+   "title": "Audio Bully",
+   "body": "Meta, stop thinking we want the audio from either Facebook or Insta when we launch either app. Quite annoying. Shouldn’t have to jump through device settings to change it.",
+   "author": "Frustrated with Audio Settings",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:54:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773332352",
+   "rating": 2,
+   "title": "Fav app btw",
+   "body": "I love Instagram but they have suspended me for nothing I have a teen account and they expect me to have an ID so if y'all are reading this get Instagram to notice me within the next 29 days before I'm permanently ban",
+   "author": "Violet///$$",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:45:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773266232",
+   "rating": 1,
+   "title": "Stop removing external sound!!",
+   "body": "The update that turns off the music I am listening to on Spotify is so annoying!!! How can we fix this??!!!?????? Fix this plz or allow me to turn off this feature",
+   "author": "Ali1989999",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:25:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773248605",
+   "rating": 1,
+   "title": "Horrobile with meta ai",
+   "body": "I was using instagram and suddenly my account got suspended when I did nothing at all and now it’s impossible to get it back because of meta ai false accusations",
+   "author": "Jodie xkidmdi",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:19:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773193513",
+   "rating": 5,
+   "title": "“Friends” and “following “feature",
+   "body": "Please put the same feature that TikTok has where it shows who we are friends with ( meaning we both follow each other) and those who we are just following so that we can unfollow those who unfollow us",
+   "author": "Mwelwak77",
+   "version": "455.0.0",
+   "date": "2026-11-10T04:01:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773132352",
+   "rating": 1,
+   "title": "Meta ruined IG",
+   "body": "The algorithm prioritizes influencers and brand posters, long gone are the days of using this app to connect with friends. As a performance artist and dancer who uses this app to find gigs, I’ve also noticed a pattern of racial discrimination in the enforcement of meta’s “community guidelines” which seem to only apply to curvy black women. As a musician, this app makes it impossible to promote your music if you aren’t already an influencer. It sucks that the general populous is so stuck on this app still, but end days are surely approaching.",
+   "author": "Rug.i",
+   "version": "455.0.0",
+   "date": "2026-11-10T03:40:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773128455",
+   "rating": 5,
+   "title": "Best of the best",
+   "body": "What I love about Instragam is that Instragam can be used for people with 20 to more than 100 you deserve 100 stars ✨",
+   "author": "Belana Beauty",
+   "version": "455.0.0",
+   "date": "2026-11-10T03:39:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14773075658",
+   "rating": 1,
+   "title": "Unhappy",
+   "body": "I have messaged tech support with no response…When I add more than one picture to a post on instagram, only one picture transfers to facebook.",
+   "author": "Transfer of pics",
+   "version": "455.0.0",
+   "date": "2026-11-10T03:20:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772980884",
+   "rating": 5,
+   "title": "Great app",
+   "body": "Great app I love it",
+   "author": "Cat00125",
+   "version": "455.0.0",
+   "date": "2026-11-10T02:43:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772979291",
+   "rating": 1,
+   "title": "Ai scraper",
+   "body": "As an artist this has always been a safe space to share my work with a community- I’m not cool with them stealing my work to train a bot tontake my jobs",
+   "author": "Linniejoy",
+   "version": "455.0.0",
+   "date": "2026-11-10T02:43:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772974957",
+   "rating": 4,
+   "title": "لايمكن تغير الخصوصية الى عام",
+   "body": "حاولت اكثر من مرة حتى بعد تحديث البرنامج من تحويله من خاص الى عام ولم اتمكن من ذلك ، يبدو ان البرنامج يعاني من خلل ما",
+   "author": "آنوا",
+   "version": "455.0.0",
+   "date": "2026-11-10T02:41:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772863427",
+   "rating": 1,
+   "title": "شوكت توخرون ذكاء الاصطناعي بالخير وتخلون انستا طبيعي",
+   "body": "ناس عنده انستا وماشيه حياتهم طبيعيه والبقيه محد يكدر يسوي حساب يطير برنامج إذا يضل هيج حذفو افضل",
+   "author": "Ar0h",
+   "version": "455.0.0",
+   "date": "2026-11-10T01:54:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772826502",
+   "rating": 4,
+   "title": "Internet",
+   "body": "My friends stories doesn’t appear in my story lines",
+   "author": "Bryanrodrris",
+   "version": "455.0.0",
+   "date": "2026-11-10T01:38:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772817763",
+   "rating": 5,
+   "title": "Wow",
+   "body": "I’m definitely addicted",
+   "author": "Algor ai",
+   "version": "455.0.0",
+   "date": "2026-11-10T01:34:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772725034",
+   "rating": 1,
+   "title": "Way too overstimulating",
+   "body": "I miss the old instagram where you just connected with friends and shared cool photos. Now theres way too many features on instagram that they keep on adding and it ruined it.",
+   "author": "A23yroldwomanlerspective",
+   "version": "455.0.0",
+   "date": "2026-11-10T00:52:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772717902",
+   "rating": 5,
+   "title": "For J’s Hawaiian Chili Oil Dressing",
+   "body": "Perfect!!!  Totally approve it so much I can taste it 😋  Yummy!!!",
+   "author": "Hawaiian Chili Oil Dressing",
+   "version": "455.0.0",
+   "date": "2026-11-10T00:48:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772638743",
+   "rating": 1,
+   "title": "Ew",
+   "body": "Instagram’s AI system is absolutely terrible! I’ve submitted my ID 4 times and lost access to my account almost 10 times. It keeps suspending me, restoring my account, and suspending me again for no clear reason. I’m a real person, and I’m exhausted from constantly proving my identity. This experience is making me want to quit Instagram for good!",
+   "author": "Elnazkhannejad",
+   "version": "455.0.0",
+   "date": "2026-11-10T00:11:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772419115",
+   "rating": 5,
+   "title": "Why do people Judge",
+   "body": "We need to understand people more.",
+   "author": "Christian Greer-Paul",
+   "version": "455.0.0",
+   "date": "2026-11-09T22:26:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772387237",
+   "rating": 1,
+   "title": "Pausing my music?",
+   "body": "Who do you think you are? You are nothing.",
+   "author": "Justin Lebrun",
+   "version": "455.0.0",
+   "date": "2026-11-09T22:11:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772386666",
+   "rating": 1,
+   "title": "take meta off Instagram",
+   "body": "y’all let meta ai ban or disable everybody accounts for no reason that’s very weird and annoying!",
+   "author": "Majski11",
+   "version": "455.0.0",
+   "date": "2026-11-09T22:11:02-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14772315662",
+   "rating": 1,
+   "title": "Worst",
+   "body": "Both my accounts have been suspended for nothing I didn’t even do anything wrong and they just suspended my account and going to permanently delete it so disappointed in \nThem 0 stars",
+   "author": "Worst part of instagram",
+   "version": "455.0.0",
+   "date": "2026-11-09T21:36:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772259999",
+   "rating": 1,
+   "title": "Dumb algorithms",
+   "body": "Too many ads",
+   "author": "AngiMyma8",
+   "version": "455.0.0",
+   "date": "2026-11-09T21:09:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772162668",
+   "rating": 1,
+   "title": "Meta should be ashamed to be called big tech - can’t even check for duplicate collection names",
+   "body": "Meta can’t even do basic software check for duplicate collection names - they are burning billions, how stupid the product team should be fired by now",
+   "author": "LRDY7",
+   "version": "455.0.0",
+   "date": "2026-11-09T20:24:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772117643",
+   "rating": 3,
+   "title": "Quit Futzing With Features",
+   "body": "Users once had the ability to tap the screen and hold it to freeze motion. This was very helpful with sub clips that were very fast paced. That feature has been removed in favor of actually pausing the video like that was an improvement. It is not because the pause function actually takes a half a second to work. this may seem like a buyer inconvenience, but it’s very annoying to not be able to stop a video to see a detail that flashes by an instant.",
+   "author": "aisleseat",
+   "version": "455.0.0",
+   "date": "2026-11-09T20:03:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772071925",
+   "rating": 5,
+   "title": "La mejor app",
+   "body": "La amo me permite llegar a mis clientes",
+   "author": "Georandis",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:44:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772017594",
+   "rating": 5,
+   "title": "Best",
+   "body": "Best",
+   "author": "Josué Urbina",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:21:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771985504",
+   "rating": 1,
+   "title": "AI Ad Nightmare",
+   "body": "It’s funny Instagram will actively figure out what you hate the most and then the ads will be only that. Literally every single ad I get now is either ai or some pro ai stuff. I truly can’t wait for the crash",
+   "author": "Pajamapants Jack",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:08:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771974563",
+   "rating": 5,
+   "title": "✅",
+   "body": "Excelente",
+   "author": "Baglio22",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:03:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771972405",
+   "rating": 5,
+   "title": "It’s the Platform",
+   "body": "It’s an everyday platform for friends, family, news and hobbies",
+   "author": "tony858",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:03:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771966749",
+   "rating": 1,
+   "title": "The false banning has to stop",
+   "body": "They false temporary banned me for being “under 16” and when i proved I was over 15 with my student id and passport they permanently banned my account and said Im under 13.. this is absurd and not the first case of this happening",
+   "author": "jxnpza",
+   "version": "455.0.0",
+   "date": "2026-11-09T19:00:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771945811",
+   "rating": 1,
+   "title": "Account banning",
+   "body": "My accounts keep getting suspended and deleted for no reason Ive been using them normally but once I make a new one it’s banned too",
+   "author": "Gordo 012",
+   "version": "455.0.0",
+   "date": "2026-11-09T18:52:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771906660",
+   "rating": 1,
+   "title": "Deleted after lied",
+   "body": "Trash humans",
+   "author": "Notatallnormal88",
+   "version": "455.0.0",
+   "date": "2026-11-09T18:37:10-07:00",
    "votes": 0
   },
   {

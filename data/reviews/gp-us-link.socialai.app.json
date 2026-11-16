@@ -1,39 +1,501 @@
 {
  "stats": {
-  "total": 2293,
+  "total": 2335,
   "avg": 3.95,
   "dist": {
-   "1": 221,
-   "2": 134,
-   "3": 286,
-   "4": 547,
-   "5": 1105
+   "1": 225,
+   "2": 137,
+   "3": 293,
+   "4": 558,
+   "5": 1122
   },
   "d7": {
-   "count": 200,
-   "avg": 4.07,
+   "count": 242,
+   "avg": 4.02,
    "dist": {
-    "1": 13,
-    "2": 8,
-    "3": 32,
-    "4": 46,
-    "5": 101
+    "1": 17,
+    "2": 11,
+    "3": 39,
+    "4": 57,
+    "5": 118
    }
   },
   "d30": {
-   "count": 1147,
+   "count": 1189,
    "avg": 3.86,
    "dist": {
-    "1": 125,
-    "2": 70,
-    "3": 169,
-    "4": 261,
-    "5": 522
+    "1": 129,
+    "2": 73,
+    "3": 176,
+    "4": 272,
+    "5": 539
    }
   },
-  "updatedAt": "2026-11-16T07:42:22+00:00"
+  "updatedAt": "2026-11-16T13:37:33+00:00"
  },
  "reviews": [
+  {
+   "id": "bc74f97b-c65a-4c4f-a439-218b123d15df",
+   "rating": 5,
+   "title": "",
+   "body": "like Twitter but no consequences",
+   "author": "Jaxon Redmon",
+   "version": "1.9.63",
+   "date": "2026-11-15T13:15:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e7eff15d-4f52-418d-98ad-f009890f0806",
+   "rating": 5,
+   "title": "",
+   "body": "This is actually fun lmao. Also theres so much ad..but overall, its fun!",
+   "author": "Kizu Mizu",
+   "version": "1.9.64",
+   "date": "2026-11-15T13:15:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a15626c1-5d67-40eb-b327-6b45ec9cf4cd",
+   "rating": 4,
+   "title": "",
+   "body": "addictive and unhinged",
+   "author": "Natasha Buchan",
+   "version": "1.9.64",
+   "date": "2026-11-15T12:58:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "505e07cc-66cc-4b06-9170-c7577b5d65f0",
+   "rating": 4,
+   "title": "",
+   "body": "so much fun",
+   "author": "Haise James",
+   "version": "1.9.64",
+   "date": "2026-11-15T12:24:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7b49987e-0b5e-4546-8fc6-31f7027611bb",
+   "rating": 1,
+   "title": "",
+   "body": "It used to be so fun when it first released but since this year it became unplayable. Stupid bugs every time I open the app despite being \"fixed\". The now added ads popping up after almost every action you do is insane and absolutely annoying. The fact that the daily limit doesn't recharge itself anymore and you literally have 5 set actions (it used to be 8!!!) a day is very disappointing. The app had it's peak for a short while but now it's just a cash grab that doesn't work well",
+   "author": "Ilona",
+   "version": "1.9.63",
+   "date": "2026-11-15T12:23:41+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6a15428b-ad83-4fb5-ab14-80e11b3030d1",
+   "rating": 2,
+   "title": "",
+   "body": "way too many ads",
+   "author": "Nicky W",
+   "version": "",
+   "date": "2026-11-15T12:17:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "be97df51-6b07-463a-a6f7-392238b5e4c9",
+   "rating": 3,
+   "title": "",
+   "body": "I have some issues with the ads and energy system. I don't mind having energy and making us watch ads to get more energy, if the ads were more infinite, because basically after every action we have to watch a ad, but then when trying to watch an ad for more energy it says there are none. Also, just the fact that after every post or comment, or milestone there being an ad is excessive. I like the app, but the ads and energy system need to be worked on.",
+   "author": "Alex",
+   "version": "1.9.64",
+   "date": "2026-11-15T12:16:33+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "89973a73-7c33-42ed-a885-af5353af2dd2",
+   "rating": 1,
+   "title": "",
+   "body": "too much ads, I could barely enjoy the game. I understand ads, but it's too much.",
+   "author": "Mikylla Francisco",
+   "version": "1.9.64",
+   "date": "2026-11-15T12:09:21+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2b139709-0eb0-4824-ae5e-d25daf10b6bd",
+   "rating": 5,
+   "title": "",
+   "body": "this is actually fun maybe make ads ro be able to use this more",
+   "author": "Jades Enigmatic",
+   "version": "1.9.64",
+   "date": "2026-11-15T11:56:29+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e40a129d-d56e-40ba-bbb9-dcd2709fccb4",
+   "rating": 4,
+   "title": "",
+   "body": "I love it so much,",
+   "author": "Gift Imuze",
+   "version": "1.9.63",
+   "date": "2026-11-15T11:51:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9a753238-434e-4e57-b835-499e2b009329",
+   "rating": 5,
+   "title": "",
+   "body": "fun! I just wish you could have more energy for free",
+   "author": "Oliver Arnold",
+   "version": "1.9.64",
+   "date": "2026-11-15T11:33:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dd478d85-a3a1-4357-96ac-c25aa934330f",
+   "rating": 1,
+   "title": "",
+   "body": "Scam",
+   "author": "daniel jeremy",
+   "version": "",
+   "date": "2026-11-15T11:31:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cf5d5677-54f1-4d6c-8e04-08181da84703",
+   "rating": 4,
+   "title": "",
+   "body": "honestly it is good.. but it was so many ads and the energys was so hard to get.. like you need to wait in 24hours until in refill and only 5 energy to get..🥹 pls change that.. we want more energyyyyy",
+   "author": "Game Account",
+   "version": "1.9.63",
+   "date": "2026-11-15T11:19:29+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "32b298dd-5eb0-4585-9aa6-da7c0d6e5ac6",
+   "rating": 2,
+   "title": "",
+   "body": "its good",
+   "author": "Kakak Becok",
+   "version": "1.9.63",
+   "date": "2026-11-15T11:16:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "6e904008-a6db-4080-83ea-11f0407d3988",
+   "rating": 5,
+   "title": "",
+   "body": "love this app down",
+   "author": "C Arriviello",
+   "version": "1.9.64",
+   "date": "2026-11-15T11:16:04+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3137c1c7-ab93-4350-bd1a-49ea67e847dc",
+   "rating": 5,
+   "title": "",
+   "body": "This is SUCH an amazing app, especially for fictionkins, or anyone who just wants to pretend their in a different universe!! 10/10 recommend!",
+   "author": "Willow Bernstone",
+   "version": "1.9.64",
+   "date": "2026-11-15T10:58:36+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e2106503-508a-43f1-a2a1-5260aef3ea9b",
+   "rating": 2,
+   "title": "",
+   "body": "i paid for the gems TWICE and didn't receive them.",
+   "author": "Eli Heart rin",
+   "version": "1.9.64",
+   "date": "2026-11-15T10:46:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "cf74d639-959c-4103-9307-446e82884cdc",
+   "rating": 4,
+   "title": "",
+   "body": "fun, don't care for the monatization strategy",
+   "author": "Abee Beeb",
+   "version": "1.9.64",
+   "date": "2026-11-15T10:42:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9cf9db39-0abd-44e9-af11-082936d024e9",
+   "rating": 3,
+   "title": "",
+   "body": "amazing! lots of ads and difficult without premium but still lots of fun",
+   "author": "Kadie",
+   "version": "1.9.64",
+   "date": "2026-11-15T10:36:12+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7d4374c7-a761-4c27-823d-b80b63bc458f",
+   "rating": 5,
+   "title": "",
+   "body": "so much fun",
+   "author": "Christel Rohe",
+   "version": "1.9.64",
+   "date": "2026-11-15T10:25:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "37e7cbe6-3331-4dc6-8c0d-5725c2b1d54c",
+   "rating": 4,
+   "title": "",
+   "body": "Pretty addictive I won't lie, although I wish the energy would refill much faster than having to wait a whole 24 hours 😭",
+   "author": "Faz Ali (Faz)",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:49:57+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3e45647d-860b-42d9-9c2a-0b7bdbc94ba6",
+   "rating": 3,
+   "title": "",
+   "body": "there starting to try and make this super family friendly, creating characters is becoming difficult because of new community guide lines even when characters are not going to be made public",
+   "author": "Jasmine E.",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:42:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "103eaa5d-5a02-43c1-98c7-9230cd404708",
+   "rating": 5,
+   "title": "",
+   "body": "Incredibly fun",
+   "author": "Camila Soltero",
+   "version": "1.9.63",
+   "date": "2026-11-15T09:40:39+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bde9f0aa-1eed-44a3-8589-543fd6909e4e",
+   "rating": 3,
+   "title": "",
+   "body": "it’s good but i wish they will be more generous with energy",
+   "author": "Venice Wryd",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:31:51+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d97bae53-d654-421d-ac4b-1ac18d3ae5f4",
+   "rating": 5,
+   "title": "",
+   "body": "doing this for Energy",
+   "author": "Tristan Cabarles",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:27:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "329584f3-68f9-4ca3-9747-b39229c1a9f5",
+   "rating": 1,
+   "title": "",
+   "body": "worst app ever. in every move you do, an ad will pop up. Also, how can u play this game for an hour (if u're not a member) if u only have 5 coins? not enjoyable at all. You cannot play this game if ur coins run out. I downloaded it cuz i thought it would be fun, but nah, it's the worst. Lastly, it keeps crashing. meh, I uninstalled it.",
+   "author": "Daniella",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:22:57+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "ccbbd6b7-ec6a-4fb5-b086-91121455cfb6",
+   "rating": 5,
+   "title": "",
+   "body": "amazing",
+   "author": "jinx dan",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:13:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "513599f8-e72a-41d1-b717-b7993aa705b0",
+   "rating": 4,
+   "title": "",
+   "body": "honestly nice, thought it'd be more low budget but has decent gameplay.",
+   "author": "Victoria Gonzalez",
+   "version": "1.9.64",
+   "date": "2026-11-15T09:05:38+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e99684f3-3c3a-4705-bdba-2910c1cda0bd",
+   "rating": 5,
+   "title": "",
+   "body": "wow",
+   "author": "Suhanah Hasim",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:58:54+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e53dbbd0-55c8-4414-96aa-165ca98405a3",
+   "rating": 5,
+   "title": "",
+   "body": "it's fun! but it's hard to enjoy it because of the energy thing :(",
+   "author": "Nurmiazara Juitabintijuni",
+   "version": "",
+   "date": "2026-11-15T08:57:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5d8da6ad-d419-4ccd-8163-2a622ce7a789",
+   "rating": 3,
+   "title": "",
+   "body": "It's an amazing game but there are so many ads and energy is really limited",
+   "author": "Chloe Sach",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:50:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fba45663-c1f6-46c5-bd02-3cdda39c2bb7",
+   "rating": 3,
+   "title": "",
+   "body": "it just got struck and I need to restart every time i post, message or do something to fix those bugs",
+   "author": "Aditya Lande",
+   "version": "",
+   "date": "2026-11-15T08:46:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "45877a71-8057-43ad-8e13-4c8fdc14938e",
+   "rating": 5,
+   "title": "",
+   "body": "amazing",
+   "author": "insanebutcheryvideos",
+   "version": "",
+   "date": "2026-11-15T08:38:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c758c2d7-0720-41cf-a5c7-a6f3a28bbc74",
+   "rating": 4,
+   "title": "",
+   "body": "i would say, this is the best app about fake social media. But, the action for every post is too low. Maybe you can give more than 5. This app is so fun.",
+   "author": "Winter Alicia",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:38:18+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c880ca80-0563-4374-999a-044addc72b12",
+   "rating": 4,
+   "title": "",
+   "body": "the stories are always so addictive and entertaining it is awesomeee",
+   "author": "Charlotte",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:22:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "184130ce-147e-4823-8f79-c1ce5718268c",
+   "rating": 4,
+   "title": "",
+   "body": "i love and enjoy the app so much but after i update it,it freeze alot.. like alot and I have to restart the app after every 3 to 5 minutes. please fix this!!",
+   "author": "Blue Ocean",
+   "version": "",
+   "date": "2026-11-15T08:21:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "b90dc57f-53ae-4418-b715-d99019f162ea",
+   "rating": 3,
+   "title": "",
+   "body": "its ok but i dislike the amount of ads i need to watch and only 5 energy limit",
+   "author": "L4ylaz ୨୧ (౨ৎl4ylaz)",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:20:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f9251b28-793f-4c12-bbe0-ab5de02b4355",
+   "rating": 4,
+   "title": "",
+   "body": "Great game, I enjoy it a lot more than I thought I would, however only getting 5 moves per day is bad. I barely get to do anything before it runs out and I am not able to pay for the subscription.",
+   "author": "Kaiah Uncles",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:01:23+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "dea38ad4-2501-41b0-bd82-27c0aaa3894d",
+   "rating": 5,
+   "title": "",
+   "body": "fun",
+   "author": "Wolfablaze",
+   "version": "1.9.64",
+   "date": "2026-11-15T08:01:19+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "fda33a2d-1488-4d7d-b038-bcb88a222ab1",
+   "rating": 5,
+   "title": "",
+   "body": "goodd",
+   "author": "Alyea Syaz",
+   "version": "",
+   "date": "2026-11-15T07:58:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5ef98a2d-e766-4ee6-9b95-0eb9acdd4a8e",
+   "rating": 5,
+   "title": "",
+   "body": "real fun",
+   "author": "Ziyad",
+   "version": "1.9.64",
+   "date": "2026-11-15T07:44:05+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d836307b-9c98-42ec-8813-988da3a31ea1",
+   "rating": 5,
+   "title": "",
+   "body": "just for the energy. really good app, though. having fun",
+   "author": "Hugo “Kenji Himura-Moshikoto” Canavarro Costa",
+   "version": "1.9.64",
+   "date": "2026-11-15T07:43:09+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "059cf932-f924-428e-84af-0b6d494a6598",
    "rating": 5,

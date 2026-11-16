@@ -1,39 +1,659 @@
 {
  "stats": {
-  "total": 2651,
-  "avg": 4.25,
+  "total": 2713,
+  "avg": 4.22,
   "dist": {
-   "1": 120,
-   "2": 84,
-   "3": 330,
-   "4": 604,
-   "5": 1513
+   "1": 133,
+   "2": 95,
+   "3": 347,
+   "4": 618,
+   "5": 1520
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 51,
+   "avg": 2.8,
    "dist": {
-    "1": 0,
-    "2": 0,
-    "3": 0,
-    "4": 0,
-    "5": 0
+    "1": 12,
+    "2": 9,
+    "3": 13,
+    "4": 11,
+    "5": 6
    }
   },
   "d30": {
-   "count": 1186,
-   "avg": 4.16,
+   "count": 1235,
+   "avg": 4.09,
    "dist": {
-    "1": 65,
-    "2": 51,
-    "3": 151,
-    "4": 281,
-    "5": 638
+    "1": 78,
+    "2": 62,
+    "3": 167,
+    "4": 291,
+    "5": 637
    }
   },
-  "updatedAt": "2026-11-16T07:42:22+00:00"
+  "updatedAt": "2026-11-16T13:37:33+00:00"
  },
  "reviews": [
+  {
+   "id": "14792825133",
+   "rating": 2,
+   "title": "To many ads.",
+   "body": "Far too many ads. If you want to play this you NEED premium. But I gave 2 stars because it is fun. Just you MUST pay to fully enjoy.",
+   "author": "SMASUCKS!",
+   "version": "1.9.64",
+   "date": "2026-11-15T00:48:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792678712",
+   "rating": 3,
+   "title": "Mid",
+   "body": "Great app, but WAY too many ads and not enough energy! And there is a limited amount of ads you can watch ti get energy back! And you can only put in ONE code",
+   "author": "Jild Lebe Duran",
+   "version": "1.9.64",
+   "date": "2026-11-14T23:49:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792325601",
+   "rating": 5,
+   "title": "Need longer prompts",
+   "body": "Love the app, been using it for months to scratch the itch. But can we please have longer world settings and character descriptions?",
+   "author": "yammy321",
+   "version": "1.9.64",
+   "date": "2026-11-14T21:19:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14792291205",
+   "rating": 4,
+   "title": "💕",
+   "body": "I LOVE this game and how everything feels so real especially when you do something that’s mean you get your consequences BUT THE ENERGY!!! It pisses me off because the adds take forever and it goes away so fast but in total a really good game",
+   "author": "Nickname235474",
+   "version": "1.9.64",
+   "date": "2026-11-14T21:05:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791397974",
+   "rating": 2,
+   "title": "Too Many Ads",
+   "body": "Every time I post something I get an ad, every time I respond to something I get an add. It’s frustrating trying to get into the game play with all these ads. Not only that but you all jacked your prices up.",
+   "author": "Moonlight871",
+   "version": "1.9.64",
+   "date": "2026-11-14T15:31:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789651994",
+   "rating": 4,
+   "title": "Would be a cool feature to add a duplicate system or branch off",
+   "body": "Like lets say im super far into one of my worlds and i want to like branch of so i could make a duplicate of that world so I can have each of them progress into a different direction like lets just say for a f1 world in the original i keep on driving as a driver but in. The branched off one/Duplicate one I retire so i can have 2 different outcomes without permanently affecting my only story",
+   "author": "Who took my name bro",
+   "version": "1.9.64",
+   "date": "2026-11-14T06:20:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788696672",
+   "rating": 3,
+   "title": "Wow",
+   "body": "DELETE THE ADS OMG ITS NOT EVEN A PROBLEM ACTUALLY BUT WHY IS EVERYTHING LIMITED",
+   "author": "cupidzz!!",
+   "version": "1.9.64",
+   "date": "2026-11-14T01:03:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788628853",
+   "rating": 5,
+   "title": "67",
+   "body": "Amo este juego pero es tan aburrido cuando me quedo sin energia y gemas e no puedo cargar mas videos para conseguir energia 10/10",
+   "author": "Oliver💗💗",
+   "version": "1.9.64",
+   "date": "2026-11-14T00:37:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788559976",
+   "rating": 1,
+   "title": "Costs too pricey",
+   "body": "Everything in this app costs money. Like cmon now it’s so annoying. If you have money to waste then this will be an okay app but if you don’t then I suggest looking for something better and not a money grabbing app",
+   "author": "nelsi c",
+   "version": "1.9.64",
+   "date": "2026-11-14T00:10:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787051623",
+   "rating": 1,
+   "title": "too many ads",
+   "body": "i had this app a couple years ago and i loved it so i decided to download it back. but now there are way to many ads. you get an ad after every action you do which ruins the gameplay. they offer an ad free subscription but its way too expensive and not worth spending money on. please either have an option where you can pay to remove the ada without having to subscribe or remove the ads completely",
+   "author": "Trenayhodge",
+   "version": "1.9.64",
+   "date": "2026-11-13T14:24:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786840893",
+   "rating": 2,
+   "title": "Pay to win",
+   "body": "Charges over everything",
+   "author": "imkira67",
+   "version": "1.9.64",
+   "date": "2026-11-13T13:06:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786825187",
+   "rating": 2,
+   "title": "Good but bad",
+   "body": "It’s fun for like 10 mins then the ads go from moderately ok to super annoying every 3 seconds not enjoyable and the payment options are to pricy and horrible. So I will be uninstalling this app after this and moving on. Other than that its a good concept and could have been a great app",
+   "author": "darksky3673844637",
+   "version": "1.9.64",
+   "date": "2026-11-13T13:01:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786564286",
+   "rating": 5,
+   "title": "Cool",
+   "body": "Yo thats a cool app, its so sad that there’s limit, im poor and couldnt afford a subscription🥲The ads stopped working after sometime idk why i tried reinstalling",
+   "author": "Сахарная гнома",
+   "version": "1.9.64",
+   "date": "2026-11-13T11:29:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786365170",
+   "rating": 1,
+   "title": "fix it",
+   "body": "nothing works i get sent out of this app as soon as i try create the world",
+   "author": "maxshmeyt",
+   "version": "1.9.64",
+   "date": "2026-11-13T10:22:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14786240397",
+   "rating": 3,
+   "title": "NSFW on a app marked as 13+. Change the age to 18+.",
+   "body": "This app is marked as 13+ and it should be changed to 18+ i found some bots that have adult themes and basically nsfw profiles.",
+   "author": "(DATAREDACTED)",
+   "version": "1.9.64",
+   "date": "2026-11-13T09:43:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14785280148",
+   "rating": 4,
+   "title": "Fun but it pigeonholes you",
+   "body": "The app is really fun and the characters in release stay true to the personality. The only issue I have is that no matter what universe I go to, whatever character I created is supposedly an agent of chaos and that’s not the type of character I want to play.  Even if I specifically interact with the calmest character and choose the most diplomatic or reasonable decisions.",
+   "author": "Duebeam",
+   "version": "1.9.63",
+   "date": "2026-11-13T05:04:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14784401945",
+   "rating": 4,
+   "title": "Es bueno",
+   "body": "Hay que pagar por todo, solo te dan 5 rallos y de bono 8 y si se acaban pues espera media hora y ni crean que eso pasa rápido, bueno en cada publicación que se hace es un anuncio y cuando quieras ver una animación para obtener un rallito, no hay ósea hasta en eso hay límites y creo que es 5 o más pero solo te dan 1 eso y ya, ya se que hay que ganarle algo pero que hay de los que no tienen patata, eso no quita que muy bueno.",
+   "author": "Ruiz mari",
+   "version": "1.9.63",
+   "date": "2026-11-12T23:32:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783996506",
+   "rating": 3,
+   "title": "PAY WALL TO ENJOY",
+   "body": "It’s a good game, but I hate the pay wall you need to get past to actually enjoy the game—even then, it tries to make you upgrade to a more expensive level to have more energy / better perks. \n\nSo many ads, takes forever to actually load. Very buggy. Overall disappointing. Cute concept, though.",
+   "author": "Evangelina Summers",
+   "version": "1.9.63",
+   "date": "2026-11-12T20:24:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783702061",
+   "rating": 4,
+   "title": "Go back to the old layout",
+   "body": "Do NOT make it into a subscription service, that will degrade the quality of your app and drive away your OG users of this all. I promise I know what im saying! \n Update: I subscribe to it, your feed people scraps, this alp is such a scam but i love it",
+   "author": "Jadexinsane",
+   "version": "1.9.63",
+   "date": "2026-11-12T18:24:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782861211",
+   "rating": 1,
+   "title": "No thanks",
+   "body": "This is HORRIBLE. TO MANY ADDS AND JUST NOT ENOUGH ENERGY! I only used once and got to annoyed.",
+   "author": "Finnplays_mc",
+   "version": "1.9.63",
+   "date": "2026-11-12T13:06:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782793253",
+   "rating": 4,
+   "title": "If you have money, sure.",
+   "body": "I think this app is really good and fun.this app needs a tutorial when first downloading this app. It’s very overwhelming, especially when you don’t know what to do.",
+   "author": "Nyiathagamer",
+   "version": "1.9.63",
+   "date": "2026-11-12T12:41:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14782481146",
+   "rating": 3,
+   "title": "Good but",
+   "body": "The games fine but the limits and ads are way too much for a average game",
+   "author": "JacobThePainter",
+   "version": "1.9.63",
+   "date": "2026-11-12T10:52:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781860086",
+   "rating": 1,
+   "title": "Potential held back by monetizing",
+   "body": "The app could be very fun, and had potential to be quite engaging, but it has ridiculously aggressive monetization that destroys what enjoyment I had with it.\nThe whole thing functions on an energy system, but you only get five actions a day unless you pay for a subscription which isn’t nearly enough.\nYou can technically watch ads for more energy yes, but they made you have a limited supply of ads per day so you can only get one or two extra energy through this method. And on top of that, a forced ad plays after every other message or so, which also comes from that same ad pool. Which is completely ridiculous.\nHonestly it’s really disappointing to see since the app had a pretty novel concept and presentation, but it seems like it’s more focused on making a quick buck than an actual quality product. I doubt this is going to be changed, so I recommend not downloading this.",
+   "author": "muoheycs",
+   "version": "1.9.63",
+   "date": "2026-11-12T07:37:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14781833012",
+   "rating": 2,
+   "title": "мда",
+   "body": "нет, вы не заставите меня купить вашу никому не нужную подписку, сокращая возможность получать действия за рекламу",
+   "author": "онигирь",
+   "version": "1.9.63",
+   "date": "2026-11-12T07:29:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780944948",
+   "rating": 1,
+   "title": "This game is a pay to play",
+   "body": "Everything about this game is perfect, but the fact that we can only use it for 15 minutes a day because you need to wait for energy is so OVERLY annoying it’s not even funny. If they changed it so we would have 15-20 a day, if there was infinite ads without the wait limit, and it refills every 2 hours, the game would be WAYY better. But instead we get this pay to play bs and for the people that don’t give money to this game, the fact that we have to have a streak of 3 days to get ONE EXTRA ENERGY???? Also what’s with the ads during the game? You mean to tell me you can’t give us ads to get bonus energy but you can easily find 100+ of them when I’m in the middle of posting? That makes no sense at all, you guys need to make your ratings low and tank the overall rating. If you don’t then they’re never going to do anything about it.",
+   "author": "$0FlA",
+   "version": "1.9.63",
+   "date": "2026-11-12T02:51:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780592772",
+   "rating": 4,
+   "title": "fun game",
+   "body": "it’s a fun app and i enjoy playing. I paid for the $40 a year plan, and I still feel like I can’t even play the game often because something is simple as one reply takes a whole energy, and it only gives me 10 a day :(",
+   "author": "keyelise",
+   "version": "1.9.63",
+   "date": "2026-11-12T00:22:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14780300056",
+   "rating": 2,
+   "title": "love the idea, hate the energy portion",
+   "body": "I like the chaotic storyline that we can create but let’s talk about the energy. I understand this game is trying to make money but why do we have to pay 8$ per week for a refresh of 50 energies in one day. I think it should be unlimited if we pay. it’s ridiculous.",
+   "author": "semii88",
+   "version": "1.9.63",
+   "date": "2026-11-11T22:07:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779877409",
+   "rating": 4,
+   "title": "Great just expensive",
+   "body": "I’m used to playing MEChat and paying there $60 for a full year why is it 200 a year???",
+   "author": "MsSinatra",
+   "version": "1.9.63",
+   "date": "2026-11-11T18:59:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779713747",
+   "rating": 2,
+   "title": "Fun but the pricing",
+   "body": "Fun but the pricing is insane. I’d pay 5$ a month not like $30-40$",
+   "author": "bhfgjbgt",
+   "version": "1.9.63",
+   "date": "2026-11-11T17:57:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779680587",
+   "rating": 5,
+   "title": "Este juego para yumechipers es muy bueno y facil de usar lo amo",
+   "body": "Pero la verdad es muy bueno te amo estatus cásate conmigo 👀💜",
+   "author": "Estatus te amo besame",
+   "version": "1.9.63",
+   "date": "2026-11-11T17:44:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779547878",
+   "rating": 3,
+   "title": "Money is the issue",
+   "body": "I actually really enjoy this app and the concept of what it does. My issue? The energy system and the ads. Putting an ad every SINGLE time you post is a little over kill. I understand why ads exist in an app, but it would be more manageable for a person who’s playing for free to receive an ads every few posts and not just one. Not to mention the energy system is ridiculous when you’re poor, you barely get any, then you have to wait HOURS for it to get refilled, you watch ads to get energy and then at some point they run out for who knows how long and then the app is completely unusable. Not to mention, the prices for plus and the little amount of energy you still get. I know i’m not the only one having this problem, and I wish that the energy system was better. :|",
+   "author": "clushiflushi",
+   "version": "1.9.63",
+   "date": "2026-11-11T16:55:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14779024656",
+   "rating": 3,
+   "title": "pro’s & con’s",
+   "body": "reeeally fun but the limitation on ads makes it a little unplayable",
+   "author": "jkdxo",
+   "version": "1.9.63",
+   "date": "2026-11-11T13:39:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778834809",
+   "rating": 3,
+   "title": "Ads",
+   "body": "Game got so popular they put a paywall behind it 😭it was fun while it lasted",
+   "author": "Leli-s",
+   "version": "1.9.63",
+   "date": "2026-11-11T12:31:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778682985",
+   "rating": 1,
+   "title": "Energy Recharge System & Plus Subscriptions",
+   "body": "This game has so much potential, but its biggest downfall for me is the energy recharge system. It takes entirely too long. There’s so much to do and explore, yet 5 energy simply isn’t enough. On top of that, the Plus subscription costs an arm and a leg.\n\nDon’t get me wrong, the game is fun, but eventually it becomes tiresome. You’re constantly waiting around for energy just to continue playing. At that point, it starts feeling less like a game and more like a waiting game. Will be deleting it due to those ongoing issues.",
+   "author": "YnvShayy",
+   "version": "1.9.63",
+   "date": "2026-11-11T11:40:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776855806",
+   "rating": 4,
+   "title": "😭",
+   "body": "That’s really cool, but could you add Russian?😭😭😭",
+   "author": "s0ld0uT",
+   "version": "1.9.63",
+   "date": "2026-11-11T02:22:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776650922",
+   "rating": 5,
+   "title": "luvvv this",
+   "body": "luvvv status🤍",
+   "author": "Yan3lire",
+   "version": "1.9.63",
+   "date": "2026-11-11T00:57:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14776604168",
+   "rating": 2,
+   "title": "Too many ads",
+   "body": "The OG ver was better",
+   "author": "Toodahaz",
+   "version": "1.9.63",
+   "date": "2026-11-11T00:36:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775427565",
+   "rating": 3,
+   "title": "Meh",
+   "body": "I think if you pay weekly you should at least get unlimited energy that’s a shame I guess Ill go back to Poly",
+   "author": "Can’t review 69",
+   "version": "1.9.63",
+   "date": "2026-11-10T16:19:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14775207000",
+   "rating": 1,
+   "title": "Super fun, but ads and glitchy",
+   "body": "This game is so fun. But there’s an AD after every action. The free version only gives you 5 energy per day. Watch 1 minute ads to get 1 energy. 1 energy is one action, oh and after that action you’ll watch another 15-30 second ad. It’s riddled with them. It’s also very glitchy and a lot of times after 2 actions everything freezes and you have to close the app.",
+   "author": "Silent white ninja",
+   "version": "1.9.63",
+   "date": "2026-11-10T14:54:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14774025598",
+   "rating": 4,
+   "title": "It’s fun but a problem..",
+   "body": "So this app is fun and all and I like it, but the need of energy is draining me, the ads are annoying, you have to pay to get more energy and etc, and it’s kind of throwing me off, might take a break from this.",
+   "author": "imslowlyforgetingyourface",
+   "version": "1.9.63",
+   "date": "2026-11-10T08:11:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772632522",
+   "rating": 1,
+   "title": "Fix your app",
+   "body": "Downloaded and instantly removed it, energy refill is actually bogus. And $200 to spend? Frozen also",
+   "author": "Yourfaceismessedup",
+   "version": "1.9.63",
+   "date": "2026-11-10T00:09:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772573390",
+   "rating": 3,
+   "title": "freaking ad central bro",
+   "body": "i really like this game, i’ve been playing it for a very long time now, but the ads are getting annoying. Originally the only annoying thing was that you only get 5 energy a day, but they changed it to 20 minutes which i think is a good improvement. but the ads… i understand the need to make a profit on your app, but the ads are genuinely just unbelievable. i feel like i make one move and there’s an ad. unfortunate, but i don’t think i’m gonna be playing this until the ads aren’t as annoying 🫩🫩",
+   "author": "be so serious lol",
+   "version": "1.9.63",
+   "date": "2026-11-09T23:40:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772185007",
+   "rating": 4,
+   "title": "Oh my goodness the ads…",
+   "body": "This app is very fun! But there are so many ads oh my goodness. There is genuinely no need for THIS many ads. I deleted this app because of how many ads there were (but the addiction comes back every now and then so I redownload it). If there were less ads and maybe no energy things I would be using this app CONSTANTLY. On the toilet, in the shower, at a pumpkin patch, in the store, at Disneyland (you get the point. So PLEASE reduce the ads…THANK YOUUUU :D",
+   "author": "Bri!! :)",
+   "version": "1.9.63",
+   "date": "2026-11-09T20:34:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772130925",
+   "rating": 3,
+   "title": "Good but greedy",
+   "body": "It’s a fun app but the system is very greedy the amount of time you have to wait for energy refills is absurd as well how hard it is to get energy and the options for plus/more energy aren’t cheap in the slightest",
+   "author": "Seri-an",
+   "version": "1.9.63",
+   "date": "2026-11-09T20:09:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771935646",
+   "rating": 1,
+   "title": "Ads.",
+   "body": "Literally doing anything gets you an ad, post? Ad. Comment? Ad. Like? Ad. \n\nLike holy smokes it’s actually awful.",
+   "author": "stankyryan",
+   "version": "1.9.63",
+   "date": "2026-11-09T18:48:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771668082",
+   "rating": 1,
+   "title": "Downloaded just to delete an hour later",
+   "body": "The game is fun, but riddled with ads on the free version and the plus version is incredibly expensive just to be throttled with how much you can use it still 🙄 cash grab anyone?",
+   "author": "EMHopsxo",
+   "version": "1.9.63",
+   "date": "2026-11-09T17:06:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771209510",
+   "rating": 5,
+   "title": "hi",
+   "body": "its like the best app ever \nits so fun and actually makes u feel like ur ina different world, im obsessed.",
+   "author": "noche🌑😴",
+   "version": "1.9.63",
+   "date": "2026-11-09T14:10:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14771023074",
+   "rating": 3,
+   "title": "i mean it’s okay",
+   "body": "honestly, my complaints are just what you’ve already seen. the energy limit is annoying. i understand it, but limiting it to five is annoying. same with the limited ads for extra energy, saying there’s no more to show while also giving me ads after that for nothing😅😅😅",
+   "author": "dawgamigo",
+   "version": "1.9.63",
+   "date": "2026-11-09T13:00:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14770634440",
+   "rating": 2,
+   "title": "freezes",
+   "body": "this app freezes constantly. the ai forgets things and becomes repetitive. i love the premise but it needs a lot of work. i won’t be renewing my subscription.",
+   "author": "Itsrainingangels",
+   "version": "1.9.63",
+   "date": "2026-11-09T10:43:52-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14770415238",
+   "rating": 1,
+   "title": "Lots of afd",
+   "body": "A ton of ads",
+   "author": "Najabenali1",
+   "version": "1.9.63",
+   "date": "2026-11-09T09:32:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14770305752",
+   "rating": 3,
+   "title": "I like it",
+   "body": "This app is great i love it and it’s honestly kinda addicting, but the only problem is how you only get 5 energy and theres only a few ads you can watch to regain it which is pretty annoying.",
+   "author": "Yurii.taisuu👽",
+   "version": "1.9.63",
+   "date": "2026-11-09T08:57:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14768967691",
+   "rating": 2,
+   "title": "fun, until the ads took over",
+   "body": "i miss when this game was pretty much ad free, or less ad apparent, before you could send out multiple tweets and never have any problems with ads. now it’s an ad every tweet and it’s honeslty really annoying. i don’t find this game as fun as it was before, at least with the previous version you could still play the game without be suffocating with ai ads every second. I miss when they were only used when you were trying to earn more energy points. now they’re everywhere. very annoying!!",
+   "author": "Mysterious Jayla",
+   "version": "1.9.63",
+   "date": "2026-11-09T01:28:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14768909619",
+   "rating": 3,
+   "title": "Horrible..",
+   "body": "I don’t mind the ads. But you get like 5 minutes of playing on the free version and BAM you’ve reached the limit. Fix your app!!!",
+   "author": "chuu.x",
+   "version": "1.9.63",
+   "date": "2026-11-09T01:01:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14768255237",
+   "rating": 5,
+   "title": "I LOVE THIS GAME BUT",
+   "body": "I’m begging you to make an option to delete posts",
+   "author": "rekink",
+   "version": "1.9.63",
+   "date": "2026-11-08T19:51:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14768105694",
+   "rating": 1,
+   "title": "Uninstalling",
+   "body": "Been waiting all day for my energy to recharge and it hasn’t .  There enough ads on this app and I don’t want to watch another one . And 200 a year for a subscription is ridiculous. The devs should be ashamed of themselves. \nUninstalling",
+   "author": "Autistic gamer girl",
+   "version": "1.9.63",
+   "date": "2026-11-08T18:49:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14767673755",
+   "rating": 2,
+   "title": "Not enough actions",
+   "body": "Don’t get me wrong I love it, but everything runs out within seconds specially if you don’t pay",
+   "author": "♡︎𝘴𝓽𝘳ꪖ᭙᥇ꫀ𝘳𝓽ꪗ♡︎",
+   "version": "1.9.63",
+   "date": "2026-11-08T16:01:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14767665914",
+   "rating": 4,
+   "title": "Group chats please!!",
+   "body": "I NEED YOU GUYS TO ADD GROUP CHATS FOR THE CHARACTERS!! IT WLULD BE SO MUCH BETTER",
+   "author": "AlessandraM127",
+   "version": "1.9.63",
+   "date": "2026-11-08T15:58:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14767347001",
+   "rating": 4,
+   "title": "Needs to be free",
+   "body": "Very fun and addicting game but kind of ridiculous to have to pay to play",
+   "author": "PapiFlame",
+   "version": "1.9.63",
+   "date": "2026-11-08T13:57:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14766549836",
+   "rating": 4,
+   "title": "Why can’t I watch ads?",
+   "body": "Okay so I just got this app and I love it so far!! But the thing that’s upsetting me is that I can’t watch any ads. It tells me that there are no available ads in my region but when I post something, it gives me an ad. It doesn’t make sense. How are you gonna tell me theres no available ads and then give me an ad?",
+   "author": "Will literally NOT open",
+   "version": "1.9.63",
+   "date": "2026-11-08T09:38:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14766496720",
+   "rating": 3,
+   "title": "Ads",
+   "body": "I love the game, and i’m fine with watching ads to get more energy but everytime i try too it says no ads in me region are available. but yet ads still play just not when i can get more energy.",
+   "author": "it's unicorn here",
+   "version": "1.9.63",
+   "date": "2026-11-08T09:23:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14765493497",
+   "rating": 3,
+   "title": "It’s okay",
+   "body": "This app is okay. It breaks the story a little too often, like the characters forget they have a kid or that they are married",
+   "author": "keeka05",
+   "version": "1.9.63",
+   "date": "2026-11-08T04:31:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14764878349",
+   "rating": 3,
+   "title": "Energy refill 3.5stars",
+   "body": "The game overall is fun and I enjoy it. But the refills of the energy isn’t fair. For a whole refill it takes a whole day basically which is ridiculous. If one energy took one hour I’d understand. You can get an energy by watching a ad but those ads aren’t even always available.",
+   "author": "Katy_^_^123",
+   "version": "1.9.63",
+   "date": "2026-11-08T00:39:46-07:00",
+   "votes": 0
+  },
   {
    "id": "14764497803",
    "rating": 3,

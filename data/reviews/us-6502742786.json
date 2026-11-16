@@ -1,39 +1,129 @@
 {
  "stats": {
-  "total": 537,
-  "avg": 2.81,
+  "total": 546,
+  "avg": 2.83,
   "dist": {
    "1": 156,
-   "2": 80,
+   "2": 81,
    "3": 113,
-   "4": 87,
-   "5": 101
+   "4": 90,
+   "5": 106
   },
   "d7": {
-   "count": 0,
-   "avg": null,
+   "count": 8,
+   "avg": 4.25,
    "dist": {
     "1": 0,
-    "2": 0,
+    "2": 1,
     "3": 0,
-    "4": 0,
-    "5": 0
+    "4": 3,
+    "5": 4
    }
   },
   "d30": {
-   "count": 22,
-   "avg": 2.91,
+   "count": 31,
+   "avg": 3.32,
    "dist": {
     "1": 6,
-    "2": 3,
+    "2": 4,
     "3": 5,
-    "4": 3,
-    "5": 5
+    "4": 6,
+    "5": 10
    }
   },
-  "updatedAt": "2026-11-16T07:42:20+00:00"
+  "updatedAt": "2026-11-16T13:37:10+00:00"
  },
  "reviews": [
+  {
+   "id": "14791010274",
+   "rating": 5,
+   "title": "love",
+   "body": "I really like the app it’s super fun and it really feels like it’s real people you’re talking to and the way they engage is really on point but unfortunately, I just want to subscribe for a month rather than an entire year and I don’t know how to do that I don’t know if you can do that so if there’s a way to do that, that’s lovely but I have no idea how and if there isn’t please make it so that I can buy just for one month and then if I wanna buy more, I’ll do that, but I don’t wanna have to pay for one entire year",
+   "author": "loonaia",
+   "version": "1.121",
+   "date": "2026-11-14T13:06:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790267198",
+   "rating": 2,
+   "title": "Buggy",
+   "body": "Have made three original characters and was not given any gold",
+   "author": "NolanLchesswiz",
+   "version": "1.121",
+   "date": "2026-11-14T09:10:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788440419",
+   "rating": 4,
+   "title": "Love it!",
+   "body": "It’s very realistic and cool, everything seems so real but the only thing is if you’re not pro you have to wait a bit and it can be a bit annoying when you get into it but hey to me it’s fine! :)",
+   "author": "Yannakat",
+   "version": "1.121",
+   "date": "2026-11-13T23:21:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14788282447",
+   "rating": 5,
+   "title": "Love it! Really fun!",
+   "body": "This is amazing and just fun to simulate the vibe of social media without the pressures of real people tbh. The engagement with the AI feels pretty real! The only complaint is the limitations unless you pay for a subscription, otherwise really good app!",
+   "author": "AgentUser45",
+   "version": "1.121",
+   "date": "2026-11-13T22:14:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14787637960",
+   "rating": 4,
+   "title": "Good but limiting as a paid user",
+   "body": "Overall the app does a fantastic job at making realistic world building with our characters. Thank you for adding the group chat feature. \n\nHowever there is a limitation on earning gold. It would be nice if there was a daily check in to accrue gold after a certain number of days of consistently using the app. Or the ability to watch ads to accrue gold. \n\nOther apps already have an ad based system to unlock gem / gold benefits for users while keeping the app running. Would be great to see this implemented in a future update.",
+   "author": "Jadesy0214",
+   "version": "1.121",
+   "date": "2026-11-13T17:59:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14783194459",
+   "rating": 4,
+   "title": "Very well made, but the free version is not good.",
+   "body": "While I understand wanting your hard work to be compensated, and needing cash to pay for the AI servers,  making the free version so limiting that you only get to send a handful of messages/replies is a very obvious cash grab, and it will divert people away from your app. Additionally, it just makes the game boring, so it loses its appeal. Otherwise, this is SUPER well made, and you can tell a lot of hard work was put into it! I would reccomend it but warn others of the short time allowed.",
+   "author": "Bigjuicyblacktatertots",
+   "version": "1.120",
+   "date": "2026-11-12T15:12:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14778718798",
+   "rating": 5,
+   "title": "video support?",
+   "body": "i love this app it makes me a little bit sad that the only thing you can put on this are photos",
+   "author": "Walten45YT",
+   "version": "1.120",
+   "date": "2026-11-11T11:52:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14772165659",
+   "rating": 5,
+   "title": "wow",
+   "body": "This app is amazing!! The creators did what they had to do!! It’s just I have the free version and I can’t really do anything, I have limited messages, they won’t message me first and I know that’s apart of the non free version I just think that there shouldn’t be a free and a non free version because then more and more people will start giving this app the attention it deserves it’s honestly so cool I just wish we had unlimited stuff to do and we could post stories because I feel like the limited option for the free version is frustrating but I love this app!",
+   "author": "Jsjdjd jdjdjd",
+   "version": "1.119",
+   "date": "2026-11-09T20:25:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14768789829",
+   "rating": 5,
+   "title": "Love the game",
+   "body": "Absolutely love the game I just wish the characters you create/make could talk to each other and or follow each other so you can make them interact",
+   "author": "Keek$s",
+   "version": "1.119",
+   "date": "2026-11-09T00:05:30-07:00",
+   "votes": 0
+  },
   {
    "id": "14753075645",
    "rating": 5,

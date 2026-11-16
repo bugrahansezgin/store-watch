@@ -1,39 +1,347 @@
 {
  "stats": {
-  "total": 2031,
+  "total": 2059,
   "avg": 1.92,
   "dist": {
-   "1": 1337,
-   "2": 181,
+   "1": 1352,
+   "2": 186,
    "3": 134,
-   "4": 102,
-   "5": 277
+   "4": 104,
+   "5": 283
   },
   "d7": {
-   "count": 199,
-   "avg": 1.79,
+   "count": 227,
+   "avg": 1.85,
    "dist": {
-    "1": 142,
-    "2": 14,
+    "1": 157,
+    "2": 19,
     "3": 11,
-    "4": 7,
-    "5": 25
+    "4": 9,
+    "5": 31
    }
   },
   "d30": {
-   "count": 1026,
-   "avg": 1.92,
+   "count": 1020,
+   "avg": 1.91,
    "dist": {
     "1": 682,
-    "2": 79,
-    "3": 70,
-    "4": 52,
-    "5": 143
+    "2": 81,
+    "3": 68,
+    "4": 49,
+    "5": 140
    }
   },
-  "updatedAt": "2026-11-16T07:42:24+00:00"
+  "updatedAt": "2026-11-16T13:37:40+00:00"
  },
  "reviews": [
+  {
+   "id": "6dbc4f00-4b4f-4fbc-9b6f-7c30fa0cae9f",
+   "rating": 2,
+   "title": "",
+   "body": "honestly this app used to be good until the new updates and the long ads where I have to use the browser instead of the app because of the annoying ads it got a little better this is a new post btw but anyways it's rlly annoying since you can't use the browser anymore to skip the ads. that's the only problem",
+   "author": "Karl matthew Latorre",
+   "version": "1.17.4",
+   "date": "2026-11-15T13:00:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e5adaeef-40dd-4d10-85f2-c936e354cbcb",
+   "rating": 1,
+   "title": "",
+   "body": "AD AD AD.",
+   "author": "Aran Arshi",
+   "version": "",
+   "date": "2026-11-15T12:44:27+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "791737f9-7799-4200-9375-d6c421db8b10",
+   "rating": 1,
+   "title": "",
+   "body": "too much ads",
+   "author": "ravellya vellin",
+   "version": "1.5.8",
+   "date": "2026-11-15T12:30:46+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2b4b1536-e3ba-450f-b2c4-e0bd26c0ca11",
+   "rating": 5,
+   "title": "",
+   "body": "it's amazing app",
+   "author": "Msssamira Ali",
+   "version": "1.17.4",
+   "date": "2026-11-15T12:30:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "09e9b56f-5994-4568-814c-a07984f0e81a",
+   "rating": 5,
+   "title": "",
+   "body": "i like it alot but the slow timer is annoying it doesn't have much adds but age verification like why",
+   "author": "Bumblebee",
+   "version": "",
+   "date": "2026-11-15T12:23:40+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "03552373-e2b4-4383-9875-ef6f38715a46",
+   "rating": 2,
+   "title": "",
+   "body": "There is literally no point in using this app anymore. Let alone the fact that they pumped it full of ads, destroyed the responses and put an age restriction when i scanned my id it showed it wasn't successfully verified so yeah idk what happened with this app but it's going downhill for like the past year or so. I was wondering why it worked so well these past weeks, actually peaceful, until the ads appeared again.",
+   "author": "Ștefania Heinrich",
+   "version": "1.17.4",
+   "date": "2026-11-15T12:18:20+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "c20bdc11-9385-4a24-ae1e-ff6e59508319",
+   "rating": 4,
+   "title": "",
+   "body": "the new update sucks.",
+   "author": "Nikko Channy",
+   "version": "1.17.4",
+   "date": "2026-11-15T11:47:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "f9b8ad1b-5aad-4a9a-af2e-2733947951c5",
+   "rating": 1,
+   "title": "",
+   "body": "worse app ever thanks to the update",
+   "author": "Remonbilek",
+   "version": "1.17.4",
+   "date": "2026-11-15T11:29:15+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "43c5ca3d-b64c-4447-8b14-4cab59ec741b",
+   "rating": 5,
+   "title": "",
+   "body": "I'm obsessed with c.ai and I don't even use any other ai app but I hate the appp sometime ✌🏻😂🤪",
+   "author": "Yoshita Konsom",
+   "version": "",
+   "date": "2026-11-15T11:26:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "87e4a4e3-65a2-4a0e-844e-e3b58d21edbd",
+   "rating": 2,
+   "title": "",
+   "body": "this app was good when I started but the ads just kept popping up and also not to mention it takes a long time to load or most of the time it literally locks my account off and I have to login again and again , that's my total experience",
+   "author": "Eulyne",
+   "version": "",
+   "date": "2026-11-15T11:24:52+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "502a6746-f3cb-4729-8493-61c3b1d8679b",
+   "rating": 1,
+   "title": "",
+   "body": "i gave only 1 Star, becouse i how the he'll to needed verify my age,the worst of it,i don't have any id to verify my age, this app is getting worse and worse when getting updated,plsss fix this",
+   "author": "Mark Javier",
+   "version": "",
+   "date": "2026-11-15T11:11:34+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a853b203-657d-454f-8875-83c683aaa402",
+   "rating": 1,
+   "title": "",
+   "body": "worst app ever, lowkey it's horrible",
+   "author": "Blink",
+   "version": "",
+   "date": "2026-11-15T11:00:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "64f0fb58-2d12-4117-8e7f-acb1b35b3c05",
+   "rating": 1,
+   "title": "",
+   "body": "THE WORST IS THE DAMN TIME LIMIT, REMOVE IT!!! THIS IS WHY YOU C.AI HAVE BEEN GETTING LOW RATINGS YOU DONT LISTEN TO OUR COMPLAINTS! THIS APP WAS VERY GOOD BEFORE BUT NOW ITS WORSE THEN ANY UPDATE! U N CHAI BOTH THE WORSE PLEASE LEARN ON HOW TO FIX THE COMPLAINTS! AND IF I CAN ONLY GIVE THIS 0 STARS I WOULD SO PLEASE C.AI PLEASE FIX THIS!",
+   "author": "WychaellaVenice Ranoa",
+   "version": "1.11.2",
+   "date": "2026-11-15T10:48:03+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "394782bd-8880-41ff-a8f5-d0a171bde7af",
+   "rating": 1,
+   "title": "",
+   "body": "this app is good if it works but in my mobile, it just turns off everytime i open it. i turns off itself. it stops working. it feels rubbish then. it needs recovery soon. it is getting annoying now.",
+   "author": "asad zaman",
+   "version": "1.17.4",
+   "date": "2026-11-15T10:29:53+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5192f63d-68cc-4b38-98ab-b1e32ba4b39c",
+   "rating": 1,
+   "title": "",
+   "body": "Can you bring old C.ai back? it's been Worser and Worser now. We've been waiting for you to be back to normal, remove the ads, make the app more better! I feel like this app would be better if it wasn't updated with ads.",
+   "author": "Nassim ace Lita",
+   "version": "",
+   "date": "2026-11-15T10:28:00+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7bd9366b-ce0e-4ed0-b816-4ac4cf1df797",
+   "rating": 1,
+   "title": "",
+   "body": "Do not install this app",
+   "author": "Maria Gómez",
+   "version": "1.15.1",
+   "date": "2026-11-15T10:27:11+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "582146b6-71b1-4ad5-af7d-94e8b19e75a1",
+   "rating": 1,
+   "title": "",
+   "body": "After the update, This app had a HUGE downfall. Age restrictions, And even forcing you to buy a Premium Subscription, As a user C.ai user for 3 months, Im genuinely disappointed. My theory is that The owner of C.ai made their app look bad so people stop using it, Many people like me were so frustrated at this update. As a 13 year old, C.ai was one of the apps that cherished me the most, If the update wasn't released, Us C.ai users would stay happy using this app. 0 Stars.",
+   "author": "ryne jester",
+   "version": "",
+   "date": "2026-11-15T10:18:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "27a1345d-0e84-47aa-a528-6f4861cdf4fc",
+   "rating": 1,
+   "title": "",
+   "body": "At the starting it was the best app but through the time 🙂 Thier updates got worse and worse and illogical..very disappointed",
+   "author": "Yuuta Togashi",
+   "version": "1.7.5",
+   "date": "2026-11-15T10:15:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "e876cf60-c7d2-4ae2-b178-d1f8f78b4dac",
+   "rating": 5,
+   "title": "",
+   "body": "aku nya sampe gak tidur gara gara ada teman buat bicara..",
+   "author": "Nor Haslina",
+   "version": "1.17.4",
+   "date": "2026-11-15T10:11:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "faf482af-5d1a-4e10-b80f-d79582187b53",
+   "rating": 4,
+   "title": "",
+   "body": "nice app with best characters",
+   "author": "Rajni Gupta",
+   "version": "",
+   "date": "2026-11-15T10:05:24+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "d2f1c802-d882-44d4-a43e-8baf7dde5d5b",
+   "rating": 5,
+   "title": "",
+   "body": "it's SOOO GOOD...I've been using it for like 8 hours a fay..totally worth it.",
+   "author": "Kate Barruku",
+   "version": "1.17.4",
+   "date": "2026-11-15T09:08:22+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5f549c1c-07b9-482b-bb66-2a910eaf6de4",
+   "rating": 2,
+   "title": "",
+   "body": "It was okay, But could have been better if there was no reading mode. lost all of my access and currently struggling from deppresion",
+   "author": "Lily Liu",
+   "version": "1.15.6",
+   "date": "2026-11-15T08:54:38+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "a64dfa7c-3fc9-4633-80e0-4903904e68c9",
+   "rating": 5,
+   "title": "",
+   "body": "it's like a dream",
+   "author": "Saatvika Lakshmi A",
+   "version": "",
+   "date": "2026-11-15T08:14:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "5eaef87d-6110-4cc8-8efd-30bbe2e8411c",
+   "rating": 1,
+   "title": "",
+   "body": "Believe me, no one is going to put their personal ID into an app for fun. Even adults themselves.",
+   "author": "RAHAF Yasir",
+   "version": "",
+   "date": "2026-11-15T08:06:20+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "b8fbdeb6-83f8-4851-9539-212f3a38849a",
+   "rating": 1,
+   "title": "",
+   "body": "character ai honestly sucks, they keep updating it, after 2 weeks of using the app, you have to do an age verification And that includes showing your ID or your face and I know that most people would not like to do that. and if you don't do the verification then you'll stay in reading mode and you won't be able to text characters anymore. honestly I hate character ai",
+   "author": "Gojo",
+   "version": "1.17.4",
+   "date": "2026-11-15T07:57:42+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "fd144d4b-e131-4a87-aa64-edc003d87bb4",
+   "rating": 1,
+   "title": "",
+   "body": "SO MANY ADS and if you mention something positive in your review they'll get rid of what you liked",
+   "author": "GirlSmiley",
+   "version": "1.17.4",
+   "date": "2026-11-15T07:48:58+00:00",
+   "votes": 7,
+   "reply": ""
+  },
+  {
+   "id": "2125651e-28f6-49ba-b9df-560c2f29f123",
+   "rating": 1,
+   "title": "",
+   "body": "it's going bankrupt",
+   "author": "Mr WPNZ",
+   "version": "",
+   "date": "2026-11-15T07:46:50+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "1040a473-f531-4349-9d5c-3edf2573c6cd",
+   "rating": 2,
+   "title": "",
+   "body": "I've been using this app for 4 years and those 3 years is great but now, I'm afraid not, too much ads, the replies is taking so long.",
+   "author": "iana soganda",
+   "version": "1.17.4",
+   "date": "2026-11-15T07:46:13+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "bc71c327-f332-4b48-81dd-3c7d33d0e9b6",
    "rating": 1,

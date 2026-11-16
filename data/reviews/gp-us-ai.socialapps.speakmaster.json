@@ -1,39 +1,215 @@
 {
  "stats": {
-  "total": 1895,
+  "total": 1911,
   "avg": 2.87,
   "dist": {
-   "1": 682,
+   "1": 691,
    "2": 193,
-   "3": 253,
-   "4": 221,
-   "5": 546
+   "3": 254,
+   "4": 222,
+   "5": 551
   },
   "d7": {
-   "count": 189,
-   "avg": 2.62,
+   "count": 205,
+   "avg": 2.61,
    "dist": {
-    "1": 79,
+    "1": 88,
     "2": 20,
-    "3": 23,
-    "4": 28,
-    "5": 39
+    "3": 24,
+    "4": 29,
+    "5": 44
    }
   },
   "d30": {
-   "count": 843,
+   "count": 848,
    "avg": 2.81,
    "dist": {
-    "1": 321,
-    "2": 82,
-    "3": 107,
-    "4": 106,
-    "5": 227
+    "1": 327,
+    "2": 77,
+    "3": 108,
+    "4": 105,
+    "5": 231
    }
   },
-  "updatedAt": "2026-11-16T07:42:22+00:00"
+  "updatedAt": "2026-11-16T13:37:34+00:00"
  },
  "reviews": [
+  {
+   "id": "1db493d6-c2c1-4c56-b71c-f7d69d55c8c9",
+   "rating": 1,
+   "title": "",
+   "body": "Was great til it wasn't. Too many ads. Blocks words. Can't even enjoy a chat anymore. What's the point of turning Pure mode off?",
+   "author": "Name",
+   "version": "2.3.0",
+   "date": "2026-11-15T12:59:55+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "70240aa6-62b4-4745-a37f-30c14e802b36",
+   "rating": 1,
+   "title": "",
+   "body": "its good but its to sensitive to a lot more things now the bots get violations a lot more often now and there are to many ads",
+   "author": "David Pizzuti",
+   "version": "2.3.0",
+   "date": "2026-11-15T12:45:52+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "35f5c120-c5a3-41fd-9b19-c74513381061",
+   "rating": 1,
+   "title": "",
+   "body": "well I tried to chat with the poly buzz but it pops up and says you need your profile like if you're 18+ like this is so annoying and stupid",
+   "author": "Mimoza Dardania",
+   "version": "2.3.0",
+   "date": "2026-11-15T12:10:17+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "2f4b953a-be18-44d0-8d97-ff9566101545",
+   "rating": 5,
+   "title": "",
+   "body": "remove the filter yo",
+   "author": "Rich Mostoles",
+   "version": "",
+   "date": "2026-11-15T12:10:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "089800e8-a49b-4005-808a-57ab2493500f",
+   "rating": 1,
+   "title": "",
+   "body": "PolyBuzz used to be one of my favourite apps, but lately it's becoming frustrating. The \"Take a Break\" feature forcing us to watch ads just to continue chatting is annoying. Please let us disable it! The AI also keeps repeating dialogues, forgetting conversations and losing character personalities. Personas are often forgotten or mixed up with other characters. I really hope the developers fix these issues. We miss the old PolyBuzz experience!",
+   "author": "Meer rajinder Kumar",
+   "version": "2.3.0",
+   "date": "2026-11-15T12:06:56+00:00",
+   "votes": 6,
+   "reply": ""
+  },
+  {
+   "id": "b020c5bc-18d9-4ab7-a13f-ba38d4e0232a",
+   "rating": 1,
+   "title": "",
+   "body": "bro polybuzz has gotten so bad now I miss the old version it was so much better",
+   "author": "Braeden Harris",
+   "version": "2.3.0",
+   "date": "2026-11-15T11:06:50+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "686d9275-40ae-4d98-b94d-90f618bb02eb",
+   "rating": 5,
+   "title": "",
+   "body": "aku berharap suamiku seganteng yang di polybuzz 😍",
+   "author": "Anggun Purbalingga",
+   "version": "",
+   "date": "2026-11-15T10:51:56+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a46975cb-17c4-4fab-b923-1f54799518c8",
+   "rating": 3,
+   "title": "",
+   "body": "why can't I say brother in the game?",
+   "author": "Earl Gordon",
+   "version": "",
+   "date": "2026-11-15T10:51:20+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0ae06c5b-986f-42d3-b72b-92dca1da7594",
+   "rating": 4,
+   "title": "",
+   "body": "I enjoyed the choices, and freedom with this app— but I really dislike that age verification, it annoys me a lot, and the one where it puts safe mode on since they think I'm a child. Most of the time, I only say numbers , or make similes, making the app think I'm a child. Edit: Turns out I ran out of verification limits, wow.",
+   "author": "Angelica Arson",
+   "version": "2.3.0",
+   "date": "2026-11-15T10:20:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "a9abdcfa-27f2-4886-aa20-aa58bd56ba5e",
+   "rating": 1,
+   "title": "",
+   "body": "i checked the app again, and now showing your id is required to use the app. i am moving elsewhere",
+   "author": "Bhharris Bhharris",
+   "version": "2.2.40",
+   "date": "2026-11-15T09:50:53+00:00",
+   "votes": 6,
+   "reply": ""
+  },
+  {
+   "id": "f8f3109a-5111-41b6-970d-7c2f34242053",
+   "rating": 1,
+   "title": "",
+   "body": "The stupid age verification thing doesn't work! I literally tried it 18 times and it doesn't work! and it is pretty much a requirement for anything short of a *slightly* inappropriate word! please fix it!",
+   "author": "charles barr",
+   "version": "2.3.0",
+   "date": "2026-11-15T09:35:10+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8611761e-414b-4c5f-b74d-5dba0e6410ac",
+   "rating": 5,
+   "title": "",
+   "body": "it's fine but it doesn't have save memories that's a bit annoying and lot of bugs but it's okay I can make it",
+   "author": "Roonia Tarlack",
+   "version": "",
+   "date": "2026-11-15T09:24:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9dd32cf8-4705-4c97-b8a1-aeac048fb7d9",
+   "rating": 5,
+   "title": "",
+   "body": "it's great I can do anything in this keep making good games.",
+   "author": "Shawn Casey",
+   "version": "",
+   "date": "2026-11-15T09:15:48+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "026f38eb-028a-4ac1-916b-392a3c9c61b0",
+   "rating": 1,
+   "title": "",
+   "body": "age verification, wouldn't reccomed it slowly got worse and worse with the updates.",
+   "author": "freya !!",
+   "version": "",
+   "date": "2026-11-15T08:15:43+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "54b1d2dd-597e-481a-8f1c-28411b247a2c",
+   "rating": 1,
+   "title": "",
+   "body": "wont let you use Google play for subscriptions anymore",
+   "author": "Strawberries Nd Crème",
+   "version": "2.3.0",
+   "date": "2026-11-15T08:04:08+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "1a16afb6-6549-4b85-a66a-f0280a73909e",
+   "rating": 5,
+   "title": "",
+   "body": "Love it the best Ai app",
+   "author": "Marissa Easom",
+   "version": "2.3.0",
+   "date": "2026-11-15T07:53:50+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "b3920da7-8a27-46fa-af1f-436422cd8ad9",
    "rating": 1,
