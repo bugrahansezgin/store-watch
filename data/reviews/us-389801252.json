@@ -1,39 +1,539 @@
 {
  "stats": {
-  "total": 2138,
-  "avg": 2.39,
+  "total": 2188,
+  "avg": 2.4,
   "dist": {
-   "1": 1236,
-   "2": 127,
-   "3": 99,
-   "4": 66,
-   "5": 610
+   "1": 1255,
+   "2": 129,
+   "3": 104,
+   "4": 69,
+   "5": 631
   },
   "d7": {
-   "count": 500,
-   "avg": 2.58,
+   "count": 50,
+   "avg": 3.1,
    "dist": {
-    "1": 251,
-    "2": 38,
-    "3": 37,
-    "4": 16,
-    "5": 158
+    "1": 19,
+    "2": 2,
+    "3": 5,
+    "4": 3,
+    "5": 21
    }
   },
   "d30": {
    "count": 1550,
-   "avg": 2.22,
+   "avg": 2.24,
    "dist": {
-    "1": 963,
+    "1": 956,
     "2": 89,
-    "3": 72,
-    "4": 40,
-    "5": 386
+    "3": 73,
+    "4": 42,
+    "5": 390
    }
   },
-  "updatedAt": "2026-11-09T13:52:24+00:00"
+  "updatedAt": "2026-11-16T07:42:21+00:00"
  },
  "reviews": [
+  {
+   "id": "14791375205",
+   "rating": 1,
+   "title": "What a joke",
+   "body": "Whenever I report a sexist, homophobic, transphobic comment or ppl straight up using the N word, no violations are found. I jokingly comment on my friends post “get me drugs” and I get blocked from interacting with anyone for days. Meta is a joke",
+   "author": "Decayed_ghoul",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:22:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791373680",
+   "rating": 5,
+   "title": "Me encanta por la calidad de las fotos ,",
+   "body": "5 de 5",
+   "author": "Flores diciembre",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:22:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791336782",
+   "rating": 1,
+   "title": "Terrible",
+   "body": "So so so evil",
+   "author": "Marcelarj",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:07:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791319204",
+   "rating": 2,
+   "title": "I can’t do some things",
+   "body": "I can’t post pictures from my photos or put text with my gifs or pictures",
+   "author": "TTM5201",
+   "version": "455.0.0",
+   "date": "2026-11-14T15:01:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791311765",
+   "rating": 1,
+   "title": "Better privacy options would be nice",
+   "body": "I'd like to suggest adding customizable Story audience lists and fixing in-app glitches.\n\nWhen trying to restore an accidentally deleted story from \"Recently Deleted\" within the 24-hour window, the app repeatedly fails with a \"Network Error: Your video wasn't restored\" message—even on strong Wi-Fi and cellular data, and after logging out and reinstalling. Because the story used the weekly Spotlight feature, deleting it also wasted the weekly Spotlight allowance with no way to recover the post. Please fix the server sync bug on Recently Deleted stories.\n\n\nCurrently, Instagram offers Close Friends or the option to hide Stories from individual accounts. However, there is no practical way to create multiple custom audiences.\n\nIt would be extremely useful to allow users to create and name their own audience lists (for example: friends, acquaintances, professional contacts etc) and share Stories with those audiences without displaying a special indicator that reveals they're on a particular list.\n\nClose Friends feels limited. Sometimes users simply want more control over who sees specific content without making the audience selection obvious such as the green circle indicator. \n\nThe hide story from option isn’t ideal when you have to manually select each person and you have hundreds to over one thousand followers.\n\nPlease consider adding discreet, customizable private audience lists. This would give users significantly more flexibility and control over their privacy.",
+   "author": "Latte7500",
+   "version": "455.0.0",
+   "date": "2026-11-14T14:58:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791264429",
+   "rating": 1,
+   "title": "Ads during reels",
+   "body": "As if this app couldn’t figure out any more convoluted methods to ram advertisement down our throats now they’re forcing us to watch long ads after watching a number of reels all the way through will absolutely never be coming back from this app as long as that is a function",
+   "author": "Aflacg",
+   "version": "455.0.0",
+   "date": "2026-11-14T14:40:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791136610",
+   "rating": 4,
+   "title": "Antes era mejor",
+   "body": "Ahora es solo publicidad perdió su esencia",
+   "author": "Kikirf",
+   "version": "455.0.0",
+   "date": "2026-11-14T13:52:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791065420",
+   "rating": 5,
+   "title": "Appreciate",
+   "body": "Instagram is the best",
+   "author": "Sunwillcomeouttomorrow",
+   "version": "455.0.0",
+   "date": "2026-11-14T13:26:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791027756",
+   "rating": 1,
+   "title": "help !",
+   "body": "I woke up 2 weeks ago and got on instagram and all of my accounts was disabled 😤 and haven’t got no help on getting them back",
+   "author": "disabled at 13k !",
+   "version": "455.0.0",
+   "date": "2026-11-14T13:12:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14791019828",
+   "rating": 1,
+   "title": "Ewwww Ai",
+   "body": "Instagram is cheap now for using Ai",
+   "author": "If hvhv",
+   "version": "455.0.0",
+   "date": "2026-11-14T13:10:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790972355",
+   "rating": 1,
+   "title": "Fix your stufff",
+   "body": "Yall need to fix ig they keep banning me for no reason likeeee…",
+   "author": "Your girl LonLon",
+   "version": "455.0.0",
+   "date": "2026-11-14T12:53:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790960085",
+   "rating": 1,
+   "title": "Bug needs to be fixed",
+   "body": "False Restriction for AI thinking money when not",
+   "author": "BITWAwesome",
+   "version": "455.0.0",
+   "date": "2026-11-14T12:48:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790957222",
+   "rating": 5,
+   "title": "Love this app",
+   "body": "I learn every things on this app",
+   "author": "Pakrouh",
+   "version": "455.0.0",
+   "date": "2026-11-14T12:47:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790891877",
+   "rating": 1,
+   "title": "Got my account disabled for no reason",
+   "body": "I post nothing I don’t even comment I only like stuff or fallow and i got my account disabled for no reason",
+   "author": "Lazypug813",
+   "version": "455.0.0",
+   "date": "2026-11-14T12:25:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790809404",
+   "rating": 3,
+   "title": "Stories",
+   "body": "I miss when you were able to look at your stories and see who looked at your stories even if they’re not your friends",
+   "author": "Big master Kane",
+   "version": "455.0.0",
+   "date": "2026-11-14T11:57:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790668926",
+   "rating": 5,
+   "title": "My problems",
+   "body": "I cant message my friends , please let me message them and remove the restriction please",
+   "author": "m.fruean21",
+   "version": "455.0.0",
+   "date": "2026-11-14T11:11:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790657299",
+   "rating": 5,
+   "title": "Insta-Great!",
+   "body": "I love this app because I get to connect with my family and friends. Thank you Tia Tamara",
+   "author": "thicccsauce",
+   "version": "455.0.0",
+   "date": "2026-11-14T11:07:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790652097",
+   "rating": 1,
+   "title": "evil company",
+   "body": "evil company",
+   "author": "whydidihavetopickaname",
+   "version": "455.0.0",
+   "date": "2026-11-14T11:05:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790610608",
+   "rating": 1,
+   "title": "bad for mental health",
+   "body": "bad for mental health",
+   "author": "kitty__________",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:52:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790594215",
+   "rating": 5,
+   "title": "Ótimo",
+   "body": "Maravilhoso",
+   "author": "$maryg",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:47:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790580090",
+   "rating": 3,
+   "title": "elimina ecos",
+   "body": "elimina ecos ahí muchas fallas de ig",
+   "author": "elimina ecos",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:43:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790553099",
+   "rating": 1,
+   "title": "Got disabled",
+   "body": "Meta told me that passed everything but will not let me speak to a real person only ai so basically I’m still locked out of my account I had forever with no help even tho thee disablement is released",
+   "author": "johnnnybizzzzzzzz",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:34:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790540888",
+   "rating": 5,
+   "title": "Feedback",
+   "body": "Just need to push my content out to my followers more consistently 🙏🏾",
+   "author": "T. Doll",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:31:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790534550",
+   "rating": 5,
+   "title": "Ok",
+   "body": "Ok",
+   "author": "Luis  Rosas",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:29:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790493525",
+   "rating": 5,
+   "title": "close accounts",
+   "body": "Instagram's guidelines and policies.\n\nIf any violation occurred unintentionally, I sincerely apologize. Please review my case manually and help me restore my account. I am ready to provide any necessary verification to confirm my ownership.\n\nI would really appreciate your support. Thank you!",
+   "author": "thekhalifeh",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:16:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790444337",
+   "rating": 5,
+   "title": "Fire",
+   "body": "Fire",
+   "author": "FoogazyChoppa",
+   "version": "455.0.0",
+   "date": "2026-11-14T10:01:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790436882",
+   "rating": 2,
+   "title": "Green line on story",
+   "body": "Everytime I upload a story a green line appears !",
+   "author": "Kiittyykittyyml",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:59:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790399674",
+   "rating": 5,
+   "title": "When",
+   "body": "It has become a place where to share ; where what calls my attention on inventions, arquitectura, film making, music, and some pictures",
+   "author": "gercav",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:48:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790395486",
+   "rating": 5,
+   "title": "No content I follow appears on my feed",
+   "body": "I hate how this app wastes my time with not showing me the content from the people I actually follow. I feel like I avoid this app on a constant bases while using others since this one doesn’t show me family members I’ve followed my whole life. But I get years of wasted content I couldn’t enjoy even if it was my taste.",
+   "author": "momseran",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:47:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790363975",
+   "rating": 5,
+   "title": "Best marketing tool",
+   "body": "Fantastic for elevating all creative brands.",
+   "author": "Lex739",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:38:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790359570",
+   "rating": 5,
+   "title": "The best",
+   "body": "The best",
+   "author": "sami👏🏼🥰",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:37:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790279697",
+   "rating": 1,
+   "title": "insta",
+   "body": "keeps suspending me with no reason",
+   "author": "fonntzoe",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:13:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790270250",
+   "rating": 5,
+   "title": "Customer",
+   "body": "Food is awesome staff is top notch h",
+   "author": "Lipsychics",
+   "version": "455.0.0",
+   "date": "2026-11-14T09:11:14-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790186186",
+   "rating": 1,
+   "title": "Freezing on profiles",
+   "body": "The app always freezes when I click on profiles. Please fix!!",
+   "author": "xCharaSweet",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:47:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790180254",
+   "rating": 1,
+   "title": "Link failure",
+   "body": "Interesting sometimes a link opens the correct reel sometimes it opens up basically a reel that’s an ad",
+   "author": "Triedbutnot",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:45:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790130368",
+   "rating": 5,
+   "title": "Amazing!",
+   "body": "Instagram is wonderful! Haven't had any bad experiences yet, and is such a good way to communicate and meet new people!",
+   "author": "tyygvuyfghc",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:31:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790110909",
+   "rating": 5,
+   "title": "Reel",
+   "body": "So good",
+   "author": "Sadafpaslarihair",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:26:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790050879",
+   "rating": 5,
+   "title": "Dễ dùng.rat thich. Mong gan ket moi nguoi tren the gioi",
+   "body": "Chuẩn . Rat tiện ich. Sẽ gioi thieu ban be dùng",
+   "author": "123banhthiha",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:09:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790045049",
+   "rating": 1,
+   "title": "Algorithmic Abuse",
+   "body": "Instagram is constantly showing incredibly disturbing and abusive content to me despite my lack of interaction and my active effort in using the platform’s options of saying “uninterested” and “don’t show me this type of content”.\nI’m a male survivor of SA and DV and I’ve talked about it on my profile, my posts, and in my messages on the platform - so META’s algorithm knows this.\nAlmost every single time I open the app, I am constantly shown posts mocking male survivors, denying and belittling their abuse, or outright celebrating domestic violence and sexual assault against men.\nThese algorithms rely on emotional manipulation of users to maintain their attention so they’ll stay on the platform longer. It’s disgusting. It’s incredibly harmful and I’m so tired of trying to use META’s platforms to stay in contact with friends and family and to connect with support networks and other survivors but instead being constantly bombarded with abusive material and emotionally manipulative algorithms banking on its manipulation to create more profit and data acquisition from its users.",
+   "author": "S E A N N",
+   "version": "455.0.0",
+   "date": "2026-11-14T08:07:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14790000776",
+   "rating": 3,
+   "title": "Duo changed are bad",
+   "body": "The initial implementation of the iPhone Duo app was one of the few done well. The recent change makes a huge step back on front screen usage.",
+   "author": "Zebracoat",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:55:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789999379",
+   "rating": 1,
+   "title": "Islamophobia",
+   "body": "Extreme Islamophobia content with no way to dial it back except deleting the app",
+   "author": "MSQ010",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:55:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789948398",
+   "rating": 1,
+   "title": "Suspended",
+   "body": "I keep getting suspended for no reason at all??? Give me my accounts back",
+   "author": "Nickmfnamr",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:41:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789921011",
+   "rating": 3,
+   "title": "Please give an update for iranian users that fixes the following and followers and makes it visible",
+   "body": "It really botters us please pay attention",
+   "author": "Paryaeyvazi",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:33:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789872111",
+   "rating": 4,
+   "title": "Instagram",
+   "body": "Instagram is good a app but not gonna lie they are always banning my accounts for no reason and it’s starting to get me mad",
+   "author": "Instagram stop banning",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:20:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789849845",
+   "rating": 3,
+   "title": "AI Search Suggestions BOOO",
+   "body": "I absolutely hate the extra AI search suggestion link on reels now. It covers up some of the content and you can’t swipe it away. It also typically does not have any relevance or only tangential relevance to the content. Stop shoving AI down my throat and let me watch my reels in peace for the love of god. Would be fine if we just had the option to toggle it off based on personal preference.",
+   "author": "Smantharae",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:14:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789804058",
+   "rating": 5,
+   "title": "La verdad",
+   "body": "Es la mejor app que eh tenido",
+   "author": "1)3dani",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:01:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789797783",
+   "rating": 1,
+   "title": "Lately",
+   "body": "Lately I cannot watch any videos without them stopping I thought it was my signal. I restarted my phone every time I have to get out of the app and go back in in order to watch a video so I lose what I was watching. I don’t think Instagram works properly with the new iPhone update",
+   "author": "karmazkiss",
+   "version": "455.0.0",
+   "date": "2026-11-14T07:00:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789752239",
+   "rating": 4,
+   "title": "Cross platform",
+   "body": "Good when posting between threads and instagram but my accounts gets banned easily and I don’t know why",
+   "author": "Richraph on tiktok",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:47:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789750093",
+   "rating": 5,
+   "title": "Business",
+   "body": "It’s great for my small business it’s generating revenue for me",
+   "author": "Tatted- up",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:46:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14789657880",
+   "rating": 5,
+   "title": "5 stars",
+   "body": "⭐️⭐️⭐️⭐️⭐️",
+   "author": "Bam-Bam Kennels",
+   "version": "455.0.0",
+   "date": "2026-11-14T06:21:43-07:00",
+   "votes": 0
+  },
   {
    "id": "14764780164",
    "rating": 1,

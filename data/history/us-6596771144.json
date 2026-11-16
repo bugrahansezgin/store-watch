@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "1.9.64",
+   "date": "2026-11-13T13:40:55Z",
+   "notes": "-bug fixes",
+   "source": "tracked"
+  },
+  {
    "version": "1.9.63",
    "date": "2026-11-04T18:04:29Z",
    "notes": "- presets report\n- activity log filter fix\n- infinite loading spinner fix\n- minor bug fixes",

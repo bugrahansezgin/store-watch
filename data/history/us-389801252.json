@@ -1,6 +1,12 @@
 {
  "versions": [
   {
+   "version": "455.0.0",
+   "date": "2026-11-09T15:57:59Z",
+   "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience.",
+   "source": "tracked"
+  },
+  {
    "version": "454.1",
    "date": "2026-11-04T14:29:10Z",
    "notes": "Performance optimizations and stability improvements for a smoother, more reliable experience.",
