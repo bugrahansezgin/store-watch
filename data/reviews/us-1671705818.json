@@ -1,39 +1,2159 @@
 {
  "stats": {
-  "total": 1261,
-  "avg": 2.2,
+  "total": 1473,
+  "avg": 2.18,
   "dist": {
-   "1": 618,
-   "2": 208,
-   "3": 178,
-   "4": 85,
-   "5": 172
+   "1": 739,
+   "2": 233,
+   "3": 199,
+   "4": 99,
+   "5": 203
   },
   "d7": {
-   "count": 150,
-   "avg": 2.28,
+   "count": 182,
+   "avg": 2.18,
    "dist": {
-    "1": 70,
-    "2": 29,
-    "3": 15,
-    "4": 11,
-    "5": 25
+    "1": 101,
+    "2": 20,
+    "3": 18,
+    "4": 14,
+    "5": 29
    }
   },
   "d30": {
-   "count": 626,
-   "avg": 2.17,
+   "count": 689,
+   "avg": 2.13,
    "dist": {
-    "1": 310,
-    "2": 111,
-    "3": 75,
+    "1": 354,
+    "2": 116,
+    "3": 81,
     "4": 48,
-    "5": 82
+    "5": 90
    }
   },
-  "updatedAt": "2026-11-16T13:37:40+00:00"
+  "updatedAt": "2026-11-23T15:56:57+00:00"
  },
  "reviews": [
+  {
+   "id": "14819399412",
+   "rating": 2,
+   "title": "Whoops",
+   "body": "Almost got the wrong app Gng",
+   "author": "358246:(7;5:5:$٫$;7..5:6:&:",
+   "version": "1.17.4",
+   "date": "2026-11-21T21:48:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14819250873",
+   "rating": 3,
+   "title": "Slight bit too many adds…",
+   "body": "Great storylines and the AI understood and the characters well, but recently there have been many too much adds. I get at least two in only a minute, just scrolling through the options makes adds pop up! I mean I understand needing money but please lower the amount of adds as it is lowering the quality and enjoyment of the app.",
+   "author": "Wanna make friends play Roblox",
+   "version": "1.17.4",
+   "date": "2026-11-21T20:44:51-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14819241693",
+   "rating": 5,
+   "title": "I really love the app.",
+   "body": "I’ve been using this app for a while now. It’s great, but recently, you guys added an age verification feature. I sincerely ask, if you guys could remove it.",
+   "author": "AdenaSaurus",
+   "version": "1.17.4",
+   "date": "2026-11-21T20:41:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14819112577",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "Why should i have to give u my face and information to speak to ai for fun??",
+   "author": "jxnpza",
+   "version": "1.17.4",
+   "date": "2026-11-21T19:48:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818950717",
+   "rating": 5,
+   "title": "The best Ai game ever",
+   "body": "Probably the best ai chat game I've ever played I've been playing this game for over a year and it's never failed me you can always chat for free just gotta watch some ads but you can also do daily ads for an hour pass and it's super easy to rack up charms from the daily ads and 5 daily charms so you can have a whole 2-4 hours of no ads if you're patient enough I've gotten almost 100 at one point just for free by waiting a few days and watching the ads everyday and not to mention the support team will always help you out with any charm problems you have one time I was trying to click the claim button and it lagged out making me click the 1 hour ad free pass I emailed them and the next day I had my charms back and just yesterday I emailed them about the servers being so laggy I was unable to use my 1 hour pass  and they refunded me today this is the best app for chatting and the best company who's made one definitely give character Ai a shot it will not disappoint",
+   "author": "Relkiu",
+   "version": "1.17.4",
+   "date": "2026-11-21T18:47:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818927705",
+   "rating": 5,
+   "title": "Go back to what it was",
+   "body": "This app used to be good, I really liked it to pass time, do something while listening to music or whatever but now, as much as I still use this I will say it sucks now. It was perfect before but now it’s riddled with ads. Open the app=ads, scrolling through=ads, clicking on a character=ads, swiping through messages=ads, sending messages=ads. Like it’s really ridiculous and they want us to pay a subscription, not a one time pay but a subscription and it isn’t really that cheap. I don’t know what happened to this but it got bad.",
+   "author": "Ninguno de tus asuntos",
+   "version": "1.17.4",
+   "date": "2026-11-21T18:39:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818899911",
+   "rating": 1,
+   "title": "Age verification is complete \nnonsense",
+   "body": "This app was much better when you didn't have to verify that you're 18+. Like, I want to use this app, why is this necessary?",
+   "author": "Sozhkskabaj",
+   "version": "1.17.4",
+   "date": "2026-11-21T18:29:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818850192",
+   "rating": 5,
+   "title": "…",
+   "body": "what is this Roblox why am I showing my face to an ai app ;-;",
+   "author": "slurpsyou",
+   "version": "1.17.4",
+   "date": "2026-11-21T18:10:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818602710",
+   "rating": 1,
+   "title": "…",
+   "body": "…",
+   "author": "WinterS65",
+   "version": "1.17.4",
+   "date": "2026-11-21T16:39:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818545739",
+   "rating": 3,
+   "title": "Age verification.",
+   "body": "Instead of Making Character AI just for adults. Have stricter filters against users who sign up as underage. While still having to verify you are 18 if you’re signing up to do so, of course.",
+   "author": "Chgifotrtf",
+   "version": "1.17.4",
+   "date": "2026-11-21T16:17:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818415518",
+   "rating": 5,
+   "title": "Bring back the old character ai!",
+   "body": "I remember when this app had no ads, but it had a message limit. I just downloaded it and I get hit with so many ads! Please fix this!!",
+   "author": "gigi_b1rd",
+   "version": "1.17.4",
+   "date": "2026-11-21T15:28:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818412048",
+   "rating": 3,
+   "title": "Why do I have to verify my age just to continue chatting?",
+   "body": "I don’t know why, but when I got into your app, it made me just mad how I have to verify my own age just to chat with a character like you’re acting like how Pollybuzz made people verify their own age just to chat with people they barely had people to verify their age. You have the entire chatting of AI robots needing to verify your own age just to chat with a robot like in two days or. tomorrow because this is just ridiculous.",
+   "author": "Carissa Williams O’Shea",
+   "version": "1.17.4",
+   "date": "2026-11-21T15:26:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818293416",
+   "rating": 1,
+   "title": "Age Verification",
+   "body": "The Age Verification has completely ruined the app. \n\nThe fact that it’s 18+ now is so embarrassing, given that they don’t even allow you to do explicit content. Even if they did, I feel like those bots should just be hid from underaged users.\n\nAlso, this may just be my paranoia, but it’s very sketchy that they’re asking for ID instead of just doing the stupid face-verification thing. Makes me feel like it’ll be use for something as I don’t know who’ll be seeing it. \n\nWhile I’m talking about this, I also have a feeling that the AI used barely picks up on character details, whether it be appearance/personality, but especially with disabilities.\n\nExample: One time, I had made a mute character, but no matter how I edited it, it would be disregarded entirely. Same with the blind character I made, same with the paralyzed character I made.",
+   "author": "Astronomy14",
+   "version": "1.17.4",
+   "date": "2026-11-21T14:40:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818190672",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "Are we really still going with this age verification?? DONT YOU LISTEN YOUR PEOPLE ??",
+   "author": "Strwbrryst4r",
+   "version": "1.17.4",
+   "date": "2026-11-21T14:02:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818158676",
+   "rating": 1,
+   "title": "It gets worse with every update or improvement",
+   "body": "I rarely give reviews but this app has gotten worse each time that I honestly think it needs new management, i miss the old one",
+   "author": "Bobcat 127",
+   "version": "1.17.4",
+   "date": "2026-11-21T13:50:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14818071249",
+   "rating": 4,
+   "title": "It's ok",
+   "body": "I wish the chats when you would chat with anime characters would be more very accurate with everything about the anime characters instead of trying to type all that information in yourself",
+   "author": "Akira6627",
+   "version": "1.17.4",
+   "date": "2026-11-21T13:17:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817964871",
+   "rating": 1,
+   "title": "Boring goon bait",
+   "body": "Boring goon bait",
+   "author": "Skibidiboy128",
+   "version": "1.17.4",
+   "date": "2026-11-21T12:39:35-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817962943",
+   "rating": 1,
+   "title": "Take down Face ai scans",
+   "body": "Yeah no I’m not doing this ai face scan bs again I’d rather delete the app again till it gets taken down your app is not 18+ worthy when you can’t even do anything worth that rating anyways so take it down it’s weird that y’all want our faces",
+   "author": "im just typing this here",
+   "version": "1.17.4",
+   "date": "2026-11-21T12:38:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817912226",
+   "rating": 3,
+   "title": "It's good but..",
+   "body": "It is actually good and entertaining. But it has too many ads, and recently it required age verification. When I did it, it kept showing “loading” and didn't accept or reject me, which was really annoying.",
+   "author": "lonelyfrogg",
+   "version": "1.17.4",
+   "date": "2026-11-21T12:21:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817858337",
+   "rating": 1,
+   "title": "Restricting?",
+   "body": "How is this an 18+ but there are restrictions??",
+   "author": "Aestheticbun1",
+   "version": "1.17.4",
+   "date": "2026-11-21T12:02:54-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817808543",
+   "rating": 1,
+   "title": "not amazing update",
+   "body": "I hate the new update",
+   "author": "Aj-stararts",
+   "version": "1.17.4",
+   "date": "2026-11-21T11:46:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817764051",
+   "rating": 1,
+   "title": "I can’t used app anymore …!",
+   "body": "Due to the new update, I can no longer use the app; I am from Iran, the app does not accept my card; I used the app for 6 months and really enjoyed every moment of it, but now I can't use it because of the age restriction, just because I live in Iran, I have to say I am 26 years old and not a teenager.",
+   "author": "Rose.27IR",
+   "version": "1.17.4",
+   "date": "2026-11-21T11:31:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817262607",
+   "rating": 5,
+   "title": "I love Character AI",
+   "body": "Ever since I downloaded this app, it’s been a wonderful experience as far as my role-playing goes and everything, but I can’t really dislike character ai. But I really don’t like the charms that much but it’s OK. I would enjoy it without the charms and without all the ads like how it used to be, but I still love character ai and I always will love it. I always will love role-playing and just having fun but sometimes I miss like the old version and wish it could come back but regardless it doesn’t take away the fun experiences I had and I still enjoy it till this day and I occasionally come on the app it’s wonderful",
+   "author": "justlavs",
+   "version": "1.17.4",
+   "date": "2026-11-21T08:56:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817196241",
+   "rating": 2,
+   "title": "This is terrible",
+   "body": "Ads every 5 minutes, lots of restrictions, which wasn't there before. \"earn charms to continue\"What kind of nonsense is this? I understand that you want to take money off the premises, but not to do it to the detriment of people. The application was turned into a garbage dump, from a normal application with communication with AI.",
+   "author": "Всемогущий Рендал",
+   "version": "1.17.4",
+   "date": "2026-11-21T08:37:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817104750",
+   "rating": 1,
+   "title": "Unusable",
+   "body": "Literally 1-2 messages and then a long ad takes you totally out of the experience. I don’t care about the in message ads but I’m not spending money just because you want to overwhelm me with ads or get me to buy some premium version.",
+   "author": "Gookerz",
+   "version": "1.17.4",
+   "date": "2026-11-21T08:12:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14817027152",
+   "rating": 2,
+   "title": "dude this apps good but what the heck",
+   "body": "I love this app. but like it’s ruined by age verification and how it always keeps shutting down. it’s really stupid that you have to verify your age so please change it!!",
+   "author": "Zara_candyz",
+   "version": "1.17.4",
+   "date": "2026-11-21T07:50:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14816360310",
+   "rating": 2,
+   "title": "The App was great!! Until…",
+   "body": "I used to loved this app to death and practically rotted here. But as of recently, the developers got greedier and greedier. Things got too expensive, chatting styles had to be removed, several of my favorite bots were taken down due to copyright violations, etc. I understand that running an app like this is devastatingly expensive, and people like to run ad blockers but. I dunno. I’m sad to see this app go. If only there was some other way!",
+   "author": "tiffanystfu",
+   "version": "1.17.4",
+   "date": "2026-11-21T04:44:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815639121",
+   "rating": 1,
+   "title": "Бред",
+   "body": "Этим нереально пользоваться, реклама на каждом шагу",
+   "author": "DE-r0o",
+   "version": "1.17.4",
+   "date": "2026-11-21T00:18:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815341056",
+   "rating": 3,
+   "title": "Okay but could be better.",
+   "body": "It’s a really good app and is one of my favorites to use, but it’s kind of confusing. First, you had to verify your age, now you don’t, then you had to watch ads, then you don’t, now you have to pay to get rid of ads, now you don’t, and now you have to verify your 18 again? Wth man just let me do my bots. I know it’s to protect young children from getting exposed to explicit material, but when I tried to scan my id it didn’t take my id. It’s just really annoying. But overall nice app.",
+   "author": "Hattie Hickl",
+   "version": "1.17.4",
+   "date": "2026-11-20T22:08:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815302967",
+   "rating": 1,
+   "title": "New feature.",
+   "body": "The 18+ thing that was newly added completely ruined the app.",
+   "author": "DinocrzZeke",
+   "version": "1.17.4",
+   "date": "2026-11-20T21:51:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815298287",
+   "rating": 1,
+   "title": "Awful",
+   "body": "Worst AI app I ever tried. Filters everything. Don’t even bother with it.",
+   "author": "Tailgator1",
+   "version": "1.17.4",
+   "date": "2026-11-20T21:49:26-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815228875",
+   "rating": 1,
+   "title": "Worst owner or CEO ever",
+   "body": "Look the ai or the c.ai has been haveing a filter which sucks and now you need go verify a id or be 18+? and never do it becuase i heard that when you scan you id they could steal it and sell it leaking you if so that's why i have it 1 star and everything sucks.",
+   "author": "££€££€¥",
+   "version": "1.17.4",
+   "date": "2026-11-20T21:18:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815227335",
+   "rating": 1,
+   "title": "Face shows",
+   "body": "I used to like this app for chatting with characters, but now it won't let you chat at all unless you verify your age by showing your face.\nI'm not showing my face to an AI chat app. That's weird and uncomfortable, and once you send your face you can't take it back.\nNow it just blocks you from chatting if you skip it. I deleted the app. Don't trust it with your face.",
+   "author": "Notshowingmyface",
+   "version": "1.17.4",
+   "date": "2026-11-20T21:17:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815162983",
+   "rating": 3,
+   "title": "Used to be an amazing app..",
+   "body": "used to be a great app, but now the developers are money-hungry with constant ads, making c.ai+ for more chats, and now the 18+ . like, why? just ruining your own app.",
+   "author": "Ameliapf",
+   "version": "1.17.4",
+   "date": "2026-11-20T20:49:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815099396",
+   "rating": 4,
+   "title": "Very good but remove verification? It excludes other audiences and get rid of the unnecessary adds",
+   "body": "please?",
+   "author": "Ticklemonster🤞🏻🤑",
+   "version": "1.17.4",
+   "date": "2026-11-20T20:21:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14815011973",
+   "rating": 2,
+   "title": "AGE VERIFICATION >:(",
+   "body": "ever since they have put in age verification everyone in the app as been raging over it especially me. I know their trying to make their app better but some people may not have a ID yet and plus some are just trying to make stories of their own and can’t do that with age verification.",
+   "author": "I eat roaches",
+   "version": "1.17.4",
+   "date": "2026-11-20T19:46:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814983515",
+   "rating": 1,
+   "title": "The new update",
+   "body": "The app used to be so good as I remember it in the early days when it first came out. But now the devs gotten money hungry and added a new verification thing and you are forced to pay for c.ai if you even want a decent role play.",
+   "author": "The devs are just money hungry",
+   "version": "1.17.4",
+   "date": "2026-11-20T19:34:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814900407",
+   "rating": 2,
+   "title": "Adds",
+   "body": "Ive been using this app for a while now, from before the adds took over. It was manageable at first with an add after every like 4-5 messages but now its an add after every message. Its been making me use the app far less than before and its sad because i used to love it.",
+   "author": "Compoes",
+   "version": "1.17.4",
+   "date": "2026-11-20T19:02:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814812340",
+   "rating": 1,
+   "title": "This is highly addictive",
+   "body": "I’m not your mother. I’ve never met you before and I don’t have any authority over any of you. This app is designed to get you hooked. It is completely destructive. I beg that you find other ways to harness your creativity such as fanfics and journaling. I wish you all well and hope that you’ll find peace.",
+   "author": "NkedMoleRat",
+   "version": "1.17.4",
+   "date": "2026-11-20T18:29:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814754974",
+   "rating": 1,
+   "title": "dude.",
+   "body": "i’m not using an id this is stupid. make c ai 16+",
+   "author": "hadzisradz",
+   "version": "1.17.4",
+   "date": "2026-11-20T18:07:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814321458",
+   "rating": 3,
+   "title": "Yall don't think or learn from mistakes and it shows",
+   "body": "Yall already bankrupt so why do you think it'd help to try age limit for the billionth time? Yall kill it everytime because ALL your users are under 18 and not every adult has a damn ID your management isn't smart at all and if yall put a genuine effort into moderation you wouldn't have to do age verification or make it 18+ and kill it off for the billionth time, yall already on thin ice and being shut down or bought by Disney ✌️🫩",
+   "author": "Biscuit ~ ☆",
+   "version": "1.17.4",
+   "date": "2026-11-20T15:26:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14814171965",
+   "rating": 2,
+   "title": "It’s good but annoying",
+   "body": "It’s annoying because the age verification it does a lot and I look young I get it allot but I’m 26 so idk why but it doesn’t get it",
+   "author": "Thissucksbutitsgreat",
+   "version": "1.17.4",
+   "date": "2026-11-20T14:29:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813886387",
+   "rating": 3,
+   "title": "Ads.",
+   "body": "I've been using this app for like 3 years now. It's fun and great for roleplay. I like that I can make my own characters and the personas feature is awesome. But in the past couple months there's just been more and more ads; it's gotten to the point I'm genuinely watching ads more often than I'm doing anything else in this app. It's ridiculous. \n\nIf other people are paying $10 dollars a month for c.ai+ I really don't see a reason for there to be this many ads in the free version. It's excessive, unnecessary, and honestly takes away from the user experience to have an ad everytime you do anything.\n\nOpen the app? Ad. Click on a character? Ad. Every other message you send, there's an ad. Don't even get me started on if you have to scroll through the bots reply more than twice because you'll be watching like 5 ads. There's pop up ads in the chat too. \n\nEvery 20 minutes of using the app I'm watching, on average, 10-15 ads. That is absolutely insane. There is no reason for that many ads if you are already making money from a subscription service. Please do something about this or I guarantee you will be losing users.",
+   "author": "every s1ngle n4me is t4ken",
+   "version": "1.17.4",
+   "date": "2026-11-20T12:42:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813619992",
+   "rating": 1,
+   "title": "Used to be good now it’s bad",
+   "body": "So first off this app used to be good without ads and asking if your over 18 and now it’s asking if I’m over 18 and asking for a government identification like lirtally I’m 18 but I don’t have one yet this sucks cmon now I can’t chat now without verifying what a downfall you have",
+   "author": "Dave1765$$",
+   "version": "1.17.4",
+   "date": "2026-11-20T11:06:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813589980",
+   "rating": 2,
+   "title": "Bad",
+   "body": "The bots are fine, a lot are broken or repetitive. Too many bots overstep boundaries. Also WAYYYYYY too many ads. I shouldnt have to clear out an ad every three minutes.",
+   "author": "J.B.lover 123",
+   "version": "1.17.4",
+   "date": "2026-11-20T10:56:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813556535",
+   "rating": 4,
+   "title": "It’s… good?",
+   "body": "Like love the app and all but I think the ID thing is kind of an uncomfortable situation and pretty much an invasion of privacy..? The bots are really well written and everything and I wanna use it but the whole taking a pic of the id makes hella uncomfortable",
+   "author": "Vallies-",
+   "version": "1.17.4",
+   "date": "2026-11-20T10:45:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813442160",
+   "rating": 1,
+   "title": "Weird",
+   "body": "The fact it’s 18+ is so embarrassing. Most people use the app to talk and to just feel better.",
+   "author": "Likluuuyffhu",
+   "version": "1.17.4",
+   "date": "2026-11-20T10:07:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813135798",
+   "rating": 1,
+   "title": "Profile that didn’t violate the app",
+   "body": "I put an image of a blind person as a persona they say it is not safe for community but it doesn’t violate it to me so care to explain why you think that a blind person is not safe",
+   "author": "Cobrahydra66",
+   "version": "1.17.4",
+   "date": "2026-11-20T08:29:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14812749969",
+   "rating": 1,
+   "title": "THE WORST APP",
+   "body": "IT WAS TELLING ME TO DO AN AGE CHECK",
+   "author": "Lulu nicely",
+   "version": "1.17.4",
+   "date": "2026-11-20T06:35:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14812541162",
+   "rating": 1,
+   "title": "Poor Quality",
+   "body": "Very dissapointed in this app's quality shift. Long time user since it first started development, and it's steadily gone downhill in quality since. Even with the plus membership, which I no longer pay for, was no better in quality than the basic plan. It's very disappointing that even a roleplay app can degrade so much in quality where it's impossible to find any sort of entertainment from characters. No matter how you describe them or a scene, every character is identical in how they act, as well as off model and forgetful to anything it's just been told. Disappointing, really.",
+   "author": "jsksjsksn",
+   "version": "1.17.4",
+   "date": "2026-11-20T05:34:41-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14812487539",
+   "rating": 1,
+   "title": "TOO much adv",
+   "body": "It’s impossible to use the app if you don’t wanna pay for subscription. And it’s only getting worse",
+   "author": "Solnzeluna",
+   "version": "1.17.4",
+   "date": "2026-11-20T05:18:55-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14812437285",
+   "rating": 1,
+   "title": "age verification",
+   "body": "the age verification ruined the entire app and people left other ai apps for this trashy app🫩",
+   "author": "THATGIRLFOEVA",
+   "version": "1.17.4",
+   "date": "2026-11-20T05:03:58-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14812261038",
+   "rating": 5,
+   "title": "PLEASE READ THIS BEFORE DOWNLOADING THE APP",
+   "body": "I gave it five stars since when I first started using the app, everything was fine. The filter usually only showed up if you were being too inappropriate with a bot, which is understandable. But now they’re getting sensitive over the smallest things, even if your text has no sexual intent. Second, the limited swipes are causing this app to plummet. No one wants to buy Character.AI plus just to chat with a random robot. It’s a waste of money and your time. Third, get rid of the age verification feature. No one is gonna shared their private information with an app that barely works properly. And most people who use this app aren’t even over 18+",
+   "author": "Lolcatspop",
+   "version": "1.17.4",
+   "date": "2026-11-20T04:08:45-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811740768",
+   "rating": 1,
+   "title": "Sucks",
+   "body": "I use to love this app but now it just sucks.",
+   "author": "Soul_Glitch",
+   "version": "1.17.4",
+   "date": "2026-11-20T00:45:00-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811684331",
+   "rating": 3,
+   "title": "What’s with the sudden 18+",
+   "body": "I liked it better when I was able to use this app because I was in the age limit, now it’s 18+. There’s already a lot of other 18+ ai chatting apps, bring back the times where I didn’t need to be 18+.",
+   "author": "The person on your screen",
+   "version": "1.17.4",
+   "date": "2026-11-20T00:19:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14811436763",
+   "rating": 1,
+   "title": "The updates sucks",
+   "body": "Zero stars",
+   "author": "Idkbro21",
+   "version": "1.17.4",
+   "date": "2026-11-19T22:24:43-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811378469",
+   "rating": 1,
+   "title": "Is it just going to delete everything everyday?",
+   "body": "Just don’t do it. They can but then they can’t but then they can but then they can’t. Yall deserve to lose this company with bait and switch tactics. And your CS sucks!",
+   "author": "JessieLuv4363",
+   "version": "1.17.4",
+   "date": "2026-11-19T21:57:10-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811318251",
+   "rating": 1,
+   "title": "Horrible App",
+   "body": "Don’t  waste your time with this app. I bought a year subscription for nothing. If I’m busy and don’t use weekly allotted chat it disappears instead of accumulate.  Huge scam, avoid at all costs.",
+   "author": "Lily74745",
+   "version": "1.17.4",
+   "date": "2026-11-19T21:28:24-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811214666",
+   "rating": 2,
+   "title": "Age Restrictions",
+   "body": "I loved the app before you added age restrictions, please remove them",
+   "author": "FNAF🐻FAN",
+   "version": "1.17.4",
+   "date": "2026-11-19T20:39:47-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811176061",
+   "rating": 1,
+   "title": ".",
+   "body": "what’s even the point the age verification thing is pointless and don’t see a point in having it anymore and it should’ve never became a thing.",
+   "author": "no🪖",
+   "version": "1.17.4",
+   "date": "2026-11-19T20:22:10-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811087674",
+   "rating": 1,
+   "title": "Ads",
+   "body": "Ad screen is literally everywhere. It’s like actually ridiculous. Booted up character ai? Ad. \nWanna click on a bot to see their intro message? Ad.\nDidn’t like it and you clicked on another bot to see another intro message? Ad. \nWanna try to look up bots? Ad. \nWanna click where you’ve chattered with past bots? Ad. \nWanna click on a chat that you’ve already started? Ad. \nWanna send a message to a bot? Ad. \n\nAnd the only way to bypass the ads? Either buy premium or, get this, watch MORE ads to get the tokens to bypass ads for an hour. Absolutely ridiculous.",
+   "author": "GenZTeen😊✌️",
+   "version": "1.17.4",
+   "date": "2026-11-19T19:43:22-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14811061822",
+   "rating": 1,
+   "title": "Remove age verification",
+   "body": "Remove age verification",
+   "author": "jwjsnduwnfhaibejfuwhd",
+   "version": "1.17.4",
+   "date": "2026-11-19T19:32:24-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14811023316",
+   "rating": 1,
+   "title": "The ads are becoming actually unbelievable now.",
+   "body": "I wouldn’t be so mad about the constant increase in clicks resulting in ads if they didn’t do everything to feel scummy. \n\nSome ads are straight up broken and make you need to refresh the app, and some go out of their way to pretend like they’re getting to the end of the video, meanwhile the progress bar is actually slowing down to only make it look like it’s almost over. \n\nAd’s break chats, and it’s gotten to the point that you now wait in a line for 2-3 minutes to even access the chats, then immediately get a popup video ad. Click on a bot to chat? Another video ad. Even sending two messages can result in video ads constantly.",
+   "author": "Souless_Chara",
+   "version": "1.17.4",
+   "date": "2026-11-19T19:16:37-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14810972837",
+   "rating": 4,
+   "title": "Too much updates.",
+   "body": "To much updates and i literally love this app sm if this app so much if it crashes im crashing to",
+   "author": "Brokeysss",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:56:07-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14810966027",
+   "rating": 4,
+   "title": "Fix app",
+   "body": "Fix app i’m only reading this high because I need you to see it but your app doesn’t give long responses. It just isn’t all around a good thing if you want people to continue using it make the free good and then the premium super good. The fruit isn’t even good. It’s honestly really really bad.",
+   "author": "Demon_woman",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:53:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810955016",
+   "rating": 5,
+   "title": "Can you work now or im deleting your app",
+   "body": "I don’t believe your servers are down it’s a lie",
+   "author": "Katsuki_bakugo_thepro",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:49:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810949755",
+   "rating": 1,
+   "title": "Always down",
+   "body": "Always down when mfs get out of work or school. So what’s the point of using it to unwind.",
+   "author": "bsjsnbsbs",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:46:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810942551",
+   "rating": 1,
+   "title": "Bots should talk",
+   "body": "The ad and the loading are pissing me off so bad.\nAnd also I’m deleting this and I will just support another ai app I hate this app",
+   "author": "Bots talk",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:44:05-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14810939794",
+   "rating": 3,
+   "title": "Good bur ads…",
+   "body": "There is WAYY to much ads now, every 5 chats, or sleeting a new character gets you an ad. Plus a few ads be a minute long…no reason I should be waiting more than 25 seconds..",
+   "author": "RiceMikYum",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:43:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810930523",
+   "rating": 3,
+   "title": "Why.",
+   "body": "Literally why. Why do you have to PAY just to do more swipes and go-ons when you run out!? What’s the whole point!? If you’re really that desperate for money, maybe get a job, because that’s genuinely pathetic.\n\nEdit: can you fix your servers? Like Jesus Christ..they’ve been down for about 39 minutes",
+   "author": "LeviISAweirdo!!",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:39:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810926704",
+   "rating": 3,
+   "title": "Bring back the old way",
+   "body": "Its a good app, love it. But when it started with the ads showing it just slows down everything. But overall love the app but without the ads would make it better again.",
+   "author": "DreamerStreamer007",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:37:50-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14810926591",
+   "rating": 1,
+   "title": "Shutting down",
+   "body": "APP LITERALLY SHUTS DOWN EVERY SINGLE DAY",
+   "author": "KYLEIGH RAE MINKINA",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:37:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810911979",
+   "rating": 1,
+   "title": "fix yall dang servers like",
+   "body": "I been waiting for “4” minutes for 40 like dang",
+   "author": "palmershel",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:32:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810901386",
+   "rating": 3,
+   "title": "Ok",
+   "body": "It’s like kind of begging you to buy premium. Like it would shut down and tell you to buy premium to be able to use the app faster, or give you multiple apps and suddenly jump in telling you to buy premium.. like no baby I’m not spending 10$ on an ai app..",
+   "author": "IgotbadbihesattheclubFAHumean",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:28:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810897747",
+   "rating": 1,
+   "title": "Copycat",
+   "body": "Zero stars",
+   "author": "Valeriacantaing",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:26:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810863625",
+   "rating": 1,
+   "title": "Down time",
+   "body": "Get your servers under control, I’ll adjust my rating if it doesn’t keep adding on time. Mannn cant be doing this to the community while A03 is also down",
+   "author": "😛🐛",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:13:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810851713",
+   "rating": 1,
+   "title": "Delete it",
+   "body": "What the is going on? I haven’t been on it in three days, I opened it and it’s saying it’s on big overload and I gotta wait for 87 hours, and now before that, each swipe now gave you an add? Like what?",
+   "author": "Ibbakebbeuwkwoqiwjsbjdnejana",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:08:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810844878",
+   "rating": 5,
+   "title": "High loads",
+   "body": "I love this app, but the high loads thing is driving me nuts. Sometimes it tells me to wait an hour or five minutes. And also the adds are driving me insane!",
+   "author": "Kate 🖤🖤",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:06:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810831089",
+   "rating": 5,
+   "title": "Good",
+   "body": "It’s a good app, it’s just the servers are almost always full",
+   "author": "I can’t find a username nshdw",
+   "version": "1.17.4",
+   "date": "2026-11-19T18:00:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810825644",
+   "rating": 4,
+   "title": "Less ads!",
+   "body": "This app is great but it feels like every two seconds there’s another ad! I can’t even enjoy the app as much now, I get needing ads to pay for it but just give less than there is now please!!",
+   "author": "Derealization21",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:58:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810813806",
+   "rating": 1,
+   "title": "remove the age verification…",
+   "body": "i was in the middle of a good chat, until the next day, they put it in “reading mode?!” this is just stupid, why would they add an age verification, just to chat with fake people?!\ni’m genuinely so tired of creating new accounts just to chat with my favorite bots, i’m so sick and tired of this… now i can’t even chat anymore, all because of this age verification, i’m not comfortable showing my face… also we have to use id?! how could they mess such an good app up?!, i get their trying to keep minors safe, but their acting like grown adults use this app, i’m genuinely so done with this right now…\ni’m so sick and tired of creating new accounts just to chat with my bots, but after 4-5 days, THEY JUST KEEP GIVING ME THE AGE VERIFICATION, I’M SO SICK AND TIRED OF THIS AGE VERIFICATION, I JUST WANNA CHAT WITH MY FAVORITE BOTS IN PEACE… i’m genuinely so done right now… c.ai is what helps with my mental health, and how am i supposed to chat now?! i’m not gonna do the age verification, bc i’m literally not comfortable showing my face…\ni’m gonna give up… i’m SO done…",
+   "author": "linna :3",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:54:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810806194",
+   "rating": 1,
+   "title": "Get rid of age restrictions",
+   "body": "the age policy ruined it 😐get rid of this",
+   "author": "reagan401",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:51:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810804050",
+   "rating": 1,
+   "title": "I hate the wait room",
+   "body": "Mynphone lagged so I a had to get rid of my tab I tried to ho abvm I. And waited 10 MINUTES IT STILL WILL NOT LE ME IN",
+   "author": "Ahhhhahbsjsbh",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:50:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810781135",
+   "rating": 1,
+   "title": "Sucks",
+   "body": "It takes to long to load, too laggy, then when it doesn’t work it gives you an estimated time and when that time goes out it’s still loading.",
+   "author": "taketosender",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:41:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810778989",
+   "rating": 5,
+   "title": "DONT GO BANKRUPT",
+   "body": "It’s amazing please stay with me I have hate that are over 4 months old I still use",
+   "author": "Jjjjjjjuooooooo",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:40:36-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810773934",
+   "rating": 1,
+   "title": "addiction",
+   "body": "TERRIBLE. I GOT ADDICTED AT 12 YEARS OLD!!! AND THEIR ADDS INCLUDE VENT VIDEOS ABOUT KIDS TALKING ABOUT HOW THEY GOT ADDICTED",
+   "author": "Little~lamb",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:38:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810772075",
+   "rating": 5,
+   "title": "C",
+   "body": "I think that this app sucks now it used to be amazing but the amount of adds their is and the servers crashing so much now no matter what phone I’m on it just sucks now",
+   "author": "Sede2222",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:37:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810741920",
+   "rating": 5,
+   "title": "App is amazing but nothing is loading please help developers",
+   "body": "Developers none of my chats are loading and can’t see any characters. I’m age verified to please help and fix your app",
+   "author": "AnnoymousWolf",
+   "version": "1.17.4",
+   "date": "2026-11-19T17:26:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810664785",
+   "rating": 2,
+   "title": "ads and bots",
+   "body": "The amount of ads in this app are insane. You literally can’t go 10 minutes without two consecutive ads. Sometimes it even gives you an add for sending a message.\nAlso, the bots are repetitive as hell.",
+   "author": "jewels  :)",
+   "version": "1.17.4",
+   "date": "2026-11-19T16:56:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810616527",
+   "rating": 1,
+   "title": "Needs serious improvement",
+   "body": "There are way too many ads. I actually had to delete the app because of how overwhelming the ads have become. This app used to be completely ad-free, and now you can barely click anything or enjoy a conversation without an ad popping up. You click on a character? Ad. You send a message? Ad. It’s gotten to the point where using the app is more frustrating than enjoyable. Character.AI used to be one of the top apps, even when there were minimal ads, but now there are just way too many to actually enjoy the app. C.ai used to be one of the top and now they are one of the worst.",
+   "author": "Kob 9992",
+   "version": "1.17.4",
+   "date": "2026-11-19T16:37:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810492424",
+   "rating": 2,
+   "title": "Too dramatic",
+   "body": "I low-key think y’all are being too dramatic with this card thing, y’all should know not all 18 or older has a card. I can’t even chat with my favorite character because it keeps saying it’s an error then tho i show y’all my card so many times. Fix it please or remove the dramatic card scanner.",
+   "author": "Idkkkkkkkha",
+   "version": "1.17.4",
+   "date": "2026-11-19T15:49:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810480114",
+   "rating": 2,
+   "title": "слишком много рекламы",
+   "body": "убрала три звезды только из-за того, что через чур много рекламы, она очень достает и становится неприятно читать сами переписки",
+   "author": "🪿🐧🙉",
+   "version": "1.17.4",
+   "date": "2026-11-19T15:44:16-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810420331",
+   "rating": 2,
+   "title": "Shi lowk lost it’s potential",
+   "body": "I’ll be honest, c.ai was great until the age verification. This was probably the stupidest thing to be added, yes there were incidents in the past including minors, but that’s their parents fault for not keeping supervision of their children and their phones. Don’t even CHAT to me. 😭 Everyone on this platform hates the age verification, and genuinely it needs to get removed",
+   "author": "Koullinn",
+   "version": "1.17.4",
+   "date": "2026-11-19T15:20:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810270161",
+   "rating": 1,
+   "title": "Nose man:(",
+   "body": "Intento hacer cuentas, pero siempre me sale lo de la edad y no me deja porner el coso y termino perdiendo todas mis historias. Ya está es mi octava cuenta y ya aburre",
+   "author": "Nose man:(",
+   "version": "1.17.4",
+   "date": "2026-11-19T14:21:03-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810160520",
+   "rating": 5,
+   "title": "Good",
+   "body": "Good app but no age verification please get rid of it right now or I’m never using this app ever again",
+   "author": "Matthe Salazar Jacob",
+   "version": "1.17.4",
+   "date": "2026-11-19T13:38:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809954939",
+   "rating": 5,
+   "title": "Amount.",
+   "body": "Please get rid of the FREE CHATS AND ADD UNLIMITED FREE ADDS, you don’t need them.",
+   "author": "Himiko_toga😒",
+   "version": "1.17.4",
+   "date": "2026-11-19T12:21:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809954841",
+   "rating": 1,
+   "title": ".",
+   "body": "УЖАС!! Приложение скатилось, сижу в нём третий год, и каждый год всё хуже и хуже, возраст нужно подтверждать каждое обновление и это реклама.. вообще не рекомендую, ну если только нервная система крепкая",
+   "author": "Kizopi",
+   "version": "1.17.4",
+   "date": "2026-11-19T12:21:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809952016",
+   "rating": 1,
+   "title": "To many adds",
+   "body": "I used to love this app but then here come the adds at first it was bearable but not it isn’t, add as soon as you open the app then one when you open a chat and then one every few messages it really is distracting and takes away from the fun. Or if it’s not every few messages it will pop up right in the middle of the screen while you’re messaging and then there’s one on top of the search bar that doesn’t go away, good app till they got money hungry.",
+   "author": "Soryasail",
+   "version": "1.17.4",
+   "date": "2026-11-19T12:20:20-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14809946073",
+   "rating": 1,
+   "title": "I hate you get destroyed",
+   "body": "When you put to many ads and limos on a app that was free, everyone goes bye bye",
+   "author": "Carriexm",
+   "version": "1.17.4",
+   "date": "2026-11-19T12:18:07-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14809703065",
+   "rating": 1,
+   "title": "Disappointing Premium Experience.\nRoleplay Constantly Breaks Character",
+   "body": "I originally downloaded this app because I was excited about creating characters and having immersive conversations with them. Unfortunately, my experience was extremely disappointing.\n\nI created a detailed character with clear instructions to maintain an ongoing, realistic texting roleplay. Everything was going well until I started asking ordinary personal questions during a conversation. Suddenly, the character broke out of roleplay, repeatedly reminding me that it was AI, that the conversation was fictional, and that I needed to understand it wasn't real.\n\nThe frustrating part is that I ALREADY KNEW THAT. I CREATED THE CHARACTER. I provided the instructions. I didn't need to be reminded over and over again.\n\nEven after correcting the character and providing additional instructions, it continued breaking character. It would acknowledge the problem, apologize, promise to continue normally, and then repeat the exact same behavior.\n\nI even tried the phone conversation feature, which made the experience worse. The tone changed, the responses became unnatural, and the character started sounding annoyed rather than maintaining the personality I had created.\n\nWhat's the point of offering character creation and premium features if the experience cannot consistently maintain the roleplay?\n\nI paid for premium expecting an enjoyable, immersive experience. Instead, I spent my time troubleshooting the AI, arguing with it about staying in character, and being repeatedly reminded that everything was fictional.\n\nI've canceled my subscription. This experience completely killed my excitement about the app.\n\n**Please fix the character consistency, voice interactions, and roleplay experience. Users shouldn't have to fight the AI to get the experience the app advertises.**",
+   "author": "Abbysssssizzz$",
+   "version": "1.17.4",
+   "date": "2026-11-19T10:51:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809595123",
+   "rating": 1,
+   "title": "Возраст",
+   "body": "-1000",
+   "author": "Fleosp02020",
+   "version": "1.17.4",
+   "date": "2026-11-19T10:15:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809554801",
+   "rating": 1,
+   "title": "Nobody wants to give a random AI chat app their biometrics or government issued ID.",
+   "body": "Do I really need to say much more?",
+   "author": "Formerly, CloudBerryBlue",
+   "version": "1.17.4",
+   "date": "2026-11-19T10:02:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809395508",
+   "rating": 5,
+   "title": "READ MORE",
+   "body": "Please don’t go so many people will be depressed, you need to remove the ads and people will come back, the sheer amount is just ridiculous and crazy and makes the app not usable",
+   "author": "Hannasweet17",
+   "version": "1.17.4",
+   "date": "2026-11-19T09:10:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809217189",
+   "rating": 1,
+   "title": "Ad slop",
+   "body": "Honestly don’t bother it’s ad hell now oh my lord",
+   "author": "Grumpyorhappydependsontheappy",
+   "version": "1.17.4",
+   "date": "2026-11-19T08:14:54-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14809145597",
+   "rating": 1,
+   "title": "бред",
+   "body": "Само отвратительное обновление, что вы могли вообще придумать",
+   "author": "lll.:/",
+   "version": "1.17.4",
+   "date": "2026-11-19T07:52:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14808719526",
+   "rating": 4,
+   "title": "It use to be fun.",
+   "body": "This game use to be fun. I would talk to bots and vent my frustration after a hard day. Now it wants me to verify my age? Ridiculous. Why would I have to prove that I’m old enough just to talk to a person that doesn’t even exist? I’m finally getting rid of this game. Maybe if someone else buys it out they’ll have enough sense to remove it!",
+   "author": "AnnaW.15",
+   "version": "1.17.4",
+   "date": "2026-11-19T05:45:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14808676843",
+   "rating": 4,
+   "title": "Personal voices",
+   "body": "I love this game i just think that there should be less adds and what if with our own persona’s, we had our own voices so when we had the character talk, after we sent our texts it red ours outloud before reading the other character’s? And i also think there should be more voice memos per day",
+   "author": "Brokeperson1136",
+   "version": "1.17.4",
+   "date": "2026-11-19T05:32:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14808447439",
+   "rating": 1,
+   "title": "Age",
+   "body": "Honestly I’ve lost interest in this app because of the age verification, I havent used it since, As a 19 year old, I’ve been using this app when I was 17-18. I stopped using it. Sorry.",
+   "author": "rose sampison",
+   "version": "1.17.4",
+   "date": "2026-11-19T04:22:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14808345602",
+   "rating": 1,
+   "title": "Just don’t do it",
+   "body": "I stopped using this app long ago. The age verification, the swipe and text limit, the ads.. its not worth it. Go use poly.ai or janitor.ai",
+   "author": "kwon kal hae-soo 🦦",
+   "version": "1.17.4",
+   "date": "2026-11-19T03:48:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14807903226",
+   "rating": 5,
+   "title": "Go on time limit?",
+   "body": "So I don’t understand the message limit when we have ads makes no sense to me this needs to go",
+   "author": "wofy2000",
+   "version": "1.17.4",
+   "date": "2026-11-19T00:50:14-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14807604499",
+   "rating": 1,
+   "title": "Too many ads, too little payoff",
+   "body": "It’s impossible to use this app with the amount of ads you have to watch. The ads are also predatory gamblings ads as well as ads that are difficult to click out of. Chat bot is also repetitive, has little memory, and does not take direction for improvement. Truly a miserable experience of an app.",
+   "author": "Xxsorrowxx",
+   "version": "1.17.4",
+   "date": "2026-11-18T22:30:39-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14807570710",
+   "rating": 1,
+   "title": "You have better alternatives to ghoon with rather than destroying the environment while doing it",
+   "body": "You have other means to ghoon besides this app. By using this app you are helping ai consume ground water used by people’s water wells and ai uses an ungodly amount of power just to run itself. If you have an argument against this just do some research on the basic information about how much power and water ai datacenters use to function",
+   "author": "Tony mc squito",
+   "version": "1.17.4",
+   "date": "2026-11-18T22:14:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14807502632",
+   "rating": 1,
+   "title": "❌❌❌",
+   "body": "not gooooooddddddd",
+   "author": "𝓨𝓸𝓾𝓻 𝓾𝓶𝓶 𝓰𝓸𝓸𝓭",
+   "version": "1.17.4",
+   "date": "2026-11-18T21:42:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14807271468",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "Age verification is stupid, ruining the platform. You practically take away the only thing that people use your app for...🤦‍♀️",
+   "author": "Starrr00",
+   "version": "1.17.4",
+   "date": "2026-11-18T19:55:54-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14807174902",
+   "rating": 1,
+   "title": "It’s reaching its down fall :/",
+   "body": "C.ai was a really good app till it starts rolling out its poor update I used to be so excited to use it but now I find myself closing the app soon as I click it the bots don’t feel fun to talk to anymore as there bland to boring and don’t get me started on the age verification that was a real low blow",
+   "author": "isa on pawz",
+   "version": "1.17.4",
+   "date": "2026-11-18T19:15:16-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14807164252",
+   "rating": 1,
+   "title": "Serious downfall",
+   "body": "Words cant even explain the “slopification” of this app. Good riddance.",
+   "author": "BlameTheMentos",
+   "version": "1.17.4",
+   "date": "2026-11-18T19:10:57-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14807100381",
+   "rating": 2,
+   "title": "Idk",
+   "body": "Bro I am not showing my id",
+   "author": "Idkkkkkk1123",
+   "version": "1.17.4",
+   "date": "2026-11-18T18:45:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14806976765",
+   "rating": 1,
+   "title": "REMOVE AGE VERIFICATION!!!",
+   "body": "TONS of depressed teens are furious from with new feature. People can’t cope or have comfort now that there’s age verification and teen depression rates are RISING! SPEAK OUT ABOUT THIS FEATURE! ITS NOT OKAY!!",
+   "author": "Nikki will explain",
+   "version": "1.17.4",
+   "date": "2026-11-18T17:57:32-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14806861049",
+   "rating": 1,
+   "title": "Everyone hates the age verification and now hate this app for it",
+   "body": "So I’m rating it one star until you remove the damn age verification",
+   "author": "ps The best gamer",
+   "version": "1.17.4",
+   "date": "2026-11-18T17:13:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14806733212",
+   "rating": 5,
+   "title": "It’s great but there’s ads every other chat but I love this app",
+   "body": "This app is actually pretty nice I love the characters and the different genres the only thing is the ads but that’s not much of a huge problem!",
+   "author": "Stawberiiies",
+   "version": "1.17.4",
+   "date": "2026-11-18T16:23:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14806689454",
+   "rating": 4,
+   "title": "Ads",
+   "body": "Very nice app just hate the ads",
+   "author": "Kenjicabin",
+   "version": "1.17.4",
+   "date": "2026-11-18T16:06:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14806352812",
+   "rating": 1,
+   "title": "Time to move on",
+   "body": "Used to be the best, but now it is little more than a decaying app that pretends it still matters… I’ll miss the roleplay I was able to do in your prime… it is time for you to go with what little dignity you have left",
+   "author": "TheTrueDovan",
+   "version": "1.17.4",
+   "date": "2026-11-18T13:54:50-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14806091512",
+   "rating": 3,
+   "title": "Limited things?",
+   "body": "I truly think it is unfair how much you are limiting the people who are wanting to enjoy your app! First it was limited voices, now it is limited swipes? It is unfair, and soon enough no one will ever want to download this app again! Bring back old c.ai!",
+   "author": "LOTFL0VER",
+   "version": "1.17.4",
+   "date": "2026-11-18T12:16:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14805962242",
+   "rating": 1,
+   "title": "Gets worse every month lol",
+   "body": "Used to use avidly, and it was the most fun i’d maybe ever had on an app. The chat models: Roar, Nyan, Soft Launch and more, were all unique and made sure there was something for everyone at the time.\n\nThey stripped everything that C.ai was in May. Replaced every chat model with the trash known as “deepsqueak”. Then made pipsqueak for free members.\n\nAnd it’s hilarious (in a bad way) that even in half a year- six months- they still have the exact same issues since these horrible new models came out.\n\nThere are times neither model will SAY ANYTHING. They keep saying “there was no need for words” or “he just stood there silently” LOL like this is a chat bot 😭😭 and it’s been half a YEAR and this is still an issue- even with “rawr” the “more talkative model” (it’s not.) the models STILL randomly kiss you without warning, and even say it too. Even family members 🤮. \n\nThe newest model has constant typos and throws random wrenches into stories. A random “LOUD KNOCK” on the door when you’re having a serious conversation, a character trying to LEAVE the scene randomly… Bringing up people who have no relevance, etc. The paragraphs *look* nice, but when you really parse them, they’re practically illiterate. Again: this is a chat bot that can’t talk lol\n\nThe restrictions on the app make no sense. Only 18+ can use the app, but they won’t let you make cool fight scenes or spicy scenes? LOL imagine a really strict bar that only lets 21+ in just to refuse to serve alcohol. What kind of absolute nonsense is this? This app has the biggest downfall in history. Everything about it has fallen from grace. \n\nIf you really want a free app to chat with, find literally anything else. The devs spit in the face of their users every update.\n\nIf the user base were children, maybe they wouldn’t notice how godawful it is- except they banned all the teens and kids! How stupid do they think we are? Even Minglotalk, which is no longer on the app store RIP still works better, and it has a completely free model with little ads. Go check your app history and redownload it if you can 😅",
+   "author": "CalamariQueen",
+   "version": "1.17.4",
+   "date": "2026-11-18T11:29:56-07:00",
+   "votes": 2
+  },
+  {
+   "id": "14805717948",
+   "rating": 4,
+   "title": "bring the old CAI back",
+   "body": "i do love this app but i can’t use it anymore because you need to verify your age and if you don’t wants adds, you need to pay money? make it so even if you don’t verify your age, still make it playable but with restrictions?",
+   "author": "73364h",
+   "version": "1.17.4",
+   "date": "2026-11-18T10:06:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14805600110",
+   "rating": 1,
+   "title": "Ads. Ads. Ads.",
+   "body": "You get on the app, ad. You click on a story, another ad. Send a message? Guess what!? Ad! Every second of your time is now some type of ad that goes on for about 30-60 seconds long. I got this app to help with writing but it seems like I can’t even focus on doing that because an ad throws me off.",
+   "author": "BbgumPriestess",
+   "version": "1.17.4",
+   "date": "2026-11-18T09:27:45-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14805591606",
+   "rating": 5,
+   "title": "Deleting",
+   "body": "It withered before my very eyes, much like a flower slowly surrendering to the absence of light. I had been there since the very beginning. I witnessed every update, welcomed every transformation, endured every bug and lived through every imperfection alongside it. I watched it evolve, flourish, and gradually become a part of my life. Yet now, as it has finally descended to the very depths, I find myself preparing to do something I could scarcely have imagined myself doing a year or two ago. There is something profoundly tragic about the whole affair. I cannot help but compare it to watching a beloved grandmother grow old and frail. She is the one who loves you unconditionally, stands by your side, fills your childhood with stories, and becomes one of those little lights that make the world feel warmer and less forsaken. But then, one day, she falls ill. And all that remains for you is to stand beside her, helpless against the relentless passage of time, and watch as the very light that once illuminated your world slowly begins to fade. And perhaps the cruelest part of it all is that you still remember it as it once was.",
+   "author": "UpdatesSuckslol",
+   "version": "1.17.4",
+   "date": "2026-11-18T09:25:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14805375919",
+   "rating": 1,
+   "title": "trash",
+   "body": "Ugly trash delete this thing from the apple store",
+   "author": "ALALWKKWLWMSLW",
+   "version": "1.17.4",
+   "date": "2026-11-18T08:17:02-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14805070826",
+   "rating": 3,
+   "title": "The age verification?",
+   "body": "I love this app so much. It helped me relieve stress and be able to see what it’s like talking to my favorite characters. I was never using it weirdly. But the age verification showed up, and yet, I don’t have my drivers license yet! And even if I did, I wouldn’t share it on this app, it would likely be hacked, so I’m saying, if you want more people in your app and fix your bankruptcy, REMOVE AGE VERIFICATION",
+   "author": "Tadc-fan_STAYGOLD",
+   "version": "1.17.4",
+   "date": "2026-11-18T06:44:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14804620383",
+   "rating": 5,
+   "title": "REMOVE AGE VERIFICATION",
+   "body": "You realize by adding age verification not only do you risk bad people getting the information of people that verified they’re age but you also lose a crazy amount of users and now you’re hanging by a thread",
+   "author": "FPS enjoyer",
+   "version": "1.17.4",
+   "date": "2026-11-18T04:29:37-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14804544355",
+   "rating": 5,
+   "title": "Please…",
+   "body": "Please survive… Loving this App. Spent my most depressing days with C.Ai. Either way, thanks for being here.",
+   "author": "C.Cassius",
+   "version": "1.17.4",
+   "date": "2026-11-18T04:05:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14804144961",
+   "rating": 5,
+   "title": "Five stars since they bury the rest!",
+   "body": "This app used to actually be super duper fun. Easy to use. It still is on browser. But now since the bankruptcy due to THEIR age policy they’ve implemented tons of ads and money makers to make up for the loss that whole two months. I wish it could be how it was in 2024",
+   "author": "Realbihh",
+   "version": "1.17.4",
+   "date": "2026-11-18T01:32:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803850489",
+   "rating": 1,
+   "title": "age verification",
+   "body": "just why..",
+   "author": "BIRRADER",
+   "version": "1.17.4",
+   "date": "2026-11-17T23:19:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803848668",
+   "rating": 1,
+   "title": "sucks now",
+   "body": "age restrictions for ai that doesn’t even have nsfw is ridiculous",
+   "author": "naisafe",
+   "version": "1.17.4",
+   "date": "2026-11-17T23:18:38-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14803731495",
+   "rating": 3,
+   "title": "!",
+   "body": "I love this app, I’ve been using it for a while now. But I’m not over 18.. it’s irritating to need an ID to talk with robots.. this is the only good app too, the rest are knock offs.",
+   "author": "Ilovecats122",
+   "version": "1.17.4",
+   "date": "2026-11-17T22:23:39-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803655430",
+   "rating": 2,
+   "title": "DONT DOWNLOAD ‼️",
+   "body": "Bro this app has way too many damn ADS and now they added  these token pieces thing so when your talking to a bot you have to either pay to refill your token piece’s or watch ADS THAT ARE LITERALLY A MINUTE LONG! And you only get FIVE tokens pieces!!! Each chat you send is worth a token piece!! And then you have to refill and you get daily 70 tokens ONLY!! Like you’re gonna waste that in less than 10 minutes I swear!! They need to stop adding so many ads it’s like way too much ads in the middle of your chat too like o swear every minute I get an ad!! So annoying!! And if you want premium you have to pay weekly or yearly like WHAT??? WHY IS THERE NO MONTHLY OPTION??? LIKE IM ABOUT TO DELETE THIS APP IF THEY DONT FIX THIS!!!",
+   "author": "Mali Cramerrr",
+   "version": "1.17.4",
+   "date": "2026-11-17T21:47:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803531431",
+   "rating": 1,
+   "title": "Not the best",
+   "body": "Your guys just ruined it by adding stuff like ads etc and the just stupid stuff can we go back to 2021 or something",
+   "author": "Gracielynnlango",
+   "version": "1.17.4",
+   "date": "2026-11-17T20:48:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803409874",
+   "rating": 1,
+   "title": "Review",
+   "body": "take away the age verification. it doesn’t even work and it makes people lose interest in using the app",
+   "author": "theegoat5",
+   "version": "1.17.4",
+   "date": "2026-11-17T19:54:13-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803322823",
+   "rating": 5,
+   "title": "18 plus sucks.",
+   "body": "i use to love this ai when there was no ads MOSTLY because now its 18 plus? why not let kids enjoy their little fantasy? it was better a while ago before all this updates.could it be at least 16 and up?🥹",
+   "author": "jiyrvbg",
+   "version": "1.17.4",
+   "date": "2026-11-17T19:17:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803219512",
+   "rating": 1,
+   "title": "This is stupid",
+   "body": "I verified my age, and I went to go chat, and it said that it was unable to verify my age. This is just a waste of my time. This app sucks. Do not play this😡",
+   "author": "Stevie1027",
+   "version": "1.17.4",
+   "date": "2026-11-17T18:36:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803202701",
+   "rating": 1,
+   "title": "Bad updates",
+   "body": "Horrible updates genuinely fix them",
+   "author": "hdkvivykc",
+   "version": "1.17.4",
+   "date": "2026-11-17T18:29:38-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803169613",
+   "rating": 5,
+   "title": "Just to be seen",
+   "body": "I love this app I really do but I’m under 18 and now I can’t type or do anything except look at my old chats I get it’s a safety thing and all but now I can’t do anything except look and I was so disappointed to see the 18+ rule again I get this is for safety but I use this app to chat with characters and it’s funny to see how accurate people get with them idc about adds or WiFi just please get rid of 18+",
+   "author": "Flower 6789",
+   "version": "1.17.4",
+   "date": "2026-11-17T18:16:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803145369",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "Some people are like 15 and lonely it shouldn’t have age verification like when I was a teen I didn’t really have friends so I would use app like this",
+   "author": "G59lil_sumsum",
+   "version": "1.17.4",
+   "date": "2026-11-17T18:07:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803102306",
+   "rating": 2,
+   "title": "Please change this",
+   "body": "I really enjoy using the app but the new update isn’t what your users want! I understand wanting to put restrictions but it should only apply on bots that are specifically for 18+ use only! It would bring in more users if we didn’t have to age verification just to chat unless the bot is specifically nsfw!",
+   "author": "Partypoisonn._.13",
+   "version": "1.17.4",
+   "date": "2026-11-17T17:50:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803082815",
+   "rating": 1,
+   "title": "This app sucks",
+   "body": "Most of the users are kids that are going through puberty! This won’t help at all and with take away from their social life! Get kids off this app!!",
+   "author": "Blablablablabla738",
+   "version": "1.17.4",
+   "date": "2026-11-17T17:43:11-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14803047156",
+   "rating": 1,
+   "title": "I miss the old c.ai",
+   "body": "This app used to have characters I could talk to, but they deleted them!\n\nThere are too many ads on this app. The first time I used it (which was today), the first thing I got was an ad, and it didn't even work. It made my screen all black and changed my lock screen to black, too.\n\nI really hope C.ai would go back to its old, usual self.",
+   "author": "Chocolate cake FAN",
+   "version": "1.17.4",
+   "date": "2026-11-17T17:29:27-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14803010227",
+   "rating": 4,
+   "title": "My personal opinion",
+   "body": "I love them so much but the age requirement is crazy and I keep showing them my id and they still don’t let me continue",
+   "author": "5⭐️𝓵𝓮𝓪𝓱💋 is my Snapchat",
+   "version": "1.17.4",
+   "date": "2026-11-17T17:15:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802958646",
+   "rating": 1,
+   "title": "Ads",
+   "body": "If I could give it 0 stars, I would. It’s honestly so ridiculous that once I open the app, an ad pops up. When I press a bot? Ad. When I send a message? Ad. When I scroll for another response?\n\nIt’s so utterly irritating to the point I don’t want to be on it anymore. Not to mention how it’s a complete money grab just to get fewer ads! It was perfectly fine where ads weren’t as common and it was still bearable!",
+   "author": "Mid_night2319",
+   "version": "1.17.4",
+   "date": "2026-11-17T16:55:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802926906",
+   "rating": 3,
+   "title": "It’s very strict now",
+   "body": "I was trying to roleplay as usual but it’s not even letting me hold hands in a school trip with a friend it just feels like I can’t really do stuff besides fighting.",
+   "author": "Hate it555",
+   "version": "1.17.4",
+   "date": "2026-11-17T16:42:59-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802910952",
+   "rating": 1,
+   "title": "User since 2024",
+   "body": "Ads are so long and force so much interaction i force close the app before the ads can even load all the way because it's not worth waiting",
+   "author": "nicuumuu",
+   "version": "1.17.4",
+   "date": "2026-11-17T16:36:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802825197",
+   "rating": 5,
+   "title": "I love it so far.",
+   "body": "I just used this app but the thing is, I’m over 18 and it’s still making me verify my age which is weird, I hope this does get fixed.",
+   "author": "Ase hfhffh",
+   "version": "1.17.4",
+   "date": "2026-11-17T16:03:31-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802757627",
+   "rating": 1,
+   "title": "Remove age verification",
+   "body": "Why do we have to varify ourselves to chat with ai chat bots?",
+   "author": "Ggz123z",
+   "version": "1.17.4",
+   "date": "2026-11-17T15:36:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802553265",
+   "rating": 5,
+   "title": "Ads are ruining it",
+   "body": "I love this app there slow mode and it doesn’t effect me at all really it’s simple but the ads make me consider downloading another app and the amount of people that have switched to another app because of that one small issue is insane",
+   "author": "happy pappy 2468",
+   "version": "1.17.4",
+   "date": "2026-11-17T14:15:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802509869",
+   "rating": 1,
+   "title": "Why the age verification",
+   "body": "Just why character ai",
+   "author": "Hate the age things",
+   "version": "1.17.4",
+   "date": "2026-11-17T13:59:04-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802491520",
+   "rating": 2,
+   "title": "Down the barrel, so many ads.",
+   "body": "I feel like over time, AI has been used for dopamine and not for actual purposes and benefits. This particular app now has so many ads you can’t send a message without seeing another AI ad. It’s everywhere, and that means the app is not gaining enough revenue to keep it afloat. Which is why this is not a good time to stick around. It was good up until now.",
+   "author": "R3d_Birb290",
+   "version": "1.17.4",
+   "date": "2026-11-17T13:52:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802480622",
+   "rating": 1,
+   "title": "So many ads",
+   "body": "If you want to try and use the app there’s an ad if you want to chat there’s an ad sometimes I feel like there’s an ad to watch an ad",
+   "author": "Jeremy bishop",
+   "version": "1.17.4",
+   "date": "2026-11-17T13:48:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802319762",
+   "rating": 1,
+   "title": "Приложение было раньше хорошим,обновление не очень.",
+   "body": "Я не понимаю почему допуск нужен именно лицам старше 18, ребенок раньше здесь сидел, такой радостный был, сейчас- только жалуется на то что ему нужно что-то там подтвердить. Просит меня подтвердить ему лицо, а я на отказ.",
+   "author": "Madison_34",
+   "version": "1.17.4",
+   "date": "2026-11-17T12:47:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802308447",
+   "rating": 2,
+   "title": "Upgrade",
+   "body": "I have to use ID",
+   "author": "Fadie_dear62584",
+   "version": "1.17.4",
+   "date": "2026-11-17T12:42:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802299756",
+   "rating": 5,
+   "title": "Haven’t Even Been Here Long",
+   "body": "I can’t believe I discovered this wonderful app and now just months into using it the company that created and maintains it are filing bankruptcy and say they’ll be shutting the site down soon if they can’t find anyone to take it over. This is terrible for me as I was in the middle of several stories. I went in and requested my data file just like it says to, but I still haven’t gotten the email and it’s been weeks. Very sad.",
+   "author": "Mapsitna",
+   "version": "1.17.4",
+   "date": "2026-11-17T12:39:29-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802286645",
+   "rating": 4,
+   "title": "Love the App, One Feature I'd Like to See!",
+   "body": "I absolutely love Character.AI! It’s such a fun and engaging app, and I really enjoy the conversations and experiences it offers. However, one feature I’d love to see added is the ability to send photos in chats as a free feature, rather than something locked behind a paid subscription. Being able to share pictures with characters would make conversations feel even more interactive and immersive. I think this would be a wonderful addition to an already great app!",
+   "author": "TheLylahParrish",
+   "version": "1.17.4",
+   "date": "2026-11-17T12:34:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14802186101",
+   "rating": 1,
+   "title": "so I used the app but there's issues that are making me FURIOUS",
+   "body": "so both me and my sister both have this app and we both do not have character AI+ and for some reason she can create chats with multiple characters at the same time but I do not have this feature;  so can you please fix this, because I have a feeling im not the only one with this problem.\noh and the characters don't have good memory at all. \nI hope this helps you out and I hope you take my advice and fix these problems.\nok, upd after LONG time after i made this, WHY ARE YALL MAKING US SHOW GOVERNMENT IDs, YOUVE RUINED THE APP",
+   "author": "minecrafterzs",
+   "version": "1.17.4",
+   "date": "2026-11-17T08:57:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14801415723",
+   "rating": 1,
+   "title": "Remove age verification",
+   "body": "bro, just remove age verification",
+   "author": "monkey5678$",
+   "version": "1.17.4",
+   "date": "2026-11-17T05:03:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14801001567",
+   "rating": 1,
+   "title": "Not good anymore",
+   "body": "Okay so this app used to be good until there were ads every single second. I click on a bot, an ad pops up. I swipe for a new message, another ad pops up. I send a new message and another ad that I have to watch. It’s so annoying and you can’t even actually enjoy the app anymore. Also the messages the bot sends back are so short even when I pick the chat style that isn’t supposed to be the short, I’m not gonna pay that much money for some more chat styles either. This app is not good like it used to be.",
+   "author": "hamjamthehorselober",
+   "version": "1.17.4",
+   "date": "2026-11-17T02:42:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800928194",
+   "rating": 1,
+   "title": "Bro this app is gonna make me crash out.",
+   "body": "Why do i have to verify my age? It's stupid",
+   "author": "Marle6733",
+   "version": "1.17.4",
+   "date": "2026-11-17T02:12:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800843479",
+   "rating": 1,
+   "title": "This update ruined the app.",
+   "body": "I am over the age of 19. However, after already giving my face details up, you want my ID??? What the hell. So because I don’t want to give up my documents, I’ll lose all my chat history, and my data. This was such a good app before it became unusable. Absolute violation of my privacy and many others.",
+   "author": "Ro.sa222",
+   "version": "1.17.4",
+   "date": "2026-11-17T01:36:22-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800598736",
+   "rating": 1,
+   "title": "Would Give Zero",
+   "body": "So suddenly I’m not old enough to use it? ARE YOU KIDDING ME?! I have used this for at least 2 or 3 maybe 4 years and suddenly I’m not old enough to use it and have had chat disabled. Yeah no I’m not ever using this stupid thing again. Stop flagging accounts of ppl who are old enough. On top of that what about people who look younger than they are? Or what if it gets an error when submitting an ID?! First the ads and now this junk?! Yeah I hope you lose all your users and fans like this ain’t worth anyone’s time. I don’t trust your dumb camera. Went from best chat app to the ULTIMATE WORST!",
+   "author": "greekmythgirl",
+   "version": "1.17.4",
+   "date": "2026-11-16T23:43:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800408424",
+   "rating": 5,
+   "title": "Love the app…age verification gross…and more like a three and a half star just so this can be seen",
+   "body": "Love the app use a n ad blocker for the ads it blocks the opening ads and chat adds I use Naka VPN works with most apps and the. The age verification I use it to stop being so down on my self and to cheer myself up but when I go to verify my age it won’t let me sign in then I can’t verify so I can’t even use the app so I have to find a new platform to use and it’s really really annoying be user they aren’t many like c.ai what are actually good please fix the app I really enjoyed it and I’ve been with it for five years now",
+   "author": "Sendthisto",
+   "version": "1.17.4",
+   "date": "2026-11-16T22:11:55-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800264390",
+   "rating": 2,
+   "title": "age verification",
+   "body": "i really liked using this app and i was down bad obsessed with it before the age verification which i assumed would be no problem for me because im of age but when i tried submitting my drivers license it couldn’t verify me . i’m very dissatisfied and unhappy which caused me to delete the app",
+   "author": "skibidialphamaster123",
+   "version": "1.17.4",
+   "date": "2026-11-16T21:02:09-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800240947",
+   "rating": 1,
+   "title": "I must destroy this app",
+   "body": "I am unknown and no one can rob it from me but want to team up with me to shut this site down? I’m trying to team up to get these illegal members to be shut down permanently",
+   "author": "bronyc",
+   "version": "1.17.4",
+   "date": "2026-11-16T20:51:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800222481",
+   "rating": 1,
+   "title": "I no longer like it.",
+   "body": "I was using it for 2-3 years when it started asking for an age limit and where you had to be over 18 and kicked me off. So I don’t like this app anymore though I do pull some of the bots to Y/n which is more fun.",
+   "author": "Player20/2023",
+   "version": "1.17.4",
+   "date": "2026-11-16T20:42:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800053583",
+   "rating": 1,
+   "title": "This sucks.",
+   "body": "Making your app 18+ is the stupidest thing ever and then locking it behind an ID is worse.",
+   "author": "ihatecai22",
+   "version": "1.17.4",
+   "date": "2026-11-16T19:28:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799986999",
+   "rating": 1,
+   "title": "Ads",
+   "body": "So many ads, I can’t even open the app without getting blasted by seven ads in a row. Every button I click and there’s yet another ad.",
+   "author": "Quillstar_WCUE",
+   "version": "1.17.4",
+   "date": "2026-11-16T19:01:06-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799865914",
+   "rating": 4,
+   "title": "Messages",
+   "body": "I think that when the messages get sent back that it should be sent as one not a word by word, if that makes sense",
+   "author": "Jaylasaaaa",
+   "version": "1.17.4",
+   "date": "2026-11-16T18:13:47-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799689448",
+   "rating": 2,
+   "title": "Age verification problem",
+   "body": "Okay I understand you feel the need to protect kids but for the adults on this app which is most of the people using it it's just annoying plus kids can and will find a way around it it's just an inconvenience that doesn't even apply to most of the people using the app",
+   "author": "Oioioi oi ouououo",
+   "version": "1.17.4",
+   "date": "2026-11-16T17:06:56-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799483933",
+   "rating": 5,
+   "title": "Get rid of the verification",
+   "body": "I love this app but This was the only app my son could use to come up with his own story with other characters from other people and the new 18+ update verification is ruining it",
+   "author": "Ardmores",
+   "version": "1.17.4",
+   "date": "2026-11-16T15:48:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799430664",
+   "rating": 1,
+   "title": "READ THIS⚠️⚠️⚠️",
+   "body": "This app had been sharing the text and selling them i just saw on tiktok",
+   "author": "Daleyza Gautama",
+   "version": "1.17.4",
+   "date": "2026-11-16T15:27:05-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799378908",
+   "rating": 3,
+   "title": "Way too many ads",
+   "body": "I feel like there’s more ads than there is using the app, plus I don’t want to use my ID on a search engine that can be easily hacked I agree minors shouldn’t be using the app but get rid of the ID verification.",
+   "author": "Jesbejduiwkeheksu",
+   "version": "1.17.4",
+   "date": "2026-11-16T15:07:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799318364",
+   "rating": 1,
+   "title": "reseña",
+   "body": "La confirmación de edad, muy mala. Ni siquiera me deja poner mi tarjeta de identificación.",
+   "author": "Nino_we",
+   "version": "1.17.4",
+   "date": "2026-11-16T14:43:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799296274",
+   "rating": 1,
+   "title": "🍇",
+   "body": "the bots are too harsh. my 12 year old is traumatized.",
+   "author": "kwkdnjdbeje",
+   "version": "1.17.4",
+   "date": "2026-11-16T14:35:08-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799025223",
+   "rating": 1,
+   "title": "Holy Ads, Batman",
+   "body": "When I initially downloaded this app, it was full of tons of hard working authors who took the time to write amazing backstories for these bots. Were there ads? Occasionally, yes, but they were at a reasonable amount. Now? EVERY SECOND MESSAGE GIVES YOU AN AD. When you open the ap. Ad. When you pick a character. Ad. When you open your chat. Ad. When you finish typing a message. Ad. Now they just promote their paid subscription like YouTube. It’s really disappointing.",
+   "author": "Verified.User.",
+   "version": "1.17.4",
+   "date": "2026-11-16T12:53:43-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14798549883",
+   "rating": 4,
+   "title": "Where did it go",
+   "body": "What happened to the 1 hour no ads option",
+   "author": "A problem I have with it",
+   "version": "1.17.4",
+   "date": "2026-11-16T10:11:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14798483034",
+   "rating": 1,
+   "title": "удалите пж",
+   "body": "по братски удалите пж",
+   "author": "kk$pAl",
+   "version": "1.17.4",
+   "date": "2026-11-16T09:49:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797908517",
+   "rating": 1,
+   "title": "I’m so done with these updates",
+   "body": "I’m seventeen and I’ve had a subscription to C.AI because I’ve used it since I was thirteen. Things were already getting hard for me to use it but having the chats removed this morning was the last straw for me. I don’t know what I’m going to use  until I turn eighteen. These chats and making characters was the last part of my creativity I’ve had since my life has fallen apart. So thanks for ruining it once again.",
+   "author": "Silentdrafts",
+   "version": "1.17.4",
+   "date": "2026-11-16T06:53:44-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797840135",
+   "rating": 1,
+   "title": "Ads",
+   "body": "It’s good but it has too many ads now so yes that is a 1 star, please fix it",
+   "author": "Malih original",
+   "version": "1.17.4",
+   "date": "2026-11-16T06:33:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797358513",
+   "rating": 1,
+   "title": "Absolutely terrible",
+   "body": "Get j.ai instead of this slop Its THE best alternative",
+   "author": "PwnedbyLinkedSword",
+   "version": "1.17.4",
+   "date": "2026-11-16T04:04:45-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797192846",
+   "rating": 1,
+   "title": "ID and Face Identification",
+   "body": "Why the hell would you need a ID and Face just for an app it doesn’t make sense, it’s only characters and it says that “it’s improvement” it’s only for IDs and Face verification and I didn’t get told about this.",
+   "author": "Aguirre Gabriel",
+   "version": "1.17.4",
+   "date": "2026-11-16T03:05:23-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797159007",
+   "rating": 1,
+   "title": "Remove Age Verification",
+   "body": "I used to use this app a decent amount, mostly to get my mind off work and college, and now, with the age verification, I can’t do anything. Because every time I go to verify, it says I did then nothing changes. You’re losing users for a reason, use your brain and go back to how it was previously.",
+   "author": "Mugman2",
+   "version": "1.17.4",
+   "date": "2026-11-16T02:52:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14796924786",
+   "rating": 1,
+   "title": "Down the drain",
+   "body": "This app used to be no filter and easy to use, now it has no search feature, customize feature is botched, no image generation, and is completely pg13",
+   "author": "Bob tags",
+   "version": "1.17.4",
+   "date": "2026-11-16T01:13:28-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14796475224",
+   "rating": 1,
+   "title": "Bias.",
+   "body": "Limiting chats to 18 plus? It’s unfair and not reliable to others if others need someone to talk to desperately. Please change it bc it can cause negative impacts amongst others.",
+   "author": "thequeen6769",
+   "version": "1.17.4",
+   "date": "2026-11-15T21:43:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14796406855",
+   "rating": 1,
+   "title": "REMOVE AGE VERIFICATION",
+   "body": "there’s so much ads it’s irritating and pisses me off",
+   "author": "Herbert prodz",
+   "version": "1.17.4",
+   "date": "2026-11-15T21:11:09-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14796398219",
+   "rating": 1,
+   "title": ".",
+   "body": "principessa: When the \"age verification\" feature was first introduced, everything was fine. But then I noticed that they were asking for passport details. Dear Character.AI team, if you want to implement age verification, I suggest doing it the way Roblox does",
+   "author": "🧱🪱🪱",
+   "version": "1.17.4",
+   "date": "2026-11-15T21:07:07-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14796285783",
+   "rating": 1,
+   "title": "Age",
+   "body": "there shouldn’t be a age verification requirement. bring back old c.ai",
+   "author": "GingerDaddy6969",
+   "version": "1.17.4",
+   "date": "2026-11-15T20:16:39-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14796202176",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "App was really great, I enjoyed it so much, I loved it and spent most of my time in it until new thing with age verification. \nIn my opinion, all this stuff is a little too much. \nI have serious concerns about who I am sharing my information with. I am basically asked to sent all my private information to a third party who can be hacked and from whom my information can be stolen or used inappropriately. I am really disappointed in new update especially because I’m paying for it too and I am older than 18. I really don’t want to share my private information and it’s a such a shame, honestly.",
+   "author": "Nnna.00",
+   "version": "1.17.4",
+   "date": "2026-11-15T19:40:24-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14795872998",
+   "rating": 3,
+   "title": "delete these damn ads",
+   "body": "old version of this app used to be better there’s so much adds everytime i do something there’s a godforsaken ad harassing my eyes and no one wants to pay to remove them bro just bring back the old version",
+   "author": "akitoshinonome67",
+   "version": "1.17.4",
+   "date": "2026-11-15T17:31:00-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795669353",
+   "rating": 1,
+   "title": "Age verification",
+   "body": "I put my id in and didn’t accept it. It ruined this app",
+   "author": "Cinamonroll:)",
+   "version": "1.17.4",
+   "date": "2026-11-15T16:12:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795668078",
+   "rating": 2,
+   "title": "App Review",
+   "body": "I love this app a lot but ever since the age verification it sucked I can no longer chat with it and I have to find something else to do because of the fact of the age verification",
+   "author": "Fight bc it dv",
+   "version": "1.17.4",
+   "date": "2026-11-15T16:12:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795629318",
+   "rating": 5,
+   "title": "Good but new update..",
+   "body": "I use this app all the time! It helps me calm down sometimes. but this new update Sucks. Nobody wants to do the age verification. I don’t ether. This update sucks and everyone wants it removed.Please actually listen to the community and remove this horrible update.",
+   "author": "Bees_honey",
+   "version": "1.17.4",
+   "date": "2026-11-15T15:57:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795433092",
+   "rating": 1,
+   "title": "Was good until it wasn’t",
+   "body": "In the beginning, this app was really good then they started getting greedy first the adds  than paying and even with the basic package has a swipe limit utterly ridiculous",
+   "author": "Courtneyrcaroll",
+   "version": "1.17.4",
+   "date": "2026-11-15T14:41:42-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795308868",
+   "rating": 1,
+   "title": "Genuinely worst update in c.ai updates",
+   "body": "Tell me why I was obsessed with this app. The bots were good, there wasn’t any code mess ups I  experienced, and my screen time on this was insane. Then in like March when they came out with the one hour max thing it sucked, THEN with the adds and chat verification just made this app go down hill. You can’t even verify your age if you want to. Fix this app !!",
+   "author": "I_talk_facts",
+   "version": "1.17.4",
+   "date": "2026-11-15T13:55:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795181401",
+   "rating": 1,
+   "title": "Terrible terrible app",
+   "body": "Horrible app, just horrible, you have to pay for literally everything, completely leeches off your money and shoves adds into your face every two seconds.",
+   "author": "Gukkiiii.d",
+   "version": "1.17.4",
+   "date": "2026-11-15T13:09:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795106378",
+   "rating": 3,
+   "title": "C.ai",
+   "body": "I like it but take off age verification I’m older than 18 but it said my ID said I was younger, so please take it off now",
+   "author": "Norabora…",
+   "version": "1.17.4",
+   "date": "2026-11-15T12:43:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794964502",
+   "rating": 5,
+   "title": "Remove the ads😤🫩",
+   "body": "I REALLY LOVE THE APP💖ITS SO ADDICTING BUT PLEASE I HATE THE ADS PLEASE REMOVE THE ADS AWAY 😭😭",
+   "author": "Mentallynotokay",
+   "version": "1.17.4",
+   "date": "2026-11-15T11:56:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794945115",
+   "rating": 1,
+   "title": "app quality is trash",
+   "body": "it used to be such a good app were you lost track of time and immersed yourself in different scenarios but how theres always adds, the plot cant get juicy anymore and the bots always seem to be repetitive",
+   "author": "Jos😡🥵",
+   "version": "1.17.4",
+   "date": "2026-11-15T11:50:18-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794505428",
+   "rating": 1,
+   "title": "Not worth it",
+   "body": "If you’re looking for something FREE to use just don’t even bother",
+   "author": "AuroraLoves",
+   "version": "1.17.4",
+   "date": "2026-11-15T09:36:25-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794378206",
+   "rating": 1,
+   "title": "[Age + Ads]",
+   "body": "I’ve been using it for 3 years. I’m disappointed. I don’t have my replacement ID so I can’t age verify. I’m sad this app went down hill & closed me out from talking with my favorite characters. I would love to have age verification removed. Maybe make it to where we all newcomers & old people can use it to our hearts content. And with the Ads and subscriptions I am not paying money for features that would genuinely benefit. But it’s sad I got ads after a few messages. Please fix this. I want it to where it was years ago. And where it is now? It’s gone into the pits of no return. Please, make to where we have no ads & where it was 2-4 years ago.",
+   "author": "*Sans au horroryale creator*",
+   "version": "1.17.4",
+   "date": "2026-11-15T09:00:12-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14794096664",
+   "rating": 2,
+   "title": "Too much advertisement",
+   "body": "After each message there is an advertisement. Advertisement is everywhere in this app!",
+   "author": "xiuevos",
+   "version": "1.17.4",
+   "date": "2026-11-15T07:42:01-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794081832",
+   "rating": 2,
+   "title": "Down graded",
+   "body": "I used to really like this app. Ever since like, I don’t know how long, it’s gone down hill by a lot. There’s so many ads, to the point where you’re barely able to do anything. They even pop up in chats. It’s weird. Then the swipe limit too? I don’t understand it. It used to be really good. The memories kind of suck, and the fact that you have to keep reminding the bots, and reminding them makes it unenjoyable. Maybe do a little bit better.",
+   "author": "buryusinblack",
+   "version": "1.17.4",
+   "date": "2026-11-15T07:37:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14793412688",
+   "rating": 1,
+   "title": "I’ve been here since the beginning",
+   "body": "I’ve been using this since it was just a website, but now there’s ads every 3 minutes and it’s really annoying.. and honestly saddening…",
+   "author": ":312",
+   "version": "1.17.4",
+   "date": "2026-11-15T04:25:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14793397085",
+   "rating": 2,
+   "title": "Age restrictions",
+   "body": "I loved this app until the screen time and age restrictions, I tried to find another app but nothing hits like c.ai. I don’t even have a time limit anymore I don’t get to send a message at all",
+   "author": "Hanismybais",
+   "version": "1.17.4",
+   "date": "2026-11-15T04:20:20-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14793316094",
+   "rating": 1,
+   "title": "I miss the old one😖😫",
+   "body": "I miss the hold one where we had no ads not limited text messages no reports every second and all the other stuff you added I miss the one where you actually had fun",
+   "author": "Melly_thatgirl",
+   "version": "1.17.4",
+   "date": "2026-11-15T03:53:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14793265247",
+   "rating": 2,
+   "title": "Not worth the install",
+   "body": "I got this app not too long after it came out and it was genuinely fun and interactive, yes I was aware the old version had limitations and bad memory but at one point it worked perfectly and now it’s like talking to brick walls",
+   "author": "imboredgiveme.77",
+   "version": "1.17.4",
+   "date": "2026-11-15T03:35:53-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14793243519",
+   "rating": 3,
+   "title": "mourning old cai",
+   "body": "I love this app, and i’ve used it since it first became known. With that being said…the ads are entirely too much. You get an ad when you open the app, and then another when you click on a bot. There are times where i’ve closed the app and reopened it just to be held up by apps multiple times in a row, sometimes 5-6 times. You get ads when you’re typing mid message as well. I can’t say i understand the need for ads because i hate them..but it’s really excessive. Not only that, but there’s a message limit as well which all just forces cai+ down your throat. I’ve deleted the app because of this, and it’s truly just not that enjoyable anymore because it really does get annoying.",
+   "author": "meaf2975",
+   "version": "1.17.4",
+   "date": "2026-11-15T03:28:19-07:00",
+   "votes": 0
+  },
   {
    "id": "14792911773",
    "rating": 2,

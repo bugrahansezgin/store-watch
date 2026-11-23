@@ -1,39 +1,127 @@
 {
  "stats": {
-  "total": 38,
-  "avg": 3.87,
+  "total": 46,
+  "avg": 3.85,
   "dist": {
-   "1": 6,
-   "2": 2,
-   "3": 4,
-   "4": 5,
-   "5": 21
+   "1": 7,
+   "2": 3,
+   "3": 5,
+   "4": 6,
+   "5": 25
   },
   "d7": {
-   "count": 1,
-   "avg": 5.0,
+   "count": 6,
+   "avg": 3.67,
    "dist": {
-    "1": 0,
-    "2": 0,
+    "1": 1,
+    "2": 1,
     "3": 0,
-    "4": 0,
-    "5": 1
+    "4": 1,
+    "5": 3
    }
   },
   "d30": {
-   "count": 13,
-   "avg": 3.54,
+   "count": 16,
+   "avg": 3.62,
    "dist": {
     "1": 3,
-    "2": 0,
+    "2": 1,
     "3": 3,
     "4": 1,
-    "5": 6
+    "5": 8
    }
   },
-  "updatedAt": "2026-11-16T13:37:34+00:00"
+  "updatedAt": "2026-11-23T15:56:50+00:00"
  },
  "reviews": [
+  {
+   "id": "44677100-db96-44e0-96e8-e1113e680621",
+   "rating": 4,
+   "title": "",
+   "body": "I'm okay with limit post or dm, but I really wish I can reply to all of their comments freely without limit😔 but overall it's good and the character AI is like a real human",
+   "author": "Annisa Tiara Arthamevira Nasution",
+   "version": "0.2.2611191",
+   "date": "2026-11-22T11:57:25+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7e01949d-7c2f-4686-b5cc-d4b0cfeca3f2",
+   "rating": 5,
+   "title": "",
+   "body": "YEAAAAAAAAHHHHHHHHHHHH SOOO GOODDD!!! could you add the ability to add music and location?? this app would be boom!! I LOVEE IT SOO MUCHHH AND IT'S SOO CHEAPP HOPE IT GETS MORE DOWNLOAD! ✨⛓️‍💥🙌🏼",
+   "author": "Brigette Ora",
+   "version": "0.2.2611191",
+   "date": "2026-11-21T14:22:16+00:00",
+   "votes": 1,
+   "reply": "Thank you for the 5 stars and the huge energy, I’m so glad you’re loving Charm! Music and location would be fun additions and are current feature requests in the app. Be sure to upvote there as that's the best way I know what people want next."
+  },
+  {
+   "id": "b6454792-7c68-477b-844e-6ccfb7ce770b",
+   "rating": 5,
+   "title": "",
+   "body": "funny lol",
+   "author": "Isaac Reyesrivas",
+   "version": "0.2.2611191",
+   "date": "2026-11-20T06:39:58+00:00",
+   "votes": 0,
+   "reply": "I’m glad Charm mades you laugh, hehe, thanks for the 5 stars!"
+  },
+  {
+   "id": "b0a7c13e-d9a7-4b07-91c8-d67c552ad941",
+   "rating": 2,
+   "title": "",
+   "body": "The one day posting is very annoying, I get it being limited why only once takes away from the enjoyment.",
+   "author": "Jynx",
+   "version": "0.2.2611090",
+   "date": "2026-11-17T05:29:31+00:00",
+   "votes": 1,
+   "reply": "I'm sorry it feels so annoying and if I could I would remove it. It's just that Pro and the free limit help cover the cost of running Charm, but I'm always keeping an eye out for how to make free better too. Thank you for the feedback!"
+  },
+  {
+   "id": "bf36126e-5632-4d7e-9564-88767d37ccd8",
+   "rating": 1,
+   "title": "",
+   "body": "This app misgenders women.",
+   "author": "Danielle",
+   "version": "0.2.2611090",
+   "date": "2026-11-17T03:56:38+00:00",
+   "votes": 0,
+   "reply": "I’m sorry Charm got that wrong. This sounds like an AI quality issue, and I’ll keep working to make characters handle gender more reliably. If you can share more detail at hello@joincharmsocial.com, I can look into what happened."
+  },
+  {
+   "id": "9f1f3027-5769-4bf1-abc2-81a4bd60abda",
+   "rating": 5,
+   "title": "",
+   "body": "love the app and the memory but is there any way to get image generation costs down? especially for pro members? like 100 gold a picture is brutal!",
+   "author": "thomas gallagher",
+   "version": "0.2.2611090",
+   "date": "2026-11-17T01:26:25+00:00",
+   "votes": 1,
+   "reply": "Thank you for the 5 stars, and I’m really glad you love the app and the memory. I 100% want to find a way to offer better gold pricing for Pro members. I'm still running a lot of image model tests, so I don't know exactly what the costs/price will be long term, but this is on my radar!"
+  },
+  {
+   "id": "f490f546-239d-4410-8a5d-f8cb23e1ca70",
+   "rating": 5,
+   "title": "",
+   "body": "I honestly 10/10, you have a lot of fun, and it's like being an influencer, but without the pressure of actual real people, Love the app!! 💕💕💕",
+   "author": "Aasia Guda",
+   "version": "0.2.2611090",
+   "date": "2026-11-16T12:57:37+00:00",
+   "votes": 1,
+   "reply": "Yay I'm so glad you can feel like an influencer without the pressure! Thank you for the 5 stars and I’m so happy Charm feels fun in exactly that way. Thanks for the review!"
+  },
+  {
+   "id": "b147e564-1749-4bf0-baa0-ddf01c4c687d",
+   "rating": 3,
+   "title": "",
+   "body": "remove the pro subscription to post videos and photos",
+   "author": "Lia Ashley",
+   "version": "0.2.2611090",
+   "date": "2026-11-16T05:09:07+00:00",
+   "votes": 1,
+   "reply": "You can cancel your subscription through Google Play, since the store manages it. Open the Play Store, tap your profile icon, then Payments & subscriptions, Subscriptions, Charm, and Cancel subscription. I hope that gets it sorted quickly."
+  },
   {
    "id": "377f506a-7b9f-4220-9ce7-3e449279e9d5",
    "rating": 5,

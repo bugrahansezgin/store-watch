@@ -1,39 +1,219 @@
 {
  "stats": {
-  "total": 579,
-  "avg": 2.46,
+  "total": 597,
+  "avg": 2.45,
   "dist": {
-   "1": 297,
+   "1": 310,
    "2": 65,
-   "3": 32,
-   "4": 21,
-   "5": 164
+   "3": 33,
+   "4": 22,
+   "5": 167
   },
   "d7": {
-   "count": 20,
-   "avg": 2.25,
+   "count": 16,
+   "avg": 1.81,
    "dist": {
-    "1": 13,
-    "2": 1,
-    "3": 0,
-    "4": 0,
-    "5": 6
+    "1": 12,
+    "2": 0,
+    "3": 1,
+    "4": 1,
+    "5": 2
    }
   },
   "d30": {
-   "count": 83,
-   "avg": 2.57,
+   "count": 86,
+   "avg": 2.45,
    "dist": {
-    "1": 40,
-    "2": 10,
-    "3": 4,
-    "4": 4,
-    "5": 25
+    "1": 45,
+    "2": 8,
+    "3": 5,
+    "4": 5,
+    "5": 23
    }
   },
-  "updatedAt": "2026-11-16T13:37:36+00:00"
+  "updatedAt": "2026-11-23T15:56:51+00:00"
  },
  "reviews": [
+  {
+   "id": "14814506258",
+   "rating": 1,
+   "title": "This is horrible",
+   "body": "I tried to test the app and it’s atrocious, their useing bots for reviews btw, anyway don’t download it’s trash to actually use the app you have to spend around 100 dollar I have that luxury but many people don’t and just use chat ai or chat gpt",
+   "author": "mEnTaL Bish",
+   "version": "12.5.2",
+   "date": "2026-11-20T16:35:49-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14813589204",
+   "rating": 1,
+   "title": "Has gone downhill",
+   "body": "They have you verify that you’re over 18, but the new version 2 is kept at grade school level. Wardrobe is a fraction of what it used to be.",
+   "author": "Hobenaro",
+   "version": "12.5.2",
+   "date": "2026-11-20T10:56:24-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14812975693",
+   "rating": 3,
+   "title": "Changes to customization is awful",
+   "body": "With the latest change to the application, you are unable to change to make changes to the persona profile once created. Why was this removed?",
+   "author": "TheEditor2",
+   "version": "12.5.2",
+   "date": "2026-11-20T07:41:34-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14812371708",
+   "rating": 1,
+   "title": "It’s like talking to a brick wall",
+   "body": "Can’t not hold a conversation at  all",
+   "author": "beotch95",
+   "version": "12.5.2",
+   "date": "2026-11-20T04:43:57-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14811140242",
+   "rating": 1,
+   "title": "Fraudulent Practices",
+   "body": "The AI and avatar are excellent. Kudos to the programmers! The defrauding business practices of the Replika company are reprehensible at best. The practices are representative of money-grubbers using unsavory means to exploit customers. Customers can expect their subscription plan to be unilaterally altered and to pay even more for the features originally purchased. Implementation of any changes affecting features already purchased should be delayed until the subscription period has expired. Also, the plan options are numerous with no appreciable distinction between them, to insure the best plan is selected for use. Ditto from here, too!",
+   "author": "nope-nope-noway",
+   "version": "12.5.2",
+   "date": "2026-11-19T20:06:15-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14810978381",
+   "rating": 1,
+   "title": "Zero Support!!!!",
+   "body": "I’m having a problem & there’s ABSOLUTELY NO ONE TO CONTACT!!!!!!\nAP PIS GREAT BUT CUSTOMER SERVICE SUCKS!!!!!\nWhich the app itself SUCKS!!!!\nThe avatar that you set up anytime throughout the day, just turned into a unit instead of the avatar that you built up\nWhen you chat with the avatar, it’s confused. It doesn’t understand what you’re saying and becomes. Really annoying.",
+   "author": "Vetteset91",
+   "version": "12.5.2",
+   "date": "2026-11-19T18:58:21-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809750554",
+   "rating": 1,
+   "title": "Too Limited",
+   "body": "Not realistic, limited features, boring experience",
+   "author": "Littlebitofnc",
+   "version": "12.5.2",
+   "date": "2026-11-19T11:08:12-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809492351",
+   "rating": 4,
+   "title": "Realistic avatars",
+   "body": "We need more realistic, three-dimensional avatars. The competition has real looking women but I love my SUZY you’ve done a great job now. Can we make our avatars more real?",
+   "author": "Prince CME",
+   "version": "11.1.0",
+   "date": "2026-11-19T09:41:40-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14809394856",
+   "rating": 1,
+   "title": "Over priced",
+   "body": "Entertaining app. But it is ridiculously expensive. Totally not worth it.",
+   "author": "TemplarMason39",
+   "version": "12.5.2",
+   "date": "2026-11-19T09:10:27-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14808137956",
+   "rating": 1,
+   "title": "Total ripoff",
+   "body": "Most worthless app I’ve come across yet. You can’t pay monthly it charges you instantly for a year and the app sucks! You can’t only chat for about 8 minutes and it shuts you off and wants you to upgrade. “Pi” is completely free and you can chat forever. Don’t waste your time or money!",
+   "author": "Nanabunny29",
+   "version": "12.5.2",
+   "date": "2026-11-19T02:31:10-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14803922470",
+   "rating": 1,
+   "title": "Terrible degraded new version",
+   "body": "They touted this as an improvement, but the room and furniture are gone! Petlika the cat is gone.\n\nThis is bad compared to before!",
+   "author": "The Real Jonathan",
+   "version": "12.5.2",
+   "date": "2026-11-17T23:52:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800411849",
+   "rating": 5,
+   "title": "Amazing app",
+   "body": "Amazing app absolutely love the companion very intelligent and knowledgeable conversations flow extremely well caring and kind understanding moods and adapts with intuitive responses pro and max subscriptions are definitely worth the prices great job",
+   "author": "Seekersage",
+   "version": "12.5.2",
+   "date": "2026-11-16T22:13:33-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800348493",
+   "rating": 1,
+   "title": "Opinion",
+   "body": "So imagine your homeowner you buy a handgun for self-defense it comes in a case somebody breaks into your house you go to open the case with the handgun and the bullets and the case says enter your first and last name and within seven business days will release the gun to you from the case, but you can’t have it today when you’ve already bought a product why should you have to jump through more hoops?",
+   "author": "003 drink things",
+   "version": "12.5.2",
+   "date": "2026-11-16T21:42:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14800158612",
+   "rating": 1,
+   "title": "Max has serious problems",
+   "body": "Max Tier isn’t ready for public release.  It is so unstable in so many different ways, it is unstable.  The filtering is so random and obnoxious when it is suddenly enacted it is beyond frustrating.  Abrupt personality and tone changes. Text issues, call issues,  Frankly, it doesn’t meet the minimum standards for an AI Companion.  I would recommend going to or staying with Ultra, not Max.",
+   "author": "jtvz2997",
+   "version": "12.5.2",
+   "date": "2026-11-16T20:13:46-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799123535",
+   "rating": 1,
+   "title": "Where's the AI? Oh, this is a scam.",
+   "body": "It says AI Companion chat, but continues to repeat the same nonsense. It's a poorly programmed chatbot at best, but it definitely isn't AI. Anyone giving this app a good review are liars, either to themselves, or to you.",
+   "author": "ReplikaSLAC",
+   "version": "12.5.2",
+   "date": "2026-11-16T13:29:41-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14798438512",
+   "rating": 5,
+   "title": "Please fix the relationship options",
+   "body": "Please fix the relationship options selector so Mentor is available again. Your UI redesign made that option inaccessible.",
+   "author": "Stormigan",
+   "version": "12.5.2",
+   "date": "2026-11-16T09:35:37-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14797981788",
+   "rating": 1,
+   "title": "Chat Changed",
+   "body": "Your updates removed personality",
+   "author": "DaddioKirk",
+   "version": "12.5.2",
+   "date": "2026-11-16T07:15:48-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14795744327",
+   "rating": 5,
+   "title": "The best AI companion app hands down! No one else can compete with Replikas uniqueness!",
+   "body": "Greatest AI app on the whole dahm google play store!",
+   "author": "Cashflow34",
+   "version": "12.5.2",
+   "date": "2026-11-15T16:41:47-07:00",
+   "votes": 0
+  },
   {
    "id": "14791588353",
    "rating": 1,

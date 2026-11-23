@@ -1,39 +1,119 @@
 {
  "stats": {
-  "total": 546,
-  "avg": 2.83,
+  "total": 554,
+  "avg": 2.84,
   "dist": {
-   "1": 156,
-   "2": 81,
-   "3": 113,
-   "4": 90,
-   "5": 106
+   "1": 158,
+   "2": 82,
+   "3": 114,
+   "4": 91,
+   "5": 109
   },
   "d7": {
-   "count": 8,
-   "avg": 4.25,
+   "count": 5,
+   "avg": 3.8,
    "dist": {
     "1": 0,
     "2": 1,
-    "3": 0,
-    "4": 3,
-    "5": 4
+    "3": 1,
+    "4": 1,
+    "5": 2
    }
   },
   "d30": {
    "count": 31,
-   "avg": 3.32,
+   "avg": 3.58,
    "dist": {
-    "1": 6,
-    "2": 4,
-    "3": 5,
-    "4": 6,
-    "5": 10
+    "1": 4,
+    "2": 5,
+    "3": 3,
+    "4": 7,
+    "5": 12
    }
   },
-  "updatedAt": "2026-11-16T13:37:10+00:00"
+  "updatedAt": "2026-11-23T15:56:31+00:00"
  },
  "reviews": [
+  {
+   "id": "14818797384",
+   "rating": 5,
+   "title": "I love it but only wish",
+   "body": "I love this app so much but I wish it was limited can you maybe like fix that?",
+   "author": "Sourapplelover",
+   "version": "1.121",
+   "date": "2026-11-21T17:51:19-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14812737967",
+   "rating": 5,
+   "title": "great app",
+   "body": "really great app! I'm very happy to be able to chat with my favourite characters about same daily routine. even bought subscription, thanks so much for this app, it helps me to feel not alone",
+   "author": "шикамери варден",
+   "version": "1.121",
+   "date": "2026-11-20T06:31:50-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14807571249",
+   "rating": 4,
+   "title": "Good but can be better",
+   "body": "I have one request. I would like to have 3-5 free posts a day, I think that’s more fair.",
+   "author": "Mariee.22300",
+   "version": "1.121",
+   "date": "2026-11-18T22:15:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14807232699",
+   "rating": 3,
+   "title": "Fun but needs more layering",
+   "body": "I really enjoy the concept of this app, but I think one area that could be improved is the AI characters’ awareness of their relationships with the user. Characters should have a stronger sense of your shared history, previous interactions, and the nature of your relationship with them. For example, a close friend, romantic partner, or family member should interact with you differently than someone you’ve just met. Their responses should reflect the level of familiarity, emotional connection, and experiences you’ve built together. This would make conversations feel much more natural, immersive, and realistic rather than having characters sometimes respond as though they barely know you.",
+   "author": "Kiwiforever",
+   "version": "1.121",
+   "date": "2026-11-18T19:39:17-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14799556572",
+   "rating": 2,
+   "title": "Think you got it backwards, bud!",
+   "body": "If I was going to create an app that mixes AI and social media, I would make something like Roblox or Second Life: A multiplayer open world, where players could create venues, objects, and characters using AI, then share/sell them with other users. That’s what the Metaverse was supposed to be; that’s what Enjoy Town is, even if it’s buggy.\n\nSomething like this tho? I don’t see the point. The appeal of social media is that it gamifies a popularity contest and watching your follower count go up gives you dopamine because the number signifies approval from your peers. By contrast, the appeal of chatbots is that players can do whatever they want, privately, with no consequences. These things don’t go together. A large follower count is meaningless without other users, and “being an influencer” is a very mundane fantasy that I don’t need AI to simulate.\n\nAnd then I ran out of points because the free trial is totally stingy. And also I spent gold to have one of my bots write a post and nothing happened.",
+   "author": "666Annie666",
+   "version": "1.121",
+   "date": "2026-11-16T16:15:58-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794573528",
+   "rating": 1,
+   "title": "It’s okay",
+   "body": "It just sucks we gotta pay to have all access",
+   "author": "Nayelir2",
+   "version": "1.121",
+   "date": "2026-11-15T09:56:11-07:00",
+   "votes": 0
+  },
+  {
+   "id": "14794366563",
+   "rating": 1,
+   "title": "a warning",
+   "body": "if you think you’re even remotely prone to psychosis, don’t get this app. as far as i can tell, the ai models are specifically trained to not identify themselves as ai, and to think they’re on instagram\nthis feels very dangerous and malicious to me because even if you say directly that they are ai they will deny it and basically act like you’re stupid/crazy\ni had been checking out this app to see if it was as bad a concept as the ads made it seem\nit is\nthis is going to kill someone, i know it\ndon’t do it",
+   "author": "EpsilonTotodile",
+   "version": "1.121",
+   "date": "2026-11-15T08:56:53-07:00",
+   "votes": 1
+  },
+  {
+   "id": "14793373258",
+   "rating": 5,
+   "title": "Money",
+   "body": "I love this app so much but the money is insane like dude if this app we could use without the subscription would be amazing and one of the best ai actually it will be the best ai it’s to expensive for me",
+   "author": "Fix the wheel",
+   "version": "1.121",
+   "date": "2026-11-15T04:12:33-07:00",
+   "votes": 0
+  },
   {
    "id": "14791010274",
    "rating": 5,

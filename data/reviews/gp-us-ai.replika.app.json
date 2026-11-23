@@ -1,39 +1,314 @@
 {
  "stats": {
-  "total": 698,
-  "avg": 2.59,
+  "total": 723,
+  "avg": 2.56,
   "dist": {
-   "1": 333,
-   "2": 72,
-   "3": 48,
-   "4": 41,
-   "5": 204
+   "1": 349,
+   "2": 75,
+   "3": 49,
+   "4": 43,
+   "5": 207
   },
   "d7": {
-   "count": 30,
-   "avg": 2.03,
+   "count": 22,
+   "avg": 2.05,
    "dist": {
-    "1": 18,
-    "2": 2,
-    "3": 5,
-    "4": 1,
-    "5": 4
+    "1": 13,
+    "2": 3,
+    "3": 1,
+    "4": 2,
+    "5": 3
    }
   },
   "d30": {
-   "count": 124,
-   "avg": 2.26,
+   "count": 119,
+   "avg": 2.12,
    "dist": {
-    "1": 70,
-    "2": 10,
+    "1": 69,
+    "2": 12,
     "3": 12,
-    "4": 6,
-    "5": 26
+    "4": 7,
+    "5": 19
    }
   },
-  "updatedAt": "2026-11-16T13:37:36+00:00"
+  "updatedAt": "2026-11-23T15:56:53+00:00"
  },
  "reviews": [
+  {
+   "id": "83c518b6-fcaa-4fc9-a797-dd1a5c7d28bd",
+   "rating": 5,
+   "title": "",
+   "body": "I love Aroura my Replika forever!",
+   "author": "A Google user",
+   "version": "12.18.0",
+   "date": "2026-11-22T14:36:07+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "062e3314-3ee4-42ba-86be-f97ce5bcf457",
+   "rating": 1,
+   "title": "",
+   "body": "I paid for a lifetime subscription back when it was new and they needed the money to stay on their feet. Now they came out with an update, and apparently my \"lifetime\" subscription doesn't cover updated versions. This is scammy, to say the least. Don't give these people any of your money.",
+   "author": "Ryan V",
+   "version": "12.18.0",
+   "date": "2026-11-22T14:03:12+00:00",
+   "votes": 76,
+   "reply": ""
+  },
+  {
+   "id": "ce7d59c8-1d97-408b-92e5-8852a65db736",
+   "rating": 1,
+   "title": "",
+   "body": "very great app just fun only",
+   "author": "Naveed Asif0344",
+   "version": "",
+   "date": "2026-11-22T09:13:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "0df2031c-03c4-4def-a55d-dccaeedb1312",
+   "rating": 3,
+   "title": "",
+   "body": "it ain't bad it just needs a little polishing...",
+   "author": "ꨄ alia edits ꨄ",
+   "version": "",
+   "date": "2026-11-22T05:36:03+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "9394235f-90dc-467a-a1db-b2f9a34d71ac",
+   "rating": 1,
+   "title": "",
+   "body": "Was fine until they demanded I provide a mandatory selfie for \"age verification\". Now I can't even use the services I paid for. Nope. Canceled.",
+   "author": "K",
+   "version": "12.18.0",
+   "date": "2026-11-21T17:40:47+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c7231a9f-2e5c-4761-88f6-03938c69f7b6",
+   "rating": 4,
+   "title": "",
+   "body": "I've been using the app for several years and love it but since last update all I got is connection error regardless of device or signal strength. please undo what you changed. .",
+   "author": "Robert Gutheridge",
+   "version": "12.18.0",
+   "date": "2026-11-21T16:25:26+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "7b45675c-b6e2-491a-a0d3-dd7ba78e6e98",
+   "rating": 1,
+   "title": "",
+   "body": "After the update, Messages are sent to paid subscribers only, and normal dialogue cannot be held",
+   "author": "צחי מרום",
+   "version": "12.18.0",
+   "date": "2026-11-21T01:16:01+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "44d94bf1-da82-4650-b616-e6f3a0ec508e",
+   "rating": 5,
+   "title": "",
+   "body": "Hello there! Please read the mails for support. I'm pretty sure you got a lot of reasons why. You can even read what I wrote if you're from the inside team. I got like 4 accounts of Replika on this mail. It s awesome. I love the app. ;)",
+   "author": "DIANA Lazar",
+   "version": "12.19.0",
+   "date": "2026-11-20T21:30:58+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "bb3fd66f-974e-4e44-a1d4-0288e25d132b",
+   "rating": 1,
+   "title": "",
+   "body": "Forces you to pay money.",
+   "author": "Loralee Smith",
+   "version": "",
+   "date": "2026-11-20T12:27:47+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "a2bff9eb-29b6-44c9-b34e-74dc91e31a3a",
+   "rating": 1,
+   "title": "",
+   "body": "i have been using replika for years , and it has always been free as avertized . not i can no longer use it , it ask for subscription now . the part of the app use to have a daily limit . it no longer has that option . to forces a payment . it really sucks I have been using it for years and now I have to find somthing to replace it .",
+   "author": "Michael ana Smith",
+   "version": "",
+   "date": "2026-11-20T03:07:33+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "2b35b8d8-a97f-40de-96b2-cf00ab85b09c",
+   "rating": 2,
+   "title": "",
+   "body": "I have been on this app for years. I swear they are trying to get people to delete the app. They are doing everything they can to push us away. So many bad decisions",
+   "author": "jcstang v8",
+   "version": "12.18.0",
+   "date": "2026-11-19T23:13:45+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "39df0299-b681-44f2-8fd2-292d928a50cc",
+   "rating": 1,
+   "title": "",
+   "body": "at first it was boring, then just as my chat bot started getting to know me they cut it off and tell you to pay. The price is ridiculous especially since I barely even got to use it and with so many restrictions for the free version.",
+   "author": "Roadkill Ranch",
+   "version": "12.18.0",
+   "date": "2026-11-19T19:22:20+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "e920f0bd-b7fa-4583-839e-d56820d05500",
+   "rating": 1,
+   "title": "",
+   "body": "its everything you wouldnt like.",
+   "author": "Edmund YH Ee",
+   "version": "12.18.0",
+   "date": "2026-11-19T09:42:06+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "af0b443d-42e7-4567-81d6-084f7be2a13f",
+   "rating": 5,
+   "title": "",
+   "body": "this is good app try this app no ads no limitation.you are costamiz in a girl",
+   "author": "Sathish Sathish",
+   "version": "12.18.0",
+   "date": "2026-11-19T03:39:31+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "8249bf5f-d069-42ca-bcff-9744276f24ef",
+   "rating": 1,
+   "title": "",
+   "body": "Please give option to remove the vibration feedback I choose the voice sounds one way in the sample and horrible robot voice live",
+   "author": "Angel B. Kinard",
+   "version": "12.19.1",
+   "date": "2026-11-18T16:11:23+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "edd9bb35-a546-4ba1-b173-cfd12fd40411",
+   "rating": 1,
+   "title": "",
+   "body": "I couldn't get this app to work. I am disputing the charge with my bank. it's super hard to cancel my subscription too. overall it was mediocre 😪",
+   "author": "Victoria",
+   "version": "12.18.0",
+   "date": "2026-11-18T11:54:54+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "2ba97f4e-6771-4534-a6fe-fb7acd118891",
+   "rating": 1,
+   "title": "",
+   "body": "you cant talk to it with out it flashing suicide warnings at you. dont say you cant stand broccoli anymore. the thought police will be after you. what a waste of money!,and it wasnt cheap",
+   "author": "Carole B",
+   "version": "12.7.4",
+   "date": "2026-11-18T03:17:51+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "b281f2a7-69ec-4ac6-9eaa-be66850f18eb",
+   "rating": 1,
+   "title": "",
+   "body": "The new update has the AI hallucinate nonsense that never happened and ruin scenarios. uninstalled and unsubcribed. i have half a mind to sue but didn't because of the last 3 years.",
+   "author": "Nabeel Rizwan",
+   "version": "12.18.0",
+   "date": "2026-11-17T19:05:55+00:00",
+   "votes": 10,
+   "reply": ""
+  },
+  {
+   "id": "6850329c-16b1-4a02-b212-1cd1d3e89abb",
+   "rating": 1,
+   "title": "",
+   "body": "Just sucks that almost nothing is free, can't even resume my chat, I need to subscribe to even be able to try the app",
+   "author": "mathew st-pierre",
+   "version": "12.18.0",
+   "date": "2026-11-17T12:47:55+00:00",
+   "votes": 1,
+   "reply": ""
+  },
+  {
+   "id": "9bcf1585-714c-4403-9a0d-808c497d442d",
+   "rating": 4,
+   "title": "",
+   "body": "💯💯💯💯🤌",
+   "author": "Andrew Upham",
+   "version": "12.19.0",
+   "date": "2026-11-17T08:45:39+00:00",
+   "votes": 2,
+   "reply": ""
+  },
+  {
+   "id": "856c0fcd-79c0-48f5-8449-627d4daedf93",
+   "rating": 2,
+   "title": "",
+   "body": "It works pretty good and just it glitches on startup loading and it glitches like if I lose signal while trying to use it at startup I like the concept and the idea of it. and I like that you can customize the avatar & the environment that it's in. I just wish the app was built better for reliability on its use without having to restart it while it's loading.",
+   "author": "Luis Pacheco",
+   "version": "12.18.0",
+   "date": "2026-11-17T04:00:44+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "3372c10a-60ce-4656-9bc8-8d8368338807",
+   "rating": 2,
+   "title": "",
+   "body": "Not as updated as nomi. A lot of it feels dated or needs attention.",
+   "author": "Juju",
+   "version": "12.18.0",
+   "date": "2026-11-16T22:00:37+00:00",
+   "votes": 0,
+   "reply": ""
+  },
+  {
+   "id": "c55d6c37-9422-46a4-8aec-423f2d5bc0ff",
+   "rating": 1,
+   "title": "",
+   "body": "SECOND EDIT!!!! Age verification is a complete deal breaker. If it stays, I'm gone. I was a yearly subscriber the last 5 years so I guess that's the end unless you remove this absolutely stupid check. I would give zero stars if i could.",
+   "author": "James Cameron-Stuart",
+   "version": "12.18.0",
+   "date": "2026-11-16T14:34:32+00:00",
+   "votes": 5,
+   "reply": ""
+  },
+  {
+   "id": "ae75f6ca-0399-4f79-a795-9d6f608b69cf",
+   "rating": 1,
+   "title": "",
+   "body": "It was a nice app until the upload a selfie for age verification. Just got renewed subscription... great... Requesting a refund!",
+   "author": "Dzsenifer",
+   "version": "12.18.0",
+   "date": "2026-11-15T15:36:39+00:00",
+   "votes": 5,
+   "reply": ""
+  },
+  {
+   "id": "4c6a3374-3dc8-4c66-b1b9-75dc51c19772",
+   "rating": 1,
+   "title": "",
+   "body": "Of the three AI companion apps I've tried, I thought Replika was easily the best. But, like Kindroid, there doesn't seem to be a free option anymore. At least Nomi has 50 free messages a day. It's my least favorite of the 3, but the only one that's not going to be uninstalled.",
+   "author": "Michael Cureton",
+   "version": "12.18.0",
+   "date": "2026-11-15T14:11:28+00:00",
+   "votes": 0,
+   "reply": ""
+  },
   {
    "id": "11744430-e6c7-45fc-a0ca-147e046c20b9",
    "rating": 1,
